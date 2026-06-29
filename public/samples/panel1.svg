@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <rect width="600" height="800" fill="#e5e7eb"/>
+  <!-- Sky -->
+  <rect x="0" y="0" width="600" height="500" fill="#bfdbfe"/>
+  <!-- Ground -->
+  <rect x="0" y="500" width="600" height="300" fill="#84cc16"/>
+  <!-- Sun -->
+  <circle cx="500" cy="100" r="50" fill="#fbbf24"/>
+  <!-- Hero figure (simple) -->
+  <g transform="translate(150,350)">
+    <circle cx="50" cy="30" r="30" fill="#fde68a"/>
+    <rect x="30" y="60" width="40" height="80" fill="#1e3a8a"/>
+    <rect x="20" y="140" width="20" height="60" fill="#1f2937"/>
+    <rect x="60" y="140" width="20" height="60" fill="#1f2937"/>
+    <rect x="35" y="60" width="30" height="10" fill="#dc2626"/>
+  </g>
+  <!-- Speech bubble -->
+  <g>
+    <ellipse cx="430" cy="180" rx="150" ry="80" fill="white" stroke="#1f2937" stroke-width="3"/>
+    <polygon points="370,250 360,310 410,260" fill="white" stroke="#1f2937" stroke-width="3"/>
+    <text x="335" y="160" font-family="Comic Sans MS, sans-serif" font-size="28" fill="#1f2937">Hello!</text>
+    <text x="335" y="200" font-family="Comic Sans MS, sans-serif" font-size="28" fill="#1f2937">I am hero</text>
+  </g>
+  <!-- Bottom caption -->
+  <g>
+    <rect x="50" y="650" width="500" height="80" fill="white" stroke="#1f2937" stroke-width="2" rx="10"/>
+    <text x="80" y="700" font-family="Comic Sans MS, sans-serif" font-size="22" fill="#1f2937">The city needs me!</text>
+  </g>
+</svg>

@@ -1,0 +1,157 @@
+[manga-translator.ModelMangaOCR] prob: 0.9922326207160951 漫画：しばかめ fg: (249, 250, 248) bg: (249, 250, 248)
+[manga-translator.ModelMangaOCR] prob: 0.9022852182388306 ［［キャラクター版条：まるまい fg: (244, 243, 242) bg: (244, 243, 242)
+[manga-translator.ModelMangaOCR] prob: 0.8922014832496643 原作：ＩＶＺＯ fg: (243, 240, 237) bg: (243, 240, 237)
+[manga-translator.ModelMangaOCR] prob: 0.9998003244400026 かいこう fg: (230, 229, 227) bg: (230, 229, 227)
+[manga-translator.ModelMangaOCR] prob: 0.8866917490959167 第２０話、逆近 fg: (254, 253, 254) bg: (221, 220, 223)
+[manga-translator.ModelMangaOCR] prob: 0.9997693896293641 ここにいたのか fg: (3, 6, 1) bg: (3, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9984853863716127 少しでも fg: (200, 9, 89) bg: (200, 9, 89)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9968510866165162 今：行きます．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992234706878663 わかりました．． fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.989075005054474 姫様がお呼びだ fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9976317286491395 ミラージュさん fg: (0, 3, 0) bg: (0, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999319911003113 ランスロット君 fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9088761806488037 ＲＡＲＤＯＴＯＮＥＯＳ fg: (23, 19, 7) bg: (23, 19, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9927167892456056 実家ですが、Ｗｅｂｄｅｄｉｔｉｏｎｔｏｎｇｅを fg: (11, 6, 0) bg: (11, 6, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9902414083480835 Ｗｉｎｄｏｗｓｉｄｉａｔｃｏｎｔｉｃａｔｅに fg: (16, 6, 0) bg: (16, 6, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9505609273910522 そんなことは出てくるのでしょうか。 fg: (14, 7, 0) bg: (14, 7, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9579722881317139 １ fg: (241, 232, 244) bg: (241, 232, 244)
+[manga-translator.ModelMangaOCR] prob: 0.9372233152389526 ち最強へ駆け上がる fg: (245, 238, 238) bg: (245, 238, 238)
+[manga-translator.ModelMangaOCR] prob: 0.9129113554954529 俺だけ見えるステージ fg: (249, 245, 242) bg: (249, 245, 242)
+[manga-translator.ModelMangaOCR] prob: 0.7190110683441163 のして私の fg: (130, 10, 37) bg: (130, 10, 37)
+[manga-translator.ModelMangaOCR] prob: 0.9997891783714296 しばかめ fg: (16, 8, 4) bg: (16, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7612669467926025 原作ＫＡＺＵ fg: (71, 13, 35) bg: (71, 13, 35)
+[manga-translator.ModelMangaOCR] prob: 0.9833848476409913 キャラクター原案、まるのよい fg: (136, 21, 68) bg: (139, 31, 76)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.GoogleTranslator] 0: 少しでも => incluso un poco
+[manga-translator.GoogleTranslator] 1: 漫画：しばかめ［［キャラクター版条：まるまい => Manga: Shibakame [[Versión del personaje: Marumai]
+[manga-translator.GoogleTranslator] 2: 原作：ＩＶＺＯ => Obra original: IVZO
+[manga-translator.GoogleTranslator] 3: ここにいたのか => ¿Estabas aquí?
+[manga-translator.GoogleTranslator] 4: かいこう第２０話、逆近 => Kaikou episodio 20, Gyakuten
+[manga-translator.GoogleTranslator] 0: ランスロット君 => Lanzarote
+[manga-translator.GoogleTranslator] 1: 姫様がお呼びだ => la princesa esta llamando
+[manga-translator.GoogleTranslator] 2: ミラージュさん => Mirage-san
+[manga-translator.GoogleTranslator] 3: わかりました．． => Entendido. ．．
+[manga-translator.GoogleTranslator] 4: 今：行きます．．． => Vengo. ．． ．．
+[manga-translator.GoogleTranslator] 0: しばかめ => Shibakame
+[manga-translator.GoogleTranslator] 1: 原作ＫＡＺＵキャラクター原案、まるのよい => Diseño de personajes original de KAZU, Marunoyoi.
+[manga-translator.GoogleTranslator] 2: のして私の => mi
+[manga-translator.GoogleTranslator] 3: 俺だけ見えるステージ => Un escenario donde solo yo puedo ver
+[manga-translator.GoogleTranslator] 4: ち最強へ駆け上がる => Corre para convertirte en el más fuerte
+[manga-translator.GoogleTranslator] 5: そんなことは出てくるのでしょうか。 => ¿Sucederá algo así?
+[manga-translator.GoogleTranslator] 6: 実家ですが、ＷｅｂｄｅｄｉｔｉｏｎｔｏｎｇｅをＷｉｎｄｏｗｓｉｄｉａｔｃｏｎｔｉｃａｔｅに => En casa de mis padres, configuré Webdeditiontonge en Windowsidiatconticate.
+[manga-translator.GoogleTranslator] 7: ＲＡＲＤＯＴＯＮＥＯＳ => RARDOTONEOS
+[manga-translator.ModelMangaOCR] prob: 0.9999818205833435 姫様の隣は fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.997472643852234 俺よりミラージュさんの fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9984448552131654 方が．．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999912977218628 俺のような fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9028844237327576 咎人より fg: (0, 0, 2) bg: (0, 0, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996689558029176 もっと相応しい人は fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990828037261964 たくさんいる．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998982548713685 姫様の隣にいて fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9991307854652406 いいのかと．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999861717224122 俺は fg: (6, 4, 4) bg: (6, 4, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9992926120758058 たまに思うんです．．． fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999160766601564 浮かない顔を fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983559846878053 しているけど．．． fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997966289520265 そんな．．． fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999303162097931 いえ．．． fg: (3, 7, 1) bg: (3, 7, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992152452468873 どうした？ fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.999994456768036 そこに fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999606013298035 出来るか fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999717473983765 出来ないかは fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999873638153076 関係ないよ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999517798423768 だけど期待に fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999693632125856 応えたいなら fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998355507850648 全力で応えろ fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9985684752464296 俺は．．．！ fg: (4, 1, 0) bg: (4, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999641776084901 無理な期待は fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994454979896547 押しつけにしか fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999949038028717 ならないからね fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999856948852539 応えたくない期待なら fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.991403102874756 応えなければいいよ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999600112438202 ちが．．．っ！ fg: (5, 5, 0) bg: (5, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993799924850465 まぁ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9972987174987794 え．．．？ fg: (1, 7, 2) bg: (1, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9858646988868714 あれだ．．． fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995321035385133 それと君は．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9909922480583192 乙女心というものを fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9961570501327516 学んだほうがいいよ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999552369117737 僕も君に fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998499155044557 期待しているんだから fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999780058860779 頑張って fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8936123847961426 期待に応えたいです．．．！ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9871912002563478 俺．．． fg: (31, 31, 28) bg: (31, 31, 28)
+[manga-translator.ModelMangaOCR] prob: 0.9999886751174927 そうだよ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996521472930909 ミラージュさん．．． fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.GoogleTranslator] 0: どうした？ => ¿Que pasa?
+[manga-translator.GoogleTranslator] 1: 浮かない顔をしているけど．．． => Aunque no parece feliz. ．． ．．
+[manga-translator.GoogleTranslator] 2: いえ．．． => hogar. ．． ．．
+[manga-translator.GoogleTranslator] 3: そんな．．． => Eso es todo. ．． ．．
+[manga-translator.GoogleTranslator] 4: たまに思うんです．．． => A veces pienso en ello. ．． ．．
+[manga-translator.GoogleTranslator] 5: 俺は => yo soy
+[manga-translator.GoogleTranslator] 6: 姫様の隣にいていいのかと．． => Me pregunto si puedo quedarme al lado de la princesa. ．．
+[manga-translator.GoogleTranslator] 7: 俺のような咎人よりもっと相応しい人はたくさんいる．． => Hay muchas personas más merecedoras que un pecador como yo. ．．
+[manga-translator.GoogleTranslator] 8: 姫様の隣は俺よりミラージュさんの方が．．． => Mirage-san está al lado de la princesa y no yo. ．． ．．
+[manga-translator.GoogleTranslator] 0: ミラージュさん．．． => Señor Espejismo. ．． ．．
+[manga-translator.GoogleTranslator] 1: 俺．．． => I... ．．
+[manga-translator.GoogleTranslator] 2: 頑張って期待に応えたいです．．．！ => Haré todo lo posible para cumplir con sus expectativas. ．． ．． !
+[manga-translator.GoogleTranslator] 3: そうだよ => eso es correcto
+[manga-translator.GoogleTranslator] 4: 僕も君に期待しているんだから => Yo también tengo grandes esperanzas en ti
+[manga-translator.GoogleTranslator] 5: それと君は．． => Y tú... ．．
+[manga-translator.GoogleTranslator] 6: あれだ．．． => Eso es todo. ．． ．．
+[manga-translator.GoogleTranslator] 7: 乙女心というものを => ¿Cómo se llama el corazón de una niña?
+[manga-translator.GoogleTranslator] 8: 学んだほうがいいよ => será mejor que aprendas
+[manga-translator.GoogleTranslator] 9: え．．．？ => Eh. ．． ．． ?
+[manga-translator.ModelMangaOCR] prob: 0.9763216376304628 これより fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998691678047181 騎士の試練 fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998776316642762 クリア fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999684095382692 天地灰 fg: (7, 5, 2) bg: (7, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7760720252990723 まだ誰かの fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.6241583228111267 記憶．．． fg: (74, 71, 69) bg: (182, 182, 172)
+[manga-translator.ModelMangaOCR] prob: 0.9993133544921876 今のは．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.GoogleTranslator] 0: まぁ．．． => Bien. ．． ．．
+[manga-translator.GoogleTranslator] 1: 応えたくない期待なら => Si tienes expectativas que no quieres cumplir
+[manga-translator.GoogleTranslator] 2: 応えなければいいよ => no tienes que responder
+[manga-translator.GoogleTranslator] 3: 無理な期待は押しつけにしかならないからね => Las expectativas irrazonables sólo servirán como una imposición.
+[manga-translator.GoogleTranslator] 4: ちが．．．っ！ => No... ．． ¡Oh!
+[manga-translator.GoogleTranslator] 5: 俺は．．．！ => Soy. ．． ．． !
+[manga-translator.GoogleTranslator] 6: だけど期待に応えたいなら全力で応えろ => Pero si quieres cumplir con las expectativas, haz lo mejor que puedas.
+[manga-translator.GoogleTranslator] 7: そこに出来るか出来ないかは関係ないよ => No importa si puedes llegar allí o no.
+[manga-translator.GoogleTranslator] 0: 今のは．．． => El actual. ．． ．．
+[manga-translator.GoogleTranslator] 1: まだ誰かの記憶．．． => Todavía el recuerdo de alguien. ．． ．．
+[manga-translator.GoogleTranslator] 2: 天地灰 => ceniza del cielo y la tierra
+[manga-translator.GoogleTranslator] 3: 騎士の試練 => El juicio del caballero
+[manga-translator.GoogleTranslator] 4: クリア => claro
+[manga-translator.GoogleTranslator] 5: これより => De esto
+[manga-translator.ModelMangaOCR] prob: 0.7907424569129944 ！？ fg: (1, 4, 5) bg: (1, 4, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9996805787086488 授与いたします fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997336268424989 騎士の証を fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.GoogleTranslator] 0: 騎士の証を => prueba de título de caballero
+[manga-translator.GoogleTranslator] 1: 授与いたします => vamos a premiar
+[manga-translator.ModelMangaOCR] prob: 0.9942592382431031 あなたは．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.999442756175995 俺の名前．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992566108703614 天地灰様 fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999929070472717 そう呼ばれるのは fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995023012161256 何時ぶりかしら．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999844431877136 こうして fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999794960021974 お話するのは fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999446272850038 初めてですね fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997321963310243 ふふっ．．． fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9955644011497499 姫様．．．？ fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997888803482057 ひめさま fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.GoogleTranslator] Translating into Spanish
+[manga-translator.GoogleTranslator] 0: あなたは．．． => tú. ．． ．．
+[manga-translator.GoogleTranslator] 0: ひめさま姫様．．．？ => Princesa Himesama. ．． ．． ?
+[manga-translator.GoogleTranslator] 1: ふふっ．．． => Jeje. ．． ．．
+[manga-translator.GoogleTranslator] 2: そう呼ばれるのは何時ぶりかしら．． => ¿Cuánto tiempo ha pasado desde que me llamaron así? ．．
+[manga-translator.GoogleTranslator] 3: こうしてお話するのは初めてですね => Esta es la primera vez que hablo así.
+[manga-translator.GoogleTranslator] 4: 天地灰様 => Tenchihai-sama
+[manga-translator.GoogleTranslator] 5: 俺の名前．．． => Mi nombre. ．． ．．

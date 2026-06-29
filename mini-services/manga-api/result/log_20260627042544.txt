@@ -1,0 +1,236 @@
+[manga-translator.ModelMangaOCR] prob: 0.9999443888664246 いいぞ fg: (5, 7, 0) bg: (5, 7, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999347925186157 本人達が fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999985933303833 かまわないん fg: (7, 5, 1) bg: (7, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9976145029067994 なら．．． fg: (16, 13, 10) bg: (16, 13, 10)
+[manga-translator.ModelMangaOCR] prob: 0.9873703718185426 きゃー！ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9776237010955812 工房の fg: (3, 1, 0) bg: (3, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999952316284181 助手にも fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998114705085754 ほしいん fg: (11, 11, 7) bg: (11, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.946994423866272 だけど．．． fg: (7, 6, 2) bg: (7, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999771118164062 正式のは fg: (8, 7, 5) bg: (8, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9703850746154786 ダラン達が fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999183416366577 建設中 fg: (6, 5, 5) bg: (6, 5, 5)
+[manga-translator.ModelMangaOCR] prob: 0.994933307170868 とりあえず fg: (8, 9, 4) bg: (8, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9984813928604127 仮の．．． fg: (15, 14, 11) bg: (15, 14, 11)
+[manga-translator.ModelMangaOCR] prob: 0.9999776482582093 昨日の今日で fg: (13, 11, 12) bg: (13, 11, 12)
+[manga-translator.ModelMangaOCR] prob: 0.9926322102546693 工房が fg: (4, 3, 2) bg: (4, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9834567904472352 できてる．．．！ fg: (9, 8, 8) bg: (9, 8, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9998821020126344 手伝って fg: (13, 11, 8) bg: (13, 11, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9999975562095642 くれた fg: (18, 15, 14) bg: (18, 15, 14)
+[manga-translator.ModelMangaOCR] prob: 0.9986555576324464 ゴブリン達の fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997453093528749 腕もよかった fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9414750337600708 第３５話キュリティの流行航海 fg: (149, 24, 61) bg: (149, 24, 61)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.7683876156806947 エレア！？ fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9971337914466859 来ちゃいますぅ！！ fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995925426483155 来るって．．． fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9991584420204164 何が？ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9986221790313722 来る！ fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9373471736907959 くくぐく fg: (38, 34, 35) bg: (38, 34, 35)
+[manga-translator.ModelMangaOCR] prob: 0.9736944437026979 ？ fg: (5, 11, 10) bg: (5, 11, 10)
+[manga-translator.ModelMangaOCR] prob: 0.9999739527702333 服の素材は fg: (10, 11, 9) bg: (10, 11, 9)
+[manga-translator.ModelMangaOCR] prob: 0.999996304512024 取ってこれた fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996538162231446 のか？ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9396992921829224 お．．． fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996696710586549 お帰り fg: (11, 11, 9) bg: (11, 11, 9)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9216668605804443 なんだ！？ fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993936419487001 な、 fg: (0, 0, 1) bg: (0, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9853718280792237 ！？ fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.46585437655448914 カンチカント fg: (5, 2, 1) bg: (5, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9329058527946472 ひぃい fg: (36, 37, 33) bg: (36, 37, 33)
+[manga-translator.ModelMangaOCR] prob: 0.9975287914276124 馬車？ fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.20815102756023404 おお．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9995030760765077 妹が世話に fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995686411857606 なっている fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9988125562667848 妹．．．？ fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999848008155823 初めまして fg: (5, 4, 3) bg: (5, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9990262985229493 勇者ハルト fg: (5, 4, 3) bg: (5, 4, 3)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9998915195465088 エレアの兄で fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992305636405946 エルフの里長を fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999805688858033 任されている fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999934434890747 私は fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996200799942018 トーリス fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9956051111221315 突然の訪問で fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998061060905457 申し訳ない fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999597072601318 よろしくね fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9996356368064881 勇者ハルト fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999064207077027 トーレスの妹で fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992053508758546 エレアの姉 fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999333024024964 私はシア fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999554753303529 ということは fg: (9, 9, 4) bg: (9, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9996808767318727 エレアも fg: (8, 8, 3) bg: (8, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9970118999481202 王族か．．． fg: (15, 13, 7) bg: (15, 13, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9994778633117677 里長って fg: (9, 9, 5) bg: (9, 9, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999475479125977 エルフの王じゃ fg: (7, 5, 3) bg: (7, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9952024817466737 ないですか！ fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: な、 => Ah,
+[manga-translator.MimoTokenPlanV25Translator] 1: なんだ！？ => ¡¿Qué es esto!?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9998262524604798 くだらん！ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999785423278809 これは fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9809693694114686 これで．．．！ fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9995633959770204 エルフは fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9977054595947267 貧乳一択だと fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999846816062927 思って fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999543428421022 いましたが fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9990456104278566 おい！ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999722242355348 どうした fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9973164200782777 かれん？ fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9992510676383973 顔 fg: (16, 14, 10) bg: (16, 14, 10)
+[manga-translator.ModelMangaOCR] prob: 0.9998940229415895 丸だしな分 fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9991641640663148 破壊力が fg: (3, 4, 3) bg: (3, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9987121224403382 すごい．．．！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.986708164215088 くっ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.998407542705536 エレアも fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996938705444337 美人 fg: (10, 8, 5) bg: (10, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999862909317017 だけど fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: エレア！？ => ¿Elea?!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: おお．．． => Oh...
+[manga-translator.MimoTokenPlanV25Translator] 1: ひぃい => ¡Hii!
+[manga-translator.MimoTokenPlanV25Translator] 2: 馬車？ => ¿Carruaje?
+[manga-translator.MimoTokenPlanV25Translator] 3: カンチカント => Clanclo-clang
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 初めまして勇者ハルト => Encantado de conocerte, héroe Haruto
+[manga-translator.MimoTokenPlanV25Translator] 1: 妹が世話になっている => Han cuidado mucho a mi hermana
+[manga-translator.MimoTokenPlanV25Translator] 2: 妹．．．？ => Hermana...?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 私はトーリス => Soy Toris.
+[manga-translator.MimoTokenPlanV25Translator] 1: 突然の訪問で申し訳ない => Lamento la visita tan repentina.
+[manga-translator.MimoTokenPlanV25Translator] 2: エレアの兄でエルフの里長を任されている => Soy el hermano de Elea y ostento el cargo de líder de la aldea de elfos.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 里長ってエルフの王じゃないですか！ => ¡El jefe de aldea es el rey de los elfos!
+[manga-translator.MimoTokenPlanV25Translator] 1: ということはエレアも王族か．．． => Entonces Elea también es de la realeza...
+[manga-translator.MimoTokenPlanV25Translator] 2: 私はシア => Yo soy Shia
+[manga-translator.MimoTokenPlanV25Translator] 3: トーレスの妹でエレアの姉 => La hermana menor de Torres y hermana mayor de Elea
+[manga-translator.MimoTokenPlanV25Translator] 4: よろしくね勇者ハルト => Mucho gusto, héroe Haruto
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: お．．．お帰り => B-Bienvenido
+[manga-translator.MimoTokenPlanV25Translator] 1: 服の素材は取ってこれたのか？ => ¿Lograste conseguir el material de la ropa?
+[manga-translator.MimoTokenPlanV25Translator] 2: くくぐく => Jajajaja
+[manga-translator.MimoTokenPlanV25Translator] 3: 来る！ => ¡Viene!
+[manga-translator.MimoTokenPlanV25Translator] 4: 来ちゃいますぅ！！ => ¡¡Viene!! (con tono de emoción/temor)
+[manga-translator.MimoTokenPlanV25Translator] 5: 来るって．．．何が？ => ¿Viene... qué?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 第３５話キュリティの流行航海 => Episodio 35: La epidemia de navegación de Kurity
+[manga-translator.MimoTokenPlanV25Translator] 1: 昨日の今日で工房ができてる．．．！ => ¡El taller apareció de la nada hoy...!
+[manga-translator.MimoTokenPlanV25Translator] 2: とりあえず仮の．．． => Por ahora, es temporal...
+[manga-translator.MimoTokenPlanV25Translator] 3: 正式のはダラン達が建設中 => El oficial lo están construyendo los Daran.
+[manga-translator.MimoTokenPlanV25Translator] 4: 手伝ってくれたゴブリン達の腕もよかった => Los goblins que ayudaron también eran hábiles.
+[manga-translator.MimoTokenPlanV25Translator] 5: 工房の助手にもほしいんだけど．．． => Me gustaría tenerlos como asistentes del taller, pero...
+[manga-translator.MimoTokenPlanV25Translator] 6: いいぞ本人達がかまわないんなら．．． => ¡Bien, si ellos no tienen inconveniente!
+[manga-translator.MimoTokenPlanV25Translator] 7: きゃー！ => ¡Gyaa!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9990496635437013 いや fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998942613601686 アンタも fg: (6, 7, 1) bg: (6, 7, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9968015551567079 兄弟？ fg: (6, 6, 5) bg: (6, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9994883537292482 なに？ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9982181191444398 関わるべき fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9916425347328187 ではなかった！ fg: (7, 6, 2) bg: (7, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998985528945924 やはり fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999504685401918 人間など fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9986292123794557 下等だ．．．！ fg: (8, 8, 4) bg: (8, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9962758421897889 ヴェイン．．． fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9998184442520143 なのにエレアは fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999607801437378 無許可で fg: (5, 7, 4) bg: (5, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998599290847779 家出同然で fg: (5, 7, 3) bg: (5, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999910056591034 出ていっちゃって fg: (9, 9, 5) bg: (9, 9, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9956427812576295 掟？ fg: (7, 6, 6) bg: (7, 6, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9997004866600038 エルフが fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983219504356385 里外に出るには fg: (7, 8, 4) bg: (7, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999371170997621 特別な許可が fg: (11, 11, 6) bg: (11, 11, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999566078186036 必要なの fg: (8, 9, 5) bg: (8, 9, 5)
+[manga-translator.ModelMangaOCR] prob: 0.989076852798462 ひぃい！ fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999932646751404 今回は fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999799132347108 どうしても fg: (7, 6, 1) bg: (7, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999828934669495 というので fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999790906906128 連れてきた fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998484849929811 ヴェインは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992455244064332 里を守る役目の fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998732209205627 者だ fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999815225601196 そもそも fg: (6, 4, 0) bg: (6, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9981227517127992 お前が掟を fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997535347938539 破ったから fg: (7, 5, 2) bg: (7, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9991928935050965 だろう！ fg: (13, 8, 3) bg: (13, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9891106486320496 なに！？ fg: (3, 2, 2) bg: (3, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999651908874513 来なくて fg: (23, 20, 17) bg: (23, 20, 17)
+[manga-translator.ModelMangaOCR] prob: 0.98203182220459 よかったのに．． fg: (19, 17, 10) bg: (19, 17, 10)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9953080415725709 次回につづく fg: (233, 82, 7) bg: (233, 82, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9999748468399048 素材を取ったら fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99995756149292 すぐ出ていく fg: (5, 4, 0) bg: (5, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983319640159608 つもりだったのに fg: (9, 10, 4) bg: (9, 10, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9994963407516481 このまま里を fg: (11, 9, 4) bg: (11, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9985631108283998 出るなって！！ fg: (10, 8, 4) bg: (10, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9988580346107484 里への帰郷が fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999741911888123 許されただけ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9350905418395996 ありがたいと思え！ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9990820884704591 当たり前だ！ fg: (8, 7, 2) bg: (8, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994236826896669 ち、違うんですぅ fg: (10, 10, 5) bg: (10, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9998244643211366 掟を fg: (3, 6, 5) bg: (3, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999706745147705 破っていたから fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999788403511047 捕まったのか fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999921321868898 服の素材を fg: (11, 10, 6) bg: (11, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9955061674118043 取りに戻ったは fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999632239341737 いいけど fg: (10, 11, 7) bg: (10, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9984132051467897 里長の fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999794960021974 妹とはいえ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990835785865785 勝手すぎる！ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999991238117218 それなのに fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9484516978263855 こいつは．．．！ fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993773102760316 許されていない！ fg: (7, 8, 4) bg: (7, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.999995768070221 それに fg: (4, 6, 1) bg: (4, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999145269393921 掟を破ったエルフが fg: (8, 8, 4) bg: (8, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9992911219596864 里に戻ることは fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999280571937561 本来 fg: (9, 9, 6) bg: (9, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999868869781495 そもそも fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999670386314392 人間との交流など fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996207952499391 もってのほか！ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: 来なくてよかったのに．． => ¡Mejor habrías venido!
+[manga-translator.MimoTokenPlanV25Translator] 1: なに！？ => ¿¡Qué!?
+[manga-translator.MimoTokenPlanV25Translator] 2: そもそもお前が掟を破ったからだろう！ => ¡Es porque tú rompiste las reglas, en primer lugar!
+[manga-translator.MimoTokenPlanV25Translator] 3: ヴェインは里を守る役目の者だ => Wein es quien tiene el deber de proteger la aldea.
+[manga-translator.MimoTokenPlanV25Translator] 4: 今回はどうしてもというので連れてきた => Esta vez insistió demasiado, así que lo trajimos.
+[manga-translator.MimoTokenPlanV25Translator] 5: ひぃい！ => ¡Híjole!
+[manga-translator.MimoTokenPlanV25Translator] 6: 掟？ => ¿Reglas?
+[manga-translator.MimoTokenPlanV25Translator] 7: エルフが里外に出るには特別な許可が必要なの => Los Elfos necesitan un permiso especial para salir de la aldea.
+[manga-translator.MimoTokenPlanV25Translator] 8: なのにエレアは無許可で家出同然で出ていっちゃって => Y sin embargo, Elea se fue sin permiso, como si hubiera huido de casa.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: エレアも美人だけど => Elea también es bella, pero
+[manga-translator.MimoTokenPlanV25Translator] 1: 顔丸だしな分破壊力がすごい．．．！ => ¡Tiene cara redonda y el poder destructivo es tremendo...!
+[manga-translator.MimoTokenPlanV25Translator] 2: くっ => Grr
+[manga-translator.MimoTokenPlanV25Translator] 3: どうしたかれん？ => ¿Qué pasa, Karen-san?
+[manga-translator.MimoTokenPlanV25Translator] 4: エルフは貧乳一択だと思っていましたが => Yo pensaba que los elfos solo tenían opciones de pecho plano,
+[manga-translator.MimoTokenPlanV25Translator] 5: これはこれで．．．！ => ¡pero esto tiene lo suyo...!
+[manga-translator.MimoTokenPlanV25Translator] 6: おい！ => ¡Oye!
+[manga-translator.MimoTokenPlanV25Translator] 7: くだらん！ => ¡Qué estupidez!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: ヴェイン．．． => Vayne...
+[manga-translator.MimoTokenPlanV25Translator] 1: やはり人間など下等だ．．．！ => ¡Los humanos son inferiores...!
+[manga-translator.MimoTokenPlanV25Translator] 2: 関わるべきではなかった！ => ¡No debí haberme involucrado!
+[manga-translator.MimoTokenPlanV25Translator] 3: アンタも兄弟？ => ¿Tú también eres hermano?
+[manga-translator.MimoTokenPlanV25Translator] 4: なに？ => ¿Qué?
+[manga-translator.MimoTokenPlanV25Translator] 5: いや => No...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: そもそも人間との交流などもってのほか！ => ¡La interacción con los humanos está fuera de discusión de entrada!
+[manga-translator.MimoTokenPlanV25Translator] 1: それに掟を破ったエルフが里に戻ることは本来許されていない！ => ¡Además, un elfo que rompe las normas no tiene permitido regresar a la aldea en primer lugar!
+[manga-translator.MimoTokenPlanV25Translator] 2: それなのにこいつは．．．！ => ¡Y aun así este tipo...!
+[manga-translator.MimoTokenPlanV25Translator] 3: 里長の妹とはいえ勝手すぎる！ => ¡Aunque sea la hermana del jefe de la aldea, es demasiado caprichosa!
+[manga-translator.MimoTokenPlanV25Translator] 4: 服の素材を取りに戻ったはいいけど => Volvió por el material de la ropa, eso está bien
+[manga-translator.MimoTokenPlanV25Translator] 5: 掟を破っていたから捕まったのか => ¿Te capturaron porque habías roto las normas?
+[manga-translator.MimoTokenPlanV25Translator] 6: ち、違うんですぅ => N-no es eso...
+[manga-translator.MimoTokenPlanV25Translator] 7: 素材を取ったらすぐ出ていくつもりだったのにこのまま里を出るなって！！ => ¡Solo iba a tomar el material y luego irme, pero me dijeron que no pudiera salir de la aldea así!
+[manga-translator.MimoTokenPlanV25Translator] 8: 当たり前だ！ => ¡Eso es obvio!
+[manga-translator.MimoTokenPlanV25Translator] 9: 里への帰郷が許されただけありがたいと思え！ => ¡Date por agradecido de que te permitieron volver a la aldea!
+[manga-translator.MimoTokenPlanV25Translator] 10: 次回につづく => Continuará en el próximo capítulo
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640

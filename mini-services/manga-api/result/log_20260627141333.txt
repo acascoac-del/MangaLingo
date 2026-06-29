@@ -1,0 +1,391 @@
+[manga-translator.ModelMangaOCR] prob: 0.9984400272369386 ３５話女鹿ちゃん先生ど初詣 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9519148468971252 石坂リューダイ fg: (83, 81, 75) bg: (25, 17, 18)
+[manga-translator.ModelMangaOCR] prob: 0.3770375847816468 ただＣＯＯＣ fg: (183, 118, 118) bg: (170, 80, 114)
+[manga-translator.ModelMangaOCR] prob: 0.9992375969886781 あな fg: (235, 6, 94) bg: (235, 6, 94)
+[manga-translator.ModelMangaOCR] prob: 0.9069012403488159 生ですかっ、 fg: (225, 12, 108) bg: (225, 12, 108)
+[manga-translator.ModelMangaOCR] prob: 0.9654765129089357 ボラな彼女に要注意？ fg: (31, 20, 14) bg: (44, 34, 29)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9996660351753236 早く帰って一緒に fg: (38, 29, 26) bg: (38, 29, 26)
+[manga-translator.ModelMangaOCR] prob: 0.970847249031067 ふとん潜り遊びをしよう fg: (34, 24, 21) bg: (34, 24, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9913556575775148 私みたいなもやし人間に fg: (25, 16, 11) bg: (25, 16, 11)
+[manga-translator.ModelMangaOCR] prob: 0.9918349981307985 寒さは堪える fg: (35, 25, 24) bg: (35, 25, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9850051999092103 そんな風にダラダラしないために fg: (39, 28, 24) bg: (39, 28, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9991281032562257 お寺に向かってるんですよ！ fg: (39, 28, 27) bg: (39, 28, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9945750832557679 わざわざ２年参り fg: (37, 25, 22) bg: (37, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9999918937683105 じゃなくてもいいだろ fg: (38, 27, 23) bg: (38, 27, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999720454216005 初詣なら明日で fg: (39, 28, 25) bg: (39, 28, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999523758888246 いいじゃないか fg: (40, 29, 23) bg: (40, 29, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999767541885377 でもずっと部屋にいたから fg: (35, 24, 19) bg: (35, 24, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9584289193153382 この寒さが逆に心地 fg: (31, 20, 17) bg: (31, 20, 17)
+[manga-translator.ModelMangaOCR] prob: 0.9994480013847352 良くないですか？ fg: (34, 23, 21) bg: (34, 23, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9952055215835572 うう．．．寒い．．． fg: (36, 26, 20) bg: (36, 26, 20)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9998052120208741 クリスマスは fg: (35, 25, 22) bg: (35, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9968351721763612 人やイルミネーションで fg: (33, 22, 20) bg: (33, 22, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9451452493667603 また賑やかなんだがな fg: (24, 15, 10) bg: (24, 15, 10)
+[manga-translator.ModelMangaOCR] prob: 0.9999855756759645 むしろここまで fg: (39, 29, 26) bg: (39, 29, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9993485808372499 静かだとまるで．．． fg: (39, 28, 24) bg: (39, 28, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9769986867904664 なるほど．． fg: (34, 22, 19) bg: (34, 22, 19)
+[manga-translator.ModelMangaOCR] prob: 0.999778985977173 年末は外に出ると本当に fg: (34, 24, 20) bg: (34, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999745488166809 人がいなくなる fg: (38, 26, 22) bg: (38, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9999774098396302 私は本当に寂しいのは fg: (34, 25, 22) bg: (34, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9994667768478395 クリスマスばっちではなく fg: (36, 25, 23) bg: (36, 25, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9883264899253845 年末ぼっちだと思うんだよな fg: (37, 24, 20) bg: (37, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9596050381660463 まあ年末の深夜だしな fg: (31, 21, 17) bg: (31, 21, 17)
+[manga-translator.ModelMangaOCR] prob: 0.9678739905357362 皆休んでるんだろう fg: (27, 16, 12) bg: (27, 16, 12)
+[manga-translator.ModelMangaOCR] prob: 0.9996618032455445 年末だからなのかな？ fg: (38, 27, 24) bg: (38, 27, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9999514222145082 ただでさえ寂しい町が fg: (36, 26, 21) bg: (36, 26, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9922685623168946 さらに寂しく感じますね fg: (33, 23, 22) bg: (33, 23, 22)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9998955726623536 確かに．．．こんな fg: (35, 26, 22) bg: (35, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9999942779541017 誰もいないとこを fg: (39, 27, 22) bg: (39, 27, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9997082352638246 歩いてると fg: (36, 26, 22) bg: (36, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9993016719818116 やばい．．．そう考えると fg: (3, 0, 0) bg: (108, 107, 103)
+[manga-translator.ModelMangaOCR] prob: 0.999219298362732 急に．．． fg: (3, 1, 0) bg: (3, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9701988101005554 先生を意識して．．． fg: (3, 1, 0) bg: (3, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999929666519165 この世界に僕と fg: (37, 25, 22) bg: (37, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9999669194221498 先生しかいないような fg: (35, 24, 20) bg: (35, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999333620071412 気さえしてきますよね fg: (37, 27, 25) bg: (37, 27, 25)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9992563128471376 なあヒロ君 fg: (38, 30, 25) bg: (38, 30, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999569654464723 もし世界に本当に誰も fg: (33, 24, 20) bg: (33, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999791979789735 いなくて fg: (41, 28, 24) bg: (41, 28, 24)
+[manga-translator.ModelMangaOCR] prob: 0.8537498116493225 でもそれは倫理的に」 fg: (36, 25, 22) bg: (36, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9999963641166688 でも誰にも見られないなら fg: (35, 24, 20) bg: (35, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9998522400856019 大丈夫じゃないのか？ fg: (39, 27, 23) bg: (39, 27, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9935030341148378 はい！？ fg: (35, 25, 22) bg: (35, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.997098207473755 え？ fg: (32, 23, 16) bg: (32, 23, 16)
+[manga-translator.ModelMangaOCR] prob: 0.9999421238899232 いやしないですし fg: (42, 30, 27) bg: (42, 30, 27)
+[manga-translator.ModelMangaOCR] prob: 0.999937415122986 様になったら fg: (40, 30, 26) bg: (40, 30, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9971994757652284 ダメでしょ！ fg: (40, 30, 27) bg: (40, 30, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9994905591011048 今裸になったら fg: (34, 24, 18) bg: (34, 24, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9999819993972778 どうなるんだろうって fg: (34, 23, 19) bg: (34, 23, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9998821616172792 妄想結構しちゃうよな fg: (40, 28, 23) bg: (40, 28, 23)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9708701968193055 ここ．．．公道ですよね fg: (42, 29, 27) bg: (42, 29, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9998404979705812 たとえ倫理観のある fg: (35, 24, 21) bg: (35, 24, 21)
+[manga-translator.ModelMangaOCR] prob: 0.998774290084839 ヒロ君でも fg: (37, 29, 24) bg: (37, 29, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9979127645492555 ちょっ！ fg: (40, 29, 24) bg: (40, 29, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9850465059280397 先生！？ fg: (41, 27, 19) bg: (41, 27, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9997718334197999 ヒロ君は fg: (36, 28, 20) bg: (36, 28, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9995433092117311 どうしたい？ fg: (36, 24, 20) bg: (36, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999542236328126 何のしがらみもなく fg: (36, 24, 21) bg: (36, 24, 21)
+[manga-translator.ModelMangaOCR] prob: 0.999891757965088 何をやっても許されるなら fg: (37, 26, 22) bg: (37, 26, 22)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9139052033424377 ほら人が来る前に fg: (37, 27, 25) bg: (37, 27, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9982622861862184 服着て歩く！ fg: (43, 30, 28) bg: (43, 30, 28)
+[manga-translator.ModelMangaOCR] prob: 0.9997793436050416 全くヒロ君は本当に fg: (34, 25, 21) bg: (34, 25, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9989986419677735 堅物だな fg: (35, 22, 18) bg: (35, 22, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9995380043983461 ．．．思いませんよっ fg: (38, 27, 24) bg: (38, 27, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9907727837562561 お．．． fg: (39, 30, 22) bg: (39, 30, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9999641180038453 こういうことしたい fg: (37, 27, 22) bg: (37, 27, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9991923570632936 とは思わないのか？ fg: (39, 28, 24) bg: (39, 28, 24)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9986241459846498 確かに．．． fg: (37, 28, 21) bg: (37, 28, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9999850392341614 じゃあ除夜の鐘を fg: (33, 24, 21) bg: (33, 24, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9999616742134095 鳴らしたらお参りだけして fg: (39, 28, 24) bg: (39, 28, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9138065576553345 早々に帰路にー fg: (33, 24, 21) bg: (33, 24, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9999526739120485 知り合いに見つかると面倒だし fg: (36, 25, 22) bg: (36, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9988335967063905 あまり目立たないようにしないとか fg: (34, 23, 19) bg: (34, 23, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9012455940246582 ２年参りする人が fg: (28, 18, 14) bg: (28, 18, 14)
+[manga-translator.ModelMangaOCR] prob: 0.9999500513076782 結構いるんだろうな fg: (31, 21, 18) bg: (31, 21, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9999209046363832 そこまで fg: (39, 27, 25) bg: (39, 27, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999456405639648 大きい寺じゃ fg: (33, 24, 20) bg: (33, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9998525977134706 ないんですけどね fg: (35, 24, 19) bg: (35, 24, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9142888188362122 おお結構人がいるな fg: (34, 25, 22) bg: (33, 25, 21)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: おお結構人がいるな => Vaya, hay bastante gente
+[manga-translator.MimoTokenPlanV25Translator] 1: そこまで大きい寺じゃないんですけどね => No es un templo tan grande, pero bueno
+[manga-translator.MimoTokenPlanV25Translator] 2: ２年参りする人が結構いるんだろうな => Supongo que habrá bastante gente haciendo el hatsumode
+[manga-translator.MimoTokenPlanV25Translator] 3: 知り合いに見つかると面倒だしあまり目立たないようにしないとか => Si nos ven conocidos será un rollo, así que deberíamos intentar no llamar la atención
+[manga-translator.MimoTokenPlanV25Translator] 4: 確かに．．． => Es verdad...
+[manga-translator.MimoTokenPlanV25Translator] 5: じゃあ除夜の鐘を鳴らしたらお参りだけして早々に帰路にー => Entonces, cuando suenen las campanas de Nochevieja, solo hacemos una visita rápida y nos volvemos pronto—
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9999265670776368 ずまんすまん fg: (40, 29, 27) bg: (40, 29, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9997674226760865 でも初詣といったら甘酒だろ？ fg: (36, 25, 19) bg: (36, 25, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9996753334999086 ほらヒロ君も fg: (40, 30, 24) bg: (40, 30, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9998140335083009 せっ先生：言ってるそばから fg: (41, 30, 27) bg: (41, 30, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9921115040779115 目立つことしないでくださいよ！ fg: (42, 30, 27) bg: (42, 30, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9975628256797792 甘酒二つで fg: (40, 30, 26) bg: (40, 30, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9894881248474121 じゃあ２００円ね fg: (30, 20, 18) bg: (30, 20, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9982071518898011 ちょっ！ fg: (40, 30, 25) bg: (40, 30, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9946452975273133 先生？ fg: (38, 27, 19) bg: (38, 27, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9566311836242676 おや失敬！ fg: (41, 29, 23) bg: (41, 29, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9571760892868042 ーってあれ？ fg: (34, 23, 22) bg: (34, 23, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9998838901519777 失礼な私は fg: (38, 28, 24) bg: (38, 28, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9994080662727357 成人だぞ？ fg: (34, 22, 17) bg: (34, 22, 17)
+[manga-translator.ModelMangaOCR] prob: 0.6074954271316528 ん？嬢ちゃん fg: (40, 28, 24) bg: (40, 28, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9400511980056763 一人なのかい？ fg: (34, 23, 18) bg: (34, 23, 18)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: 何のしがらみもなく何をやっても許されるなら => Si no hubiera ningún lazo y pudiera hacer lo que quisiera sin consecuencias
+[manga-translator.MimoTokenPlanV25Translator] 1: ちょっ！先生！？ => ¡E-Eh! ¡¿Sensei?!
+[manga-translator.MimoTokenPlanV25Translator] 2: ヒロ君はどうしたい？ => ¿Qué es lo que quieres hacer, Hiro-kun?
+[manga-translator.MimoTokenPlanV25Translator] 3: たとえ倫理観のあるヒロ君でも => Incluso siendo un Hiro-kun con sentido ético
+[manga-translator.MimoTokenPlanV25Translator] 4: ここ．．．公道ですよね => Aquí... es una calle pública, ¿verdad?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: こういうことしたいとは思わないのか？ => ¿No te apetece hacer algo así?
+[manga-translator.MimoTokenPlanV25Translator] 1: お．．． => Oh...
+[manga-translator.MimoTokenPlanV25Translator] 2: ．．．思いませんよっ => ...No, en absoluto
+[manga-translator.MimoTokenPlanV25Translator] 3: ほら人が来る前に服着て歩く！ => ¡Date prisa y vístete antes de que venga alguien!
+[manga-translator.MimoTokenPlanV25Translator] 4: 全くヒロ君は本当に堅物だな => Vaya, Hiro-kun, eres un cascarrabias de verdad
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: ボラな彼女に要注意？ => ¿Cuidado con esa novia problemática?
+[manga-translator.MimoTokenPlanV25Translator] 1: ３５話女鹿ちゃん先生ど初詣石坂リューダイ => Capítulo 35: La señorita Shika en el primer peregrinaje al Santuario Ishizaka Ryūdai
+[manga-translator.MimoTokenPlanV25Translator] 2: ただＣＯＯＣあな生ですかっ、 => ¿¡Está... viva, COOC-san?!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 年末だからなのかな？ただでさえ寂しい町がさらに寂しく感じますね => ¿Será por ser fin de año? Un pueblo que ya de por sí se siente solitario, ahora se siente aún más desolado.
+[manga-translator.MimoTokenPlanV25Translator] 1: まあ年末の深夜だしな => Bueno, es medianoche de fin de año, después de todo.
+[manga-translator.MimoTokenPlanV25Translator] 2: 皆休んでるんだろう => Supongo que todos están descansando.
+[manga-translator.MimoTokenPlanV25Translator] 3: 私は本当に寂しいのはクリスマスばっちではなく年末ぼっちだと思うんだよな => Yo creo que lo realmente solitario no es estar solo en Navidad, sino en fin de año.
+[manga-translator.MimoTokenPlanV25Translator] 4: 年末は外に出ると本当に人がいなくなる => En fin de año, si sales a la calle, de verdad no hay nadie.
+[manga-translator.MimoTokenPlanV25Translator] 5: クリスマスは人やイルミネーションでまた賑やかなんだがな => En cambio, en Navidad hay gente e iluminaciones, así que es animado...
+[manga-translator.MimoTokenPlanV25Translator] 6: なるほど．． => Ya veo...
+[manga-translator.MimoTokenPlanV25Translator] 7: むしろここまで静かだとまるで．．． => De hecho, si está tan tranquilo, es como si...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: この世界に僕と先生しかいないような気さえしてきますよね => A veces me da la sensación de que en este mundo solo existimos nosotros dos... ¿no te pasa?
+[manga-translator.MimoTokenPlanV25Translator] 1: やばい．．．そう考えると急に．．． => Esto es peligroso... cuando lo pienso así, de repente...
+[manga-translator.MimoTokenPlanV25Translator] 2: 先生を意識して．．． => Me pongo a pensar en el sensei...
+[manga-translator.MimoTokenPlanV25Translator] 3: 確かに．．．こんな誰もいないとこを歩いてると => Sí... caminar por un lugar tan desolado como este...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: うう．．．寒い．．． => Ugh... frío...
+[manga-translator.MimoTokenPlanV25Translator] 1: でもずっと部屋にいたからこの寒さが逆に心地良くないですか？ => Pero como estuve encerrado en mi habitación todo el tiempo, ¿no es agradable este frío en contraste?
+[manga-translator.MimoTokenPlanV25Translator] 2: わざわざ２年参りじゃなくてもいいだろ初詣なら明日でいいじゃないか => No hacía falta venir al santuario en Año Nuevo... ¿No sería lo mismo ir a la primera visita del mañana?
+[manga-translator.MimoTokenPlanV25Translator] 3: 私みたいなもやし人間に寒さは堪える => Para alguien débil como yo, este frío es insoportable...
+[manga-translator.MimoTokenPlanV25Translator] 4: 早く帰って一緒にふとん潜り遊びをしよう => Vámonos pronto a casa a meternos bajo el futón y jugar.
+[manga-translator.MimoTokenPlanV25Translator] 5: そんな風にダラダラしないためにお寺に向かってるんですよ！ => ¡Por eso vamos al templo, para que no te la pases flojeando así!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9946153163909913 冷っ！？ fg: (34, 26, 23) bg: (34, 26, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9358524680137634 僕もボカボカ fg: (37, 26, 23) bg: (37, 26, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999079108238221 してきました fg: (36, 25, 23) bg: (36, 25, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9998360276222229 うむ．．．体が fg: (33, 23, 16) bg: (33, 23, 16)
+[manga-translator.ModelMangaOCR] prob: 0.999963641166687 芯から fg: (38, 26, 23) bg: (38, 26, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9996771812438966 あったまるな．．． fg: (39, 29, 27) bg: (39, 29, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9499597549438477 ．．．ほうどれどね fg: (32, 20, 19) bg: (32, 20, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9994997382164003 あったか．．． fg: (37, 26, 21) bg: (37, 26, 21)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9994127154350282 で．．．では fg: (44, 32, 28) bg: (44, 32, 28)
+[manga-translator.ModelMangaOCR] prob: 0.999383568763733 失礼します．．． fg: (41, 31, 25) bg: (41, 31, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9966363310813905 えっ？ fg: (34, 25, 23) bg: (34, 25, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999876618385316 私のことも fg: (38, 27, 22) bg: (38, 27, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9997957944869996 ポカポカかどうか fg: (37, 26, 22) bg: (37, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9999946355819702 確かめていいぞ fg: (35, 23, 19) bg: (35, 23, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9982950091362001 ほら冷えちゃう fg: (40, 27, 25) bg: (40, 27, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999942779541017 前に fg: (39, 30, 28) bg: (39, 30, 28)
+[manga-translator.ModelMangaOCR] prob: 0.9998871684074402 ずまんすまん fg: (38, 27, 25) bg: (38, 27, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9998649358749391 ほら fg: (37, 24, 20) bg: (37, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9998537302017213 そうむ確かにあったかい fg: (33, 24, 20) bg: (33, 24, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999130368232728 さすがに首元を fg: (41, 30, 26) bg: (41, 30, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9992715120315553 冷えた手で触るのは！ fg: (39, 26, 24) bg: (39, 26, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9999656081199647 ちょっと fg: (41, 29, 27) bg: (41, 29, 27)
+[manga-translator.ModelMangaOCR] prob: 0.989550769329071 先生！ fg: (42, 33, 28) bg: (42, 33, 28)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9998577237129213 ちょっ．．． fg: (32, 24, 19) bg: (32, 24, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9964404702186586 んんっ！ fg: (35, 24, 18) bg: (35, 24, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9967715144157411 わっ！ fg: (35, 23, 16) bg: (35, 23, 16)
+[manga-translator.ModelMangaOCR] prob: 0.9946848154067994 ちょっ！ fg: (38, 28, 25) bg: (38, 28, 25)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999865889549255 そういう意味じゃ fg: (41, 30, 27) bg: (41, 30, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9976911544799806 ないですから！ fg: (38, 29, 25) bg: (38, 29, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9995233416557313 下のほうがポカポカ fg: (37, 25, 22) bg: (37, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9996077418327333 してしまうのでは．．．？ fg: (38, 25, 21) bg: (38, 25, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9979896545410157 ああ．．．確かに fg: (40, 29, 25) bg: (40, 29, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999334812164307 そんなこと言ってないで fg: (41, 29, 27) bg: (41, 29, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9203407168388367 はやくティッシュをー fg: (37, 26, 23) bg: (37, 26, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999902844429016 これでは fg: (35, 25, 21) bg: (35, 25, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9844638705253602 ヒロ君は fg: (35, 26, 18) bg: (35, 26, 18)
+[manga-translator.ModelMangaOCR] prob: 0.99997478723526 早く fg: (41, 31, 25) bg: (41, 31, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999785423278809 かかった fg: (38, 27, 23) bg: (38, 27, 23)
+[manga-translator.ModelMangaOCR] prob: 0.8381179571151733 甘酒をー fg: (41, 30, 26) bg: (41, 30, 26)
+[manga-translator.ModelMangaOCR] prob: 0.3879463672637939 もみはっ fg: (108, 104, 105) bg: (59, 52, 51)
+[manga-translator.ModelMangaOCR] prob: 0.999984622001648 そこを触って fg: (40, 30, 25) bg: (40, 30, 25)
+[manga-translator.ModelMangaOCR] prob: 0.8992177844047546 いいとはー fg: (37, 27, 23) bg: (37, 27, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9988362193107606 すっスイアセン！ fg: (33, 24, 18) bg: (33, 24, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9995315074920655 ひ．．．ヒロ君 fg: (37, 28, 22) bg: (37, 28, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9991471767425538 さすがに人前で．．． fg: (35, 23, 18) bg: (35, 23, 18)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9916221499443054 先生！ fg: (40, 29, 24) bg: (40, 29, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9996745586395265 おおヒロ君．．．ここで fg: (38, 28, 22) bg: (38, 28, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9997001886367799 売ってる熊手がなんとも fg: (39, 27, 22) bg: (39, 27, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9491910338401794 奇妙な感じでー fg: (27, 18, 14) bg: (27, 18, 14)
+[manga-translator.ModelMangaOCR] prob: 0.9999647736549379 そろそろ除夜の鐘を fg: (37, 26, 22) bg: (37, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9996190071105958 甘酒も全部飲み終わりましたし fg: (38, 27, 23) bg: (38, 27, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9991276264190675 ってまたどっか行ってる！ fg: (37, 26, 24) bg: (37, 26, 24)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9736719131469728 う．．． fg: (44, 31, 25) bg: (44, 31, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9985783696174623 うん．．． fg: (36, 27, 21) bg: (36, 27, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9999127388000489 そんなにふらふらしてたら fg: (38, 28, 23) bg: (38, 28, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9992242455482484 はぐれちゃいますよ！ fg: (39, 28, 23) bg: (39, 28, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999226331710817 あっちこっち行かないよう fg: (37, 26, 21) bg: (37, 26, 21)
+[manga-translator.ModelMangaOCR] prob: 0.996968984603882 僕の手を握っててくださいっ！！ fg: (36, 25, 21) bg: (36, 25, 21)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: 今裸になったらどうなるんだろうって妄想結構しちゃうよな => Uno no puede evitar imaginar qué pasaría si se quedara en pelotas, ¿verdad?
+[manga-translator.MimoTokenPlanV25Translator] 1: はい！？ => ¡¿Qué?!
+[manga-translator.MimoTokenPlanV25Translator] 2: いやしないですし様になったらダメでしょ！ => ¡No lo hago y no puedo, sería un desastre!
+[manga-translator.MimoTokenPlanV25Translator] 3: でも誰にも見られないなら大丈夫じゃないのか？ => Pero si nadie pudiera vernos, ¿no sería entonces...?
+[manga-translator.MimoTokenPlanV25Translator] 4: え？ => ¿Eh?
+[manga-translator.MimoTokenPlanV25Translator] 5: でもそれは倫理的に => Pero eso no es ético...
+[manga-translator.MimoTokenPlanV25Translator] 6: なあヒロ君 => Oye, Hiro-kun...
+[manga-translator.MimoTokenPlanV25Translator] 7: もし世界に本当に誰もいなくて => Si realmente no hubiera nadie más en el mundo...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9999249577522278 除夜の鐘 fg: (42, 32, 28) bg: (42, 32, 28)
+[manga-translator.ModelMangaOCR] prob: 0.9987045526504518 受付 fg: (41, 33, 31) bg: (41, 33, 31)
+[manga-translator.ModelMangaOCR] prob: 0.9963052272796632 お！ fg: (39, 27, 20) bg: (39, 27, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999629259109498 でもこの並びだと fg: (37, 25, 20) bg: (37, 25, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999569654464723 私たちが鳴らす前に fg: (38, 26, 22) bg: (38, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9470411539077759 １０８回鳴らし終え fg: (36, 26, 24) bg: (36, 26, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9999808073043823 ちゃいそうだよな fg: (42, 29, 26) bg: (42, 29, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9999385476112366 除夜の鐘の整理券 fg: (36, 26, 23) bg: (36, 26, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999717473983765 配ってますね fg: (40, 28, 24) bg: (40, 28, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9512431621551514 手をつなぐとさすがに緊張して．．． fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998155236244203 やばい．．．先生が fg: (3, 0, 0) bg: (3, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9991270899772645 迷わないためとはいえ．．． fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: わっ！ => ¡Uy!
+[manga-translator.MimoTokenPlanV25Translator] 1: ちょっ！ => ¡Espera!
+[manga-translator.MimoTokenPlanV25Translator] 2: んんっ！ => ¡Mmmgh!
+[manga-translator.MimoTokenPlanV25Translator] 3: ちょっ．．． => Espera...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9997352957725526 ほう fg: (37, 25, 19) bg: (37, 25, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9999455809593201 いや僕に fg: (35, 26, 22) bg: (35, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9998815059661866 祓わなきゃいけない fg: (38, 27, 23) bg: (38, 27, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9997084736824037 煩悩なんてないですよ fg: (40, 29, 25) bg: (40, 29, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999307394027711 しっかり祓わないと fg: (36, 25, 21) bg: (36, 25, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9987550377845765 ．．．まあヒロ君は煩悩に fg: (38, 29, 24) bg: (38, 29, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9784423112869264 まみれてそうだからな fg: (36, 24, 21) bg: (36, 24, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9936937093734742 ハイ？ fg: (34, 23, 19) bg: (34, 23, 19)
+[manga-translator.ModelMangaOCR] prob: 0.7072120308876038 え？１０８回で fg: (37, 28, 26) bg: (37, 28, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9997643232345582 終わりなんですか？ fg: (36, 25, 22) bg: (36, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9927635192871095 なるほど．．． fg: (34, 22, 20) bg: (34, 22, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9528399109840393 時夜の鐘を鳴らすのに fg: (27, 19, 17) bg: (27, 19, 17)
+[manga-translator.ModelMangaOCR] prob: 0.9984000325202943 そんな意味が．．． fg: (36, 25, 21) bg: (36, 25, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9995650649070741 とりあえず fg: (39, 28, 25) bg: (39, 28, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9999474287033081 並ぶか fg: (40, 28, 23) bg: (40, 28, 23)
+[manga-translator.ModelMangaOCR] prob: 0.8601818680763245 よく言ったろう人間には、ＯＳ側の短編があるから fg: (33, 23, 19) bg: (33, 23, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9999274611473083 その回数をつくことで原因を認い運めるって fg: (37, 27, 23) bg: (37, 27, 23)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: あったか．．． => Qué calorcito...
+[manga-translator.MimoTokenPlanV25Translator] 1: うむ．．．体が芯からあったまるな．．． => Mmm... Mi cuerpo se calienta hasta los huesos...
+[manga-translator.MimoTokenPlanV25Translator] 2: 僕もボカボカしてきました => Yo también me voy calentando
+[manga-translator.MimoTokenPlanV25Translator] 3: ．．．ほうどれどね => ...Aunque... bueno, eso esperaba.
+[manga-translator.MimoTokenPlanV25Translator] 4: 冷っ！？ => ¡Frío¡¡¡?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9434255957603455 っっっ！！ fg: (33, 24, 22) bg: (33, 24, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9993260502815248 本当に？ fg: (37, 25, 20) bg: (37, 25, 20)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: そんなにふらふらしてたらはぐれちゃいますよ！ => ¡Si sigues yendo de un lado a otro así, te vas a perder!
+[manga-translator.MimoTokenPlanV25Translator] 1: あっちこっち行かないよう僕の手を握っててくださいっ！！ => ¡¡Sujeta mi mano para que no vayas de un lado para otro!!
+[manga-translator.MimoTokenPlanV25Translator] 2: う．．． => Eh...
+[manga-translator.MimoTokenPlanV25Translator] 3: うん．．． => Sí...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 甘酒も全部飲み終わりましたし => Ya terminamos todo el amazake también
+[manga-translator.MimoTokenPlanV25Translator] 1: そろそろ除夜の鐘を => Ya es casi hora de las campanadas de Fin de Año
+[manga-translator.MimoTokenPlanV25Translator] 2: ってまたどっか行ってる！ => ¡Y encima se ha ido sabe Dios dónde!
+[manga-translator.MimoTokenPlanV25Translator] 3: 先生！ => ¡Sensei!
+[manga-translator.MimoTokenPlanV25Translator] 4: おおヒロ君．．．ここで売ってる熊手がなんとも奇妙な感じでー => Oh, Hiro-kun... Los kumade que venden aquí tienen un aspecto muy peculiar, la verdad...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: ひ．．．ヒロ君さすがに人前で．．． => Hi... Hiro-kun, en público es un poco...
+[manga-translator.MimoTokenPlanV25Translator] 1: そこを触っていいとはー => ¿Crees que puedes tocar ahí? ¡Eso es...
+[manga-translator.MimoTokenPlanV25Translator] 2: もみはっ => ¡Frotar!
+[manga-translator.MimoTokenPlanV25Translator] 3: すっスイアセン！ => ¡Suia-sen!
+[manga-translator.MimoTokenPlanV25Translator] 4: 早くかかった甘酒をー => ¡El amazake que pedimos se está...
+[manga-translator.MimoTokenPlanV25Translator] 5: これではヒロ君は => Si no lo limpias rápido,
+[manga-translator.MimoTokenPlanV25Translator] 6: 下のほうがポカポカしてしまうのでは．．．？ => la zona inferior se enfriará, ¿no...?
+[manga-translator.MimoTokenPlanV25Translator] 7: そんなこと言ってないではやくティッシュをー => ¡No digas eso y trae los pañuelos rápido!
+[manga-translator.MimoTokenPlanV25Translator] 8: ああ．．．確かに => Ah... es verdad.
+[manga-translator.MimoTokenPlanV25Translator] 9: そういう意味じゃないですから！ => ¡No me refería a eso!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: やばい．．．先生が迷わないためとはいえ．．． => Esto es un problema... Si bien es para que el sensei no se pierda...
+[manga-translator.MimoTokenPlanV25Translator] 1: 手をつなぐとさすがに緊張して．．． => Ir tomados de la mano... me pone muy nervioso...
+[manga-translator.MimoTokenPlanV25Translator] 2: 除夜の鐘 => Campanadas de Año Nuevo
+[manga-translator.MimoTokenPlanV25Translator] 3: 受付 => Recepción
+[manga-translator.MimoTokenPlanV25Translator] 4: お！ => ¡Ah!
+[manga-translator.MimoTokenPlanV25Translator] 5: 除夜の鐘の整理券配ってますね => Están repartiendo números de turno para las campanadas de Año Nuevo
+[manga-translator.MimoTokenPlanV25Translator] 6: でもこの並びだと私たちが鳴らす前に１０８回鳴らし終えちゃいそうだよな => Pero con esta cola, parece que las 108 campanadas van a terminar de sonar antes de que nos toque a nosotros, ¿no?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: ーってあれ？ => ー ¿Eh? ¿Qué?
+[manga-translator.MimoTokenPlanV25Translator] 1: 甘酒二つで => Dos amazake.
+[manga-translator.MimoTokenPlanV25Translator] 2: 先生？ => ¿Sensei?
+[manga-translator.MimoTokenPlanV25Translator] 3: じゃあ２００円ね => Entonces son 200 yenes.
+[manga-translator.MimoTokenPlanV25Translator] 4: ん？嬢ちゃん一人なのかい？ => ¿Hmm? ¿Estás sola, chiquita?
+[manga-translator.MimoTokenPlanV25Translator] 5: 失礼な私は成人だぞ？ => ¡Qué falta de respeto! ¡Soy mayor de edad!
+[manga-translator.MimoTokenPlanV25Translator] 6: おや失敬！ => ¡Vaya, disculpa!
+[manga-translator.MimoTokenPlanV25Translator] 7: ちょっ！ => ¡Eh!
+[manga-translator.MimoTokenPlanV25Translator] 8: せっ先生：言ってるそばから目立つことしないでくださいよ！ => ¡Se-sensei! ¡No hagas cosas que llamen la atención justo mientras me estás regañando!
+[manga-translator.MimoTokenPlanV25Translator] 9: ずまんすまんでも初詣といったら甘酒だろ？ほらヒロ君も => Aunque sea Zumasuman, si es hatsumōde, ¡tiene que ser amazake! Vamos, Hiro-kun también.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9587092399597169 うっ！？ fg: (38, 26, 25) bg: (38, 26, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9919933080673219 ち．．．近．．． fg: (40, 28, 21) bg: (40, 28, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9995415210723878 本当に？ fg: (36, 24, 19) bg: (36, 24, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9999790191650391 じゃあ僕の目を見て fg: (39, 28, 23) bg: (39, 28, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9999639987945557 言ってみてくださいよ fg: (40, 29, 26) bg: (40, 29, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9828124046325685 っっ！ fg: (40, 28, 22) bg: (40, 28, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9528919458389282 心外だな私にそんな fg: (37, 26, 20) bg: (37, 26, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9963024854660035 煩悩なんてない fg: (37, 26, 23) bg: (37, 26, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9998098611831666 そ．．．そういう先生こそ人に fg: (38, 25, 19) bg: (38, 25, 19)
+[manga-translator.ModelMangaOCR] prob: 0.999858856201172 言えないような煩悩とか fg: (40, 29, 25) bg: (40, 29, 25)
+[manga-translator.ModelMangaOCR] prob: 0.9984449148178102 あるんじゃないですか？ fg: (37, 25, 22) bg: (37, 25, 22)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9936342239379884 うう．．． fg: (41, 31, 27) bg: (41, 31, 27)
+[manga-translator.ModelMangaOCR] prob: 0.9999776482582093 本当に先生は fg: (38, 27, 21) bg: (38, 27, 21)
+[manga-translator.ModelMangaOCR] prob: 0.998531997203827 煩悩がないんですか？ fg: (37, 26, 23) bg: (37, 26, 23)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.976182520389557 煩悩．．． fg: (33, 26, 22) bg: (33, 26, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9995553493499757 祓えません fg: (38, 28, 26) bg: (38, 28, 26)
+[manga-translator.ModelMangaOCR] prob: 0.9981282949447633 でしたね．．． fg: (33, 22, 17) bg: (33, 22, 17)
+[manga-translator.ModelMangaOCR] prob: 0.9837617874145509 ああ．．． fg: (33, 25, 17) bg: (33, 25, 17)
+[manga-translator.ModelMangaOCR] prob: 0.9998244643211366 困っちゃうな．．． fg: (40, 28, 23) bg: (40, 28, 23)
+[manga-translator.ModelMangaOCR] prob: 0.9510423541069031 除夜の鐘 fg: (63, 51, 48) bg: (63, 51, 48)
+[manga-translator.ModelMangaOCR] prob: 0.999974012374878 終了しました fg: (56, 51, 47) bg: (56, 51, 47)
+[manga-translator.ModelMangaOCR] prob: 0.9991148114204408 あっ．．． fg: (30, 21, 13) bg: (30, 21, 13)
+[manga-translator.ModelMangaOCR] prob: 0.9994283318519593 ．．．そうですね fg: (35, 26, 21) bg: (35, 26, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9998613595962526 ．．．終わっちゃった fg: (32, 22, 20) bg: (32, 22, 20)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.819031834602356 次回紹介されたプラミナルによって、 fg: (33, 25, 22) bg: (33, 25, 22)
+[manga-translator.ModelMangaOCR] prob: 0.9973596334457399 だ．．．だな．．． fg: (38, 27, 20) bg: (38, 27, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999543428421022 とりあえずお参り fg: (35, 25, 19) bg: (35, 25, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9999844431877136 して帰りますか fg: (36, 26, 21) bg: (36, 26, 21)
+[manga-translator.MimoTokenPlanV25Translator] Translating into Spanish
+[manga-translator.MimoTokenPlanV25Translator] 0: そうむ確かにあったかい => Sí, la verdad que está calentita.
+[manga-translator.MimoTokenPlanV25Translator] 1: ちょっと先生！ => ¡Un momento, sensei!
+[manga-translator.MimoTokenPlanV25Translator] 2: さすがに首元を冷えた手で触るのは！ => ¡Eso sí que no, tocarme el cuello con manos frías!
+[manga-translator.MimoTokenPlanV25Translator] 3: ずまんすまんほら => ¡Zumansuman, mira!
+[manga-translator.MimoTokenPlanV25Translator] 4: 私のこともポカポカかどうか確かめていいぞ => Puedes comprobar si yo también estoy calentita.
+[manga-translator.MimoTokenPlanV25Translator] 5: えっ？ => ¿Eh?
+[manga-translator.MimoTokenPlanV25Translator] 6: ほら冷えちゃう前に => Mira, antes de que se enfríe.
+[manga-translator.MimoTokenPlanV25Translator] 7: で．．．では失礼します．．． => E-entonces... si me disculpa...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: とりあえずお参りして帰りますか => ¿Vamos a visitar el santuario y luego nos volvemos?
+[manga-translator.MimoTokenPlanV25Translator] 1: だ．．．だな．．． => E... eso es...
+[manga-translator.MimoTokenPlanV25Translator] 2: 次回紹介されたプラミナルによって、 => Gracias al praminal que se presentó la próxima vez,
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 本当に？ => ¿De verdad?
+[manga-translator.MimoTokenPlanV25Translator] 1: っっっ！！ => ¡¡...!!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: 本当に先生は煩悩がないんですか？ => ¿De verdad el sensei no tiene deseos mundanos?
+[manga-translator.MimoTokenPlanV25Translator] 1: うう．．． => Ugh...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: あっ．．． => Ah...
+[manga-translator.MimoTokenPlanV25Translator] 1: 除夜の鐘終了しました => La campanada de fin de año ha terminado.
+[manga-translator.MimoTokenPlanV25Translator] 2: ．．．終わっちゃった => ...Se acabó.
+[manga-translator.MimoTokenPlanV25Translator] 3: ．．．そうですね => ...Así es.
+[manga-translator.MimoTokenPlanV25Translator] 4: 煩悩．．．祓えませんでしたね．．． => Deseos mundanos... no logré purificarlos...
+[manga-translator.MimoTokenPlanV25Translator] 5: ああ．．．困っちゃうな．．． => Ah... esto es un problema...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: え？１０８回で終わりなんですか？ => ¿Eh? ¿Se acaba en el capítulo 108?
+[manga-translator.MimoTokenPlanV25Translator] 1: よく言ったろう人間には、ＯＳ側の短編があるからその回数をつくことで原因を認い運めるって => Ya te dije que del lado del OS hay una historia corta, así que completando esa cantidad se puede confirmar la causa.
+[manga-translator.MimoTokenPlanV25Translator] 2: なるほど．．．時夜の鐘を鳴らすのにそんな意味が．．． => Ah, ya veo... Así que tocar la Campana de Noche tiene ese significado...
+[manga-translator.MimoTokenPlanV25Translator] 3: ．．．まあヒロ君は煩悩にまみれてそうだからな => ...Bueno, Hiro-kun parece estar lleno de deseos mundanos.
+[manga-translator.MimoTokenPlanV25Translator] 4: ハイ？ => ¿Mande?
+[manga-translator.MimoTokenPlanV25Translator] 5: とりあえず並ぶか => Bueno, por ahora hagamos fila.
+[manga-translator.MimoTokenPlanV25Translator] 6: しっかり祓わないと => Hay que purificarlo bien.
+[manga-translator.MimoTokenPlanV25Translator] 7: いや僕に祓わなきゃいけない煩悩なんてないですよ => No, yo no tengo ningún deseo mundano que deba purificar.
+[manga-translator.MimoTokenPlanV25Translator] 8: ほう => Ohh...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.MimoTokenPlanV25Translator] 0: そ．．．そういう先生こそ人に言えないような煩悩とかあるんじゃないですか？ => E... ¿Esos profesores no tendrán acaso deseos prohibidos de los que no pueden hablar?
+[manga-translator.MimoTokenPlanV25Translator] 1: 心外だな私にそんな煩悩なんてない => Es muy ofensivo, yo no tengo tales deseos
+[manga-translator.MimoTokenPlanV25Translator] 2: っっ！ => ¡T...!
+[manga-translator.MimoTokenPlanV25Translator] 3: 本当に？ => ¿En serio?
+[manga-translator.MimoTokenPlanV25Translator] 4: うっ！？ => ¡Ugh!?
+[manga-translator.MimoTokenPlanV25Translator] 5: じゃあ僕の目を見て言ってみてくださいよ => Entonces mire a mis ojos y dímelo
+[manga-translator.MimoTokenPlanV25Translator] 6: ち．．．近．．． => Está... muy cerca...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640

@@ -1,0 +1,42 @@
+# MangaLingo — .dockerignore
+# Excluye archivos pesados del contexto de build Docker
+
+# Modelos ML descargados (1.1 GB — se montan como volume)
+models/
+
+# Entorno virtual Python (3 GB — se instala en el container)
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Resultados temporales
+result/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose*.yml

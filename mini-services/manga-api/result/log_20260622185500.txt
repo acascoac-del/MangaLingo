@@ -1,0 +1,928 @@
+[manga-translator.ModelMangaOCR] prob: 0.9994185566902161 なんだ．．．？ fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9975851774215698 わっ fg: (2, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998463988304138 くすぐったいよ fg: (2, 5, 2) bg: (2, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998800754547119 アレク fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999825358390808 柔らかいのが fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999789595603943 重くて fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999758780002594 あったかくて fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999819397926331 体の上に fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996343851089478 なんか．．． fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994204044342041 ん．．． fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999896287918091 起きてよ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9950768947601318 ねえっ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999769926071167 タンクレット fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9982315301895142 小国の田舎村 fg: (8, 7, 9) bg: (8, 7, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9989166855812073 アレク！ fg: (0, 3, 1) bg: (0, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9986412525177002 ．．．レク fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 小国の田舎村 => Un pueblo rural de un pequeño país
+[manga-translator.M2M100Translator] 1: タンクレット => El tanque
+[manga-translator.M2M100Translator] 2: ．．．レク => ...leque
+[manga-translator.M2M100Translator] 3: アレク！ => ¡Alex!
+[manga-translator.M2M100Translator] 4: 起きてよねえっ => Levántate, sí.
+[manga-translator.M2M100Translator] 5: ん．．． => No...
+[manga-translator.M2M100Translator] 6: なんだ．．．？ => ¿Qué...?
+[manga-translator.M2M100Translator] 7: 体の上になんか．．． => Algo sobre el cuerpo...
+[manga-translator.M2M100Translator] 8: 重くてあったかくて => Lo que era pesado
+[manga-translator.M2M100Translator] 9: わっくすぐったいよアレク => Muy bonito, Alejandro
+[manga-translator.M2M100Translator] 10: 柔らかいのが => Que sea suave.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.8860695362091064 メールした fg: (172, 170, 124) bg: (135, 162, 163)
+[manga-translator.ModelMangaOCR] prob: 0.9948368072509766 そういえばいいことじゃないけどね。 fg: (133, 130, 83) bg: (137, 131, 81)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: メールしたそういえばいいことじゃないけどね。 => Enviar un correo electrónico no es nada bueno.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.68893963098526 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.8860695362091064 メールした fg: (172, 170, 124) bg: (135, 162, 163)
+[manga-translator.ModelMangaOCR] prob: 0.9948368072509766 そういえばいいことじゃないけどね。 fg: (133, 130, 83) bg: (137, 131, 81)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: メールしたそういえばいいことじゃないけどね。 => Enviar un correo electrónico no es nada bueno.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.9951018691062927 原作マサイ fg: (3, 4, 3) bg: (3, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7898077964782715 だろうね。 fg: (211, 192, 19) bg: (211, 192, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9983958005905151 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: だろうね。 => Sí sí.
+[manga-translator.M2M100Translator] 1: カラダにしか価値のない学園 => Un jardín académico que sólo vale el karada.
+[manga-translator.M2M100Translator] 2: 原作マサイ盪六壱 => El macizo de los seis.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1440x2048
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.9543617963790894 ＮＯ＿ＥＳ fg: (157, 161, 116) bg: (31, 29, 25)
+[manga-translator.ModelMangaOCR] prob: 0.6196833848953247 ついでは、日の日に日頃の国に何にか連れていた fg: (150, 153, 102) bg: (9, 6, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ついでは、日の日に日頃の国に何にか連れていた => Finalmente, todos los días trajeron algo a su país cotidiano.
+[manga-translator.M2M100Translator] 1: ＮＯ＿ＥＳ => No_es NO
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.9208147525787354 ＭＡＣＩＺＣ fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.989525556564331 ＤＥＬＯＳ fg: (4, 4, 0) bg: (6, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999725818634033 ＳＥＩＳ fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9116501212120056 ＥＬ fg: (7, 6, 1) bg: (7, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8382884860038757 って、 fg: (179, 91, 160) bg: (179, 91, 160)
+[manga-translator.ModelMangaOCR] prob: 0.9988231062889099 〜〜〜 fg: (217, 202, 16) bg: (0, 0, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9981580972671509 ＯＵＥ fg: (0, 3, 0) bg: (0, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.870058000087738 Ｓ．ＯＬＯ fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.997399091720581 ＷＡＬＥ、ＥＤ fg: (1, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9555634260177612 ＫＡＲＡＤＡ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999140501022339 ＵＮＳ fg: (3, 6, 1) bg: (3, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9823204874992371 ＪＡＲＤＩＮ fg: (2, 2, 1) bg: (30, 30, 29)
+[manga-translator.ModelMangaOCR] prob: 0.9610639214515686 ＡＣＡＤＥＭＩＣＯ fg: (3, 1, 0) bg: (79, 77, 76)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ＵＮＳ ＪＡＲＤＩＮ ＡＣＡＤＥＭＩＣＯ ＯＵＥ Ｓ．ＯＬＯ ＷＡＬＥ、ＥＤ ＫＡＲＡＤＡ => UNS JARDIN ACADEMICO OUE S. OLO WALE, ED KARADA
+[manga-translator.M2M100Translator] 1: って、 => Y que,
+[manga-translator.M2M100Translator] 2: ＥＬ ＭＡＣＩＺＣ ＤＥＬＯＳ ＳＥＩＳ => El Macic del Seis
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1440x2048
+[manga-translator.ModelMangaOCR] prob: 0.68893963098526 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.9543617963790894 ＮＯ＿ＥＳ fg: (157, 161, 116) bg: (31, 29, 25)
+[manga-translator.ModelMangaOCR] prob: 0.6196833848953247 ついでは、日の日に日頃の国に何にか連れていた fg: (150, 153, 102) bg: (9, 6, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ついでは、日の日に日頃の国に何にか連れていた => Finalmente, todos los días trajeron algo a su país cotidiano.
+[manga-translator.M2M100Translator] 1: ＮＯ＿ＥＳ => No_es NO
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.8860695362091064 メールした fg: (172, 170, 124) bg: (135, 162, 163)
+[manga-translator.ModelMangaOCR] prob: 0.9948368072509766 そういえばいいことじゃないけどね。 fg: (133, 130, 83) bg: (137, 131, 81)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: メールしたそういえばいいことじゃないけどね。 => Enviar un correo electrónico no es nada bueno.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.68893963098526 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9951018691062927 原作マサイ fg: (3, 4, 3) bg: (3, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7898077964782715 だろうね。 fg: (211, 192, 19) bg: (211, 192, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9983958005905151 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: だろうね。 => Sí sí.
+[manga-translator.M2M100Translator] 1: カラダにしか価値のない学園 => Un jardín académico que sólo vale el karada.
+[manga-translator.M2M100Translator] 2: 原作マサイ盪六壱 => El macizo de los seis.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1440x2048
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.8860695362091064 メールした fg: (172, 170, 124) bg: (135, 162, 163)
+[manga-translator.ModelMangaOCR] prob: 0.9948368072509766 そういえばいいことじゃないけどね。 fg: (133, 130, 83) bg: (137, 131, 81)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: メールしたそういえばいいことじゃないけどね。 => Enviar un correo electrónico no es nada bueno.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.8860695362091064 メールした fg: (172, 170, 124) bg: (135, 162, 163)
+[manga-translator.ModelMangaOCR] prob: 0.9948368072509766 そういえばいいことじゃないけどね。 fg: (133, 130, 83) bg: (137, 131, 81)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: メールしたそういえばいいことじゃないけどね。 => Enviar un correo electrónico no es nada bueno.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.68893963098526 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9951018691062927 原作マサイ fg: (3, 4, 3) bg: (3, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7898077964782715 だろうね。 fg: (211, 192, 19) bg: (211, 192, 19)
+[manga-translator.ModelMangaOCR] prob: 0.9983958005905151 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: だろうね。 => Sí sí.
+[manga-translator.M2M100Translator] 1: カラダにしか価値のない学園 => Un jardín académico que sólo vale el karada.
+[manga-translator.M2M100Translator] 2: 原作マサイ盪六壱 => El macizo de los seis.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1440x2048
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.8860695362091064 メールした fg: (172, 170, 124) bg: (135, 162, 163)
+[manga-translator.ModelMangaOCR] prob: 0.9948368072509766 そういえばいいことじゃないけどね。 fg: (133, 130, 83) bg: (137, 131, 81)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: メールしたそういえばいいことじゃないけどね。 => Enviar un correo electrónico no es nada bueno.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908976435661316 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283447 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: １０００それでも、いいでしょうか。 => 1000 ¿Y si no?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.8336654305458069 第６７話「作戦 fg: (21, 21, 18) bg: (21, 21, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9970276355743408 ちっとも fg: (13, 13, 9) bg: (13, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9866485595703125 面白くねーよ！ fg: (9, 7, 4) bg: (9, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999325275421143 オレがいねぇ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999693036079407 時に限って fg: (8, 8, 7) bg: (8, 8, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9999238848686218 面白いことに fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9957603216171265 なってやがる fg: (4, 1, 1) bg: (4, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9941847324371338 ったく．．． fg: (7, 8, 3) bg: (7, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.37643861770629883 ラひ値力に価値の fg: (32, 20, 29) bg: (32, 20, 29)
+[manga-translator.ModelMangaOCR] prob: 0.9858992099761963 淫烈に言えば、最強の体に悔そって、突撃するべ．．． fg: (19, 19, 18) bg: (19, 19, 18)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ラひ値力に価値の => El valor de la fuerza es valioso.
+[manga-translator.M2M100Translator] 1: ったく．．． => Sólo...
+[manga-translator.M2M100Translator] 2: オレがいねぇ時に限って面白いことになってやがる => En el momento en que yo no soy, me hará divertido.
+[manga-translator.M2M100Translator] 3: 淫烈に言えば、最強の体に悔そって、突撃するべ．．． => En cuanto a la prostitución, se arrepiente del cuerpo más fuerte y ataca...
+[manga-translator.M2M100Translator] 4: ちっとも => Sin embargo, seguramente
+[manga-translator.M2M100Translator] 5: 面白くねーよ！ => ¡No es divertido!
+[manga-translator.M2M100Translator] 6: 第６７話作戦 => Artículo 67 Operación
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9915615320205688 貝塚さんの fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999927818775177 発動阻害は fg: (11, 11, 9) bg: (11, 11, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9994545578956604 想像していた以上に fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999839067459106 使い勝手の悪い fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999622702598572 能力だ fg: (9, 8, 4) bg: (9, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999792575836182 なんだよ歯切れ fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.8401985764503479 悪いな．．． fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9854700565338135 増えたといえば fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9262888431549072 増えたんだけど．．． fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999716579914093 味方が fg: (11, 9, 6) bg: (11, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9991194009780884 増えたんだろ？ fg: (8, 6, 2) bg: (8, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998487830162048 まあよかったじゃ fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999123811721802 ねぇか fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8989173173904419 でも．．． fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: でも．．．まあよかったじゃねぇか => Pero... ¿no fue bueno?
+[manga-translator.M2M100Translator] 1: 味方が増えたんだろ？ => ¿Ha aumentado el número de partidarios?
+[manga-translator.M2M100Translator] 2: 増えたといえば増えたんだけど．．． => Se dice que se ha incrementado, pero...
+[manga-translator.M2M100Translator] 3: なんだよ歯切れ悪いな．．． => ¿Qué es lo que se pierde los dientes?
+[manga-translator.M2M100Translator] 4: 貝塚さんの発動阻害は想像していた以上に使い勝手の悪い能力だ => El bloqueo de movimiento del Beethoven es una mala capacidad para usarlo más que lo imaginaba.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9972282648086548 誰かが死ぬごとは、 fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999292492866516 避けられない fg: (9, 8, 7) bg: (9, 8, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9983869791030884 即死 fg: (19, 14, 8) bg: (19, 14, 8)
+[manga-translator.ModelMangaOCR] prob: 0.7935146689414978 つまり義姉さんの fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999675750732422 即死を阻害しても fg: (7, 7, 4) bg: (7, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7675692439079285 一発動阻害．．． fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.808400571346283 実際に貝塚さんを fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9969050288200378 狙って発動された fg: (7, 7, 5) bg: (7, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999513030052185 能力を阻害した結果 fg: (7, 7, 5) bg: (7, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.8712442517280579 俺に対象が移った fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999037981033325 対象の能力を fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998540878295898 打ち消せる fg: (7, 5, 2) bg: (7, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999696612358093 訳じゃない fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.6991856098175049 Ｓｎａｌ＿ｗｅ＿ｄａｉｎｏｅｌ－ fg: (0, 0, 1) bg: (0, 0, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 対象の能力を打ち消せる訳じゃない => No puede destruir la capacidad del objeto.
+[manga-translator.M2M100Translator] 1: Ｓｎａｌ＿ｗｅ＿ｄａｉｎｏｅｌ－ => Snal_we _dainoel-
+[manga-translator.M2M100Translator] 2: 実際に貝塚さんを狙って発動された能力を阻害した結果俺に対象が移った => De hecho, como resultado de bloquear la capacidad que se ha lanzado para dirigir a Beethoven en realidad me pasó el camino hacia mí.
+[manga-translator.M2M100Translator] 3: 一発動阻害．．． => Un ataque de bloqueo...
+[manga-translator.M2M100Translator] 4: つまり義姉さんの => Es decir, la hermana de
+[manga-translator.M2M100Translator] 5: 即死を阻害しても => Si se impide la muerte inmediata
+[manga-translator.M2M100Translator] 6: 誰かが死ぬごとは、避けられない => Si alguien muere, es inevitable.
+[manga-translator.M2M100Translator] 7: 即死 => La muerte inmediata.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9984679222106934 韮澤ほどでは fg: (7, 7, 4) bg: (7, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999918341636658 ないかな fg: (9, 8, 4) bg: (9, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999474883079529 組み合ったら fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999983549118042 相当強いとは fg: (9, 8, 4) bg: (9, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9293346405029297 思うけど．．． fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999880194664001 加賀さんは超近接 fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9226124882698059 戦闘タイプだから。 fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9949679374694824 貝塚さんは fg: (4, 3, 2) bg: (4, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9903979301452637 戦闘ナは fg: (9, 9, 5) bg: (9, 9, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9998452067375183 なさそう fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8657886385917664 で．． fg: (6, 10, 5) bg: (6, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999628663063049 そいつら fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9968515634536743 強いのか？ fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: で．． => Y...
+[manga-translator.M2M100Translator] 1: そいつら強いのか？ => ¿Son ellos fuertes?
+[manga-translator.M2M100Translator] 2: 貝塚さんは戦闘ナはなさそう => No creo que sea un luchador.
+[manga-translator.M2M100Translator] 3: 加賀さんは超近接戦闘タイプだから。 => Gaga es un tipo de lucha muy cercano.
+[manga-translator.M2M100Translator] 4: 組み合ったら相当強いとは思うけど．．． => Creo que la combinación es bastante fuerte, pero...
+[manga-translator.M2M100Translator] 5: 韮澤ほどではないかな => ¿No es tan grande como el ZZ?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9760040640830994 素直かよ．．． fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999649524688721 そうだね fg: (7, 6, 3) bg: (7, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999515414237976 結局頼りに fg: (7, 8, 5) bg: (7, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999662637710571 なんのは fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999932050704956 オレだけって fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999815821647644 ことかよ fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8258196711540222 なんだよ．． fg: (14, 9, 5) bg: (14, 9, 5)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: なんだよ．． => ¿Qué es...
+[manga-translator.M2M100Translator] 1: 結局頼りになんのはオレだけってことかよ => Al final, lo que sólo me depende es de mí.
+[manga-translator.M2M100Translator] 2: そうだね => Sí sí.
+[manga-translator.M2M100Translator] 3: 素直かよ．．． => ¿Es sincero...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9999727606773376 我慢できなく fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9834646582603455 なるだろうが fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995458126068115 あんまり fg: (7, 7, 2) bg: (7, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998698234558105 可愛いこと言うと fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8833068609237671 んんっ！？ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: んんっ！？ => ¿Y no?
+[manga-translator.M2M100Translator] 1: あんまり可愛いこと言うと => Dicen cosas muy hermosas
+[manga-translator.M2M100Translator] 2: 我慢できなくなるだろうが => No podrá soportar, pero
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9999760985374451 どこからの fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983595013618469 情報だ？ fg: (11, 12, 10) bg: (11, 12, 10)
+[manga-translator.ModelMangaOCR] prob: 0.6642137765884399 ほう．．． fg: (11, 9, 6) bg: (11, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9783839583396912 吉備津一派が fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999262094497681 滝神広人を fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9166074991226196 襲撃した模様です fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8664038777351379 昨晩．． fg: (14, 12, 10) bg: (14, 12, 10)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 昨晩．． => La noche de ayer...
+[manga-translator.M2M100Translator] 1: 吉備津一派が滝神広人を襲撃した模様です => Parece que un grupo de Gijozin atacó a la Guardia del Caciado.
+[manga-translator.M2M100Translator] 2: ほう．．． => Bueno...
+[manga-translator.M2M100Translator] 3: どこからの情報だ？ => ¿De dónde viene la información?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9988904595375061 過大評価 fg: (5, 6, 5) bg: (5, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999127984046936 だったらしい fg: (5, 7, 3) bg: (5, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9618200063705444 ハニトラで弱みを fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8201507925987244 握るぐらいの fg: (22, 21, 18) bg: (22, 21, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9998521208763123 ことはすると fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9155300855636597 思ったのだがな．．． fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9618493318557739 呆れた．．． fg: (9, 8, 6) bg: (9, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999148845672607 滝神広人は無傷 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996476769447327 返り討ちに fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999955952167511 遭ったようです fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9957088828086853 能力サバゲ部員の fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9126607179641724 一人がたまたま fg: (11, 10, 4) bg: (11, 10, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9919220209121704 目撃いたしまして．．． fg: (6, 6, 4) bg: (6, 6, 4)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 能力サバゲ部員の一人がたまたま目撃いたしまして．．． => Una de las capacidades del Sabaje ha sido testigo por casualidad...
+[manga-translator.M2M100Translator] 1: 滝神広人は無傷返り討ちに遭ったようです => De hecho, el cardenal parece haber sufrido una derrota sin heridas.
+[manga-translator.M2M100Translator] 2: 呆れた．．． => Se quedó...
+[manga-translator.M2M100Translator] 3: ハニトラで弱みを握るぐらいのことはすると思ったのだがな．．． => Pensaba que iba a hacer lo suficiente para mantener las debilidades en Hannitra, pero...
+[manga-translator.M2M100Translator] 4: 過大評価だったらしい => Parece que fue demasiado apreciado.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9659432172775269 とんでもない！ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.987108588218689 庇う気？ fg: (7, 6, 6) bg: (7, 6, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999547600746155 どうしてあの男を fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999871850013733 そこまで目の敵に fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997075796127319 するのですか？ fg: (7, 9, 6) bg: (7, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9947715997695923 それにしても．．． fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999638199806213 吉備津を fg: (12, 11, 6) bg: (12, 11, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999443888664246 けしかけてまで fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9944756031036377 退学を迫るなんて fg: (4, 2, 0) bg: (4, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8920705318450928 ．．．もうちょっと fg: (8, 8, 4) bg: (8, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999793171882629 探ってみようかな fg: (7, 5, 3) bg: (7, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.8740536570549011 ．．．折角の fg: (5, 6, 4) bg: (5, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998763799667358 機会だし fg: (9, 10, 7) bg: (9, 10, 7)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．折角の機会だし => Es una oportunidad de recorrido.
+[manga-translator.M2M100Translator] 1: ．．．もうちょっと探ってみようかな => Vamos a probar un poco más.
+[manga-translator.M2M100Translator] 2: それにしても．．．吉備津をけしかけてまで退学を迫るなんて => Sin embargo, no se debe obligar a salir de la escuela hasta que Gijobzín sea asesinado.
+[manga-translator.M2M100Translator] 3: どうしてあの男をそこまで目の敵にするのですか？ => ¿Por qué lo haces tanto enemigo de los ojos?
+[manga-translator.M2M100Translator] 4: 庇う気？ => ¿Quieres protegerte?
+[manga-translator.M2M100Translator] 5: とんでもない！ => ¡Es increíble!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9954841136932373 原作マサイ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983956217765808 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: カラダにしか価値のない学園 => Un jardín académico que sólo vale el karada.
+[manga-translator.M2M100Translator] 1: 原作マサイ盪六壱 => El macizo de los seis.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1440x2048
+[manga-translator.ModelMangaOCR] prob: 0.9999721050262451 麗ちゃんは fg: (8, 7, 5) bg: (8, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999708533287048 あの男と fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998149275779724 父親のせいで fg: (6, 6, 5) bg: (6, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999822974205017 家族を失った fg: (10, 10, 7) bg: (10, 10, 7)
+[manga-translator.ModelMangaOCR] prob: 0.999991774559021 殺しても fg: (9, 10, 6) bg: (9, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999546408653259 飽き足りない fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999638795852661 相手がすぐ傍に fg: (8, 7, 3) bg: (8, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9650756120681763 いるなんて．．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9978538751602173 辛すぎるのよ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9668031930923462 会長は．．． fg: (16, 13, 9) bg: (16, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999229907989502 あんなくだらない fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.973358690738678 男にそれだけの fg: (4, 2, 1) bg: (4, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9840400815010071 価値があるとは fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998138546943665 思えなくて fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999965250492096 単純に少なからず fg: (8, 8, 3) bg: (8, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997203946113586 リスクのある fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.817369282245636 話ですから．．． fg: (35, 35, 34) bg: (35, 35, 34)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 単純に少なからずリスクのある話ですから．．． => Sin embargo, es una cuestión de poco riesgo...
+[manga-translator.M2M100Translator] 1: あんなくだらない男にそれだけの価値があるとは思えなくて => No creo que un hombre tan valioso tenga tanto valor.
+[manga-translator.M2M100Translator] 2: 会長は．．． => El presidente ha...
+[manga-translator.M2M100Translator] 3: 麗ちゃんはあの男と父親のせいで家族を失った => Ricky perdió la familia debido a ese hombre y su padre.
+[manga-translator.M2M100Translator] 4: 殺しても飽き足りない相手がすぐ傍にいるなんて．．．辛すぎるのよ => Es muy doloroso que alguien no se sienta cansado de matar a un lado... es demasiado difícil.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9276162981987 んっ．．． fg: (0, 3, 4) bg: (0, 3, 4)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: んっ．．． => No...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.999953031539917 絶対に気を fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995009303092957 許さないで！ fg: (11, 12, 8) bg: (11, 12, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9999717473983765 あの男は fg: (6, 7, 2) bg: (6, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9742067456245422 邪悪そのもの．．． fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999712109565735 広人のせいでって fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9856501221656799 ．．．どういうこと？ fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9446972608566284 ．．．麗ちゃん？ fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．麗ちゃん？ => ¿La Ria?
+[manga-translator.M2M100Translator] 1: 広人のせいでって．．．どういうこと？ => Por causa de la corrupción... ¿qué significa?
+[manga-translator.M2M100Translator] 2: あの男は邪悪そのもの．．． => El hombre es el mal mismo...
+[manga-translator.M2M100Translator] 3: 絶対に気を許さないで！ => ¡Nunca te preocupes por perdón!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.8778994083404541 も．．申し訳．．． fg: (8, 8, 6) bg: (8, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999547004699707 ありません fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9556499719619751 まさか夕が fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999245405197144 失敗する fg: (7, 5, 4) bg: (7, 5, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9938364624977112 なんてね．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: まさか夕が失敗するなんてね．．． => No es que la noche fallece...
+[manga-translator.M2M100Translator] 1: も．．申し訳．．．ありません => Y... perdón, no.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9659432172775269 とんでもない！ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.987108588218689 庇う気？ fg: (7, 6, 6) bg: (7, 6, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999547600746155 どうしてあの男を fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999871850013733 そこまで目の敵に fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997075796127319 するのですか？ fg: (7, 9, 6) bg: (7, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9947715997695923 それにしても．．． fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999638199806213 吉備津を fg: (12, 11, 6) bg: (12, 11, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999443888664246 けしかけてまで fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9944756031036377 退学を迫るなんて fg: (4, 2, 0) bg: (4, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8920705318450928 ．．．もうちょっと fg: (8, 8, 4) bg: (8, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999793171882629 探ってみようかな fg: (7, 5, 3) bg: (7, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.8740536570549011 ．．．折角の fg: (5, 6, 4) bg: (5, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998763799667358 機会だし fg: (9, 10, 7) bg: (9, 10, 7)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．折角の機会だし => Es una oportunidad de recorrido.
+[manga-translator.M2M100Translator] 1: ．．．もうちょっと探ってみようかな => Vamos a probar un poco más.
+[manga-translator.M2M100Translator] 2: それにしても．．．吉備津をけしかけてまで退学を迫るなんて => Sin embargo, no se debe obligar a salir de la escuela hasta que Gijobzín sea asesinado.
+[manga-translator.M2M100Translator] 3: どうしてあの男をそこまで目の敵にするのですか？ => ¿Por qué lo haces tanto enemigo de los ojos?
+[manga-translator.M2M100Translator] 4: 庇う気？ => ¿Quieres protegerte?
+[manga-translator.M2M100Translator] 5: とんでもない！ => ¡Es increíble!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9999721050262451 麗ちゃんは fg: (8, 7, 5) bg: (8, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999708533287048 あの男と fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998149275779724 父親のせいで fg: (6, 6, 5) bg: (6, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999822974205017 家族を失った fg: (10, 10, 7) bg: (10, 10, 7)
+[manga-translator.ModelMangaOCR] prob: 0.999991774559021 殺しても fg: (9, 10, 6) bg: (9, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999546408653259 飽き足りない fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999638795852661 相手がすぐ傍に fg: (8, 7, 3) bg: (8, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9650756120681763 いるなんて．．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9978538751602173 辛すぎるのよ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9668031930923462 会長は．．． fg: (16, 13, 9) bg: (16, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999229907989502 あんなくだらない fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.973358690738678 男にそれだけの fg: (4, 2, 1) bg: (4, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9840400815010071 価値があるとは fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998138546943665 思えなくて fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999965250492096 単純に少なからず fg: (8, 8, 3) bg: (8, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997203946113586 リスクのある fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.817369282245636 話ですから．．． fg: (35, 35, 34) bg: (35, 35, 34)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 単純に少なからずリスクのある話ですから．．． => Sin embargo, es una cuestión de poco riesgo...
+[manga-translator.M2M100Translator] 1: あんなくだらない男にそれだけの価値があるとは思えなくて => No creo que un hombre tan valioso tenga tanto valor.
+[manga-translator.M2M100Translator] 2: 会長は．．． => El presidente ha...
+[manga-translator.M2M100Translator] 3: 麗ちゃんはあの男と父親のせいで家族を失った => Ricky perdió la familia debido a ese hombre y su padre.
+[manga-translator.M2M100Translator] 4: 殺しても飽き足りない相手がすぐ傍にいるなんて．．．辛すぎるのよ => Es muy doloroso que alguien no se sienta cansado de matar a un lado... es demasiado difícil.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.990440309047699 そんな．．． fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.7048745155334473 あ．． fg: (6, 4, 1) bg: (6, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9756491780281067 あんっ．．．！ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998524188995361 爆弾女とセットで fg: (10, 9, 5) bg: (10, 9, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9322715401649475 運用されたら手が fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8945339322090149 付けられないかも．．． fg: (10, 8, 8) bg: (10, 8, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9999683499336243 こちらの攻撃は fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997502565383911 全部阻害される fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9934425950050354 ので．．．んっ！ fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9535360336303711 あ．．． fg: (13, 10, 6) bg: (13, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.777835488319397 こ．．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9392830729484558 はい．．． fg: (12, 12, 6) bg: (12, 12, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9983812570571899 んぁっ！？ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8006391525268555 は．． fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997950196266174 能力を阻害する fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9984486699104309 子の方だね fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9589470624923706 厄介なのは fg: (9, 9, 4) bg: (9, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9992031455039978 サバゲ部の fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.5506985187530518 子より．．． fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 厄介なのはサバゲ部の子より．．． => Lo más difícil es que el niño de Sabaja...
+[manga-translator.M2M100Translator] 1: 能力を阻害する子の方だね => Es el niño que bloquea las capacidades.
+[manga-translator.M2M100Translator] 2: んぁっ！？ => ¿No? →
+[manga-translator.M2M100Translator] 3: は．．はい．．． => Y... Sí...
+[manga-translator.M2M100Translator] 4: あ．．．こ．．．こちらの攻撃は全部阻害されるので．．．んっ！ => ¡Oh, oh... todos estos ataques serán bloqueados!
+[manga-translator.M2M100Translator] 5: 爆弾女とセットで運用されたら手が付けられないかも．．． => Si se opera en un set con una mujer de bombas, puede que no pueda poner la mano...
+[manga-translator.M2M100Translator] 6: あ．．あんっ．．．！ => ¡Oh, oh... Oh!
+[manga-translator.M2M100Translator] 7: そんな．．． => Así es como...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.999953031539917 絶対に気を fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995009303092957 許さないで！ fg: (11, 12, 8) bg: (11, 12, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9999717473983765 あの男は fg: (6, 7, 2) bg: (6, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9742067456245422 邪悪そのもの．．． fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999712109565735 広人のせいでって fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9856501221656799 ．．．どういうこと？ fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9446972608566284 ．．．麗ちゃん？ fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．麗ちゃん？ => ¿La Ria?
+[manga-translator.M2M100Translator] 1: 広人のせいでって．．．どういうこと？ => Por causa de la corrupción... ¿qué significa?
+[manga-translator.M2M100Translator] 2: あの男は邪悪そのもの．．． => El hombre es el mal mismo...
+[manga-translator.M2M100Translator] 3: 絶対に気を許さないで！ => ¡Nunca te preocupes por perdón!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9276162981987 んっ．．． fg: (0, 3, 4) bg: (0, 3, 4)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: んっ．．． => No...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9659432172775269 とんでもない！ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.987108588218689 庇う気？ fg: (7, 6, 6) bg: (7, 6, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999547600746155 どうしてあの男を fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999871850013733 そこまで目の敵に fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997075796127319 するのですか？ fg: (7, 9, 6) bg: (7, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9947715997695923 それにしても．．． fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999638199806213 吉備津を fg: (12, 11, 6) bg: (12, 11, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999443888664246 けしかけてまで fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9944756031036377 退学を迫るなんて fg: (4, 2, 0) bg: (4, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8920705318450928 ．．．もうちょっと fg: (8, 8, 4) bg: (8, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999793171882629 探ってみようかな fg: (7, 5, 3) bg: (7, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.8740536570549011 ．．．折角の fg: (5, 6, 4) bg: (5, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998763799667358 機会だし fg: (9, 10, 7) bg: (9, 10, 7)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．折角の機会だし => Es una oportunidad de recorrido.
+[manga-translator.M2M100Translator] 1: ．．．もうちょっと探ってみようかな => Vamos a probar un poco más.
+[manga-translator.M2M100Translator] 2: それにしても．．．吉備津をけしかけてまで退学を迫るなんて => Sin embargo, no se debe obligar a salir de la escuela hasta que Gijobzín sea asesinado.
+[manga-translator.M2M100Translator] 3: どうしてあの男をそこまで目の敵にするのですか？ => ¿Por qué lo haces tanto enemigo de los ojos?
+[manga-translator.M2M100Translator] 4: 庇う気？ => ¿Quieres protegerte?
+[manga-translator.M2M100Translator] 5: とんでもない！ => ¡Es increíble!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9142423272132874 ．．．何か手を fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9984402060508728 打つべきだね fg: (11, 9, 7) bg: (11, 9, 7)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．何か手を打つべきだね => Hay que hacer algo con la mano.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.996490478515625 いい機会？ fg: (13, 13, 9) bg: (13, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999303221702576 でもいい機会 fg: (8, 10, 6) bg: (8, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308777 なんだ fg: (12, 10, 6) bg: (12, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.815463662147522 そうだね．．． fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998327493667603 何か校則違反を fg: (8, 6, 4) bg: (8, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9951716661453247 させて追い込む方が fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9981629252433777 簡単じゃない？ fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999673366546631 退学に fg: (7, 7, 5) bg: (7, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.7577666044235228 するんなら．．． fg: (39, 39, 37) bg: (39, 39, 37)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 退学にするんなら．．． => Si quieres salir de la escuela...
+[manga-translator.M2M100Translator] 1: 何か校則違反をさせて追い込む方が簡単じゃない？ => ¿No es más fácil hacer una violación de la escuela?
+[manga-translator.M2M100Translator] 2: そうだね．．． => Sí sí...
+[manga-translator.M2M100Translator] 3: でもいい機会なんだ => Pero es una buena oportunidad.
+[manga-translator.M2M100Translator] 4: いい機会？ => ¿Una buena oportunidad?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.8778994083404541 も．．申し訳．．． fg: (8, 8, 6) bg: (8, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999547004699707 ありません fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9556499719619751 まさか夕が fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999245405197144 失敗する fg: (7, 5, 4) bg: (7, 5, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9938364624977112 なんてね．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: まさか夕が失敗するなんてね．．． => No es que la noche fallece...
+[manga-translator.M2M100Translator] 1: も．．申し訳．．．ありません => Y... perdón, no.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9999721050262451 麗ちゃんは fg: (8, 7, 5) bg: (8, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999708533287048 あの男と fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998149275779724 父親のせいで fg: (6, 6, 5) bg: (6, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999822974205017 家族を失った fg: (10, 10, 7) bg: (10, 10, 7)
+[manga-translator.ModelMangaOCR] prob: 0.999991774559021 殺しても fg: (9, 10, 6) bg: (9, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999546408653259 飽き足りない fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999638795852661 相手がすぐ傍に fg: (8, 7, 3) bg: (8, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9650756120681763 いるなんて．．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9978538751602173 辛すぎるのよ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9668031930923462 会長は．．． fg: (16, 13, 9) bg: (16, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999229907989502 あんなくだらない fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.973358690738678 男にそれだけの fg: (4, 2, 1) bg: (4, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9840400815010071 価値があるとは fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998138546943665 思えなくて fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999965250492096 単純に少なからず fg: (8, 8, 3) bg: (8, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997203946113586 リスクのある fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.817369282245636 話ですから．．． fg: (35, 35, 34) bg: (35, 35, 34)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 単純に少なからずリスクのある話ですから．．． => Sin embargo, es una cuestión de poco riesgo...
+[manga-translator.M2M100Translator] 1: あんなくだらない男にそれだけの価値があるとは思えなくて => No creo que un hombre tan valioso tenga tanto valor.
+[manga-translator.M2M100Translator] 2: 会長は．．． => El presidente ha...
+[manga-translator.M2M100Translator] 3: 麗ちゃんはあの男と父親のせいで家族を失った => Ricky perdió la familia debido a ese hombre y su padre.
+[manga-translator.M2M100Translator] 4: 殺しても飽き足りない相手がすぐ傍にいるなんて．．．辛すぎるのよ => Es muy doloroso que alguien no se sienta cansado de matar a un lado... es demasiado difícil.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.990440309047699 そんな．．． fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.7048745155334473 あ．． fg: (6, 4, 1) bg: (6, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9756491780281067 あんっ．．．！ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998524188995361 爆弾女とセットで fg: (10, 9, 5) bg: (10, 9, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9322715401649475 運用されたら手が fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8945339322090149 付けられないかも．．． fg: (10, 8, 8) bg: (10, 8, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9999683499336243 こちらの攻撃は fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997502565383911 全部阻害される fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9934425950050354 ので．．．んっ！ fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9535360336303711 あ．．． fg: (13, 10, 6) bg: (13, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.777835488319397 こ．．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9392830729484558 はい．．． fg: (12, 12, 6) bg: (12, 12, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9983812570571899 んぁっ！？ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8006391525268555 は．． fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997950196266174 能力を阻害する fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9984486699104309 子の方だね fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9589470624923706 厄介なのは fg: (9, 9, 4) bg: (9, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9992031455039978 サバゲ部の fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.5506985187530518 子より．．． fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 厄介なのはサバゲ部の子より．．． => Lo más difícil es que el niño de Sabaja...
+[manga-translator.M2M100Translator] 1: 能力を阻害する子の方だね => Es el niño que bloquea las capacidades.
+[manga-translator.M2M100Translator] 2: んぁっ！？ => ¿No? →
+[manga-translator.M2M100Translator] 3: は．．はい．．． => Y... Sí...
+[manga-translator.M2M100Translator] 4: あ．．．こ．．．こちらの攻撃は全部阻害されるので．．．んっ！ => ¡Oh, oh... todos estos ataques serán bloqueados!
+[manga-translator.M2M100Translator] 5: 爆弾女とセットで運用されたら手が付けられないかも．．． => Si se opera en un set con una mujer de bombas, puede que no pueda poner la mano...
+[manga-translator.M2M100Translator] 6: あ．．あんっ．．．！ => ¡Oh, oh... Oh!
+[manga-translator.M2M100Translator] 7: そんな．．． => Así es como...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.999953031539917 絶対に気を fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995009303092957 許さないで！ fg: (11, 12, 8) bg: (11, 12, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9999717473983765 あの男は fg: (6, 7, 2) bg: (6, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9742067456245422 邪悪そのもの．．． fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999712109565735 広人のせいでって fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9856501221656799 ．．．どういうこと？ fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9446972608566284 ．．．麗ちゃん？ fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．麗ちゃん？ => ¿La Ria?
+[manga-translator.M2M100Translator] 1: 広人のせいでって．．．どういうこと？ => Por causa de la corrupción... ¿qué significa?
+[manga-translator.M2M100Translator] 2: あの男は邪悪そのもの．．． => El hombre es el mal mismo...
+[manga-translator.M2M100Translator] 3: 絶対に気を許さないで！ => ¡Nunca te preocupes por perdón!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.892034649848938 あぁん．．． fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999449253082275 ただの fg: (11, 10, 5) bg: (11, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999818801879883 弱い者いじめに fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998345375061035 なるからね fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999691247940063 抵抗しない fg: (13, 12, 8) bg: (13, 12, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9793154001235962 相手じゃ．．． fg: (11, 11, 8) bg: (11, 11, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9970488548278809 発酵食品に fg: (4, 4, 5) bg: (4, 4, 5)
+[manga-translator.ModelMangaOCR] prob: 0.999781608581543 使える分カビの方が fg: (4, 2, 1) bg: (4, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8930407166481018 いくらかマシだ fg: (15, 11, 5) bg: (15, 11, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9911556243896484 叩き潰す機会が fg: (6, 8, 5) bg: (6, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9997509121894836 見当たらない fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999733567237854 連中の能力は fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999807476997375 弱すぎて fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9899551868438721 だが．．． fg: (6, 8, 3) bg: (6, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9993348717689514 男なんて存在する fg: (9, 8, 4) bg: (9, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.999944269657135 価値もない生き物 fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 男なんて存在する価値もない生き物 => El hombre es una criatura que no vale la pena existir.
+[manga-translator.M2M100Translator] 1: 発酵食品に使える分カビの方がいくらかマシだ => Es un poco mejor que los pimples utilizados para el alimento fermentado.
+[manga-translator.M2M100Translator] 2: だが．．． => Pero...
+[manga-translator.M2M100Translator] 3: 連中の能力は弱すぎて叩き潰す機会が見当たらない => Sus capacidades son demasiado débiles para que no encuentren la oportunidad de derribarlos.
+[manga-translator.M2M100Translator] 4: 抵抗しない相手じゃ．．． => A los que no se resisten...
+[manga-translator.M2M100Translator] 5: ただの弱い者いじめになるからね => Sólo los débiles se molestarán.
+[manga-translator.M2M100Translator] 6: あぁん．．． => Oh oh...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9276162981987 んっ．．． fg: (0, 3, 4) bg: (0, 3, 4)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: んっ．．． => No...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9996848106384277 リリカちゃんを fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999711513519287 手に入れるのにも fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998162984848022 邪魔だしね fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99489825963974 私の可愛いタに fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999895691871643 怪我をさせた fg: (8, 7, 3) bg: (8, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.989517331123352 華いを受けさせる fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9545102715492249 必要はあるだろう？ fg: (6, 4, 2) bg: (6, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9945248961448669 それに．．． fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9574515223503113 男をボコボコに fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999940812587738 してみたい fg: (11, 10, 5) bg: (11, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.95257568359375 ってこと．．．わ fg: (2, 1, 1) bg: (2, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8685100674629211 つまり．． fg: (5, 7, 3) bg: (5, 7, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: つまり．． => Significa...
+[manga-translator.M2M100Translator] 1: 男をボコボコにしてみたいってこと．．．わ => Quieres que un hombre te trate de...
+[manga-translator.M2M100Translator] 2: それに．．． => Y además...
+[manga-translator.M2M100Translator] 3: 私の可愛いタに怪我をさせた華いを受けさせる必要はあるだろう？ => ¿Tienes que aceptar el esplendor de la cual me ha herido mi querida?
+[manga-translator.M2M100Translator] 4: リリカちゃんを手に入れるのにも邪魔だしね => También le interrumpió conseguir a Rika.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9954841136932373 原作マサイ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983956217765808 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: カラダにしか価値のない学園 => Un jardín académico que sólo vale el karada.
+[manga-translator.M2M100Translator] 1: 原作マサイ盪六壱 => El macizo de los seis.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1440x2048
+[manga-translator.ModelMangaOCR] prob: 0.9142423272132874 ．．．何か手を fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9984402060508728 打つべきだね fg: (11, 9, 7) bg: (11, 9, 7)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．何か手を打つべきだね => Hay que hacer algo con la mano.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.68893963098526 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8885824680328369 お姉さまぁ．．． fg: (11, 11, 7) bg: (11, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9027785062789917 あんっ．．． fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: あんっ．．． => ¡Oh, oh...
+[manga-translator.M2M100Translator] 1: お姉さまぁ．．． => La hermana...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.996490478515625 いい機会？ fg: (13, 13, 9) bg: (13, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999303221702576 でもいい機会 fg: (8, 10, 6) bg: (8, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308777 なんだ fg: (12, 10, 6) bg: (12, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.815463662147522 そうだね．．． fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998327493667603 何か校則違反を fg: (8, 6, 4) bg: (8, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9951716661453247 させて追い込む方が fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9981629252433777 簡単じゃない？ fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999673366546631 退学に fg: (7, 7, 5) bg: (7, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.7577666044235228 するんなら．．． fg: (39, 39, 37) bg: (39, 39, 37)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 退学にするんなら．．． => Si quieres salir de la escuela...
+[manga-translator.M2M100Translator] 1: 何か校則違反をさせて追い込む方が簡単じゃない？ => ¿No es más fácil hacer una violación de la escuela?
+[manga-translator.M2M100Translator] 2: そうだね．．． => Sí sí...
+[manga-translator.M2M100Translator] 3: でもいい機会なんだ => Pero es una buena oportunidad.
+[manga-translator.M2M100Translator] 4: いい機会？ => ¿Una buena oportunidad?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.8778994083404541 も．．申し訳．．． fg: (8, 8, 6) bg: (8, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999547004699707 ありません fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9556499719619751 まさか夕が fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999245405197144 失敗する fg: (7, 5, 4) bg: (7, 5, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9938364624977112 なんてね．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: まさか夕が失敗するなんてね．．． => No es que la noche fallece...
+[manga-translator.M2M100Translator] 1: も．．申し訳．．．ありません => Y... perdón, no.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.990440309047699 そんな．．． fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.7048745155334473 あ．． fg: (6, 4, 1) bg: (6, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9756491780281067 あんっ．．．！ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998524188995361 爆弾女とセットで fg: (10, 9, 5) bg: (10, 9, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9322715401649475 運用されたら手が fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8945339322090149 付けられないかも．．． fg: (10, 8, 8) bg: (10, 8, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9999683499336243 こちらの攻撃は fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997502565383911 全部阻害される fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9934425950050354 ので．．．んっ！ fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9535360336303711 あ．．． fg: (13, 10, 6) bg: (13, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.777835488319397 こ．．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9392830729484558 はい．．． fg: (12, 12, 6) bg: (12, 12, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9983812570571899 んぁっ！？ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8006391525268555 は．． fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997950196266174 能力を阻害する fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9984486699104309 子の方だね fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9589470624923706 厄介なのは fg: (9, 9, 4) bg: (9, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9992031455039978 サバゲ部の fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.5506985187530518 子より．．． fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 厄介なのはサバゲ部の子より．．． => Lo más difícil es que el niño de Sabaja...
+[manga-translator.M2M100Translator] 1: 能力を阻害する子の方だね => Es el niño que bloquea las capacidades.
+[manga-translator.M2M100Translator] 2: んぁっ！？ => ¿No? →
+[manga-translator.M2M100Translator] 3: は．．はい．．． => Y... Sí...
+[manga-translator.M2M100Translator] 4: あ．．．こ．．．こちらの攻撃は全部阻害されるので．．．んっ！ => ¡Oh, oh... todos estos ataques serán bloqueados!
+[manga-translator.M2M100Translator] 5: 爆弾女とセットで運用されたら手が付けられないかも．．． => Si se opera en un set con una mujer de bombas, puede que no pueda poner la mano...
+[manga-translator.M2M100Translator] 6: あ．．あんっ．．．！ => ¡Oh, oh... Oh!
+[manga-translator.M2M100Translator] 7: そんな．．． => Así es como...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.6681117415428162 ブチ切れの女帝。 fg: (79, 81, 80) bg: (79, 81, 80)
+[manga-translator.ModelMangaOCR] prob: 0.9996240139007568 きっちり fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999192953109741 思い知らせて fg: (11, 11, 9) bg: (11, 11, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999014735221863 やらないと fg: (10, 8, 6) bg: (10, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9964670538902283 私の子猫ちゃん fg: (12, 13, 9) bg: (12, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999890327453613 たちに fg: (9, 8, 6) bg: (9, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999788999557495 手を出したら fg: (11, 11, 7) bg: (11, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9409552216529846 どうなるか．．． fg: (13, 10, 9) bg: (13, 10, 9)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 私の子猫ちゃんたちに手を出したらどうなるか．．． => ¿Qué ocurriría si los gatos me dieron la mano...
+[manga-translator.M2M100Translator] 1: きっちり思い知らせてやらないと => Hay que informarle correctamente.
+[manga-translator.M2M100Translator] 2: ブチ切れの女帝。 => La reina de los ladrillos.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.892034649848938 あぁん．．． fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999449253082275 ただの fg: (11, 10, 5) bg: (11, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999818801879883 弱い者いじめに fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998345375061035 なるからね fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999691247940063 抵抗しない fg: (13, 12, 8) bg: (13, 12, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9793154001235962 相手じゃ．．． fg: (11, 11, 8) bg: (11, 11, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9970488548278809 発酵食品に fg: (4, 4, 5) bg: (4, 4, 5)
+[manga-translator.ModelMangaOCR] prob: 0.999781608581543 使える分カビの方が fg: (4, 2, 1) bg: (4, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8930407166481018 いくらかマシだ fg: (15, 11, 5) bg: (15, 11, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9911556243896484 叩き潰す機会が fg: (6, 8, 5) bg: (6, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9997509121894836 見当たらない fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999733567237854 連中の能力は fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999807476997375 弱すぎて fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9899551868438721 だが．．． fg: (6, 8, 3) bg: (6, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9993348717689514 男なんて存在する fg: (9, 8, 4) bg: (9, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.999944269657135 価値もない生き物 fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 男なんて存在する価値もない生き物 => El hombre es una criatura que no vale la pena existir.
+[manga-translator.M2M100Translator] 1: 発酵食品に使える分カビの方がいくらかマシだ => Es un poco mejor que los pimples utilizados para el alimento fermentado.
+[manga-translator.M2M100Translator] 2: だが．．． => Pero...
+[manga-translator.M2M100Translator] 3: 連中の能力は弱すぎて叩き潰す機会が見当たらない => Sus capacidades son demasiado débiles para que no encuentren la oportunidad de derribarlos.
+[manga-translator.M2M100Translator] 4: 抵抗しない相手じゃ．．． => A los que no se resisten...
+[manga-translator.M2M100Translator] 5: ただの弱い者いじめになるからね => Sólo los débiles se molestarán.
+[manga-translator.M2M100Translator] 6: あぁん．．． => Oh oh...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9996848106384277 リリカちゃんを fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999711513519287 手に入れるのにも fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998162984848022 邪魔だしね fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99489825963974 私の可愛いタに fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999895691871643 怪我をさせた fg: (8, 7, 3) bg: (8, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.989517331123352 華いを受けさせる fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9545102715492249 必要はあるだろう？ fg: (6, 4, 2) bg: (6, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9945248961448669 それに．．． fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9574515223503113 男をボコボコに fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999940812587738 してみたい fg: (11, 10, 5) bg: (11, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.95257568359375 ってこと．．．わ fg: (2, 1, 1) bg: (2, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8685100674629211 つまり．． fg: (5, 7, 3) bg: (5, 7, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: つまり．． => Significa...
+[manga-translator.M2M100Translator] 1: 男をボコボコにしてみたいってこと．．．わ => Quieres que un hombre te trate de...
+[manga-translator.M2M100Translator] 2: それに．．． => Y además...
+[manga-translator.M2M100Translator] 3: 私の可愛いタに怪我をさせた華いを受けさせる必要はあるだろう？ => ¿Tienes que aceptar el esplendor de la cual me ha herido mi querida?
+[manga-translator.M2M100Translator] 4: リリカちゃんを手に入れるのにも邪魔だしね => También le interrumpió conseguir a Rika.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9142423272132874 ．．．何か手を fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9984402060508728 打つべきだね fg: (11, 9, 7) bg: (11, 9, 7)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ．．．何か手を打つべきだね => Hay que hacer algo con la mano.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.8885824680328369 お姉さまぁ．．． fg: (11, 11, 7) bg: (11, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9027785062789917 あんっ．．． fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: あんっ．．． => ¡Oh, oh...
+[manga-translator.M2M100Translator] 1: お姉さまぁ．．． => La hermana...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.996490478515625 いい機会？ fg: (13, 13, 9) bg: (13, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999303221702576 でもいい機会 fg: (8, 10, 6) bg: (8, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308777 なんだ fg: (12, 10, 6) bg: (12, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.815463662147522 そうだね．．． fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998327493667603 何か校則違反を fg: (8, 6, 4) bg: (8, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9951716661453247 させて追い込む方が fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9981629252433777 簡単じゃない？ fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999673366546631 退学に fg: (7, 7, 5) bg: (7, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.7577666044235228 するんなら．．． fg: (39, 39, 37) bg: (39, 39, 37)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 退学にするんなら．．． => Si quieres salir de la escuela...
+[manga-translator.M2M100Translator] 1: 何か校則違反をさせて追い込む方が簡単じゃない？ => ¿No es más fácil hacer una violación de la escuela?
+[manga-translator.M2M100Translator] 2: そうだね．．． => Sí sí...
+[manga-translator.M2M100Translator] 3: でもいい機会なんだ => Pero es una buena oportunidad.
+[manga-translator.M2M100Translator] 4: いい機会？ => ¿Una buena oportunidad?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.68893963098526 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9954841136932373 原作マサイ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983956217765808 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: カラダにしか価値のない学園 => Un jardín académico que sólo vale el karada.
+[manga-translator.M2M100Translator] 1: 原作マサイ盪六壱 => El macizo de los seis.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1440x2048
+[manga-translator.ModelMangaOCR] prob: 0.6681117415428162 ブチ切れの女帝。 fg: (79, 81, 80) bg: (79, 81, 80)
+[manga-translator.ModelMangaOCR] prob: 0.9996240139007568 きっちり fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999192953109741 思い知らせて fg: (11, 11, 9) bg: (11, 11, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999014735221863 やらないと fg: (10, 8, 6) bg: (10, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9964670538902283 私の子猫ちゃん fg: (12, 13, 9) bg: (12, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999890327453613 たちに fg: (9, 8, 6) bg: (9, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999788999557495 手を出したら fg: (11, 11, 7) bg: (11, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9409552216529846 どうなるか．．． fg: (13, 10, 9) bg: (13, 10, 9)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 私の子猫ちゃんたちに手を出したらどうなるか．．． => ¿Qué ocurriría si los gatos me dieron la mano...
+[manga-translator.M2M100Translator] 1: きっちり思い知らせてやらないと => Hay que informarle correctamente.
+[manga-translator.M2M100Translator] 2: ブチ切れの女帝。 => La reina de los ladrillos.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908976435661316 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283447 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: １０００それでも、いいでしょうか。 => 1000 ¿Y si no?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.892034649848938 あぁん．．． fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999449253082275 ただの fg: (11, 10, 5) bg: (11, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999818801879883 弱い者いじめに fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998345375061035 なるからね fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999691247940063 抵抗しない fg: (13, 12, 8) bg: (13, 12, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9793154001235962 相手じゃ．．． fg: (11, 11, 8) bg: (11, 11, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9970488548278809 発酵食品に fg: (4, 4, 5) bg: (4, 4, 5)
+[manga-translator.ModelMangaOCR] prob: 0.999781608581543 使える分カビの方が fg: (4, 2, 1) bg: (4, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8930407166481018 いくらかマシだ fg: (15, 11, 5) bg: (15, 11, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9911556243896484 叩き潰す機会が fg: (6, 8, 5) bg: (6, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9997509121894836 見当たらない fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999733567237854 連中の能力は fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999807476997375 弱すぎて fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9899551868438721 だが．．． fg: (6, 8, 3) bg: (6, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9993348717689514 男なんて存在する fg: (9, 8, 4) bg: (9, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.999944269657135 価値もない生き物 fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 男なんて存在する価値もない生き物 => El hombre es una criatura que no vale la pena existir.
+[manga-translator.M2M100Translator] 1: 発酵食品に使える分カビの方がいくらかマシだ => Es un poco mejor que los pimples utilizados para el alimento fermentado.
+[manga-translator.M2M100Translator] 2: だが．．． => Pero...
+[manga-translator.M2M100Translator] 3: 連中の能力は弱すぎて叩き潰す機会が見当たらない => Sus capacidades son demasiado débiles para que no encuentren la oportunidad de derribarlos.
+[manga-translator.M2M100Translator] 4: 抵抗しない相手じゃ．．． => A los que no se resisten...
+[manga-translator.M2M100Translator] 5: ただの弱い者いじめになるからね => Sólo los débiles se molestarán.
+[manga-translator.M2M100Translator] 6: あぁん．．． => Oh oh...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9996848106384277 リリカちゃんを fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999711513519287 手に入れるのにも fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998162984848022 邪魔だしね fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99489825963974 私の可愛いタに fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999895691871643 怪我をさせた fg: (8, 7, 3) bg: (8, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.989517331123352 華いを受けさせる fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9545102715492249 必要はあるだろう？ fg: (6, 4, 2) bg: (6, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9945248961448669 それに．．． fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9574515223503113 男をボコボコに fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999940812587738 してみたい fg: (11, 10, 5) bg: (11, 10, 5)
+[manga-translator.ModelMangaOCR] prob: 0.95257568359375 ってこと．．．わ fg: (2, 1, 1) bg: (2, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8685100674629211 つまり．． fg: (5, 7, 3) bg: (5, 7, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: つまり．． => Significa...
+[manga-translator.M2M100Translator] 1: 男をボコボコにしてみたいってこと．．．わ => Quieres que un hombre te trate de...
+[manga-translator.M2M100Translator] 2: それに．．． => Y además...
+[manga-translator.M2M100Translator] 3: 私の可愛いタに怪我をさせた華いを受けさせる必要はあるだろう？ => ¿Tienes que aceptar el esplendor de la cual me ha herido mi querida?
+[manga-translator.M2M100Translator] 4: リリカちゃんを手に入れるのにも邪魔だしね => También le interrumpió conseguir a Rika.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.68893963098526 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8885824680328369 お姉さまぁ．．． fg: (11, 11, 7) bg: (11, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9027785062789917 あんっ．．． fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: あんっ．．． => ¡Oh, oh...
+[manga-translator.M2M100Translator] 1: お姉さまぁ．．． => La hermana...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908976435661316 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283447 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: １０００それでも、いいでしょうか。 => 1000 ¿Y si no?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.6681117415428162 ブチ切れの女帝。 fg: (79, 81, 80) bg: (79, 81, 80)
+[manga-translator.ModelMangaOCR] prob: 0.9996240139007568 きっちり fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999192953109741 思い知らせて fg: (11, 11, 9) bg: (11, 11, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999014735221863 やらないと fg: (10, 8, 6) bg: (10, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9964670538902283 私の子猫ちゃん fg: (12, 13, 9) bg: (12, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9999890327453613 たちに fg: (9, 8, 6) bg: (9, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999788999557495 手を出したら fg: (11, 11, 7) bg: (11, 11, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9409552216529846 どうなるか．．． fg: (13, 10, 9) bg: (13, 10, 9)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 私の子猫ちゃんたちに手を出したらどうなるか．．． => ¿Qué ocurriría si los gatos me dieron la mano...
+[manga-translator.M2M100Translator] 1: きっちり思い知らせてやらないと => Hay que informarle correctamente.
+[manga-translator.M2M100Translator] 2: ブチ切れの女帝。 => La reina de los ladrillos.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908976435661316 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283447 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: １０００それでも、いいでしょうか。 => 1000 ¿Y si no?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1160x320
+
+Downloading models into D:\chevi\manga-translator-project\mini-services\manga-api\models\inpainting
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/inpainting_lama_mpe.ckpt"
+ -- Verifying: "D:\chevi\manga-translator-project\mini-services\manga-api\models\inpainting\.\inpainting_lama_mpe.ckpt.part"
+ -- Verifying: OK!
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908976435661316 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283447 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.NLLBTranslator] Translating into Spanish
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908976435661316 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283447 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.NLLBTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.8336654305458069 第６７話「作戦 fg: (21, 21, 18) bg: (21, 21, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9970276355743408 ちっとも fg: (13, 13, 9) bg: (13, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9866485595703125 面白くねーよ！ fg: (9, 7, 4) bg: (9, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999325275421143 オレがいねぇ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999693036079407 時に限って fg: (8, 8, 7) bg: (8, 8, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9999238848686218 面白いことに fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9957603216171265 なってやがる fg: (4, 1, 1) bg: (4, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9941847324371338 ったく．．． fg: (7, 8, 3) bg: (7, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.37643861770629883 ラひ値力に価値の fg: (32, 20, 29) bg: (32, 20, 29)
+[manga-translator.ModelMangaOCR] prob: 0.9858992099761963 淫烈に言えば、最強の体に悔そって、突撃するべ．．． fg: (19, 19, 18) bg: (19, 19, 18)
+[manga-translator.NLLBTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.8336654305458069 第６７話「作戦 fg: (21, 21, 18) bg: (21, 21, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9970276355743408 ちっとも fg: (13, 13, 9) bg: (13, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9866485595703125 面白くねーよ！ fg: (9, 7, 4) bg: (9, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999325275421143 オレがいねぇ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999693036079407 時に限って fg: (8, 8, 7) bg: (8, 8, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9999238848686218 面白いことに fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9957603216171265 なってやがる fg: (4, 1, 1) bg: (4, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9941847324371338 ったく．．． fg: (7, 8, 3) bg: (7, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.37643861770629883 ラひ値力に価値の fg: (32, 20, 29) bg: (32, 20, 29)
+[manga-translator.ModelMangaOCR] prob: 0.9858992099761963 淫烈に言えば、最強の体に悔そって、突撃するべ．．． fg: (19, 19, 18) bg: (19, 19, 18)
+[manga-translator.NLLBTranslator] Translating into Spanish
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908976435661316 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283447 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.NLLBTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.8336654305458069 第６７話「作戦 fg: (21, 21, 18) bg: (21, 21, 18)
+[manga-translator.ModelMangaOCR] prob: 0.9970276355743408 ちっとも fg: (13, 13, 9) bg: (13, 13, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9866485595703125 面白くねーよ！ fg: (9, 7, 4) bg: (9, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999325275421143 オレがいねぇ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999693036079407 時に限って fg: (8, 8, 7) bg: (8, 8, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9999238848686218 面白いことに fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9957603216171265 なってやがる fg: (4, 1, 1) bg: (4, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9941847324371338 ったく．．． fg: (7, 8, 3) bg: (7, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.37643861770629883 ラひ値力に価値の fg: (32, 20, 29) bg: (32, 20, 29)
+[manga-translator.ModelMangaOCR] prob: 0.9858992099761963 淫烈に言えば、最強の体に悔そって、突撃するべ．．． fg: (19, 19, 18) bg: (19, 19, 18)
+[manga-translator.NLLBTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9954841136932373 原作マサイ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983956217765808 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.NLLBTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9954841136932373 原作マサイ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9992883205413818 盪六壱 fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983956217765808 カラダにしか価値のない学園 fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.NLLBTranslator] Translating into Spanish

@@ -1,0 +1,482 @@
+[manga-translator.ModelMangaOCR] prob: 0.9853581190109254 マモの仕返 fg: (23, 10, 2) bg: (23, 10, 2)
+[manga-translator.ModelMangaOCR] prob: 0.6267819404602051 第７１項は fg: (18, 9, 3) bg: (18, 9, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999984860420227 部下に作業をさせておいて fg: (8, 6, 1) bg: (8, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999876379966736 自分は湯浴みとは fg: (9, 5, 2) bg: (9, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999285936355592 良いご身分だな。タマモ fg: (8, 6, 1) bg: (8, 7, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999890327453614 ここを参考に fg: (9, 5, 0) bg: (9, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999796748161317 温浴業を始めるのも fg: (13, 9, 4) bg: (13, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999611973762512 いいかもしれんな fg: (12, 7, 2) bg: (12, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7142376899719239 大好評発売中！ fg: (250, 248, 251) bg: (250, 248, 251)
+[manga-translator.ModelMangaOCR] prob: 0.9950780272483827 おまけ漫画も、 fg: (247, 245, 244) bg: (247, 245, 244)
+[manga-translator.ModelMangaOCR] prob: 0.4420683979988098 どうほんだい fg: (7, 4, 0) bg: (7, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999641776084901 このジェットバス fg: (11, 6, 1) bg: (11, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999765753746034 というのは fg: (16, 10, 4) bg: (16, 10, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7876033782958984 最高じゃの～～ fg: (12, 7, 2) bg: (12, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7308787107467652 ？モはネ fg: (10, 6, 2) bg: (10, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7978870272636414 泉を満 fg: (13, 11, 6) bg: (13, 11, 6)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999802708625795 姉上が fg: (7, 8, 5) bg: (7, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999936819076539 頑張ったのだ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999892115592958 我には番すら fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9985998868942262 おらん fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999669194221498 あの子たちは fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999875426292419 我の子ではない fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998986124992372 困難の連続で fg: (2, 5, 2) bg: (2, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9986618161201478 あっただろう fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999842643737793 まさか新たな神獣が fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999634027481079 生まれているとは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999822974205017 夢にも思わなかったぞ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999970316886902 獣人を守るために fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999901056289673 独りで商会を立ち上げて fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996036291122438 ここまで大きくした： fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9956352710723878 お主こそ．．． fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9977900981903077 ．．．．．． fg: (2, 13, 7) bg: (2, 13, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9999781250953675 大したものだな fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999839663505554 それに商会長という fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999397397041322 立場もあるからな fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999933242797853 わらわが fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999571442604066 非力なことくらい fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995850920677186 知っておろう？ fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9472351670265198 ｃｏｍｌｃａ fg: (247, 245, 246) bg: (247, 245, 246)
+[manga-translator.ModelMangaOCR] prob: 0.998335897922516 ＭＡＧＡＺＩＮＥ fg: (247, 245, 243) bg: (247, 245, 243)
+[manga-translator.ModelMangaOCR] prob: 0.9931169152259828 ＳＨＯＮＥＮ fg: (249, 244, 244) bg: (249, 244, 244)
+[manga-translator.ModelMangaOCR] prob: 0.5870162844657898 ．． fg: (128, 161, 205) bg: (128, 161, 205)
+[manga-translator.ModelMangaOCR] prob: 0.995473623275757 漫画 fg: (58, 45, 36) bg: (58, 45, 36)
+[manga-translator.ModelMangaOCR] prob: 0.9284260869026184 原作 fg: (36, 40, 46) bg: (36, 40, 46)
+[manga-translator.ModelMangaOCR] prob: 0.9073488712310791 キャラクター原案 fg: (33, 39, 37) bg: (33, 39, 37)
+[manga-translator.ModelMangaOCR] prob: 0.9998320341110231 ダイチ fg: (26, 22, 4) bg: (26, 22, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7691321372985841 トクラフト fg: (15, 14, 4) bg: (15, 14, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9435575604438782 動製作してい fg: (249, 244, 158) bg: (249, 244, 158)
+[manga-translator.ModelMangaOCR] prob: 0.9846124053001405 楽々領地開拓 fg: (231, 233, 239) bg: (231, 233, 239)
+[manga-translator.ModelMangaOCR] prob: 0.7558498978614807 暴張 fg: (251, 252, 250) bg: (251, 252, 250)
+[manga-translator.ModelMangaOCR] prob: 0.9497257471084595 最強クラフトスキルで始める、 fg: (213, 220, 232) bg: (213, 220, 232)
+[manga-translator.ModelMangaOCR] prob: 0.8166893124580383 正しいを fg: (249, 245, 248) bg: (249, 245, 248)
+[manga-translator.ModelMangaOCR] prob: 0.5832226872444153 最強の相続です。 fg: (233, 221, 39) bg: (173, 183, 89)
+[manga-translator.ModelMangaOCR] prob: 0.9968520998954774 追了された転生正面 fg: (251, 247, 200) bg: (251, 247, 200)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ？モはネ泉を満 => ¿Qué, no llenas la fuente, Tamamo?
+[manga-translator.MimoTokenPlanTranslator] 1: どうほんだい => ¿Cuál es el problema?
+[manga-translator.MimoTokenPlanTranslator] 2: このジェットバスというのは最高じゃの～～ => ¡Esta bañera de hidromasaje es lo máximo!
+[manga-translator.MimoTokenPlanTranslator] 3: 大好評発売中！おまけ漫画も、 => ¡A la venta con gran éxito! También incluye un manga extra,
+[manga-translator.MimoTokenPlanTranslator] 4: ここを参考に温浴業を始めるのもいいかもしれんな => Quizá podría usar esto como referencia para empezar un negocio de baños termales.
+[manga-translator.MimoTokenPlanTranslator] 5: 部下に作業をさせておいて自分は湯浴みとは良いご身分だな。タマモ => Delegar el trabajo en tus subordinados mientras tú disfrutas del baño... vaya vida de privilegiada, ¿eh, Tamamo?
+[manga-translator.MimoTokenPlanTranslator] 6: マモの仕返 => La venganza de Tamamo.
+[manga-translator.MimoTokenPlanTranslator] 7: 第７１項は => El artículo 71 es...
+DEBUG_FONT: '¿Qué, no llenas la fuente, Tamamo?' | size=22->16 | ratio=1.69 | clamped=False | mult=0.77 | xyxy=[475, 45, 580, 157] | region_w=132 | lines_avail=7 | lines_need=4.857142857142857
+DEBUG_FONT: '¿Cuál es el problema?' | size=11->6 | ratio=3.36 | clamped=False | mult=0.59 | xyxy=[40, 177, 100, 212] | region_w=55 | lines_avail=5 | lines_need=2.3333333333333335
+DEBUG_FONT: '¡Esta bañera de hidromasaje es lo máximo!' | size=32->32 | ratio=1.07 | clamped=True | mult=1.00 | xyxy=[237, 106, 377, 390] | region_w=136 | lines_avail=12 | lines_need=3.727272727272727
+DEBUG_FONT: '¡A la venta con gran éxito! También incluye un manga extra,' | size=22->10 | ratio=1.12 | clamped=True | mult=0.47 | xyxy=[11, 223, 165, 287] | region_w=148 | lines_avail=4 | lines_need=8.428571428571429
+DEBUG_FONT: 'Quizá podría usar esto como referencia para empezar un negocio de baños termales.' | size=27->27 | ratio=1.32 | clamped=True | mult=1.00 | xyxy=[86, 352, 225, 631] | region_w=135 | lines_avail=14 | lines_need=8.1
+DEBUG_FONT: 'Delegar el trabajo en tus subordinados mientras tú disfrutas del baño... vaya vida de privilegiada, ¿eh, Tamamo?' | size=31->31 | ratio=1.26 | clamped=True | mult=1.00 | xyxy=[78, 740, 222, 1088] | region_w=144 | lines_avail=15 | lines_need=8.615384615384615
+DEBUG_FONT: 'La venganza de Tamamo.' | size=27->19 | ratio=1.26 | clamped=True | mult=0.73 | xyxy=[742, 1536, 928, 1569] | region_w=182 | lines_avail=2 | lines_need=2.75
+DEBUG_FONT: 'El artículo 71 es...' | size=28->22 | ratio=1.36 | clamped=True | mult=0.80 | xyxy=[561, 1532, 687, 1572] | region_w=100 | lines_avail=2 | lines_need=2.5
+[manga-translator.ModelMangaOCR] prob: 0.9988532066345216 じゃがお主も fg: (1, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995973706245423 頑張ったのだろう？ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998761415481568 お主がおらんかったら fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999972403049469 神獣の子供がこんな過酷な fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999760985374451 環境で生きておられる fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999904036521913 わけがない fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9991753101348878 そうか．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999296069145204 今もまだ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996911883354188 生きておるのか？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998621344566345 神獣は子を fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.99997478723526 成しにくいのに fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999302029609681 凄いなあやつは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999981462955475 そうか fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996721148490907 セレネアの．．． fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 最強クラフトスキルで始める、 => Comenzando con la habilidad artesanal más fuerte,
+[manga-translator.MimoTokenPlanTranslator] 1: 楽々領地開拓 => Desarrollo de territorio sin esfuerzo
+[manga-translator.MimoTokenPlanTranslator] 2: 正しいを => El correcto
+[manga-translator.MimoTokenPlanTranslator] 3: 暴張 => Actuar violentamente
+[manga-translator.MimoTokenPlanTranslator] 4: 追了された転生正面 => El reencarnado perseguido
+[manga-translator.MimoTokenPlanTranslator] 5: トクラフト => Y el arte
+[manga-translator.MimoTokenPlanTranslator] 6: 動製作してい => La creación en movimiento
+[manga-translator.MimoTokenPlanTranslator] 7: 最強の相続です。 => La herencia más fuerte.
+[manga-translator.MimoTokenPlanTranslator] 8: ダイチ => Daichi
+[manga-translator.MimoTokenPlanTranslator] 9: ．．漫画原作キャラクター原案 => Personajes originales del manga
+[manga-translator.MimoTokenPlanTranslator] 10: ＳＨＯＮＥＮ ＭＡＧＡＺＩＮＥ ｃｏｍｌｃａ => SHONEN MAGAZINE cómic
+DEBUG_FONT: 'Comenzando con la habilidad artesanal más fuerte,' | size=40->32 | ratio=1.00 | clamped=True | mult=0.82 | xyxy=[386, 99, 765, 200] | region_w=384 | lines_avail=4 | lines_need=4.9
+DEBUG_FONT: 'Desarrollo de territorio sin esfuerzo' | size=30->24 | ratio=1.00 | clamped=True | mult=0.81 | xyxy=[457, 157, 695, 226] | region_w=236 | lines_avail=3 | lines_need=3.7
+DEBUG_FONT: 'El correcto' | size=63->63 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[289, 75, 380, 294] | region_w=5 | lines_avail=5 | lines_need=1.375
+DEBUG_FONT: 'Actuar violentamente' | size=47->47 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[228, 126, 285, 275] | region_w=59 | lines_avail=5 | lines_need=1.5384615384615385
+DEBUG_FONT: 'El reencarnado perseguido' | size=50->50 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[987, 19, 1045, 419] | region_w=55 | lines_avail=11 | lines_need=2.272727272727273
+DEBUG_FONT: 'Y el arte' | size=40->40 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[950, 190, 1003, 504] | region_w=49 | lines_avail=10 | lines_need=2.25
+DEBUG_FONT: 'La creación en movimiento' | size=142->142 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[812, 141, 999, 865] | region_w=228 | lines_avail=7 | lines_need=2.5
+DEBUG_FONT: 'La herencia más fuerte.' | size=408->408 | ratio=1.14 | clamped=True | mult=1.00 | xyxy=[0, 0, 424, 1061] | region_w=424 | lines_avail=4 | lines_need=2.875
+DEBUG_FONT: 'Daichi' | size=64->64 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[747, 950, 889, 1020] | region_w=138 | lines_avail=2 | lines_need=1.0
+DEBUG_FONT: 'Personajes originales del manga' | size=25->25 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[628, 968, 876, 1061] | region_w=245 | lines_avail=5 | lines_need=3.1
+DEBUG_FONT: 'SHONEN MAGAZINE cómic' | size=14->24 | ratio=2.14 | clamped=False | mult=1.77 | xyxy=[60, 1325, 196, 1444] | region_w=132 | lines_avail=11 | lines_need=2.625
+[manga-translator.MimoTokenPlanTranslator] 0: わらわが非力なことくらい知っておろう？ => ¿Sabes que soy débil, verdad?
+[manga-translator.MimoTokenPlanTranslator] 1: それに商会長という立場もあるからな => Además, mi posición como jefe del gremio también cuenta.
+[manga-translator.MimoTokenPlanTranslator] 2: ．．．．．．大したものだな => ......Eso es algo admirable.
+[manga-translator.MimoTokenPlanTranslator] 3: 獣人を守るために独りで商会を立ち上げてここまで大きくした： => Creaste y desarrollaste este gremio tú solo para proteger a la gente bestia.
+[manga-translator.MimoTokenPlanTranslator] 4: 困難の連続であっただろう => Debes haber enfrentado dificultad tras dificultad.
+[manga-translator.MimoTokenPlanTranslator] 5: お主こそ．．． => Tú mismo......
+[manga-translator.MimoTokenPlanTranslator] 6: まさか新たな神獣が生まれているとは夢にも思わなかったぞ => Nunca imaginé que habría nacido una nueva bestia divina.
+[manga-translator.MimoTokenPlanTranslator] 7: あの子たちは我の子ではない => Esos niños no son míos.
+[manga-translator.MimoTokenPlanTranslator] 8: 姉上が => Hermana mayor......
+[manga-translator.MimoTokenPlanTranslator] 9: 頑張ったのだ我には番すらおらん => Se esforzó mucho, yo no tengo ni una pareja.
+DEBUG_FONT: '¿Sabes que soy débil, verdad?' | size=31->42 | ratio=2.39 | clamped=False | mult=1.36 | xyxy=[854, 81, 1078, 361] | region_w=219 | lines_avail=12 | lines_need=4.142857142857143
+DEBUG_FONT: 'Además, mi posición como jefe del gremio también cuenta.' | size=26->28 | ratio=3.00 | clamped=False | mult=1.10 | xyxy=[412, 434, 596, 719] | region_w=164 | lines_avail=15 | lines_need=7.0
+DEBUG_FONT: '......Eso es algo admirable.' | size=35->20 | ratio=1.62 | clamped=False | mult=0.59 | xyxy=[95, 451, 219, 688] | region_w=116 | lines_avail=9 | lines_need=2.8
+DEBUG_FONT: 'Creaste y desarrollaste este gremio tú solo para proteger a la gente bestia.' | size=31->31 | ratio=1.08 | clamped=True | mult=1.00 | xyxy=[712, 796, 836, 1111] | region_w=120 | lines_avail=14 | lines_need=5.846153846153846
+DEBUG_FONT: 'Debes haber enfrentado dificultad tras dificultad.' | size=22->22 | ratio=1.17 | clamped=True | mult=1.00 | xyxy=[620, 979, 686, 1136] | region_w=62 | lines_avail=10 | lines_need=4.545454545454546
+DEBUG_FONT: 'Tú mismo......' | size=28->28 | ratio=1.25 | clamped=True | mult=1.00 | xyxy=[277, 788, 313, 917] | region_w=32 | lines_avail=6 | lines_need=1.2727272727272727
+DEBUG_FONT: 'Nunca imaginé que habría nacido una nueva bestia divina.' | size=26->26 | ratio=1.11 | clamped=True | mult=1.00 | xyxy=[134, 865, 247, 1127] | region_w=113 | lines_avail=14 | lines_need=8.0
+DEBUG_FONT: 'Esos niños no son míos.' | size=26->40 | ratio=3.00 | clamped=False | mult=1.55 | xyxy=[878, 1226, 1052, 1457] | region_w=170 | lines_avail=12 | lines_need=3.8333333333333335
+DEBUG_FONT: 'Hermana mayor......' | size=48->48 | ratio=1.01 | clamped=True | mult=1.00 | xyxy=[257, 1266, 312, 1363] | region_w=57 | lines_avail=3 | lines_need=1.7272727272727273
+DEBUG_FONT: 'Se esforzó mucho, yo no tengo ni una pareja.' | size=29->29 | ratio=1.00 | clamped=True | mult=1.00 | xyxy=[145, 1270, 256, 1442] | region_w=108 | lines_avail=8 | lines_need=6.285714285714286
+[manga-translator.ModelMangaOCR] prob: 0.9999954700469972 手が勝手に fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9988977313041688 ピクピクして fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9962202310562135 変な形に！？ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9983913302421571 なっ！？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994583129882814 ルーナ！？ fg: (8, 8, 3) bg: (8, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999942183494569 何じゃ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9873726963996888 この湯舟は！？ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999992311000824 そこは fg: (7, 8, 2) bg: (7, 8, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999557137489319 電気風呂だ fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997834563255311 今わらわは fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9979209899902345 感電しとるのか！？ fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.2993576228618622 さてわらわは fg: (2, 2, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999711513519288 別の湯船に fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999191761016846 浸かろうかの fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.4669729173183441 まさかお主に fg: (4, 4, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999428987503053 励まされる日が fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998269081115724 来るとはな．．． fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999719262123109 大したものじゃ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999903440475465 それは fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9991782903671266 よかったです！ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998996257781984 新感覚 fg: (7, 8, 5) bg: (7, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9992563724517823 じゃった．．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996665120124818 テオドルフ fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999838471412659 よければこの建物の fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999929070472717 設計図を見せて fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9980184435844422 もらえんか？ fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8809416890144348 温まったの〜 fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999722838401794 タマモさん fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9987084269523622 この村自慢のお風呂 fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995245933532716 どうでしたか？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: そうかセレネアの．．． => Ah, así que de Selea...
+[manga-translator.MimoTokenPlanTranslator] 1: 神獣は子を成しにくいのに凄いなあやつは => Es increíble... las bestias divinas apenas pueden tener crías, y aun así esa lo logró.
+[manga-translator.MimoTokenPlanTranslator] 2: 今もまだ生きておるのか？ => ¿Todavía sigue viva?
+[manga-translator.MimoTokenPlanTranslator] 3: そうか．．． => Ya veo...
+[manga-translator.MimoTokenPlanTranslator] 4: じゃがお主も頑張ったのだろう？ => Pero tú también te esforzaste mucho, ¿verdad?
+[manga-translator.MimoTokenPlanTranslator] 5: お主がおらんかったら神獣の子供がこんな過酷な環境で生きておられるわけがない => Si no hubieras estado ahí, no habría manera de que los hijos de la bestia divina sobrevivieran en un entorno tan severo.
+DEBUG_FONT: 'Ah, así que de Selea...' | size=28->34 | ratio=3.00 | clamped=False | mult=1.22 | xyxy=[870, 116, 1037, 326] | region_w=151 | lines_avail=10 | lines_need=2.875
+DEBUG_FONT: 'Es increíble... las bestias divinas apenas pueden tener crías, y aun así esa lo logró.' | size=28->23 | ratio=2.63 | clamped=False | mult=0.82 | xyxy=[100, 237, 325, 499] | region_w=204 | lines_avail=12 | lines_need=7.166666666666667
+DEBUG_FONT: '¿Todavía sigue viva?' | size=28->37 | ratio=3.00 | clamped=False | mult=1.35 | xyxy=[593, 555, 771, 815] | region_w=167 | lines_avail=12 | lines_need=2.5
+DEBUG_FONT: 'Ya veo...' | size=27->11 | ratio=1.68 | clamped=False | mult=0.41 | xyxy=[145, 914, 188, 1030] | region_w=39 | lines_avail=6 | lines_need=1.5
+DEBUG_FONT: 'Pero tú también te esforzaste mucho, ¿verdad?' | size=27->27 | ratio=3.00 | clamped=False | mult=1.03 | xyxy=[865, 1112, 1041, 1374] | region_w=158 | lines_avail=13 | lines_need=4.5
+DEBUG_FONT: 'Si no hubieras estado ahí, no habría manera de que los hijos de la bestia divina sobrevivieran en un entorno tan severo.' | size=27->27 | ratio=1.20 | clamped=True | mult=1.00 | xyxy=[128, 1118, 297, 1467] | region_w=169 | lines_avail=17 | lines_need=9.23076923076923
+[manga-translator.ModelMangaOCR] prob: 0.999938428401947 はい fg: (6, 5, 0) bg: (6, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9963362812995912 是非！ fg: (6, 8, 3) bg: (6, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.993061661720276 おお fg: (5, 7, 4) bg: (5, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.99998939037323 ありがたく fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998981952667237 頂こう fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992768764495851 いいな我も fg: (4, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998953938484193 食べようかの fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999873459339142 それと今レイラが fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999218583106995 焼き菓子を作って fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999890327453614 くれてるんですけど fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997799396514894 皆で食べませんか？ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999984860420227 もちろん fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9975529909133912 謝礼は払おう fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999475479125977 色をつけてな fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999816417694093 感謝するぞ fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999614357948304 ありがとう fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993878602981568 ございます！ fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9987424015998841 はい！ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998123049736024 もちろん fg: (10, 7, 3) bg: (10, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996712207794191 いいですよ！ fg: (6, 6, 1) bg: (6, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9983513355255128 ベスティア商会のためなら、 fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999258518218995 いくらでも協力すると fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999873638153076 言いましたから fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9986504912376405 ちょっと待て！ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999769330024719 そんな簡単に教えて fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992539286613465 よいのか？ fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 温まったの〜 => ¡Me calenté~!
+[manga-translator.MimoTokenPlanTranslator] 1: タマモさんこの村自慢のお風呂どうでしたか？ => ¿Qué le pareció el baño del que el pueblo se enorgullece, Tamamo-san?
+[manga-translator.MimoTokenPlanTranslator] 2: 新感覚じゃった．．． => Fue una sensación nueva...
+[manga-translator.MimoTokenPlanTranslator] 3: それはよかったです！ => ¡Me alegra oír eso!
+[manga-translator.MimoTokenPlanTranslator] 4: テオドルフよければこの建物の設計図を見せてもらえんか？ => Teodorfo, ¿podría mostrarme los planos de este edificio si no le importa?
+DEBUG_FONT: '¡Me calenté~!' | size=31->31 | ratio=3.00 | clamped=False | mult=1.00 | xyxy=[914, 167, 1005, 364] | region_w=88 | lines_avail=9 | lines_need=1.4444444444444444
+DEBUG_FONT: '¿Qué le pareció el baño del que el pueblo se enorgullece, Tamamo-san?' | size=28->32 | ratio=3.00 | clamped=False | mult=1.15 | xyxy=[3, 72, 281, 417] | region_w=236 | lines_avail=16 | lines_need=5.75
+DEBUG_FONT: 'Fue una sensación nueva...' | size=28->25 | ratio=3.00 | clamped=False | mult=0.93 | xyxy=[891, 1189, 1050, 1377] | region_w=129 | lines_avail=9 | lines_need=2.888888888888889
+DEBUG_FONT: '¡Me alegra oír eso!' | size=31->38 | ratio=3.00 | clamped=False | mult=1.23 | xyxy=[462, 1192, 651, 1447] | region_w=133 | lines_avail=11 | lines_need=3.1666666666666665
+DEBUG_FONT: 'Teodorfo, ¿podría mostrarme los planos de este edificio si no le importa?' | size=22->27 | ratio=2.64 | clamped=False | mult=1.24 | xyxy=[62, 1170, 350, 1505] | region_w=200 | lines_avail=20 | lines_need=8.11111111111111
+[manga-translator.ModelMangaOCR] prob: 0.2247713804244995 それでも、 fg: (126, 134, 148) bg: (126, 134, 148)
+[manga-translator.ModelMangaOCR] prob: 0.9933832287788392 それでも、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9988088607788087 いえ．．． fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998912215232849 いつもこうやって fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999655485153199 からかってくるん fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999898076057434 ですよ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993653893470765 ははっ fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999664425849915 間違えて fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9663718938827515 デオドルフを fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99990713596344 食ってしまった fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999775886535645 ちょっと fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997803568840028 ルーナさん fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994410276412965 何を．．．！？ fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998929500579835 ルーナよ fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999592304229736 本当にこやつのこと fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999741315841675 好いているようじゃの fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ちょっとルーナさん何を．．．！？ => ¡¿Qué haces, Luna-san...?!
+[manga-translator.MimoTokenPlanTranslator] 1: ははっ間違えてデオドルフを食ってしまった => Ja, ja, me equivoqué y me comí el desodorante
+[manga-translator.MimoTokenPlanTranslator] 2: ルーナよ本当にこやつのこと好いているようじゃの => ¡Luna, de verdad que parece que te gusta este tipo!
+[manga-translator.MimoTokenPlanTranslator] 3: いえ．．．いつもこうやってからかってくるんですよ => No... siempre se pone a bromeando así conmigo
+[manga-translator.MimoTokenPlanTranslator] 4: それでも、それでも、 => Aún así, aún así,
+DEBUG_FONT: '¡¿Qué haces, Luna-san...?!' | size=28->21 | ratio=1.95 | clamped=False | mult=0.75 | xyxy=[871, 913, 1036, 1099] | region_w=150 | lines_avail=9 | lines_need=2.0
+DEBUG_FONT: 'Ja, ja, me equivoqué y me comí el desodorante' | size=26->26 | ratio=1.15 | clamped=True | mult=1.00 | xyxy=[622, 932, 773, 1124] | region_w=145 | lines_avail=10 | lines_need=4.090909090909091
+DEBUG_FONT: '¡Luna, de verdad que parece que te gusta este tipo!' | size=31->31 | ratio=1.12 | clamped=True | mult=1.00 | xyxy=[460, 929, 584, 1214] | region_w=120 | lines_avail=12 | lines_need=8.5
+DEBUG_FONT: 'No... siempre se pone a bromeando así conmigo' | size=27->33 | ratio=1.69 | clamped=False | mult=1.25 | xyxy=[58, 1048, 259, 1313] | region_w=201 | lines_avail=13 | lines_need=5.0
+DEBUG_FONT: 'Aún así, aún así,' | size=16->22 | ratio=1.97 | clamped=False | mult=1.41 | xyxy=[464, 1364, 696, 1430] | region_w=228 | lines_avail=6 | lines_need=4.25
+[manga-translator.ModelMangaOCR] prob: 0.9999479651451112 テオドルフには fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999898672103883 その英雄の fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.955422580242157 おもかげ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997150897979737 面影がある fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999929666519165 そんなに僕に fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997552633285524 似てるんですか？ fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9982819557189943 ルーナさー fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998984336853028 ルーナは数千年前 fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999940812587738 ある英雄に懐いておってな fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998521804809571 よく後ろをついて回って fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999918937683105 いたのじゃ fg: (1, 4, 1) bg: (1, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.5299787521362305 へえ～～～ fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999659061431885 英雄ですか fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999861717224122 わらわには fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993452429771424 お見通しじゃぞ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999504089355469 あやつに対しても fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999942183494569 そうじゃったからな fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9850335121154786 あやつ．．．？ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999764561653138 そうやって fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998375177383424 本音を誤魔化して fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996473193168641 おるのだろう？ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998708963394166 いいや fg: (2, 6, 0) bg: (2, 6, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999872446060181 違うな fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: はい！もちろんいいですよ！ => ¡Sí! ¡Por supuesto que sí!
+[manga-translator.MimoTokenPlanTranslator] 1: ちょっと待て！そんな簡単に教えてよいのか？ => ¡Espera! ¿De verdad puedes contar algo así tan fácilmente?
+[manga-translator.MimoTokenPlanTranslator] 2: ベスティア商会のためなら、いくらでも協力すると言いましたから => Por el bien de la Compañía Bestia, dije que cooperaría todo lo necesario.
+[manga-translator.MimoTokenPlanTranslator] 3: 感謝するぞ => Te lo agradezco.
+[manga-translator.MimoTokenPlanTranslator] 4: もちろん謝礼は払おう色をつけてな => Obviamente recompensaré tu ayuda, sin duda.
+[manga-translator.MimoTokenPlanTranslator] 5: ありがとうございます！ => ¡Muchas gracias!
+[manga-translator.MimoTokenPlanTranslator] 6: それと今レイラが焼き菓子を作ってくれてるんですけど皆で食べませんか？ => Por cierto, Leila está preparando galletas ahora mismo, ¿qué les parece si todos compartimos?
+[manga-translator.MimoTokenPlanTranslator] 7: おおありがたく頂こう => ¡Oh, con mucho gusto aceptaremos!
+[manga-translator.MimoTokenPlanTranslator] 8: いいな我も食べようかの => Qué bien, yo también comeré.
+[manga-translator.MimoTokenPlanTranslator] 9: はい是非！ => ¡Sí, por favor!
+DEBUG_FONT: '¡Sí! ¡Por supuesto que sí!' | size=28->41 | ratio=2.55 | clamped=False | mult=1.49 | xyxy=[871, 79, 1103, 349] | region_w=219 | lines_avail=13 | lines_need=3.25
+DEBUG_FONT: '¡Espera! ¿De verdad puedes contar algo así tan fácilmente?' | size=28->28 | ratio=1.21 | clamped=True | mult=1.00 | xyxy=[549, 91, 673, 356] | region_w=118 | lines_avail=13 | lines_need=5.2727272727272725
+DEBUG_FONT: 'Por el bien de la Compañía Bestia, dije que cooperaría todo lo necesario.' | size=26->26 | ratio=1.17 | clamped=True | mult=1.00 | xyxy=[356, 105, 488, 450] | region_w=128 | lines_avail=18 | lines_need=7.3
+DEBUG_FONT: 'Te lo agradezco.' | size=28->10 | ratio=2.07 | clamped=False | mult=0.36 | xyxy=[972, 642, 1032, 800] | region_w=56 | lines_avail=8 | lines_need=1.6
+DEBUG_FONT: 'Obviamente recompensaré tu ayuda, sin duda.' | size=27->27 | ratio=1.14 | clamped=True | mult=1.00 | xyxy=[835, 703, 952, 880] | region_w=114 | lines_avail=9 | lines_need=3.5833333333333335
+DEBUG_FONT: '¡Muchas gracias!' | size=28->23 | ratio=1.74 | clamped=False | mult=0.85 | xyxy=[139, 628, 248, 825] | region_w=106 | lines_avail=9 | lines_need=2.0
+DEBUG_FONT: 'Por cierto, Leila está preparando galletas ahora mismo, ¿qué les parece si todos compartimos?' | size=26->26 | ratio=1.54 | clamped=False | mult=1.00 | xyxy=[865, 978, 1046, 1237] | region_w=177 | lines_avail=13 | lines_need=7.75
+DEBUG_FONT: '¡Oh, con mucho gusto aceptaremos!' | size=38->38 | ratio=1.21 | clamped=True | mult=1.00 | xyxy=[327, 1027, 473, 1208] | region_w=140 | lines_avail=7 | lines_need=2.75
+DEBUG_FONT: 'Qué bien, yo también comeré.' | size=33->33 | ratio=1.23 | clamped=True | mult=1.00 | xyxy=[186, 998, 278, 1188] | region_w=88 | lines_avail=8 | lines_need=4.0
+DEBUG_FONT: '¡Sí, por favor!' | size=46->29 | ratio=1.65 | clamped=False | mult=0.65 | xyxy=[95, 1359, 211, 1482] | region_w=111 | lines_avail=4 | lines_need=2.5
+[manga-translator.ModelMangaOCR] prob: 0.9987452030181886 えっ．．．！？ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 大したものじゃ => No es gran cosa.
+[manga-translator.MimoTokenPlanTranslator] 1: まさかお主に励まされる日が来るとはな．．． => Nunca imaginé que llegaría el día en que me animaras, onushi...
+[manga-translator.MimoTokenPlanTranslator] 2: さてわらわは別の湯船に浸かろうかの => Bien, warawa se sumergirá en otra bañera, ¿no?
+[manga-translator.MimoTokenPlanTranslator] 3: なっ！？ルーナ！？何じゃこの湯舟は！？ => ¡¿Qué?! ¡¿Luna?! ¡¿Qué es esta bañera?!
+[manga-translator.MimoTokenPlanTranslator] 4: 手が勝手にピクピクして変な形に！？ => ¡¿Mis manos se están temblando solas y adoptan formas extrañas?!
+[manga-translator.MimoTokenPlanTranslator] 5: そこは電気風呂だ => Eso es un denki-buro.
+[manga-translator.MimoTokenPlanTranslator] 6: 今わらわは感電しとるのか！？ => ¡¿Warawa está siendo electrocutada ahora mismo?!
+DEBUG_FONT: 'No es gran cosa.' | size=54->50 | ratio=3.00 | clamped=False | mult=0.94 | xyxy=[552, 76, 706, 369] | region_w=150 | lines_avail=7 | lines_need=3.2
+DEBUG_FONT: 'Nunca imaginé que llegaría el día en que me animaras, onushi...' | size=31->27 | ratio=2.59 | clamped=False | mult=0.90 | xyxy=[843, 665, 1088, 951] | region_w=204 | lines_avail=12 | lines_need=7.0
+DEBUG_FONT: 'Bien, warawa se sumergirá en otra bañera, ¿no?' | size=27->25 | ratio=2.18 | clamped=False | mult=0.96 | xyxy=[66, 698, 260, 933] | region_w=133 | lines_avail=12 | lines_need=5.111111111111111
+DEBUG_FONT: '¡¿Qué?! ¡¿Luna?! ¡¿Qué es esta bañera?!' | size=26->26 | ratio=1.07 | clamped=True | mult=1.00 | xyxy=[633, 1250, 811, 1455] | region_w=172 | lines_avail=11 | lines_need=4.875
+DEBUG_FONT: '¡¿Mis manos se están temblando solas y adoptan formas extrañas?!' | size=26->26 | ratio=1.09 | clamped=True | mult=1.00 | xyxy=[499, 1356, 613, 1530] | region_w=111 | lines_avail=9 | lines_need=6.4
+DEBUG_FONT: 'Eso es un denki-buro.' | size=27->27 | ratio=1.42 | clamped=True | mult=1.00 | xyxy=[269, 1256, 364, 1411] | region_w=91 | lines_avail=8 | lines_need=1.9090909090909092
+DEBUG_FONT: '¡¿Warawa está siendo electrocutada ahora mismo?!' | size=26->26 | ratio=1.31 | clamped=True | mult=1.00 | xyxy=[113, 1259, 200, 1489] | region_w=84 | lines_avail=12 | lines_need=3.6923076923076925
+[manga-translator.ModelMangaOCR] prob: 0.46690049767494207 ．．． fg: (8, 11, 6) bg: (8, 11, 6)
+[manga-translator.ModelMangaOCR] prob: 0.995077133178711 それでも、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993144273757936 ええいっ！！ fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996772408485414 その．．． fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9646538496017457 えっとー fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999974370002747 決して fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999433159828186 お主とあやつを fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308778 重ねて見ていた fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9985184073448182 わけでは．．．！！ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999919354915619 ち：違うんだ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9969201087951661 テオドルフ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: えっ．．．！？ => ¡¿Qué...!?
+DEBUG_FONT: '¡¿Qué...!?' | size=49->22 | ratio=3.00 | clamped=False | mult=0.45 | xyxy=[868, 1294, 999, 1502] | region_w=125 | lines_avail=6 | lines_need=1.0
+[manga-translator.ModelMangaOCR] prob: 0.9999595880508423 ルーナさんの fg: (0, 3, 0) bg: (0, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999251365661621 あんな顔 fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9979610443115235 初めて見た．．． fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998335242271424 ふふっ fg: (7, 10, 7) bg: (7, 10, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9998881220817566 急須の仕返しは fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998800158500672 これくらいに fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999377727508546 しといてやろう fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8505138754844666 速っ！！ fg: (120, 119, 121) bg: (202, 197, 192)
+[manga-translator.ModelMangaOCR] prob: 0.9977617263793946 ルーナさん！？ fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ち：違うんだテオドルフ => Chi: No es eso, Teodor...
+[manga-translator.MimoTokenPlanTranslator] 1: 決してお主とあやつを重ねて見ていたわけでは．．．！！ => Nunca estuve comparándote con esa persona...!!
+[manga-translator.MimoTokenPlanTranslator] 2: その．．．えっとー => Bueno... eh...
+[manga-translator.MimoTokenPlanTranslator] 3: ええいっ！！ => ¡Esa es!!
+[manga-translator.MimoTokenPlanTranslator] 4: それでも、 => Aun así,
+DEBUG_FONT: 'Chi: No es eso, Teodor...' | size=50->40 | ratio=3.00 | clamped=False | mult=0.81 | xyxy=[823, 65, 1094, 407] | region_w=211 | lines_avail=9 | lines_need=2.7777777777777777
+DEBUG_FONT: 'Nunca estuve comparándote con esa persona...!!' | size=44->44 | ratio=1.08 | clamped=True | mult=1.00 | xyxy=[150, 106, 399, 431] | region_w=249 | lines_avail=10 | lines_need=3.8333333333333335
+DEBUG_FONT: 'Bueno... eh...' | size=44->44 | ratio=1.15 | clamped=True | mult=1.00 | xyxy=[142, 466, 250, 645] | region_w=105 | lines_avail=6 | lines_need=1.75
+DEBUG_FONT: '¡Esa es!!' | size=60->72 | ratio=3.00 | clamped=False | mult=1.20 | xyxy=[53, 977, 226, 1292] | region_w=173 | lines_avail=7 | lines_need=2.25
+DEBUG_FONT: 'Aun así,' | size=18->26 | ratio=3.00 | clamped=False | mult=1.45 | xyxy=[526, 1215, 682, 1270] | region_w=156 | lines_avail=4 | lines_need=2.0
+[manga-translator.ModelMangaOCR] prob: 0.9997559189796449 やれやれ．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998403787612916 しょうがない．．． fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993981122970582 ふむ．． fg: (5, 5, 4) bg: (5, 5, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998052716255189 少しからかい fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994904994964601 過ぎたか．．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999938011169435 今じゃ世界樹の fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999437332153321 一番上から降りてきて fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999513626098634 もらえない状態です fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999874830245973 話しかけたら fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999797940254211 逃げられて fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999875426292419 どうして fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999450445175172 僕を避けるん fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995525479316713 ですかね．．．？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9987561106681825 あぁ．．． fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994925856590272 それが．．． fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999163746833801 そうえば fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999842047691346 あれから fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993322491645814 ルーナと fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999672293663025 どうじゃっ！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999516606330873 早速温浴業を fg: (3, 3, 3) bg: (3, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9965317845344545 始めてみるとする fg: (1, 2, 2) bg: (1, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997112751007081 数日後 fg: (2, 4, 3) bg: (2, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999994456768036 できたら fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998081326484681 ぜひ入らせて fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9893400669097902 ください！ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999898672103883 そろそろ fg: (5, 3, 0) bg: (5, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999607205390931 発たせてもらおう fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999912977218628 世話になったな fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: いいや違うな => No, eso no es
+[manga-translator.MimoTokenPlanTranslator] 1: そうやって本音を誤魔化しておるのだろう？ => Así que disimulas tus verdaderos sentimientos... ¿verdad?
+[manga-translator.MimoTokenPlanTranslator] 2: あやつに対してもそうじゃったからな => Eso es lo que hacías con él también...
+[manga-translator.MimoTokenPlanTranslator] 3: わらわにはお見通しじゃぞ => Yo sí te veo a través
+[manga-translator.MimoTokenPlanTranslator] 4: あやつ．．．？ => ¿Él...?
+[manga-translator.MimoTokenPlanTranslator] 5: ルーナは数千年前ある英雄に懐いておってなよく後ろをついて回っていたのじゃ => Lūna, hace miles de años, se encariñó con un cierto héroe y siempre lo seguía a todas partes
+[manga-translator.MimoTokenPlanTranslator] 6: テオドルフにはその英雄のおもかげ面影がある => En Teodorfu hay un parecido con aquel héroe
+[manga-translator.MimoTokenPlanTranslator] 7: へえ～～～英雄ですか => Vaya... un héroe, ¿eh?
+[manga-translator.MimoTokenPlanTranslator] 8: そんなに僕に似てるんですか？ルーナさー => ¿Me parezco tanto a él? Lūna...
+DEBUG_FONT: 'No, eso no es' | size=56->52 | ratio=2.14 | clamped=False | mult=0.93 | xyxy=[877, 85, 1061, 284] | region_w=180 | lines_avail=5 | lines_need=2.6
+DEBUG_FONT: 'Así que disimulas tus verdaderos sentimientos... ¿verdad?' | size=37->37 | ratio=1.21 | clamped=True | mult=1.00 | xyxy=[140, 122, 318, 466] | region_w=178 | lines_avail=12 | lines_need=3.8
+DEBUG_FONT: 'Eso es lo que hacías con él también...' | size=31->31 | ratio=1.43 | clamped=True | mult=1.00 | xyxy=[951, 556, 1042, 836] | region_w=91 | lines_avail=12 | lines_need=3.8
+DEBUG_FONT: 'Yo sí te veo a través' | size=26->26 | ratio=1.75 | clamped=False | mult=1.00 | xyxy=[431, 566, 533, 759] | region_w=99 | lines_avail=10 | lines_need=2.625
+DEBUG_FONT: '¿Él...?' | size=28->8 | ratio=1.57 | clamped=False | mult=0.31 | xyxy=[326, 558, 364, 710] | region_w=34 | lines_avail=7 | lines_need=1.0
+DEBUG_FONT: 'Lūna, hace miles de años, se encariñó con un cierto héroe y siempre lo seguía a todas partes' | size=26->26 | ratio=1.30 | clamped=True | mult=1.00 | xyxy=[860, 973, 1046, 1327] | region_w=186 | lines_avail=18 | lines_need=11.5
+DEBUG_FONT: 'En Teodorfu hay un parecido con aquel héroe' | size=23->30 | ratio=1.53 | clamped=False | mult=1.31 | xyxy=[475, 1273, 642, 1515] | region_w=163 | lines_avail=14 | lines_need=5.375
+DEBUG_FONT: 'Vaya... un héroe, ¿eh?' | size=26->27 | ratio=1.87 | clamped=False | mult=1.06 | xyxy=[334, 969, 448, 1130] | region_w=108 | lines_avail=9 | lines_need=3.142857142857143
+DEBUG_FONT: '¿Me parezco tanto a él? Lūna...' | size=26->36 | ratio=1.51 | clamped=False | mult=1.42 | xyxy=[98, 1245, 254, 1510] | region_w=152 | lines_avail=14 | lines_need=4.428571428571429
+[manga-translator.ModelMangaOCR] prob: 0.8714388012886047 それにー fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996786117553712 価狐の加護を fg: (7, 7, 4) bg: (7, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9173986911773682 くれてやる fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999975323677063 迷惑をかけた fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997723102569581 詫びじゃ fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7226674556732179 ．． fg: (6, 9, 6) bg: (6, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9991658926010133 タマモさん！？ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996591210365297 何を！？ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.5837986469268799 んっ．．． fg: (149, 152, 146) bg: (149, 152, 146)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ルーナさん！？ => ¡¿Señora Luna?!
+[manga-translator.MimoTokenPlanTranslator] 1: 速っ！！ => ¡¡Rápida!!
+[manga-translator.MimoTokenPlanTranslator] 2: ふふっ急須の仕返しはこれくらいにしといてやろう => Je je, con esto basta para vengarte de la tetera
+[manga-translator.MimoTokenPlanTranslator] 3: ルーナさんのあんな顔初めて見た．．． => Es la primera vez que veo a la Señora Luna con esa cara...
+DEBUG_FONT: '¡¿Señora Luna?!' | size=42->42 | ratio=1.39 | clamped=True | mult=1.00 | xyxy=[142, 141, 194, 385] | region_w=48 | lines_avail=8 | lines_need=1.875
+DEBUG_FONT: '¡¡Rápida!!' | size=47->12 | ratio=1.76 | clamped=False | mult=0.27 | xyxy=[30, 474, 107, 583] | region_w=73 | lines_avail=3 | lines_need=1.0
+DEBUG_FONT: 'Je je, con esto basta para vengarte de la tetera' | size=26->34 | ratio=2.09 | clamped=False | mult=1.34 | xyxy=[801, 796, 1038, 1068] | region_w=225 | lines_avail=14 | lines_need=6.0
+DEBUG_FONT: 'Es la primera vez que veo a la Señora Luna con esa cara...' | size=31->30 | ratio=2.27 | clamped=False | mult=1.00 | xyxy=[470, 1252, 693, 1512] | region_w=223 | lines_avail=11 | lines_need=8.285714285714286
+[manga-translator.ModelMangaOCR] prob: 0.9999746084213258 じゃあな fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997610449790956 テオドルフ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998577237129213 また会う日を fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999528527259827 楽しみにしているぞ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999943971633911 これを見せれば fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999844789505005 あの岡栄も少しは素直に fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998542070388795 なるじゃろうて fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 数日後 => Unos días después
+[manga-translator.MimoTokenPlanTranslator] 1: そろそろ発たせてもらおう世話になったな => Bueno, ya es hora de que me vaya. Gracias por todo.
+[manga-translator.MimoTokenPlanTranslator] 2: 早速温浴業を始めてみるとする => A ver, a empezar con el negocio de baños termales.
+[manga-translator.MimoTokenPlanTranslator] 3: できたらぜひ入らせてください！ => ¡Si lo logran, por favor déjenme entrar!
+[manga-translator.MimoTokenPlanTranslator] 4: そうえばあれからルーナとどうじゃっ！ => ¡Por cierto, ¿qué pasó con Lūna después de eso?!
+[manga-translator.MimoTokenPlanTranslator] 5: あぁ．．．それが．．． => Aaah... pues... eso...
+[manga-translator.MimoTokenPlanTranslator] 6: 話しかけたら逃げられて => Cuando intenté hablar con ella, huyó...
+[manga-translator.MimoTokenPlanTranslator] 7: 今じゃ世界樹の一番上から降りてきてもらえない状態です => ¡Ahora mismo ni siquiera viene a bajarse de lo más alto del Árbol del Mundo!
+[manga-translator.MimoTokenPlanTranslator] 8: どうして僕を避けるんですかね．．．？ => ¿Por qué me evades...?
+[manga-translator.MimoTokenPlanTranslator] 9: ふむ．．少しからかい過ぎたか．．． => Hmm... quizás la molesté demasiado...
+[manga-translator.MimoTokenPlanTranslator] 10: やれやれ．．しょうがない．．． => Vaya... no hay remedio...
+DEBUG_FONT: 'Unos días después' | size=41->14 | ratio=1.80 | clamped=False | mult=0.36 | xyxy=[950, 117, 1015, 233] | region_w=61 | lines_avail=4 | lines_need=2.4285714285714284
+DEBUG_FONT: 'Bueno, ya es hora de que me vaya. Gracias por todo.' | size=26->26 | ratio=1.12 | clamped=True | mult=1.00 | xyxy=[738, 100, 847, 307] | region_w=106 | lines_avail=11 | lines_need=7.285714285714286
+DEBUG_FONT: 'A ver, a empezar con el negocio de baños termales.' | size=21->21 | ratio=1.13 | clamped=True | mult=1.00 | xyxy=[638, 197, 708, 407] | region_w=66 | lines_avail=14 | lines_need=5.555555555555555
+DEBUG_FONT: '¡Si lo logran, por favor déjenme entrar!' | size=26->30 | ratio=2.39 | clamped=False | mult=1.18 | xyxy=[87, 85, 279, 308] | region_w=179 | lines_avail=12 | lines_need=5.714285714285714
+DEBUG_FONT: '¡Por cierto, ¿qué pasó con Lūna después de eso?!' | size=27->27 | ratio=1.31 | clamped=True | mult=1.00 | xyxy=[836, 486, 986, 647] | region_w=144 | lines_avail=8 | lines_need=6.857142857142857
+DEBUG_FONT: 'Aaah... pues... eso...' | size=33->33 | ratio=1.39 | clamped=True | mult=1.00 | xyxy=[118, 499, 213, 637] | region_w=91 | lines_avail=6 | lines_need=3.142857142857143
+DEBUG_FONT: 'Cuando intenté hablar con ella, huyó...' | size=28->28 | ratio=1.35 | clamped=True | mult=1.00 | xyxy=[872, 718, 961, 895] | region_w=85 | lines_avail=9 | lines_need=5.571428571428571
+DEBUG_FONT: '¡Ahora mismo ni siquiera viene a bajarse de lo más alto del Árbol del Mundo!' | size=31->31 | ratio=1.27 | clamped=True | mult=1.00 | xyxy=[382, 923, 521, 1216] | region_w=135 | lines_avail=13 | lines_need=9.5
+DEBUG_FONT: '¿Por qué me evades...?' | size=27->27 | ratio=1.40 | clamped=True | mult=1.00 | xyxy=[190, 700, 321, 875] | region_w=125 | lines_avail=9 | lines_need=2.2
+DEBUG_FONT: 'Hmm... quizás la molesté demasiado...' | size=26->24 | ratio=2.14 | clamped=False | mult=0.95 | xyxy=[85, 1014, 266, 1222] | region_w=164 | lines_avail=11 | lines_need=3.0833333333333335
+DEBUG_FONT: 'Vaya... no hay remedio...' | size=28->29 | ratio=3.00 | clamped=False | mult=1.05 | xyxy=[812, 1291, 978, 1520] | region_w=162 | lines_avail=11 | lines_need=2.5
+[manga-translator.ModelMangaOCR] prob: 0.9991791844367982 ふぅ．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8499704003334045 癒される～～～ fg: (3, 4, 4) bg: (3, 4, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999688267707826 貸し切り fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993983507156373 露天風呂だ！！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999541640281678 皆が寝静まった頃に fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999950528144836 仕事が終わった fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9155333638191223 僕はー fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999842643737793 タマモさんが fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999452233314515 帰った日の深夜 fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: これを見せればあの岡栄も少しは素直になるじゃろうて => Con solo mostrarle esto, ese Okasaka también se pondrá un poco más dócil, ¿no?
+[manga-translator.MimoTokenPlanTranslator] 1: じゃあなテオドルフ => Adiós, Teodorufu
+[manga-translator.MimoTokenPlanTranslator] 2: また会う日を楽しみにしているぞ => Espero con ansias el día en que volvamos a vernos
+DEBUG_FONT: 'Con solo mostrarle esto, ese Okasaka también se pondrá un poco más dócil, ¿no?' | size=31->35 | ratio=2.10 | clamped=False | mult=1.16 | xyxy=[823, 71, 1072, 503] | region_w=249 | lines_avail=19 | lines_need=8.666666666666666
+DEBUG_FONT: 'Adiós, Teodorufu' | size=37->39 | ratio=3.09 | clamped=False | mult=1.08 | xyxy=[863, 1034, 1067, 1279] | region_w=200 | lines_avail=9 | lines_need=1.7777777777777777
+DEBUG_FONT: 'Espero con ansias el día en que volvamos a vernos' | size=37->39 | ratio=3.00 | clamped=False | mult=1.07 | xyxy=[112, 1031, 351, 1394] | region_w=239 | lines_avail=13 | lines_need=6.125
+[manga-translator.ModelMangaOCR] prob: 0.9903550148010254 一ナがテオに本音を伝えて．．． fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9986228942871095 ここ男湯．．． fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999865293502809 少し話を fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997565746307374 したい．．． fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9718213677406312 えっ！？ fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9992173314094545 ルーナさん！？ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996780753135682 どうしてここに！？ fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983288049697877 やはりあのまま fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999842047691346 逃げていては fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999763309955597 よくないと思ってな．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: タマモさんが帰った日の深夜 => En la madrugada del día que Tamamo-san se fue.
+[manga-translator.MimoTokenPlanTranslator] 1: 皆が寝静まった頃に仕事が終わった僕はー => Cuando todos ya estaban dormidos y mi trabajo terminó, yo...
+[manga-translator.MimoTokenPlanTranslator] 2: 貸し切り露天風呂だ！！ => ¡¡Un baño termal privado!!
+[manga-translator.MimoTokenPlanTranslator] 3: ふぅ．．．癒される～～～ => Phew... Esto reconforta~~~
+DEBUG_FONT: 'En la madrugada del día que Tamamo-san se fue.' | size=32->22 | ratio=1.91 | clamped=False | mult=0.71 | xyxy=[833, 111, 971, 349] | region_w=132 | lines_avail=10 | lines_need=4.6
+DEBUG_FONT: 'Cuando todos ya estaban dormidos y mi trabajo terminó, yo...' | size=26->31 | ratio=3.00 | clamped=False | mult=1.20 | xyxy=[81, 114, 364, 445] | region_w=172 | lines_avail=17 | lines_need=7.5
+DEBUG_FONT: '¡¡Un baño termal privado!!' | size=67->67 | ratio=1.44 | clamped=True | mult=1.00 | xyxy=[734, 595, 924, 934] | region_w=190 | lines_avail=7 | lines_need=2.888888888888889
+DEBUG_FONT: 'Phew... Esto reconforta~~~' | size=31->15 | ratio=1.75 | clamped=False | mult=0.51 | xyxy=[907, 1113, 1034, 1322] | region_w=116 | lines_avail=9 | lines_need=2.0
+[manga-translator.MimoTokenPlanTranslator] 0: えっ！？ルーナさん！？どうしてここに！？ => ¡¿Qué?! ¡¿Luna-san?! ¿¡Qué haces aquí?!
+[manga-translator.MimoTokenPlanTranslator] 1: ここ男湯．．． => Este es el baño de hombres...
+[manga-translator.MimoTokenPlanTranslator] 2: 一ナがテオに本音を伝えて．．． => Luna le confesó sus sentimientos verdaderos a Teo...
+[manga-translator.MimoTokenPlanTranslator] 3: やはりあのまま逃げていてはよくないと思ってな．． => Así que pensé que no estaría bien seguir huyendo así...
+[manga-translator.MimoTokenPlanTranslator] 4: 少し話をしたい．．． => Quisiera hablar un poco contigo...
+DEBUG_FONT: '¡¿Qué?! ¡¿Luna-san?! ¿¡Qué haces aquí?!' | size=68->68 | ratio=1.05 | clamped=True | mult=1.00 | xyxy=[724, 1023, 929, 1447] | region_w=205 | lines_avail=8 | lines_need=3.25
+DEBUG_FONT: 'Este es el baño de hombres...' | size=27->27 | ratio=1.21 | clamped=True | mult=1.00 | xyxy=[665, 1300, 702, 1412] | region_w=33 | lines_avail=6 | lines_need=2.9
+DEBUG_FONT: 'Luna le confesó sus sentimientos verdaderos a Teo...' | size=32->29 | ratio=3.00 | clamped=False | mult=0.92 | xyxy=[677, 1513, 1058, 1599] | region_w=381 | lines_avail=4 | lines_need=4.333333333333333
+DEBUG_FONT: 'Así que pensé que no estaría bien seguir huyendo así...' | size=26->40 | ratio=3.00 | clamped=False | mult=1.57 | xyxy=[157, 54, 453, 430] | region_w=273 | lines_avail=19 | lines_need=7.857142857142857
+DEBUG_FONT: 'Quisiera hablar un poco contigo...' | size=38->26 | ratio=2.45 | clamped=False | mult=0.69 | xyxy=[238, 1162, 393, 1345] | region_w=149 | lines_avail=7 | lines_need=3.4
+[manga-translator.MimoTokenPlanTranslator] 0: んっ．．． => Mmm...
+[manga-translator.MimoTokenPlanTranslator] 1: タマモさん！？何を！？ => ¡Tamamo-san!? ¿¡Qué!?
+[manga-translator.MimoTokenPlanTranslator] 2: 迷惑をかけた詫びじゃ => Es una disculpa por las molestias.
+[manga-translator.MimoTokenPlanTranslator] 3: 価狐の加護をくれてやる => Te daré la bendición del Kakitsune.
+[manga-translator.MimoTokenPlanTranslator] 4: それにー => Además—
+DEBUG_FONT: 'Mmm...' | size=135->95 | ratio=1.77 | clamped=False | mult=0.71 | xyxy=[214, 16, 496, 276] | region_w=332 | lines_avail=3 | lines_need=1.0
+DEBUG_FONT: '¡Tamamo-san!? ¿¡Qué!?' | size=31->31 | ratio=1.32 | clamped=True | mult=1.00 | xyxy=[683, 865, 786, 1060] | region_w=100 | lines_avail=9 | lines_need=1.6153846153846154
+DEBUG_FONT: 'Es una disculpa por las molestias.' | size=31->31 | ratio=1.35 | clamped=True | mult=1.00 | xyxy=[700, 1137, 790, 1316] | region_w=86 | lines_avail=8 | lines_need=3.4
+DEBUG_FONT: 'Te daré la bendición del Kakitsune.' | size=22->22 | ratio=1.32 | clamped=True | mult=1.00 | xyxy=[336, 1144, 413, 1320] | region_w=73 | lines_avail=11 | lines_need=3.5
+DEBUG_FONT: 'Además—' | size=27->9 | ratio=1.56 | clamped=False | mult=0.34 | xyxy=[235, 1151, 276, 1261] | region_w=37 | lines_avail=6 | lines_need=1.0

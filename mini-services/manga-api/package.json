@@ -1,0 +1,9 @@
+{
+  "name": "manga-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun --hot run supervisor.js"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,450 @@
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908974051475524 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729388237001 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: １０００それでも、いいでしょうか。 => 1000 ¿Y si no?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 1160x320
+[manga-translator.ModelMangaOCR] prob: 0.9921199083328248 ＲＹＵＣＯＭＣＳＪＵＮＣＯＲＮ fg: (236, 247, 244) bg: (237, 248, 245)
+[manga-translator.ModelMangaOCR] prob: 0.9459126591682434 それでもいいのですが、いいでしょうか。 fg: (218, 240, 241) bg: (219, 241, 242)
+[manga-translator.ModelMangaOCR] prob: 0.7044114470481873 いや、それじゃないか。 fg: (227, 200, 210) bg: (225, 195, 207)
+[manga-translator.ModelMangaOCR] prob: 0.9865475296974183 原作尾野けぬじ fg: (247, 247, 207) bg: (247, 247, 207)
+[manga-translator.ModelMangaOCR] prob: 0.9488809108734131 漫画：うめ蔵 fg: (224, 247, 247) bg: (224, 247, 247)
+[manga-translator.ModelMangaOCR] prob: 0.9973642826080323 魅力値マイナスの勇者が fg: (147, 207, 232) bg: (147, 207, 232)
+[manga-translator.ModelMangaOCR] prob: 0.9629684686660768 テモテだった件 fg: (241, 227, 153) bg: (245, 238, 162)
+[manga-translator.ModelMangaOCR] prob: 0.6164261698722839 う．．．この勇者がモテモテだった件マ fg: (200, 152, 141) bg: (187, 137, 128)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 魅力値マイナスの勇者がう．．．この勇者がモテモテだった件マテモテだった件 => El valiente de los precios menos atractivos, el valentí... Este corajoso era un malvado.
+[manga-translator.M2M100Translator] 1: 原作尾野けぬじ漫画：うめ蔵 => 原作尾野けんじ漫画:うめ蔵
+[manga-translator.M2M100Translator] 2: それでもいいのですが、いいでしょうか。いや、それじゃないか。ＲＹＵＣＯＭＣＳＪＵＮＣＯＲＮ => No, no es así. - RYUCOMCSJUNCORN
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 640x864
+[manga-translator.ModelMangaOCR] prob: 0.9999855756759645 こんなモンで fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.998855233192444 熊を倒せるとは fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998047947883607 思えんがのう fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999629855155945 雑でも fg: (7, 5, 3) bg: (7, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999849796295167 こうやって振って fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999931573867798 音が鳴ればいいから fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999094605445863 けんど、 fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999823570251466 とにかく沢山 fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996524453163148 あった方が fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996017813682557 いいんだ fg: (2, 5, 0) bg: (2, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9630104303359986 原作尾野付ねじ、漫画ようめ蔵 fg: (237, 236, 236) bg: (237, 236, 236)
+[manga-translator.ModelMangaOCR] prob: 0.8442060351371765 いや、わざわざいませんでしょうか。 fg: (232, 230, 233) bg: (232, 230, 233)
+[manga-translator.ModelMangaOCR] prob: 0.7639086842536926 今までやってみると思っていたのではないのですが、 fg: (246, 245, 246) bg: (246, 245, 246)
+[manga-translator.ModelMangaOCR] prob: 0.961911976337433 の勇者が fg: (250, 249, 249) bg: (250, 249, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9081956744194031 魅力値、 fg: (248, 245, 244) bg: (248, 245, 244)
+[manga-translator.ModelMangaOCR] prob: 0.9979944825172425 美少女モンスターには fg: (225, 228, 229) bg: (225, 228, 229)
+[manga-translator.ModelMangaOCR] prob: 0.9998788237571717 モテモテだった件 fg: (244, 241, 240) bg: (244, 241, 240)
+[manga-translator.ModelMangaOCR] prob: 0.8026766180992126 Ｃｈａｒｍ fg: (31, 32, 32) bg: (31, 32, 32)
+[manga-translator.ModelMangaOCR] prob: 0.9936171174049379 第１ fg: (211, 216, 216) bg: (211, 216, 216)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 第１ => El 1o
+[manga-translator.M2M100Translator] 1: Ｃｈａｒｍ => Charme Charm
+[manga-translator.M2M100Translator] 2: の勇者が魅力値、美少女モンスターにはモテモテだった件 => El valor de los valientes es el atractivo, y las hermosas niñas monstruosas son cosas que eran modestas.
+[manga-translator.M2M100Translator] 3: 今までやってみると思っていたのではないのですが、いや、わざわざいませんでしょうか。 => No he pensado en intentarlo antes, pero no hay que hacerlo.
+[manga-translator.M2M100Translator] 4: 原作尾野付ねじ、漫画ようめ蔵 => 原作尾野付<unk>、漫画ようめ蔵
+[manga-translator.M2M100Translator] 5: とにかく沢山あった方がいいんだ => En cualquier caso, es mejor que haya mucho.
+[manga-translator.M2M100Translator] 6: けんど、 => Y por lo tanto,
+[manga-translator.M2M100Translator] 7: 雑でもこうやって振って音が鳴ればいいから => Por lo tanto, es así que se mueve y suena el sonido.
+[manga-translator.M2M100Translator] 8: こんなモンで熊を倒せるとは思えんがのう => No creo que pueda derrotar a un oso con este monstruo.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9197729825973511 熊か村に fg: (1, 4, 2) bg: (1, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999401569366455 入ってきたのが fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999593496322633 分かりさえすれば fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997943043708801 なんとか．．． fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992755055427552 オーク達が fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999819993972778 来てくれるまで fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.998769760131836 生き残るのが fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9948101043701173 目的だからな fg: (5, 2, 1) bg: (5, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996912479400636 ケンカ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993144273757936 売ってんのか？ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999605417251587 ゴブリンは fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992471933364869 こういう小細工が fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998579621315004 得意じゃのう fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9861432909965516 おおう fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999605417251587 成る程 fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999953866004944 カラカラ fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999644160270691 鳴った所で fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999890923500061 なんかが fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999685287475587 引っ掛かったが fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9674408435821533 わかんたろ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999867081642151 こうやって fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999322295188904 紐で括って fg: (4, 4, 3) bg: (4, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999510645866395 村を囲うように fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996103644371034 設置しとけば fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: こうやって紐で括って村を囲うように設置しとけば => De esta manera, se debe conectar con un hilo para instalarlo alrededor del pueblo.
+[manga-translator.M2M100Translator] 1: カラカラ鳴った所でなんかが引っ掛かったがわかんたろ => Algo se atrapó en el barranco, pero no lo sabes.
+[manga-translator.M2M100Translator] 2: おおう成る程 => A lo largo de los tiempos se hace
+[manga-translator.M2M100Translator] 3: オーク達が来てくれるまで生き残るのが目的だからな => El objetivo es sobrevivir hasta que vienen los orcos.
+[manga-translator.M2M100Translator] 4: 熊か村に入ってきたのが分かりさえすればなんとか．．． => Si solo sabes que hay un oso o una aldea...
+[manga-translator.M2M100Translator] 5: ゴブリンはこういう小細工が得意じゃのう => Gobrín es capaz de hacer tales pequeños trabajadores.
+[manga-translator.M2M100Translator] 6: ケンカ売ってんのか？ => ¿Vende una disputa?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.574408769607544 ．．． fg: (26, 23, 24) bg: (26, 23, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9567482471466064 あー fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.935389518737793 よし！ fg: (6, 6, 1) bg: (6, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999681115150452 もういっちょ fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992489814758302 行くぞ！ fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9250873327255249 あ．．． fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996349811553956 ボ．．．ボクも fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999933242797853 沢山作ったから fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994636774063111 褒めてよう fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9964277148246766 頑張るであります！ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998471140861512 ご苦労様 fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999971628189087 村の北は fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997665882110597 ほぼ鳴子 fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9987993836402894 設置済みです！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999656081199647 村を囲うには fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.99997615814209 まだまだ fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999146461486818 足りないから fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999917149543762 頑張ってね fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9993626475334169 フトシ殿！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: フトシ殿！ => ¡El Señor Futsal!
+[manga-translator.M2M100Translator] 1: 村の北はほぼ鳴子設置済みです！ => El norte de la aldea está casi instalado!
+[manga-translator.M2M100Translator] 2: ご苦労様 => Muchas gracias Señor.
+[manga-translator.M2M100Translator] 3: 村を囲うにはまだまだ足りないから頑張ってね => No hay suficiente para rodear el pueblo, así que tengan un esfuerzo.
+[manga-translator.M2M100Translator] 4: 頑張るであります！ => ¡Estamos trabajando duro!
+[manga-translator.M2M100Translator] 5: よし！もういっちょ行くぞ！ => ¡Oh, ya vamos un poco!
+[manga-translator.M2M100Translator] 6: ボ．．．ボクも沢山作ったから褒めてよう => Yo también he hecho muchas cosas, así que lo hago.
+[manga-translator.M2M100Translator] 7: あ．．． => Oh... oh
+[manga-translator.M2M100Translator] 8: あー => Ah, oh
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999091029167176 だから、 fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997389912605287 こいつらは．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999923706054689 なんか fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9989225268363954 まずかったか？ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996515512466432 なんじゃ？ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9991673231124879 ん？ fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9721927642822267 え．．．！？ fg: (6, 8, 3) bg: (6, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.8056511878967285 なんですってっ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992459416389466 熊が来たら fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99962055683136 分かるがのぉ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9966970086097718 まぁ、 fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990718960762025 わしら鼻が fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999383687973024 利くから fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9638246297836305 えへへ♥ fg: (6, 8, 6) bg: (6, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9981169104576112 頑張ってるねー fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998311400413514 が、 fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: が、頑張ってるねー => Pero no se esfuerza.
+[manga-translator.M2M100Translator] 1: えへへ♥ => Voy a ir ♥
+[manga-translator.M2M100Translator] 2: まぁ、わしら鼻が利くから => Sí, porque nuestro nariz es bueno.
+[manga-translator.M2M100Translator] 3: 熊が来たら分かるがのぉ => Cuando llegue el oso, lo sabrá.
+[manga-translator.M2M100Translator] 4: え．．．！？ => ¿Y...!?
+[manga-translator.M2M100Translator] 5: なんですってっ => ¿Qué es lo que dice?
+[manga-translator.M2M100Translator] 6: ん？ => ¿Y no?
+[manga-translator.M2M100Translator] 7: だから、こいつらは．．． => Por lo tanto, estos son...
+[manga-translator.M2M100Translator] 8: なんじゃ？ => ¿Y qué?
+[manga-translator.M2M100Translator] 9: なんかまずかったか？ => ¿Había algo mal?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.999993085861206 考える fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994916319847108 どうしたの？ fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992757439613343 なんか fg: (0, 3, 0) bg: (0, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999966025352478 これに fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999537467956543 引っ掛かったら fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999949336051941 ビックリして fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999921917915344 逃げていくと fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996613264083863 いいよね fg: (7, 6, 2) bg: (7, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997946023941041 熊は臆病だって fg: (1, 3, 3) bg: (1, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999845027923584 いうから fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998075962066652 無駄って fg: (3, 4, 3) bg: (3, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999989151954651 わけでも fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999824166297914 ないと思うけど fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999803304672241 無駄に fg: (2, 4, 3) bg: (2, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999924302101135 なっちゃったかな fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 無駄になっちゃったかな => ¿Acaso se ha perdido?
+[manga-translator.M2M100Translator] 1: 無駄ってわけでもないと思うけど => No creo que sea desperdicio, pero
+[manga-translator.M2M100Translator] 2: 熊は臆病だっていうから => El oso es una covardia.
+[manga-translator.M2M100Translator] 3: これに引っ掛かったらビックリして逃げていくといいよね => Si lo haces, te sorprenderás y huirías.
+[manga-translator.M2M100Translator] 4: どうしたの？ => ¿Qué te ha pasado?
+[manga-translator.M2M100Translator] 5: なんか => Algo que
+[manga-translator.M2M100Translator] 6: 考える => Pensar en
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999914765357971 頼りに fg: (5, 3, 3) bg: (5, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999995768070221 してるから fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993485808372499 は？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995936751365663 わしが？ fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997432231903077 コボルトさん fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999547004699707 ついて行って fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999366998672486 あげて fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990211129188539 危ないわよ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999943971633911 独りじゃ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999864101409912 ちょっと fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.0 あ、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: あ、ちょっと => Oh, un poco
+[manga-translator.M2M100Translator] 1: 独りじゃ危ないわよ => Solo es peligroso.
+[manga-translator.M2M100Translator] 2: コボルトさんついて行ってあげて => El señor Cobalto, sigue a él.
+[manga-translator.M2M100Translator] 3: は？わしが？ => ¿Y a mí?
+[manga-translator.M2M100Translator] 4: 頼りにしてるから => Porque confiamos en ellos.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9991866350173951 いんや、 fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999719262123109 気のせいみたいじゃ fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993485808372499 ん？ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994518160820008 なんかあった？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9978333711624147 うーん．．． fg: (5, 4, 0) bg: (5, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9926922917366029 任された！！ fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 任された！！ => ¡Se ha puesto a cargo!!
+[manga-translator.M2M100Translator] 1: ん？なんかあった？ => ¿Había algo ocurrido?
+[manga-translator.M2M100Translator] 2: うーん．．． => Sí...
+[manga-translator.M2M100Translator] 3: いんや、気のせいみたいじゃ => No, parece que te preocupes.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9324893951416016 えー．．． fg: (5, 7, 4) bg: (5, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308778 皆を fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999282360076905 助けてあげて fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999834895133972 オレの事は fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999739527702333 いいから fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999452233314515 もしなんか fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999977171421051 あったらさ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998988509178163 フトシは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999440312385559 優しいなぁ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999495148658752 ふふふ fg: (4, 6, 5) bg: (4, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999056458473207 こんな風に fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.998287320137024 熊とも話せたら fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999268651008606 いいのになぁ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9742436408996583 はぁ〜あ fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: はぁ〜あ => ¡Oh, oh!
+[manga-translator.M2M100Translator] 1: こんな風に熊とも話せたらいいのになぁ => Me gustaría poder hablar así con un oso.
+[manga-translator.M2M100Translator] 2: ふふふ => Es decir,
+[manga-translator.M2M100Translator] 3: フトシは優しいなぁ => Fossi es amable.
+[manga-translator.M2M100Translator] 4: もしなんかあったらさ => Si algo hubiera ocurrido
+[manga-translator.M2M100Translator] 5: オレの事はいいから => Porque es bueno para mí.
+[manga-translator.M2M100Translator] 6: 皆を助けてあげて => Ayúdanos a todos.
+[manga-translator.M2M100Translator] 7: えー．．． => Sí...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.999924659729004 勇者のくせに fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999336004257202 ホコラ様もおるし fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992173910140992 大丈夫じゃろ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998221993446351 そんなに fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999287128448486 キリキリせんでも fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9990069866180421 ちぇ．．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999598860740662 ズルいなぁ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996265172958375 ホテプは．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994490742683412 優しいでしょ？ fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ホテプは．．．優しいでしょ？ => El hotel es... amable, ¿no?
+[manga-translator.M2M100Translator] 1: ちぇ．．．ズルいなぁ => ¡Oh... es una maldición!
+[manga-translator.M2M100Translator] 2: そんなにキリキリせんでも => A pesar de no ser tan gritos
+[manga-translator.M2M100Translator] 3: 勇者のくせに => En el camino de los valientes
+[manga-translator.M2M100Translator] 4: ホコラ様もおるし大丈夫じゃろ => El señor Hocola también está mal y todo va bien.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9994838237762452 や、やっぱり fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997419714927674 そうかな．．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999750256538392 そんなの fg: (4, 6, 1) bg: (4, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997444152832032 いつまでも fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997562170028688 続かねーって fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999255537986756 けどなぁ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9989590644836427 そんだけだろ？ fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308778 だから fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998284578323365 ホコラ様ってのが fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999421834945679 発してるなんかを fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999768733978273 感じて近づかない fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9988257884979249 熊は fg: (2, 4, 4) bg: (2, 4, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999890923500061 臆病なんだ fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998322725296022 さっきフトシが fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999658465385438 言ったろ fg: (3, 5, 0) bg: (3, 5, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: さっきフトシが言ったろ => Hace poco que lo dijeron los chicos.
+[manga-translator.M2M100Translator] 1: 熊は臆病なんだ => El cabrón es feo.
+[manga-translator.M2M100Translator] 2: だからホコラ様ってのが発してるなんかを感じて近づかない => Por lo tanto, no se acerca a sentir que el señor Hocola está lanzando.
+[manga-translator.M2M100Translator] 3: そんだけだろ？ => Eso es lo único, ¿no?
+[manga-translator.M2M100Translator] 4: けどなぁ => Pero sí.
+[manga-translator.M2M100Translator] 5: そんなのいつまでも続かねーって => Y eso no durará para siempre.
+[manga-translator.M2M100Translator] 6: や、やっぱりそうかな．．． => Y, por supuesto que sí...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9653924703598024 あー．．． fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997652173042298 確かに．．． fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9554232954978943 〈引っ掛かりそう〉 fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999675154685974 作れたとしても fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999572634696962 こいつらが fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999784827232361 引っ掛かったら fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998557567596437 マズいっしょ fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999549388885498 そんなモン fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999359428882599 サクッと作れるかよ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993719458580018 なんかこう．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994943737983705 サクッと殺せる fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998046755790712 罠作れないの？ fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997650980949403 それでも．．． fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999941885471344 わしらには fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994672536849977 この鼻が fg: (0, 1, 2) bg: (0, 1, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999817609786988 あるけの fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999734759330751 前の村を襲われて fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999857008457184 ここまで逃げて fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9993611574172975 来たんじゃねーか fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9988535046577455 うぬ．．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999306797981262 にしたって fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: うぬ．．．にしたって => Y no... lo he hecho.
+[manga-translator.M2M100Translator] 1: わしらにはこの鼻があるけの => Tenemos esta herida de nariz.
+[manga-translator.M2M100Translator] 2: それでも．．． => Sin embargo...
+[manga-translator.M2M100Translator] 3: 前の村を襲われてここまで逃げて来たんじゃねーか => ¿Habéis sido atacados por el antiguo pueblo y escapado hasta aquí?
+[manga-translator.M2M100Translator] 4: なんかこう．．サクッと殺せる罠作れないの？ => ¿Acaso no se puede hacer algo que sea capaz de matar?
+[manga-translator.M2M100Translator] 5: そんなモンサクッと作れるかよ => ¿Puede hacer un monstruo así?
+[manga-translator.M2M100Translator] 6: 作れたとしてもこいつらが引っ掛かったらマズいっしょ => Si lo hacemos, si los atraviéramos será malo.
+[manga-translator.M2M100Translator] 7: あー．．．確かに．．．〈引っ掛かりそう〉 => ¡Oh, seguro que... se va a atraer!
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999903440475465 そのくらいで fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9987577795982362 丁度いいんじゃね fg: (3, 5, 0) bg: (3, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9368821382522583 ゴフリンの fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999470114707948 臆病が fg: (7, 7, 6) bg: (7, 7, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9999839067459108 伝染ったんじゃ fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999202489852906 脅かさ fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999871253967285 ないでよう fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999850392341614 気のせい fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999825358390808 だったんかのう fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993362426757814 いや．．．特に fg: (5, 8, 3) bg: (5, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9949934482574464 もうっ fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9131472706794739 え？ fg: (3, 1, 0) bg: (3, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9986364841461183 何？ fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99997615814209 怖いんだけど fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9989836215972902 何？ fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: え？何？ => ¿Qué? lo que?
+[manga-translator.M2M100Translator] 1: 何？ => ¿Qué es?
+[manga-translator.M2M100Translator] 2: 怖いんだけど => Yo tengo miedo, pero
+[manga-translator.M2M100Translator] 3: いや．．．特に => No... especialmente
+[manga-translator.M2M100Translator] 4: 気のせいだったんかのう => ¿Sabía que lo preocupaba?
+[manga-translator.M2M100Translator] 5: もうっ => Ahora ya.
+[manga-translator.M2M100Translator] 6: 脅かさないでよう => No lo amenazemos.
+[manga-translator.M2M100Translator] 7: ゴフリンの臆病が伝染ったんじゃ => La covardia de Gofrín se ha infectado
+[manga-translator.M2M100Translator] 8: そのくらいで丁度いいんじゃね => Es tan bueno que es exactamente así.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9995819330215455 彼女達の鼻を fg: (4, 3, 3) bg: (4, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998570680618287 慣れさせた fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9992772340774537 コボルト達が fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999893307685853 危険を感じる fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999967396259308 ギリギリの fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997974038124086 位置を保たせ fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996674656867982 ホコラ様の気に fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999349713325502 違和感を感じ fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998750686645509 くすぶっていた fg: (1, 4, 0) bg: (1, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9964255690574647 熊たちの行動が fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9252409934997559 熊の嗅覚は fg: (1, 3, 3) bg: (1, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999760389328003 その七倍以上と fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999788999557496 言われている fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999775886535645 犬の嗅覚は fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9975447654724122 人の数千から fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9544501900672913 一億倍と fg: (2, 1, 1) bg: (2, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999725222587587 言われているが fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 犬の嗅覚は人の数千から一億倍と言われているが => Se dice que el olor del perro es entre miles y cien millones de veces mayor al ser humano.
+[manga-translator.M2M100Translator] 1: 熊の嗅覚はその七倍以上と言われている => Se dice que el olor de los abejos es más del siete veces.
+[manga-translator.M2M100Translator] 2: ホコラ様の気に違和感を感じくすぶっていた熊たちの行動が => El comportamiento de los abejos que se sentían diferentes en el interés del señor Hocola
+[manga-translator.M2M100Translator] 3: コボルト達が危険を感じるギリギリの位置を保たせ => Mantenga una posición en la que los Coboltos sienten peligro.
+[manga-translator.M2M100Translator] 4: 彼女達の鼻を => con su nariz.
+[manga-translator.M2M100Translator] 5: 慣れさせた => Me he acostumbrado a eso.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.990826964378357 一方 fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.944977879524231 ヘンキョウ村 fg: (8, 9, 4) bg: (8, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999855160713197 慣れた fg: (1, 3, 3) bg: (1, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.5286036729812622 オオオ！！ fg: (58, 58, 56) bg: (6, 6, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9992612004280091 そして熊たちも fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999143421649933 ホコラ様に fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: そして熊たちもホコラ様に => Y los abejos también a Hocola.
+[manga-translator.M2M100Translator] 1: オオオ！！ => ¡Oh oh!
+[manga-translator.M2M100Translator] 2: 慣れた => Se ha acostumbrado
+[manga-translator.M2M100Translator] 3: 一方ヘンキョウ村 => Por un lado, el pueblo de Henquio.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9998567104339601 魔王．．．ちゃん fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999153017997743 そうっすわ fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.950680136680603 あ、あ．．． fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9369502067565918 バッカお前．．．っ fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999987781047821 ちゃんだよ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9101080298423767 ”ちゃん”！ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9974589943885804 い．．．っ fg: (248, 250, 248) bg: (248, 250, 248)
+[manga-translator.ModelMangaOCR] prob: 0.9999413490295411 魔王サマ fg: (2, 1, 1) bg: (2, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999866485595703 本当に fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9969884753227235 行くんですか？ fg: (4, 4, 3) bg: (4, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9923251867294313 お城に．．． fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 本当に行くんですか？お城に．．． => ¿Realmente vas a la ciudad?
+[manga-translator.M2M100Translator] 1: 魔王サマ => El rey Satanás Samá
+[manga-translator.M2M100Translator] 2: い．．．っ => Y...
+[manga-translator.M2M100Translator] 3: バッカお前．．．っちゃんだよちゃん！ => ¡Tú eres un chico, tu malvado!
+[manga-translator.M2M100Translator] 4: あ、あ．．．そうっすわ => Oh, oh... así es.
+[manga-translator.M2M100Translator] 5: 魔王．．．ちゃん => El rey diablo...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.2790849506855011 大丈夫 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999830126762391 ちょっと fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995833039283754 速いっス fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9980894923210145 あうっ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999862909317017 すんません fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999245405197144 魔王ちゃん fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9406870603561401 え！？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9713920950889589 よわぁ fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998414516448976 走っていくぞ fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995719194412233 かわいい．．． fg: (7, 4, 2) bg: (7, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9203041195869446 よし fg: (6, 6, 1) bg: (6, 6, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: かわいい．．． => Es hermoso...
+[manga-translator.M2M100Translator] 1: よわぁ => Sí, sí.
+[manga-translator.M2M100Translator] 2: よし => Y bueno.
+[manga-translator.M2M100Translator] 3: 走っていくぞ => Vamos a caminar.
+[manga-translator.M2M100Translator] 4: え！？ => ¿Y sí?
+[manga-translator.M2M100Translator] 5: あうっ => Sí, sí.
+[manga-translator.M2M100Translator] 6: すんません魔王ちゃん => Perdón, rey de los demonios
+[manga-translator.M2M100Translator] 7: ちょっと速いっス => Un poco más rápido.
+[manga-translator.M2M100Translator] 8: 大丈夫 => Todo está bien.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999631643295289 この世界って fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999700784683229 変だよ fg: (7, 6, 2) bg: (7, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995898604393006 うーん、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993678927421571 なんて言うか？ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9782280921936036 何か変だと fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999778270721437 言うのだ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999719262123109 ゲームの世界 fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996025562286378 みたいなもんだし fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999836087226868 そうかなって fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9719977378845216 思ったんだけど、 fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999770522117615 ずっと違和感が fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999576807022095 あったんだよね fg: (6, 7, 2) bg: (6, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9976153373718263 オレ．．． fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996542930603028 違和感とな？ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 違和感とな？ => ¿Un sentido de diferencia?
+[manga-translator.M2M100Translator] 1: オレ．．．ずっと違和感があったんだよね => Siempre he tenido una diferencia, ¿verdad?
+[manga-translator.M2M100Translator] 2: ゲームの世界みたいなもんだしそうかなって思ったんだけど、 => Es como un mundo de juegos, pero creo que es así.
+[manga-translator.M2M100Translator] 3: 何か変だと言うのだ => Dicen que es algo extraño.
+[manga-translator.M2M100Translator] 4: うーん、なんて言うか？ => Sí, ¿qué dirás?
+[manga-translator.M2M100Translator] 5: この世界って変だよ => Este mundo es extraño.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999899864196777 だから fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9989529252052308 この世界は fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999978244304657 変だなって fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999934434890747 思うんだ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9528589248657227 人の流動も fg: (3, 4, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995710849761964 資材や食料の fg: (4, 4, 4) bg: (4, 4, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9990475773811341 輸送だって fg: (3, 6, 3) bg: (3, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999130964279176 できやしない fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999811053276063 この fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9517870545387268 ヘンキョウ村なんて fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999922275543213 遠すぎるし fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999418258666992 道もちゃんと fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999750852584839 繋がってないじゃん fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996292591094972 お城は立派だけど fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9994437694549562 周りに町や fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999030232429504 村もないし fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.3405905067920685 ．．． fg: (41, 57, 43) bg: (41, 57, 43)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: お城は立派だけど周りに町や村もないし => La ciudad es maravillosa, pero no hay ciudades ni pueblos alrededor.
+[manga-translator.M2M100Translator] 1: このヘンキョウ村なんて遠すぎるし道もちゃんと繋がってないじゃん => El pueblo de Henquio es demasiado lejos y la carretera no está conectada correctamente.
+[manga-translator.M2M100Translator] 2: 人の流動も資材や食料の輸送だってできやしない => El movimiento humano no puede ser ni el transporte de materiales o alimentos.
+[manga-translator.M2M100Translator] 3: だから => Por lo que
+[manga-translator.M2M100Translator] 4: この世界は変だなって思うんだ => Creo que este mundo es extraño.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999920129776002 なんか fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995731711387635 いましたか？ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9987022280693055 まぁ fg: (6, 4, 0) bg: (6, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999693036079407 何が出ようと fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998674988746644 魔王ちゃんがいれば fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998980760574341 安心っすね fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: なんかいましたか？ => ¿Había algo?
+[manga-translator.M2M100Translator] 1: まぁ何が出ようと魔王ちゃんがいれば安心っすね => No importa lo que salga, si hay un demonio se sentirá tranquilo.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.688940167427063 ．．． fg: (0, 0, 0) bg: (0, 0, 0)

@@ -1,0 +1,490 @@
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908974051475524 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729388237001 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: １０００それでも、いいでしょうか。 => 1000 ¿Y si no?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 768x216
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.515230119228363 ．．． fg: (93, 50, 17) bg: (93, 50, 17)
+[manga-translator.ModelMangaOCR] prob: 0.3437681794166565 ．．． fg: (101, 42, 56) bg: (101, 42, 56)
+[manga-translator.ModelMangaOCR] prob: 0.9993451237678529 生徒たった fg: (153, 124, 113) bg: (153, 124, 113)
+[manga-translator.ModelMangaOCR] prob: 0.7960004210472106 民物の fg: (88, 68, 52) bg: (88, 68, 52)
+[manga-translator.ModelMangaOCR] prob: 0.791120171546936 牙に fg: (98, 57, 27) bg: (98, 57, 27)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 民物の牙に => En los dientes de la gente
+[manga-translator.M2M100Translator] 1: 生徒たった => Sólo los estudiantes
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 288x400
+[manga-translator.ModelMangaOCR] prob: 0.9044609069824219 必要な支援があれば fg: (7, 8, 4) bg: (7, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.999958097934723 言ってください fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999362230300904 返済は再建後で fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999738931655884 結構ですわ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999756813049316 わたくし fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9981806874275209 ジョゼットと申します fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9981729984283448 私お父さんの味 fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9614362716674806 がんばって作ります！ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9987598061561586 ベッキーです fg: (5, 6, 4) bg: (5, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9984822273254396 あ：よく見たら fg: (12, 13, 7) bg: (12, 13, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9995974302291871 全部食べてくれてる．． fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9923312067985536 お客様．．． fg: (7, 8, 4) bg: (7, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998294115066529 大人気だったという fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999229907989503 このお店の料理を fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992666840553285 食べてみたいんです！ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999273419380189 わたくしは fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9298787713050842 グルメなのです！ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: わたくしはグルメなのです！ => ¡Yo soy un gramo!
+[manga-translator.M2M100Translator] 1: 大人気だったというこのお店の料理を食べてみたいんです！ => ¡Quiero comer la comida de esta tienda que fue muy popular!
+[manga-translator.M2M100Translator] 2: お客様．．． => Los invitados...
+[manga-translator.M2M100Translator] 3: あ：よく見たら全部食べてくれてる．． => Si lo ves bien, me has comido todo.
+[manga-translator.M2M100Translator] 4: ベッキーです => Es Beki.
+[manga-translator.M2M100Translator] 5: 私お父さんの味がんばって作ります！ => ¡Yo lo hago con el sabor de mi padre!
+[manga-translator.M2M100Translator] 6: わたくしジョゼットと申します => Yo digo que yo soy José.
+[manga-translator.M2M100Translator] 7: 必要な支援があれば言ってください返済は再建後で結構ですわ => Si necesita ayuda, diga que el reembolso será suficiente después de la reconstrucción.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.9961794614791871 わたくし今日の午後から fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9953726530075074 しばらくお休みさせて fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9953768253326417 いただきますわ fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999710917472839 マリーさん fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998585581779481 月曜日 fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9884274601936341 え？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999551773071289 わたくし fg: (7, 7, 2) bg: (7, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9737104177474977 今迷子ですの fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.996794879436493 はいなんでしょう！ fg: (6, 7, 3) bg: (7, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9943851828575135 ところで一つ fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9707462787628175 お願いがあるのですが fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ところで一つお願いがあるのですが => Por otro lado, tengo una petición.
+[manga-translator.M2M100Translator] 1: はいなんでしょう！ => ¡Sí, ¿qué es eso!
+[manga-translator.M2M100Translator] 2: わたくし今迷子ですの => Ahora estoy perdido.
+[manga-translator.M2M100Translator] 3: え？ => ¿Esto sí?
+[manga-translator.M2M100Translator] 4: 月曜日 => El lunes el miércoles
+[manga-translator.M2M100Translator] 5: マリーさん => La señora María
+[manga-translator.M2M100Translator] 6: わたくし今日の午後からしばらくお休みさせていただきますわ => A partir de esta tarde me voy a dar un descanso.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.9014582633972168 天丈夫ですわハティさん fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995341300964357 ベッドタイムに fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999051690101625 通話しましょうね fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999343752861024 そろそろ学園に着くね fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9343363642692566 もっとおしゃべりしたかったぁ fg: (11, 11, 4) bg: (11, 11, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999040961265565 ジョゼットさん fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999984860420227 今日から fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9989864230155946 お休みでしょ fg: (7, 9, 4) bg: (7, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9987369179725648 名前も出さないなんて．．． fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9678550958633424 どこの方かしら．．．？ fg: (10, 7, 5) bg: (10, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.999876379966736 やけに fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999905288219452 好条件ですわね fg: (7, 6, 3) bg: (7, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998015165328981 出店は自由にして fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9934188127517701 お金はだけ出すって fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9982344508171083 本当ですか！ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999605417251587 変わった fg: (6, 7, 2) bg: (6, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.989227592945099 おはさまですか？ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999284744262696 そういえば fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9948025941848756 学園祭のスポンサー fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993535280227662 無事見つかったよ fg: (3, 1, 0) bg: (3, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.976244866847992 少し変わったおはちゃんだよ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9951109290122987 あとでハン屋に使いをやるとか fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998502731323243 ．．．まだ来てないね fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: そういえば学園祭のスポンサー無事見つかったよ => Por lo tanto, el patrocinador de la fiesta académica fue encontrado seguro.
+[manga-translator.M2M100Translator] 1: 本当ですか！ => ¿Es verdad!
+[manga-translator.M2M100Translator] 2: 少し変わったおはちゃんだよあとでハン屋に使いをやるとか．．．まだ来てないね => Se trata de un juguete algo diferente, que después se utilizará en la tienda... aún no ha venido.
+[manga-translator.M2M100Translator] 3: 変わったおはさまですか？ => ¿Es un desayuno diferente?
+[manga-translator.M2M100Translator] 4: 出店は自由にしてお金はだけ出すって => Las tiendas son libres y solo se pagan dinero.
+[manga-translator.M2M100Translator] 5: やけに好条件ですわね => Es una buena condición.
+[manga-translator.M2M100Translator] 6: 名前も出さないなんて．．．どこの方かしら．．．？ => Y no me dijeron el nombre, ¿quién?
+[manga-translator.M2M100Translator] 7: そろそろ学園に着くねもっとおしゃべりしたかったぁ => Hace tiempo que llegue al colegio, quería hablar más.
+[manga-translator.M2M100Translator] 8: ジョゼットさん今日からお休みでしょ => José, desde hoy tienes vacaciones.
+[manga-translator.M2M100Translator] 9: 天丈夫ですわハティさんベッドタイムに通話しましょうね => Señor, te lo pongo a llamar en la cama.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.9695093035697938 あ．．．ありがとうっ fg: (7, 7, 2) bg: (7, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998812675476074 困ったことが fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998602867126466 あれば遠慮なく fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9857417345046998 相談してくださいね fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994320869445802 パティさん fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9989939332008363 大変でしたわね fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9924572110176088 今貯金箱を．．． fg: (7, 7, 4) bg: (8, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9992865324020387 エミリーの新しい fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999845027923584 能力で話せるように fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997254610061647 なったんだ fg: (6, 5, 0) bg: (6, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9904050827026367 いってらっしゃーい！ fg: (13, 14, 8) bg: (13, 14, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9977050423622132 通話？ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9624598622322084 ？ fg: (11, 13, 11) bg: (11, 13, 11)
+[manga-translator.ModelMangaOCR] prob: 0.9999784827232361 また手伝えそうな時は fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.99998676776886 通話しておくれ fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9992485642433168 ん？ fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9963510036468507 わかったよ fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ん？わかったよ => ¿No? lo entiendo.
+[manga-translator.M2M100Translator] 1: また手伝えそうな時は通話しておくれ => Cuando pueda ayudarme, llame de nuevo.
+[manga-translator.M2M100Translator] 2: 通話？ ？ => ¿La llamada?
+[manga-translator.M2M100Translator] 3: エミリーの新しい能力で話せるようになったんだ => Puedo hablar con las nuevas capacidades de Emily.
+[manga-translator.M2M100Translator] 4: 今貯金箱を．．． => Ahora tienes la caja de ahorro...
+[manga-translator.M2M100Translator] 5: いってらっしゃーい！ => ¡Ven a venir!
+[manga-translator.M2M100Translator] 6: パティさん大変でしたわね => Patty fue muy difícil.
+[manga-translator.M2M100Translator] 7: 困ったことがあれば遠慮なく相談してくださいね => Si tienes algún problema, no dudes en consultarlo.
+[manga-translator.M2M100Translator] 8: あ．．．ありがとうっ => Oh... gracias oh
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.9886305928230286 よ：よろしく．．． fg: (4, 1, 1) bg: (4, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9979519844055177 よろしくっ fg: (8, 9, 4) bg: (8, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999498128890991 よろしく fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9953108429908754 お願いします fg: (2, 6, 2) bg: (2, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: よろしくお願いします => Bienvenido por favor.
+[manga-translator.M2M100Translator] 1: よろしくっ => Bienvenido.
+[manga-translator.M2M100Translator] 2: よ：よろしく．．． => O: Bienvenido...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.999897599220276 キャロです fg: (7, 8, 5) bg: (7, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.5268321633338928 はい私は fg: (4, 4, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998632669448853 レイチェルです fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9587310552597046 君たちは１年生？ fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9979609847068788 おはよぉケント fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9889129400253297 両手に花だな？ fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9980569481849672 いや花畑と登校？ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994680881500245 ボビー fg: (0, 3, 1) bg: (0, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999513626098634 ですねぇ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9615226984024049 ハティ毎日大変だね fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997315406799318 夜にねーっ fg: (1, 4, 1) bg: (1, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.7353549599647523 おはよく fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 夜にねーっ => No en la noche.
+[manga-translator.M2M100Translator] 1: おはよく => Bueno, bien
+[manga-translator.M2M100Translator] 2: ハティ毎日大変だね => El hito es duro todos los días.
+[manga-translator.M2M100Translator] 3: ですねぇ => Sí, sí
+[manga-translator.M2M100Translator] 4: おはよぉケント => Buen día, Kent
+[manga-translator.M2M100Translator] 5: ボビー => Bobby
+[manga-translator.M2M100Translator] 6: 両手に花だな？いや花畑と登校？ => ¿Tienes flores en las manos? No, el campo de los colores y la escuela.
+[manga-translator.M2M100Translator] 7: 君たちは１年生？ => ¿Eres tu alumno de 1o?
+[manga-translator.M2M100Translator] 8: はい私はレイチェルです => Sí, yo soy Rachel
+[manga-translator.M2M100Translator] 9: キャロです => Es caro.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.9987423419952394 ．．．ん．．．あぁ fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9952838420867921 ．．．そうですわね．．． fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997291564941407 じゃーねー fg: (17, 17, 14) bg: (17, 17, 14)
+[manga-translator.ModelMangaOCR] prob: 0.9992454648017884 そうですわよ fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999828338623047 気になる話題ですが fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9987023472785951 私たちはここで： fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999876022338867 噂には聞いてたけど fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998505115509034 ジョゼットさんもケントと fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999505281448364 一緒に登校してるんだ fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9995017647743226 そうだな fg: (4, 1, 0) bg: (4, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997669458389283 うん fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993848800659181 変な誤解は fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999271631240846 されたくないからな fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8635622262954712 まっボビーさんは fg: (6, 7, 2) bg: (6, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9922853112220765 フリムさんに fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.985524892807007 好意があるのですが fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998778700828553 お前プリムさんが fg: (2, 3, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999869465827942 近くにいないか確認した？ fg: (5, 7, 3) bg: (5, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9922269582748414 もしかして．． fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: お前プリムさんが近くにいないか確認した？もしかして．． => ¿Te has dado cuenta de que el señor Primo no está cerca?
+[manga-translator.M2M100Translator] 1: 変な誤解はされたくないからな => Porque no quiero que se produzcan errores extraños.
+[manga-translator.M2M100Translator] 2: まっボビーさんはフリムさんに好意があるのですが => Bobby tiene un buen gusto con Frim.
+[manga-translator.M2M100Translator] 3: うんそうだな => Sí sí si.
+[manga-translator.M2M100Translator] 4: 気になる話題ですが私たちはここで： => Es un tema interesante, pero estamos aquí:
+[manga-translator.M2M100Translator] 5: じゃーねー => Y no.
+[manga-translator.M2M100Translator] 6: 噂には聞いてたけどジョゼットさんもケントと一緒に登校してるんだ => Había escuchado rumores, pero Joseph también estaba a la escuela con Kent.
+[manga-translator.M2M100Translator] 7: そうですわよ => Sí sí.
+[manga-translator.M2M100Translator] 8: ．．．ん．．．あぁ．．．そうですわね．．． => Sí, sí... es cierto.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.9999769330024719 悩みでも fg: (7, 7, 4) bg: (7, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9946096539497377 あんのかな？ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999940812587738 たしかに fg: (20, 19, 13) bg: (20, 19, 13)
+[manga-translator.ModelMangaOCR] prob: 0.9215201139450073 どうしたんだろう fg: (14, 11, 5) bg: (14, 11, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999179244041443 ジョゼットさん fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996674656867982 平民女子に人気 fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9100428223609924 なんだなぁ fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999557137489319 気さくに話して fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999312758445741 くれるからね fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9859436154365541 お前と一緒に fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9611463546752931 登校してるって言ったあと fg: (7, 7, 2) bg: (7, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9796346426010133 なんか考え込んでなかったか？ fg: (3, 0, 0) bg: (3, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999318718910218 一緒に教室 fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9959001541137696 行こ！ fg: (7, 9, 3) bg: (7, 9, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9977134466171266 おはよう！ fg: (7, 7, 4) bg: (7, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9756774306297303 おはようございます fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996791481971742 ジョゼットさん！ fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ジョゼットさん！ => ¡El señor José!
+[manga-translator.M2M100Translator] 1: おはよう！ => ¡Buenas mañanas!
+[manga-translator.M2M100Translator] 2: おはようございます => Buenas mañanas
+[manga-translator.M2M100Translator] 3: 一緒に教室行こ！ => ¡Ven a la clase juntos!
+[manga-translator.M2M100Translator] 4: ジョゼットさん平民女子に人気なんだなぁ => José es popular entre las mujeres civiles.
+[manga-translator.M2M100Translator] 5: 気さくに話してくれるからね => Porque me hablará con tranquilidad.
+[manga-translator.M2M100Translator] 6: お前と一緒に登校してるって言ったあとなんか考え込んでなかったか？ => ¿Alguna vez me dije que estoy a la escuela conmigo?
+[manga-translator.M2M100Translator] 7: 悩みでもあんのかな？ => ¿Tienes problemas o no?
+[manga-translator.M2M100Translator] 8: たしかにどうしたんだろう => Quizá qué sucedió.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.999741017818451 お願いしようかな fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999943971633911 じゃ fg: (18, 16, 14) bg: (18, 16, 14)
+[manga-translator.ModelMangaOCR] prob: 0.9987663626670839 なんでしたら今晩 fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9989174604415895 ベッドをお供しても．．． fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994850754737855 ケントさんには fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9986199736595155 私がいますよっ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9949887990951539 ．．．ジョゼットが fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999725222587587 いないと寂しいな fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998644590377809 放課後 fg: (6, 5, 4) bg: (6, 5, 4)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 放課後 => Después de la enseñanza
+[manga-translator.M2M100Translator] 1: ．．．ジョゼットがいないと寂しいな => Yo no me quedo sin José.
+[manga-translator.M2M100Translator] 2: ケントさんには私がいますよっ => El señor Kent tiene a mí.
+[manga-translator.M2M100Translator] 3: なんでしたら今晩ベッドをお供しても．．． => ¿Por qué no darme la cama esta noche?
+[manga-translator.M2M100Translator] 4: じゃお願いしようかな => Entonces, por favor.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.9991658329963685 あれ？ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.96553373336792 ハナコは？ fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9960954785346986 え？ fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9831483960151673 ええ fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992920756340028 すごいじゃーん！ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9987170100212098 台所でごはん作ってる fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999083876609803 みなさん fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9902892112731934 おかえりなさい fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9264869689941406 おちびさんたちが fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997843503952027 お手伝い fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9991955757141114 してくれてますよ fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.42586392164230347 きゃっ fg: (6, 11, 7) bg: (147, 140, 143)
+[manga-translator.ModelMangaOCR] prob: 0.9968944787979127 そういう会話 fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9517717361450195 妹の前でしないで fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9927129149436952 くんない？マジで fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983135461807252 えぇ．．． fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8324581980705261 ええ～．．．っ fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: きゃっ => Hay que ser
+[manga-translator.M2M100Translator] 1: えぇ．．．ええ～．．．っ => Si... sí, si....
+[manga-translator.M2M100Translator] 2: そういう会話妹の前でしないでくんない？マジで => ¿No se trata de una conversación así ante su hermana?
+[manga-translator.M2M100Translator] 3: みなさんおかえりなさい => Hola a todos, bienvenidos.
+[manga-translator.M2M100Translator] 4: おちびさんたちがお手伝いしてくれてますよ => Los niños están ayudándonos.
+[manga-translator.M2M100Translator] 5: 台所でごはん作ってる => Haz comida en la cocina.
+[manga-translator.M2M100Translator] 6: え？ => ¿Esto sí?
+[manga-translator.M2M100Translator] 7: ええすごいじゃーん！ => ¡Oh, eso es maravilloso!
+[manga-translator.M2M100Translator] 8: あれ？ハナコは？ => ¿Qué es Hanoi?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 544x768
+[manga-translator.ModelMangaOCR] prob: 0.688940167427063 ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+
+Downloading models into /app/models/inpainting
+
+ -- Downloading: "https://huggingface.co/dreMaz/AnimeMangaInpainting/resolve/main/lama_large_512px.ckpt"
+lama_large_512px.ckpt.part:   1%|          | 0.98M/195M [00:00<00:09, 22.3MiB/s]
+lama_large_512px.ckpt.part:   1%|          | 1.95M/195M [00:00<00:08, 23.9MiB/s]
+lama_large_512px.ckpt.part:   2%|▏         | 2.93M/195M [00:00<00:08, 25.1MiB/s]
+lama_large_512px.ckpt.part:   2%|▏         | 3.91M/195M [00:00<00:07, 25.1MiB/s]
+lama_large_512px.ckpt.part:   3%|▎         | 4.88M/195M [00:00<00:07, 25.1MiB/s]
+lama_large_512px.ckpt.part:   3%|▎         | 5.86M/195M [00:00<00:07, 27.2MiB/s]
+lama_large_512px.ckpt.part:   4%|▎         | 6.84M/195M [00:00<00:07, 27.2MiB/s]
+lama_large_512px.ckpt.part:   4%|▍         | 7.81M/195M [00:00<00:08, 24.4MiB/s]
+lama_large_512px.ckpt.part:   5%|▍         | 8.79M/195M [00:00<00:07, 24.4MiB/s]
+lama_large_512px.ckpt.part:   5%|▌         | 9.77M/195M [00:00<00:07, 24.4MiB/s]
+lama_large_512px.ckpt.part:   6%|▌         | 10.7M/195M [00:00<00:08, 23.1MiB/s]
+lama_large_512px.ckpt.part:   6%|▌         | 11.7M/195M [00:00<00:08, 23.1MiB/s]
+lama_large_512px.ckpt.part:   7%|▋         | 12.7M/195M [00:00<00:08, 23.1MiB/s]
+lama_large_512px.ckpt.part:   7%|▋         | 13.7M/195M [00:00<00:07, 25.0MiB/s]
+lama_large_512px.ckpt.part:   8%|▊         | 14.6M/195M [00:00<00:07, 25.0MiB/s]
+lama_large_512px.ckpt.part:   8%|▊         | 15.6M/195M [00:00<00:07, 26.1MiB/s]
+lama_large_512px.ckpt.part:   9%|▊         | 16.6M/195M [00:00<00:07, 26.1MiB/s]
+lama_large_512px.ckpt.part:   9%|▉         | 17.6M/195M [00:00<00:07, 26.1MiB/s]
+lama_large_512px.ckpt.part:  10%|▉         | 18.6M/195M [00:00<00:07, 26.1MiB/s]
+lama_large_512px.ckpt.part:  10%|█         | 19.5M/195M [00:00<00:07, 26.1MiB/s]
+lama_large_512px.ckpt.part:  11%|█         | 20.5M/195M [00:00<00:07, 26.1MiB/s]
+lama_large_512px.ckpt.part:  11%|█         | 21.5M/195M [00:00<00:07, 24.6MiB/s]
+lama_large_512px.ckpt.part:  12%|█▏        | 22.5M/195M [00:00<00:07, 24.6MiB/s]
+lama_large_512px.ckpt.part:  12%|█▏        | 23.4M/195M [00:00<00:07, 24.7MiB/s]
+lama_large_512px.ckpt.part:  13%|█▎        | 24.4M/195M [00:01<00:07, 24.7MiB/s]
+lama_large_512px.ckpt.part:  13%|█▎        | 25.4M/195M [00:01<00:07, 23.7MiB/s]
+lama_large_512px.ckpt.part:  14%|█▎        | 26.4M/195M [00:01<00:07, 23.7MiB/s]
+lama_large_512px.ckpt.part:  14%|█▍        | 27.3M/195M [00:01<00:07, 23.7MiB/s]
+lama_large_512px.ckpt.part:  15%|█▍        | 28.3M/195M [00:01<00:07, 23.5MiB/s]
+lama_large_512px.ckpt.part:  15%|█▌        | 29.3M/195M [00:01<00:07, 23.5MiB/s]
+lama_large_512px.ckpt.part:  16%|█▌        | 30.3M/195M [00:01<00:08, 21.1MiB/s]
+lama_large_512px.ckpt.part:  16%|█▌        | 31.2M/195M [00:01<00:08, 21.1MiB/s]
+lama_large_512px.ckpt.part:  17%|█▋        | 32.2M/195M [00:01<00:08, 19.1MiB/s]
+lama_large_512px.ckpt.part:  17%|█▋        | 33.2M/195M [00:01<00:08, 19.1MiB/s]
+lama_large_512px.ckpt.part:  18%|█▊        | 34.2M/195M [00:01<00:08, 19.1MiB/s]
+lama_large_512px.ckpt.part:  18%|█▊        | 35.2M/195M [00:01<00:07, 21.5MiB/s]
+lama_large_512px.ckpt.part:  19%|█▊        | 36.1M/195M [00:01<00:07, 21.5MiB/s]
+lama_large_512px.ckpt.part:  19%|█▉        | 37.1M/195M [00:01<00:07, 21.4MiB/s]
+lama_large_512px.ckpt.part:  20%|█▉        | 38.1M/195M [00:01<00:07, 21.4MiB/s]
+lama_large_512px.ckpt.part:  20%|██        | 39.1M/195M [00:01<00:07, 21.1MiB/s]
+lama_large_512px.ckpt.part:  21%|██        | 40.0M/195M [00:01<00:07, 21.1MiB/s]
+lama_large_512px.ckpt.part:  21%|██        | 41.0M/195M [00:01<00:07, 21.1MiB/s]
+lama_large_512px.ckpt.part:  22%|██▏       | 42.0M/195M [00:01<00:07, 22.9MiB/s]
+lama_large_512px.ckpt.part:  22%|██▏       | 43.0M/195M [00:01<00:06, 22.9MiB/s]
+lama_large_512px.ckpt.part:  23%|██▎       | 43.9M/195M [00:02<00:07, 22.3MiB/s]
+lama_large_512px.ckpt.part:  23%|██▎       | 44.9M/195M [00:02<00:07, 22.3MiB/s]
+lama_large_512px.ckpt.part:  24%|██▎       | 45.9M/195M [00:02<00:07, 22.3MiB/s]
+lama_large_512px.ckpt.part:  24%|██▍       | 46.9M/195M [00:02<00:06, 23.3MiB/s]
+lama_large_512px.ckpt.part:  25%|██▍       | 47.9M/195M [00:02<00:06, 23.3MiB/s]
+lama_large_512px.ckpt.part:  25%|██▌       | 48.8M/195M [00:02<00:06, 23.1MiB/s]
+lama_large_512px.ckpt.part:  26%|██▌       | 49.8M/195M [00:02<00:06, 23.1MiB/s]
+lama_large_512px.ckpt.part:  26%|██▌       | 50.8M/195M [00:02<00:06, 23.1MiB/s]
+lama_large_512px.ckpt.part:  27%|██▋       | 51.8M/195M [00:02<00:06, 24.6MiB/s]
+lama_large_512px.ckpt.part:  27%|██▋       | 52.7M/195M [00:02<00:06, 24.6MiB/s]
+lama_large_512px.ckpt.part:  28%|██▊       | 53.7M/195M [00:02<00:06, 23.7MiB/s]
+lama_large_512px.ckpt.part:  28%|██▊       | 54.7M/195M [00:02<00:06, 23.7MiB/s]
+lama_large_512px.ckpt.part:  29%|██▊       | 55.7M/195M [00:02<00:06, 23.7MiB/s]
+lama_large_512px.ckpt.part:  29%|██▉       | 56.6M/195M [00:02<00:06, 23.6MiB/s]
+lama_large_512px.ckpt.part:  30%|██▉       | 57.6M/195M [00:02<00:06, 23.6MiB/s]
+lama_large_512px.ckpt.part:  30%|███       | 58.6M/195M [00:02<00:05, 24.8MiB/s]
+lama_large_512px.ckpt.part:  31%|███       | 59.6M/195M [00:02<00:05, 24.8MiB/s]
+lama_large_512px.ckpt.part:  31%|███       | 60.5M/195M [00:02<00:05, 24.8MiB/s]
+lama_large_512px.ckpt.part:  32%|███▏      | 61.5M/195M [00:02<00:05, 24.1MiB/s]
+lama_large_512px.ckpt.part:  32%|███▏      | 62.5M/195M [00:02<00:05, 24.1MiB/s]
+lama_large_512px.ckpt.part:  33%|███▎      | 63.5M/195M [00:02<00:05, 24.0MiB/s]
+lama_large_512px.ckpt.part:  33%|███▎      | 64.5M/195M [00:02<00:05, 24.0MiB/s]
+lama_large_512px.ckpt.part:  34%|███▎      | 65.4M/195M [00:02<00:05, 24.0MiB/s]
+lama_large_512px.ckpt.part:  34%|███▍      | 66.4M/195M [00:02<00:05, 25.0MiB/s]
+lama_large_512px.ckpt.part:  35%|███▍      | 67.4M/195M [00:02<00:05, 25.0MiB/s]
+lama_large_512px.ckpt.part:  35%|███▌      | 68.4M/195M [00:03<00:05, 24.5MiB/s]
+lama_large_512px.ckpt.part:  36%|███▌      | 69.3M/195M [00:03<00:05, 24.5MiB/s]
+lama_large_512px.ckpt.part:  36%|███▌      | 70.3M/195M [00:03<00:05, 24.5MiB/s]
+lama_large_512px.ckpt.part:  37%|███▋      | 71.3M/195M [00:03<00:05, 25.5MiB/s]
+lama_large_512px.ckpt.part:  37%|███▋      | 72.3M/195M [00:03<00:05, 25.5MiB/s]
+lama_large_512px.ckpt.part:  38%|███▊      | 73.2M/195M [00:03<00:05, 23.6MiB/s]
+lama_large_512px.ckpt.part:  38%|███▊      | 74.2M/195M [00:03<00:05, 23.6MiB/s]
+lama_large_512px.ckpt.part:  39%|███▊      | 75.2M/195M [00:03<00:05, 23.6MiB/s]
+lama_large_512px.ckpt.part:  39%|███▉      | 76.2M/195M [00:03<00:05, 23.4MiB/s]
+lama_large_512px.ckpt.part:  40%|███▉      | 77.1M/195M [00:03<00:05, 23.4MiB/s]
+lama_large_512px.ckpt.part:  40%|████      | 78.1M/195M [00:03<00:05, 23.1MiB/s]
+lama_large_512px.ckpt.part:  41%|████      | 79.1M/195M [00:03<00:05, 23.1MiB/s]
+lama_large_512px.ckpt.part:  41%|████      | 80.1M/195M [00:03<00:05, 23.1MiB/s]
+lama_large_512px.ckpt.part:  42%|████▏     | 81.1M/195M [00:03<00:04, 24.3MiB/s]
+lama_large_512px.ckpt.part:  42%|████▏     | 82.0M/195M [00:03<00:04, 24.3MiB/s]
+lama_large_512px.ckpt.part:  43%|████▎     | 83.0M/195M [00:03<00:04, 24.3MiB/s]
+lama_large_512px.ckpt.part:  43%|████▎     | 84.0M/195M [00:03<00:04, 25.8MiB/s]
+lama_large_512px.ckpt.part:  44%|████▎     | 85.0M/195M [00:03<00:04, 25.8MiB/s]
+lama_large_512px.ckpt.part:  44%|████▍     | 85.9M/195M [00:03<00:04, 23.1MiB/s]
+lama_large_512px.ckpt.part:  45%|████▍     | 86.9M/195M [00:03<00:04, 23.1MiB/s]
+lama_large_512px.ckpt.part:  45%|████▌     | 87.9M/195M [00:03<00:04, 23.1MiB/s]
+lama_large_512px.ckpt.part:  46%|████▌     | 88.9M/195M [00:03<00:04, 25.1MiB/s]
+lama_large_512px.ckpt.part:  46%|████▌     | 89.8M/195M [00:03<00:04, 25.1MiB/s]
+lama_large_512px.ckpt.part:  47%|████▋     | 90.8M/195M [00:04<00:04, 25.1MiB/s]
+lama_large_512px.ckpt.part:  47%|████▋     | 91.8M/195M [00:04<00:04, 24.4MiB/s]
+lama_large_512px.ckpt.part:  48%|████▊     | 92.8M/195M [00:04<00:04, 24.4MiB/s]
+lama_large_512px.ckpt.part:  48%|████▊     | 93.8M/195M [00:04<00:04, 23.7MiB/s]
+lama_large_512px.ckpt.part:  49%|████▊     | 94.7M/195M [00:04<00:04, 23.7MiB/s]
+lama_large_512px.ckpt.part:  49%|████▉     | 95.7M/195M [00:04<00:04, 23.7MiB/s]
+lama_large_512px.ckpt.part:  50%|████▉     | 96.7M/195M [00:04<00:04, 24.2MiB/s]
+lama_large_512px.ckpt.part:  50%|█████     | 97.7M/195M [00:04<00:04, 24.2MiB/s]
+lama_large_512px.ckpt.part:  51%|█████     | 98.6M/195M [00:04<00:04, 22.7MiB/s]
+lama_large_512px.ckpt.part:  51%|█████     | 99.6M/195M [00:04<00:04, 22.7MiB/s]
+lama_large_512px.ckpt.part:  52%|█████▏    | 101M/195M [00:04<00:04, 22.8MiB/s]
+lama_large_512px.ckpt.part:  52%|█████▏    | 102M/195M [00:04<00:04, 22.8MiB/s]
+lama_large_512px.ckpt.part:  53%|█████▎    | 103M/195M [00:04<00:04, 22.8MiB/s]
+lama_large_512px.ckpt.part:  53%|█████▎    | 104M/195M [00:04<00:04, 22.3MiB/s]
+lama_large_512px.ckpt.part:  54%|█████▎    | 104M/195M [00:04<00:04, 22.3MiB/s]
+lama_large_512px.ckpt.part:  54%|█████▍    | 105M/195M [00:04<00:04, 22.3MiB/s]
+lama_large_512px.ckpt.part:  55%|█████▍    | 106M/195M [00:04<00:03, 25.8MiB/s]
+lama_large_512px.ckpt.part:  55%|█████▌    | 107M/195M [00:04<00:03, 25.8MiB/s]
+lama_large_512px.ckpt.part:  56%|█████▌    | 108M/195M [00:04<00:03, 25.7MiB/s]
+lama_large_512px.ckpt.part:  56%|█████▌    | 109M/195M [00:04<00:03, 25.7MiB/s]
+lama_large_512px.ckpt.part:  57%|█████▋    | 110M/195M [00:04<00:03, 25.7MiB/s]
+lama_large_512px.ckpt.part:  57%|█████▋    | 111M/195M [00:04<00:03, 23.8MiB/s]
+lama_large_512px.ckpt.part:  58%|█████▊    | 112M/195M [00:04<00:03, 23.8MiB/s]
+lama_large_512px.ckpt.part:  58%|█████▊    | 113M/195M [00:04<00:03, 23.8MiB/s]
+lama_large_512px.ckpt.part:  59%|█████▊    | 114M/195M [00:05<00:03, 24.3MiB/s]
+lama_large_512px.ckpt.part:  59%|█████▉    | 115M/195M [00:05<00:03, 24.3MiB/s]
+lama_large_512px.ckpt.part:  60%|█████▉    | 116M/195M [00:05<00:03, 24.3MiB/s]
+lama_large_512px.ckpt.part:  60%|██████    | 117M/195M [00:05<00:02, 27.8MiB/s]
+lama_large_512px.ckpt.part:  61%|██████    | 118M/195M [00:05<00:02, 27.8MiB/s]
+lama_large_512px.ckpt.part:  61%|██████    | 119M/195M [00:05<00:02, 27.8MiB/s]
+lama_large_512px.ckpt.part:  62%|██████▏   | 120M/195M [00:05<00:02, 27.8MiB/s]
+lama_large_512px.ckpt.part:  62%|██████▏   | 121M/195M [00:05<00:02, 30.0MiB/s]
+lama_large_512px.ckpt.part:  63%|██████▎   | 122M/195M [00:05<00:02, 30.0MiB/s]
+lama_large_512px.ckpt.part:  63%|██████▎   | 123M/195M [00:05<00:02, 30.0MiB/s]
+lama_large_512px.ckpt.part:  64%|██████▎   | 124M/195M [00:05<00:02, 26.7MiB/s]
+lama_large_512px.ckpt.part:  64%|██████▍   | 125M/195M [00:05<00:02, 26.7MiB/s]
+lama_large_512px.ckpt.part:  65%|██████▍   | 126M/195M [00:05<00:02, 26.9MiB/s]
+lama_large_512px.ckpt.part:  65%|██████▌   | 127M/195M [00:05<00:02, 26.9MiB/s]
+lama_large_512px.ckpt.part:  66%|██████▌   | 128M/195M [00:05<00:02, 26.9MiB/s]
+lama_large_512px.ckpt.part:  66%|██████▌   | 129M/195M [00:05<00:02, 26.9MiB/s]
+lama_large_512px.ckpt.part:  67%|██████▋   | 130M/195M [00:05<00:02, 26.9MiB/s]
+lama_large_512px.ckpt.part:  67%|██████▋   | 131M/195M [00:05<00:02, 26.9MiB/s]
+lama_large_512px.ckpt.part:  68%|██████▊   | 132M/195M [00:05<00:02, 26.8MiB/s]
+lama_large_512px.ckpt.part:  68%|██████▊   | 133M/195M [00:05<00:02, 26.8MiB/s]
+lama_large_512px.ckpt.part:  69%|██████▊   | 134M/195M [00:05<00:02, 24.9MiB/s]
+lama_large_512px.ckpt.part:  69%|██████▉   | 135M/195M [00:05<00:02, 24.9MiB/s]
+lama_large_512px.ckpt.part:  70%|██████▉   | 136M/195M [00:05<00:02, 24.9MiB/s]
+lama_large_512px.ckpt.part:  70%|███████   | 137M/195M [00:05<00:02, 24.3MiB/s]
+lama_large_512px.ckpt.part:  71%|███████   | 138M/195M [00:05<00:02, 24.3MiB/s]
+lama_large_512px.ckpt.part:  71%|███████   | 139M/195M [00:05<00:02, 24.3MiB/s]
+lama_large_512px.ckpt.part:  72%|███████▏  | 140M/195M [00:06<00:02, 27.9MiB/s]
+lama_large_512px.ckpt.part:  72%|███████▏  | 141M/195M [00:06<00:02, 27.9MiB/s]
+lama_large_512px.ckpt.part:  73%|███████▎  | 142M/195M [00:06<00:02, 27.9MiB/s]
+lama_large_512px.ckpt.part:  73%|███████▎  | 143M/195M [00:06<00:01, 27.6MiB/s]
+lama_large_512px.ckpt.part:  74%|███████▎  | 144M/195M [00:06<00:01, 27.6MiB/s]
+lama_large_512px.ckpt.part:  74%|███████▍  | 145M/195M [00:06<00:01, 27.6MiB/s]
+lama_large_512px.ckpt.part:  75%|███████▍  | 146M/195M [00:06<00:02, 25.6MiB/s]
+lama_large_512px.ckpt.part:  75%|███████▌  | 146M/195M [00:06<00:01, 25.6MiB/s]
+lama_large_512px.ckpt.part:  76%|███████▌  | 147M/195M [00:06<00:01, 25.0MiB/s]
+lama_large_512px.ckpt.part:  76%|███████▌  | 148M/195M [00:06<00:01, 25.0MiB/s]
+lama_large_512px.ckpt.part:  77%|███████▋  | 149M/195M [00:06<00:01, 25.0MiB/s]
+lama_large_512px.ckpt.part:  77%|███████▋  | 150M/195M [00:06<00:01, 25.3MiB/s]
+lama_large_512px.ckpt.part:  78%|███████▊  | 151M/195M [00:06<00:01, 25.3MiB/s]
+lama_large_512px.ckpt.part:  78%|███████▊  | 152M/195M [00:06<00:01, 24.5MiB/s]
+lama_large_512px.ckpt.part:  79%|███████▊  | 153M/195M [00:06<00:01, 24.5MiB/s]
+lama_large_512px.ckpt.part:  79%|███████▉  | 154M/195M [00:06<00:01, 24.5MiB/s]
+lama_large_512px.ckpt.part:  80%|███████▉  | 155M/195M [00:06<00:01, 24.5MiB/s]
+lama_large_512px.ckpt.part:  80%|████████  | 156M/195M [00:06<00:01, 27.5MiB/s]
+lama_large_512px.ckpt.part:  81%|████████  | 157M/195M [00:06<00:01, 27.5MiB/s]
+lama_large_512px.ckpt.part:  81%|████████  | 158M/195M [00:06<00:01, 27.5MiB/s]
+lama_large_512px.ckpt.part:  82%|████████▏ | 159M/195M [00:06<00:01, 24.4MiB/s]
+lama_large_512px.ckpt.part:  82%|████████▏ | 160M/195M [00:06<00:01, 24.4MiB/s]
+lama_large_512px.ckpt.part:  83%|████████▎ | 161M/195M [00:06<00:01, 24.4MiB/s]
+lama_large_512px.ckpt.part:  83%|████████▎ | 162M/195M [00:06<00:01, 25.9MiB/s]
+lama_large_512px.ckpt.part:  84%|████████▎ | 163M/195M [00:06<00:01, 25.9MiB/s]
+lama_large_512px.ckpt.part:  84%|████████▍ | 164M/195M [00:07<00:01, 23.9MiB/s]
+lama_large_512px.ckpt.part:  85%|████████▍ | 165M/195M [00:07<00:01, 23.9MiB/s]
+lama_large_512px.ckpt.part:  85%|████████▌ | 166M/195M [00:07<00:01, 23.9MiB/s]
+lama_large_512px.ckpt.part:  86%|████████▌ | 167M/195M [00:07<00:01, 25.1MiB/s]
+lama_large_512px.ckpt.part:  86%|████████▌ | 168M/195M [00:07<00:01, 25.1MiB/s]
+lama_large_512px.ckpt.part:  87%|████████▋ | 169M/195M [00:07<00:01, 23.5MiB/s]
+lama_large_512px.ckpt.part:  87%|████████▋ | 170M/195M [00:07<00:01, 23.5MiB/s]
+lama_large_512px.ckpt.part:  88%|████████▊ | 171M/195M [00:07<00:01, 23.5MiB/s]
+lama_large_512px.ckpt.part:  88%|████████▊ | 172M/195M [00:07<00:01, 22.9MiB/s]
+lama_large_512px.ckpt.part:  89%|████████▊ | 173M/195M [00:07<00:01, 22.9MiB/s]
+lama_large_512px.ckpt.part:  89%|████████▉ | 174M/195M [00:07<00:00, 22.5MiB/s]
+lama_large_512px.ckpt.part:  90%|████████▉ | 175M/195M [00:07<00:00, 22.5MiB/s]
+lama_large_512px.ckpt.part:  90%|█████████ | 176M/195M [00:07<00:00, 22.1MiB/s]
+lama_large_512px.ckpt.part:  91%|█████████ | 177M/195M [00:07<00:00, 22.1MiB/s]
+lama_large_512px.ckpt.part:  91%|█████████ | 178M/195M [00:07<00:00, 21.1MiB/s]
+lama_large_512px.ckpt.part:  92%|█████████▏| 179M/195M [00:07<00:00, 21.1MiB/s]
+lama_large_512px.ckpt.part:  92%|█████████▏| 180M/195M [00:07<00:00, 21.1MiB/s]
+lama_large_512px.ckpt.part:  93%|█████████▎| 181M/195M [00:07<00:00, 23.1MiB/s]
+lama_large_512px.ckpt.part:  93%|█████████▎| 182M/195M [00:07<00:00, 23.1MiB/s]
+lama_large_512px.ckpt.part:  94%|█████████▎| 183M/195M [00:07<00:00, 23.1MiB/s]
+lama_large_512px.ckpt.part:  94%|█████████▍| 184M/195M [00:07<00:00, 22.3MiB/s]
+lama_large_512px.ckpt.part:  95%|█████████▍| 185M/195M [00:07<00:00, 22.3MiB/s]
+lama_large_512px.ckpt.part:  95%|█████████▌| 186M/195M [00:08<00:00, 23.4MiB/s]
+lama_large_512px.ckpt.part:  96%|█████████▌| 187M/195M [00:08<00:00, 23.4MiB/s]
+lama_large_512px.ckpt.part:  96%|█████████▌| 188M/195M [00:08<00:00, 23.4MiB/s]
+lama_large_512px.ckpt.part:  97%|█████████▋| 188M/195M [00:08<00:00, 25.1MiB/s]
+lama_large_512px.ckpt.part:  97%|█████████▋| 189M/195M [00:08<00:00, 25.1MiB/s]
+lama_large_512px.ckpt.part:  98%|█████████▊| 190M/195M [00:08<00:00, 24.5MiB/s]
+lama_large_512px.ckpt.part:  98%|█████████▊| 191M/195M [00:08<00:00, 24.5MiB/s]
+lama_large_512px.ckpt.part:  99%|█████████▊| 192M/195M [00:08<00:00, 24.5MiB/s]
+lama_large_512px.ckpt.part:  99%|█████████▉| 193M/195M [00:08<00:00, 23.3MiB/s]
+lama_large_512px.ckpt.part: 100%|█████████▉| 194M/195M [00:08<00:00, 23.3MiB/s]
+ -- Verifying: "/app/models/inpainting/./lama_large_512px.ckpt.part"
+ -- Verifying: OK!
+[manga-translator.ModelMangaOCR] prob: 0.9992703795433046 なに？ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999336004257202 素晴らしい fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994677901268006 ですけど．．． fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999565482139589 なんで薬指に fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999172866344452 つけたんですか．．． fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9988542199134828 けっ．． fg: (3, 4, 3) bg: (3, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9992977976799012 結婚指輪！？ fg: (6, 5, 5) bg: (6, 5, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999611377716064 錬金の魔法を fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999004006385804 応用して fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994748830795289 形を変える弓だ fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994899630546571 水の聖剣も fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999583959579469 ブレスレットに fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999946355819702 変形してただろ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999102354049684 【復元】 fg: (9, 6, 5) bg: (9, 6, 5)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 【復元】 => [ Recuperación ]
+[manga-translator.M2M100Translator] 1: けっ．．結婚指輪！？ => ¿El anillo de la boda?
+[manga-translator.M2M100Translator] 2: 錬金の魔法を応用して形を変える弓だ => Es un arco que aplica la magia del algodón para cambiar su forma.
+[manga-translator.M2M100Translator] 3: 水の聖剣もブレスレットに変形してただろ => La espada sagrada del agua se ha convertido en un bracelet.
+[manga-translator.M2M100Translator] 4: 素晴らしいですけど．．． => Es maravilloso, pero...
+[manga-translator.M2M100Translator] 5: なんで薬指につけたんですか．．． => ¿Por qué se usa la droga en el dedo?
+[manga-translator.M2M100Translator] 6: なに？ => ¿Qué es?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 544x768

@@ -1,0 +1,398 @@
+[manga-translator.ModelMangaOCR] prob: 0.9998981952667237 だが．．．その人間は fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308778 殺さないと fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9991149902343751 いけないなあ！ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999899268150331 なければ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999869465827942 身につけているものを fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997658729553224 すべて置いていけば fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997381567955018 助けてやる！ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998874664306642 そうか．．．なら fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999886453151703 女と金目の物を fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996304512023927 よこせ！ fg: (6, 6, 1) bg: (6, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9506468772888184 またまたトラブル・ fg: (4, 2, 1) bg: (4, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999592304229736 俺たちは人間領から fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997208118438722 逃げてきたんだ！ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999239444732667 怪しい奴らめ fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996614456176759 貴様ら何者だ！ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999903440475465 我々は fg: (5, 3, 1) bg: (5, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999545812606812 政府軍直属の fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994872808456422 国境警備隊だ！ fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999659061431885 弱かった fg: (1, 3, 2) bg: (1, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983925819396974 なあ．．．．． fg: (7, 5, 4) bg: (7, 5, 4)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.999820649623871 ．．．そうしないと fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999393820762634 生きていけ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99998277425766 ないんだよ fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999759197235109 俺たちみたいな fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998914599418641 下っ端はな fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999638795852661 政府軍の兵隊が fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999099373817444 なんで盗賊 fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9993648529052735 みたいなことを？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999002218246461 あなたたち fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999882578849792 本当に国境警備隊 fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9983934164047242 ですの？ fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999870657920839 ですがそれは fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999637603759767 「魔族全体の問題 fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996230006217958 一人で責任を fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999778866767884 背負いこまないで fg: (2, 5, 0) bg: (2, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990054965019227 ．．．．．．そうだな悪い fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999708533287048 魔族に余裕がないのは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998409748077394 確かに人間との fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998785853385925 戦争に負けたからです fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999755620956422 あなたのせいでは fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999611377716064 ないですよ fg: (4, 6, 1) bg: (4, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999825358390808 ラモン fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999957084655762 俺たちみたいな fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997205138206483 正規兵でも給料は fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998828172683717 雀の涙程度 fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999373555183412 部の上層部しか fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999653100967408 まともに生きて fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999499320983887 いけないんだ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999934434890747 今の魔族の国は fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999737739562989 どこも余裕がない fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9975796937942506 原作：溝上長 fg: (250, 246, 248) bg: (250, 246, 248)
+[manga-translator.ModelMangaOCR] prob: 0.9950999021530152 いいたまに fg: (253, 254, 253) bg: (194, 194, 192)
+[manga-translator.ModelMangaOCR] prob: 0.7948560118675232 単行本第０巻 fg: (251, 245, 247) bg: (251, 245, 247)
+[manga-translator.ModelMangaOCR] prob: 0.896621584892273 ３月８日発売！ fg: (212, 209, 208) bg: (212, 209, 208)
+[manga-translator.ModelMangaOCR] prob: 0.8544320464134216 第５話 fg: (248, 245, 229) bg: (248, 245, 229)
+[manga-translator.ModelMangaOCR] prob: 0.9974926114082338 類裏セルったら fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8863476514816284 幼なじみの勇者に fg: (2, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.995883882045746 ぶっ、 fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.48029413819313055 された fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999917745590211 というか fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.804676353931427 お前人け．．． fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997840523719789 反政府軍の fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999564290046692 問題もあるんだ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999905824661255 金がないなら fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999919533729553 出ていってくれ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9975252151489259 反政府軍？ fg: (4, 3, 4) bg: (4, 3, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9990958571434022 ．．．．．．本当に fg: (4, 3, 2) bg: (4, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9991912841796876 知らないのか？ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999640583992006 お前たち fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9991613030433656 どこからきたんだ？ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996077418327333 そんな！ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9988047480583192 横暴だ！ fg: (8, 7, 6) bg: (8, 7, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9997191429138185 まったく．．．．．． fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999706149101258 これは決まりだ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999640583992006 払えないのであれば fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999664425849915 通すわけにはいかない fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999383091926575 そんな高い通行料 fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998842477798463 払えるわけ fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999852478504181 ないだろ！ fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.6603253483772278 ｜魔族領 fg: (7, 8, 4) bg: (7, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9729717373847963 辺境の街の入り日 fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9958515763282777 バカな！？ fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9990761876106263 敵襲です！ fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999669194221498 反政府軍が fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999369978904725 街中に火を fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993476271629335 放ちました！ fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999136507511139 爆発！？ fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9953192472457887 なんだ！？ fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999871253967285 確かにそれが fg: (3, 5, 0) bg: (3, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998915791511537 よさそうだな fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999958276748658 この隙に fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999552071094513 街に入ろう fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9988422393798829 ちょっといいか？ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999585151672363 門を開けて fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9882882237434387 皆を避難させるんだ！！ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999792575836182 奴らは fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997599720954896 俺が食い止める！ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999972701072693 くそ fg: (8, 9, 4) bg: (8, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999836087226868 奴らの好きには fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996497035026551 させんぞ！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9942144751548768 なんだと！？ fg: (7, 6, 1) bg: (7, 6, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 1 líneas en 1 llamada(s), 136 tokens
+[manga-translator.GroqTranslator] 0: 弱かったなあ．．．．． => Era débil, ¿verdad………
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9985935091972352 ．．．そうか fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999826550483704 助けてくれて fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997741580009462 ありがとう fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999757409095764 本当に助かりました fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998355507850648 ありがとう fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996101260185243 ございます！ fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990252256393434 危険は少ないだろう。 fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999331831932069 魔族領であれば fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999876618385316 色々と fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999382495880127 助かった fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9936260581016542 え．．．？ fg: (7, 10, 6) bg: (7, 10, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9995020627975465 それと．．． fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999889135360719 ここまででいい fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 7 líneas en 1 llamada(s), 278 tokens
+[manga-translator.GroqTranslator] 0: それと．．．ここまででいい => Y eso... con esto es suficiente
+[manga-translator.GroqTranslator] 1: え．．．？ => ¿Eh...?
+[manga-translator.GroqTranslator] 2: 色々と助かった => Me has ayudado en muchas cosas
+[manga-translator.GroqTranslator] 3: 魔族領であれば危険は少ないだろう。 => Si estás en el territorio de los demonios, probablemente habrá menos peligro.
+[manga-translator.GroqTranslator] 4: 助けてくれてありがとう => Gracias por ayudarme
+[manga-translator.GroqTranslator] 5: 本当に助かりましたありがとうございます！ => ¡De verdad me has salvado! ¡Muchas gracias!
+[manga-translator.GroqTranslator] 6: ．．．そうか => .... ¿Entendido?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9987082481384278 早く街の外へ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998264312744142 避難するんだ！！ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99998676776886 これから fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998549222946168 どうするかだが．．． fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9991025924682618 急げ！ fg: (5, 2, 0) bg: (5, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999712705612184 さて fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999964833259583 世話になった fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8521223068237305 元気でも fg: (4, 7, 4) bg: (4, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9996463656425477 もう奴隷商人 fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999837279319764 なんかに fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999693036079407 捕まるなよ fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 4 líneas en 1 llamada(s), 253 tokens
+[manga-translator.GroqTranslator] 0: あなたたち本当に国境警備隊ですの？ => ¿De verdad son ustedes los guardias de la frontera?
+[manga-translator.GroqTranslator] 1: 政府軍の兵隊がなんで盗賊みたいなことを？ => ¿Por qué los soldados del ejército del gobierno hacen cosas como ladrones?
+[manga-translator.GroqTranslator] 2: ．．．そうしないと生きていけないんだよ => ……No tenemos más remedio que hacerlo para sobrevivir
+[manga-translator.GroqTranslator] 3: 俺たちみたいな下っ端はな => Gente como nosotros, de los niveles más bajos, ¿sabes?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9999898672103883 「俺が下手に fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998648762702942 介入したら fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999775290489198 かえって場を荒らす fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999700784683229 だけだろうしな fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997857809066774 さっきの fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999971628189087 門番によると fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999483823776245 この騒動は fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999737143516542 反政府軍の fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997147321701051 仕業らしいが．．． fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9621585607528688 ぐああっ！！ fg: (1, 3, 3) bg: (1, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.988179385662079 面倒ごとに fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999238848686219 巻き込まれる前に fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999508261680604 私たちも早く fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999317526817323 行きましょう fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999759197235109 そうするか fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992545843124391 んー fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999987781047821 危ないことからは fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999980092048645 遠ざかるのが fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999541640281678 正解ですわ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 11 líneas en 1 llamada(s), 428 tokens
+[manga-translator.GroqTranslator] 0: ｜魔族領 => ｜Territorio de los demonios
+[manga-translator.GroqTranslator] 1: 辺境の街の入り日 => Día de entrada en la ciudad fronteriza
+[manga-translator.GroqTranslator] 2: バカな！？ => ¡Esto es una tontería！
+[manga-translator.GroqTranslator] 3: そんな高い通行料払えるわけないだろ！ => ¡No hay forma de que podamos pagar una tarifa de paso tan alta!
+[manga-translator.GroqTranslator] 4: これは決まりだ払えないのであれば通すわけにはいかない => Esto es una regla, si no puedes pagar, no podemos dejarte pasar
+[manga-translator.GroqTranslator] 5: そんな！横暴だ！ => ¡Eso es un abuso de poder!
+[manga-translator.GroqTranslator] 6: まったく．．．．．． => Realmente......
+[manga-translator.GroqTranslator] 7: 反政府軍の問題もあるんだ金がないなら出ていってくれ => También tenemos problemas con el ejército rebelde, si no tienes dinero, lárgate
+[manga-translator.GroqTranslator] 8: 反政府軍？ => ¿Ejército rebelde?
+[manga-translator.GroqTranslator] 9: ．．．．．．本当に知らないのか？お前たちどこからきたんだ？ => ........ ¿De verdad no sabes? ¿De dónde vienen ustedes?
+[manga-translator.GroqTranslator] 10: というかお前人け．．． => Más bien, ¿dónde está la gente...?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9510800838470459 は fg: (1, 5, 2) bg: (1, 5, 2)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 3 líneas en 1 llamada(s), 191 tokens
+[manga-translator.GroqTranslator] 0: なんだ！？ => ¿Qué pasa？
+[manga-translator.GroqTranslator] 1: 爆発！？ => ¿Una explosión？
+[manga-translator.GroqTranslator] 2: 敵襲です！反政府軍が街中に火を放ちました！ => ¡Es un ataque enemigo! Los rebeldes antagubernamentales están prendiendo fuego a la ciudad.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9999210834503175 待て fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999773502349855 避難したければ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999781847000122 その二人を置いていって fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999925494194031 もらおうか fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9854429960250856 あー．．．．． fg: (6, 9, 4) bg: (6, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999849200248718 俺たちもちょうど避難 fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998557567596437 するところなんで．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999992072582245 まだここにも fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999747276306153 残ってるじゃねえか fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9984514713287355 ．．．なんだ？ fg: (7, 6, 2) bg: (7, 6, 2)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 7 líneas en 1 llamada(s), 285 tokens
+[manga-translator.GroqTranslator] 0: なんだと！？ => ¿Qué dices！
+[manga-translator.GroqTranslator] 1: くそ奴らの好きにはさせんぞ！ => ¡No dejaré que esos malditos se salgan con la suya！
+[manga-translator.GroqTranslator] 2: 門を開けて皆を避難させるんだ！！ => ¡Abre la puerta y evacúa a todos！
+[manga-translator.GroqTranslator] 3: 奴らは俺が食い止める！ => ¡Those guys los detendré yo！
+[manga-translator.GroqTranslator] 4: ちょっといいか？ => ¿Puedo hablar un momento？
+[manga-translator.GroqTranslator] 5: この隙に街に入ろう => Vamos a entrar en la ciudad en este intervalo
+[manga-translator.GroqTranslator] 6: 確かにそれがよさそうだな => Sí, eso parece una buena idea
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 4 líneas en 1 llamada(s), 256 tokens
+[manga-translator.GroqTranslator] 0: 原作：溝上長 => Obra original: Mizokami Chō
+[manga-translator.GroqTranslator] 1: いいたまに => ¡Hablemos!
+[manga-translator.GroqTranslator] 2: 類裏セルったら幼なじみの勇者にぶっ、された第５話 => La célula de clase baja se convirtió en la compañera de infancia del héroe, ¡y me golpeó! Capítulo 5
+[manga-translator.GroqTranslator] 3: 単行本第０巻３月８日発売！ => ¡El volumen 0 de la edición en tapa dura se lanzará el 8 de marzo!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 7 líneas en 1 llamada(s), 381 tokens
+[manga-translator.GroqTranslator] 0: 今の魔族の国はどこも余裕がない => Ahora, ningún lugar del país de los demonios tiene suficiente holgura
+[manga-translator.GroqTranslator] 1: 俺たちみたいな正規兵でも給料は雀の涙程度 => Ni siquiera nosotros, los soldados regulares, recibimos un salario más que lágrimas de gorrión
+[manga-translator.GroqTranslator] 2: 部の上層部しかまともに生きていけないんだ => Solo los de arriba en la organización pueden vivir decentemente
+[manga-translator.GroqTranslator] 3: あなたのせいではないですよラモン => No es su culpa, Ramon
+[manga-translator.GroqTranslator] 4: 魔族に余裕がないのは確かに人間との戦争に負けたからです => Es cierto que a los demonios no les queda holgura porque perdieron la guerra contra los humanos
+[manga-translator.GroqTranslator] 5: ですがそれは魔族全体の問題一人で責任を背負いこまないで => Pero eso es un problema de todos los demonios, no te cargues con la responsabilidad solo tú
+[manga-translator.GroqTranslator] 6: ．．．．．．そうだな悪い => ....Sí, lo siento
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9717618227005006 ああそうだ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998613595962526 なぁ．．．お前らは fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999749660491944 反政府軍って fg: (2, 1, 1) bg: (2, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9987297654151918 奴か？ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993164539337159 ひぇ．．．．．． fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999697804450989 お前たちなら fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999573230743409 いい金になりそうだ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999651312828064 革命には金が fg: (2, 5, 2) bg: (2, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999856948852539 必要でね fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999459385871888 そのための礎に fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999850988388062 なってもらおうか fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996978640556337 若少な妖精とワンディーネに fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999843835830688 出くわすとは運がいい fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999876022338867 魔族なら fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999936819076539 喜んでその身を fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9990959763526918 捧げるべきだろう fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999992847442627 正常な国家を fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999551177024842 作り出すための fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9985465407371522 礎になれるんだぞ？ fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994719028472902 ．．．魔族のための fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999972939491272 国家を作るのに fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9985150694847108 同じ魔族を売るのか？ fg: (3, 1, 1) bg: (3, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999949932098389 それが我々 fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998248219490052 反政府軍だ！ fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999983549118042 腐った政府を打ち倒し fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999921321868898 真に魔族のための fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996826648712159 国家を作り上げる！ fg: (2, 1, 1) bg: (2, 1, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 7 líneas en 1 llamada(s), 364 tokens
+[manga-translator.GroqTranslator] 0: 我々は政府軍直属の国境警備隊だ！ => ¡Somos el equipo de guardia fronteriza directamente bajo el mando del gobierno!
+[manga-translator.GroqTranslator] 1: 怪しい奴らめ貴様ら何者だ！ => ¡Eh, tú, ¿quién eres, sospechoso!
+[manga-translator.GroqTranslator] 2: 俺たちは人間領から逃げてきたんだ！ => ¡Nosotros escapamos del territorio humano!
+[manga-translator.GroqTranslator] 3: またまたトラブル・ => ¡Otra vez problemas...
+[manga-translator.GroqTranslator] 4: そうか．．．なら女と金目の物をよこせ！ => ¡Entiendo...! ¡Entonces, traedme a la chica y las cosas de valor!
+[manga-translator.GroqTranslator] 5: なければ身につけているものをすべて置いていけば助けてやる！ => ¡Si no, dejad todo lo que lleváis encima y os ayudaré!
+[manga-translator.GroqTranslator] 6: だが．．．その人間は殺さないといけないなあ！ => ¡Pero...! ¡Ese humano debe morir, no hay otra opción!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9999756813049316 反政府軍ってのは fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999931037425995 名ばかりだな fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999946355819702 偉そうなことを fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8273389935493469 言っておいて自分たちには fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999593496322633 ずいぶん甘いじゃないか fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995854496955873 ．．．なんだ fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999939203262329 それに我々は fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999788999557496 実際に行動を fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999887347221375 起こしている fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999820590019227 その道は困難で fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998062252998353 多少の贅沢がなくては fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999901652336122 達成もできないのだ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999797940254211 何を言ってる fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999987781047821 これは我々が fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999747276306153 手にした成果 fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999496936798097 なんだその fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994413852691652 装飾品は？ fg: (7, 5, 4) bg: (7, 5, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999937415122986 ずいぶんと fg: (1, 4, 0) bg: (1, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993867874145509 贅沢じゃないか．．． fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999116361141205 はあ．．．．． fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999404549598695 じゃあまずは fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998248219490052 お前たちがその礎に fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9991397857666017 なるべきじゃないか？ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9991539120674134 殺っちまえ！ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993641376495362 自分たちに甘く fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996516704559327 他人に厳しい．．． fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999337673187256 おい fg: (10, 10, 3) bg: (10, 10, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996353387832643 野郎ども．．． fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997705817222596 ただの乞食か fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 1 líneas en 1 llamada(s), 120 tokens
+[manga-translator.GroqTranslator] 0: は => ¿Ha
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.942707359790802 ふう．．． fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99560284614563 ．．．．．．あ？ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 5 líneas en 1 llamada(s), 251 tokens
+[manga-translator.GroqTranslator] 0: ．．．なんだ？ => ¿Qué...?
+[manga-translator.GroqTranslator] 1: まだここにも残ってるじゃねえか => Todavía siguen aquí, ¿no?
+[manga-translator.GroqTranslator] 2: あー．．．．．俺たちもちょうど避難するところなんで．．． => Ahhh, resulta que nosotros también estábamos a punto de evacuar...
+[manga-translator.GroqTranslator] 3: 避難したければその二人を置いていってもらおうか => Si quieren evacuar, déjenlos a esos dos atrás
+[manga-translator.GroqTranslator] 4: 待て => ¡Espera!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 4 líneas en 1 llamada(s), 217 tokens
+[manga-translator.GroqTranslator] 0: 自分たちに甘く他人に厳しい．．． => Somos indulgentes con nosotros mismos y estrictos con los demás....
+[manga-translator.GroqTranslator] 1: ただの乞食か => ¿Eres solo un mendigo?
+[manga-translator.GroqTranslator] 2: おい野郎ども．．． => ¡Eh, tú, canallas.....
+[manga-translator.GroqTranslator] 3: 殺っちまえ！ => ¡Matadlo ya mismo！
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 6 líneas en 1 llamada(s), 339 tokens
+[manga-translator.GroqTranslator] 0: 面倒ごとに巻き込まれる前に私たちも早く行きましょう => Antes de que nos metamos en problemas, vámonos rápidamente
+[manga-translator.GroqTranslator] 1: 危ないことからは遠ざかるのが正解ですわ => Lo correcto es mantenerse alejado de situaciones peligrosas
+[manga-translator.GroqTranslator] 2: んーそうするか => ¿Hmmm, deberíamos hacerlo?
+[manga-translator.GroqTranslator] 3: さっきの門番によるとこの騒動は反政府軍の仕業らしいが．．． => Según el guardia de la puerta de antes, este alboroto parece ser obra de los rebeldes antigubernamentales...
+[manga-translator.GroqTranslator] 4: 俺が下手に介入したらかえって場を荒らすだけだろうしな => Si yo intervengo de manera imprudente, solo empeoraré la situación
+[manga-translator.GroqTranslator] 5: ぐああっ！！ => ¡Guaaaaah！
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 6 líneas en 1 llamada(s), 308 tokens
+[manga-translator.GroqTranslator] 0: 若少な妖精とワンディーネに出くわすとは運がいい => ¡Qué suerte encontrar a una joven hada y a una waldine!
+[manga-translator.GroqTranslator] 1: 革命には金が必要でねそのための礎になってもらおうか => La revolución necesita dinero, así que ¿por qué no me sirven como base para eso?
+[manga-translator.GroqTranslator] 2: お前たちならいい金になりそうだ => Tú pareces que podrías valer un buen precio
+[manga-translator.GroqTranslator] 3: ひぇ．．．．．． => ¡Hiiiieeeee....
+[manga-translator.GroqTranslator] 4: なぁ．．．お前らは反政府軍って奴か？ => ¿Eh...? ¿Ustedes son los de la resistencia contra el gobierno o algo así?
+[manga-translator.GroqTranslator] 5: ああそうだ => Sí, eso es
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.9999699592590333 背を見せて fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999809861183168 逃げるなら fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999788999557496 追わないと fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9976351857185365 約束しよう fg: (5, 3, 2) bg: (5, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999952316284181 俺は別に fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999921321868898 お前を殺したい fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999874234199524 わけじゃない fg: (3, 5, 0) bg: (3, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994567036628724 ．．．さて fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995357990264894 お前はどうする？ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999430179595948 たかが人間風情が fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995710253715516 精鋭の魔族を．．．；！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996715784072877 そんなバカなことが．．． fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.982377588748932 ！？ fg: (14, 12, 21) bg: (14, 12, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9998437762260438 調子に乗るなよ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999976634979248 下等生物が fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 7 líneas en 1 llamada(s), 267 tokens
+[manga-translator.GroqTranslator] 0: 世話になった => Me has ayudado mucho
+[manga-translator.GroqTranslator] 1: もう奴隷商人なんかに捕まるなよ => No te dejes atrapar por esos traficantes de esclavos de nuevo
+[manga-translator.GroqTranslator] 2: 元気でも => Estoy bien
+[manga-translator.GroqTranslator] 3: さて => Bueno
+[manga-translator.GroqTranslator] 4: これからどうするかだが．．． => Ahora, ¿qué vamos a hacer...
+[manga-translator.GroqTranslator] 5: 急げ！ => ¡Date prisa!
+[manga-translator.GroqTranslator] 6: 早く街の外へ避難するんだ！！ => ¡Rápido, evacúa hacia fuera de la ciudad!!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.ModelMangaOCR] prob: 0.940429151058197 魔族とバトル fg: (249, 248, 247) bg: (249, 248, 247)
+[manga-translator.ModelMangaOCR] prob: 0.9998638033866883 髪の毛一本も残らぬよう fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993703961372377 燃やしつくしてくれるわ．．．！ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 5 líneas en 1 llamada(s), 313 tokens
+[manga-translator.GroqTranslator] 0: 腐った政府を打ち倒し真に魔族のための国家を作り上げる！ => ¡Derrocar al gobierno corrupto y construir un verdadero estado para los demonios!
+[manga-translator.GroqTranslator] 1: それが我々反政府軍だ！ => ¡Eso es lo que somos nosotros, el ejército rebelde!
+[manga-translator.GroqTranslator] 2: ．．．魔族のための国家を作るのに同じ魔族を売るのか？ => …… ¿Vas a vender a tus propios compañeros demonios para construir un estado para demonios?
+[manga-translator.GroqTranslator] 3: 正常な国家を作り出すための礎になれるんだぞ？ => ¡Puedes ser la base para crear un estado normal!
+[manga-translator.GroqTranslator] 4: 魔族なら喜んでその身を捧げるべきだろう => ¡Si eres un demonio, deberías ofrecer tu vida con gusto!
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 9 líneas en 1 llamada(s), 424 tokens
+[manga-translator.GroqTranslator] 0: はあ．．．．． => ¡Haaa.....
+[manga-translator.GroqTranslator] 1: じゃあまずはお前たちがその礎になるべきじゃないか？ => ¿Entonces, no deberían ser ustedes los que establezcan las bases?
+[manga-translator.GroqTranslator] 2: なんだその装飾品は？ずいぶんと贅沢じゃないか．．． => ¿Qué es ese adorno? ¿No es un poco excesivo....?
+[manga-translator.GroqTranslator] 3: 何を言ってるこれは我々が手にした成果 => ¿Qué estás diciendo? Esto es el resultado de nuestros esfuerzos
+[manga-translator.GroqTranslator] 4: それに我々は実際に行動を起こしている => Y nosotros estamos tomando medidas concretas
+[manga-translator.GroqTranslator] 5: その道は困難で多少の贅沢がなくては達成もできないのだ => Ese camino es difícil, y no se puede lograr sin algunos lujos
+[manga-translator.GroqTranslator] 6: ．．．なんだ => ¿Qué....?
+[manga-translator.GroqTranslator] 7: 偉そうなことを言っておいて自分たちにはずいぶん甘いじゃないか => Hablan con altivez, pero son muy condescendientes con ustedes mismos, ¿no?
+[manga-translator.GroqTranslator] 8: 反政府軍ってのは名ばかりだな => La resistencia contra el gobierno no es más que un nombre, ¿verdad?
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 2 líneas en 1 llamada(s), 149 tokens
+[manga-translator.GroqTranslator] 0: ．．．．．．あ？ => ．．．．．．¿eh?
+[manga-translator.GroqTranslator] 1: ふう．．． => Uf...
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 1 líneas en 1 llamada(s), 139 tokens
+[manga-translator.GroqTranslator] 0: 調子に乗るなよ下等生物が => No te crezcas tanto, criatura inferior
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 5 líneas en 1 llamada(s), 291 tokens
+[manga-translator.GroqTranslator] 0: たかが人間風情が精鋭の魔族を．．．；！ => ¡Qué ridículo que un simple ser humano se atreva a... ¡los elite de los demonios!
+[manga-translator.GroqTranslator] 1: そんなバカなことが．．． => ¿Cómo puede pasar algo tan estúpido...?
+[manga-translator.GroqTranslator] 2: ．．．さてお前はどうする？ => ...bueno, ¿qué vas a hacer tú?
+[manga-translator.GroqTranslator] 3: 俺は別にお前を殺したいわけじゃない => No es que tenga ganas de matarte o algo así
+[manga-translator.GroqTranslator] 4: 背を見せて逃げるなら追わないと約束しよう => Si me das la espalda y te escaparás, te prometo que no te perseguiré
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640
+[manga-translator.GroqTranslator] Groq batch: 2 líneas en 1 llamada(s), 179 tokens
+[manga-translator.GroqTranslator] 0: 髪の毛一本も残らぬよう燃やしつくしてくれるわ．．．！ => ¡Me aseguraré de quemarlo hasta que no quede ni un solo pelo...！
+[manga-translator.GroqTranslator] 1: 魔族とバトル => ¡Batalla contra los demonios！
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 456x640

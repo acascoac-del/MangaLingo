@@ -1,0 +1,114 @@
+/* MangaLingo — content-script styling (v1.6.0) */
+
+.mt-progress-bar {
+  position: fixed; top: 12px; right: 12px; z-index: 2147483647;
+  width: 280px; background: rgba(10, 12, 16, 0.97); backdrop-filter: blur(12px);
+  border: 1px solid #2a2f3a; border-radius: 12px; padding: 10px 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #f5f5f5; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  opacity: 0; transform: translateX(20px); transition: opacity 0.3s, transform 0.3s; pointer-events: none;
+}
+.mt-progress-bar.mt-pb-visible { opacity: 1; transform: translateX(0); pointer-events: auto; }
+.mt-progress-bar.mt-pb-final { border-color: rgba(74, 222, 128, 0.4); }
+.mt-pb-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.mt-pb-title { display: flex; align-items: center; gap: 6px; }
+.mt-pb-logo { display: inline-flex; align-items: center; justify-content: center; width: 18px; height: 18px; border-radius: 5px; background: linear-gradient(135deg, #d946ef 0%, #f59e0b 100%); color: white; font-weight: 800; font-size: 10px; }
+.mt-pb-name { font-weight: 700; font-size: 11px; }
+.mt-pb-counter { font-size: 11px; font-weight: 700; color: #d946ef; background: rgba(217, 70, 239, 0.15); padding: 1px 7px; border-radius: 999px; font-variant-numeric: tabular-nums; }
+.mt-pb-abort { background: rgba(220, 40, 40, 0.2); border: 1px solid rgba(220, 40, 40, 0.3); color: #fca5a5; width: 18px; height: 18px; border-radius: 4px; cursor: pointer; font-size: 10px; display: inline-flex; align-items: center; justify-content: center; padding: 0; line-height: 1; }
+.mt-pb-abort:hover { background: rgba(220, 40, 40, 0.4); color: white; }
+.mt-pb-track { width: 100%; height: 5px; background: #1f242c; border-radius: 3px; overflow: hidden; margin-bottom: 5px; }
+.mt-pb-fill { height: 100%; background: linear-gradient(90deg, #d946ef 0%, #ec4899 50%, #f59e0b 100%); background-size: 200% 100%; width: 0%; transition: width 0.3s; border-radius: 3px; animation: mt-pb-shimmer 2s linear infinite; }
+@keyframes mt-pb-shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+.mt-pb-final .mt-pb-fill { background: linear-gradient(90deg, #22c55e, #4ade80); animation: none; }
+.mt-pb-status { font-size: 10px; color: #8b95a5; font-variant-numeric: tabular-nums; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.mt-overlay { position: absolute; z-index: 2147483646; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: rgba(15, 17, 21, 0.92); color: #f5f5f5; padding: 8px 12px; border-radius: 8px; font-size: 12px; box-shadow: 0 8px 28px rgba(0, 0, 0, 0.35); display: flex; align-items: center; gap: 8px; pointer-events: auto; max-width: 320px; transition: opacity 0.4s; }
+.mt-overlay.mt-fade { opacity: 0; pointer-events: none; }
+.mt-overlay.mt-loading .mt-spinner { width: 14px; height: 14px; border: 2px solid rgba(255, 255, 255, 0.3); border-top-color: #f0abfc; border-radius: 50%; animation: mt-spin 0.8s linear infinite; }
+@keyframes mt-spin { to { transform: rotate(360deg); } }
+.mt-overlay.mt-error { background: rgba(180, 30, 30, 0.92); }
+.mt-overlay.mt-badge { background: rgba(20, 80, 30, 0.92); }
+.mt-overlay .mt-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.mt-overlay .mt-revert { color: #fef08a; cursor: pointer; text-decoration: underline; margin-left: 4px; }
+@keyframes __lf_spin {
+  to { transform: rotate(360deg); }
+}
+
+#__lf_progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  z-index: 2147483647;
+  background: rgba(18, 20, 33, 0.55);
+  backdrop-filter: blur(6px);
+}
+
+#__lf_progress.done {
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+
+#__lf_progress_fill {
+  width: 0;
+  height: 100%;
+  background: linear-gradient(90deg, #63b3ed, #a855f7, #f472b6);
+  box-shadow: 0 0 18px rgba(168, 85, 247, 0.45);
+  transition: width 0.25s ease;
+}
+
+#__lf_bubble {
+  position: fixed;
+  z-index: 2147483647;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 14px;
+  border-radius: 14px;
+  color: #f7f4ee;
+  cursor: pointer;
+  user-select: none;
+  font: 600 13px/1.2 system-ui, -apple-system, Segoe UI, sans-serif;
+  background: linear-gradient(135deg, rgba(30, 27, 75, 0.95), rgba(15, 23, 42, 0.95));
+  border: 1px solid rgba(99, 179, 237, 0.35);
+  box-shadow: 0 12px 30px rgba(8, 10, 20, 0.35);
+  backdrop-filter: blur(10px);
+}
+
+#__lf_bubble .__lf_icon {
+  width: 20px;
+  height: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #63b3ed, #a855f7);
+  color: white;
+  font-size: 12px;
+}
+
+#__lf_bubble .__lf_loader {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid rgba(255,255,255,0.22);
+  border-top-color: #fff;
+  animation: __lf_spin 0.8s linear infinite;
+}
+
+#__lf_tooltip {
+  position: fixed;
+  z-index: 2147483647;
+  max-width: min(420px, calc(100vw - 20px));
+  padding: 12px 14px;
+  border-radius: 16px;
+  color: #d8def1;
+  background: linear-gradient(180deg, #0f1220 0%, #14182b 100%);
+  border: 1px solid rgba(99, 179, 237, 0.22);
+  box-shadow: 0 18px 40px rgba(3, 7, 18, 0.35);
+  font: 500 13px/1.5 system-ui, -apple-system, Segoe UI, sans-serif;
+  word-break: break-word;
+}
+/* LinguaFlow styles appended */

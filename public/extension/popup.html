@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="UTF-8"><title>MangaLingo</title><link rel="stylesheet" href="popup.css"></head>
+<body><header class="hero"><div class="hero-bg"></div><div class="hero-content"><div class="logo-row"><div class="logo-icon">M</div><div><h1>MangaLingo</h1><p>Traducción de manga en un solo request</p></div></div><div id="status-chip" class="status-chip status-checking"><span class="status-dot"></span><span id="status-text">Verificando backend…</span></div></div></header>
+<main>
+<nav class="tabs"><button class="tab" data-tab="translate"><span class="tab-icon">🌐</span><span>Traducir</span></button><button class="tab" data-tab="page"><span class="tab-icon">📚</span><span>Página</span></button><button class="tab" data-tab="settings"><span class="tab-icon">⚙️</span><span>Ajustes</span></button></nav>
+
+<section id="tab-translate" class="tab-panel">
+  <!-- Drop zone supports multiple files -->
+  <div class="dropzone" id="dropzone">
+    <div class="dropzone-icon">📁</div>
+    <p class="dropzone-title">Arrastrá hasta 5 imágenes aquí</p>
+    <p class="dropzone-sub">o</p>
+    <button id="pick-file" class="btn-secondary">Seleccionar archivos</button>
+    <input type="file" id="file-input" accept="image/*" multiple hidden />
+  </div>
+  <div class="url-row"><input type="url" id="url-input" placeholder="https://…" /><button id="url-go" class="btn-icon">↓</button></div>
+
+  <!-- Queue list (shown when multiple images loaded) -->
+  <div id="queue-panel" class="queue-panel hidden">
+    <div class="queue-header">
+      <span id="queue-count">0 imágenes</span>
+      <button id="queue-clear" class="btn-tiny">✕ Limpiar</button>
+    </div>
+    <div id="queue-list" class="queue-list"></div>
+    <!-- Multi-image progress bar (inside translate tab) -->
+    <div id="multi-progress" class="multi-progress hidden">
+      <div class="mp-bar-track"><div id="mp-bar-fill" class="mp-bar-fill" style="width:0%"></div></div>
+      <div class="mp-status"><span id="mp-count">0 / 0</span><span id="mp-text">Preparando…</span></div>
+    </div>
+  </div>
+
+  <!-- Single image result (when only 1 image) -->
+  <div id="result" class="result hidden">
+    <div class="result-images">
+      <figure><figcaption>📝 Original</figcaption><img id="orig-img" alt="original" /></figure>
+      <figure><figcaption>🌍 Traducida</figcaption><img id="out-img" alt="traducida" /></figure>
+    </div>
+    <div class="result-meta"><span id="meta-text"></span><a id="download-link" class="btn-tiny" download>⬇ PNG</a></div>
+    <div id="regions" class="regions hidden"></div>
+  </div>
+
+  <div id="error" class="error hidden"></div>
+  <button id="translate-btn" class="btn-primary full" disabled>
+    <span class="spinner hidden" id="spinner"></span>
+    <span id="translate-btn-text">✨ Traducir imagen</span>
+  </button>
+</section>
+
+<section id="tab-page" class="tab-panel"><div class="page-section"><div class="page-icon">📚</div><h2>Traducir toda la página</h2><p class="page-desc">Detecta páginas de manga en la pestaña activa y las traduce en paralelo.</p><div class="page-stat"><span class="page-stat-label">Pestaña activa:</span><span id="active-tab-title" class="page-stat-value">—</span></div><button id="translate-all-btn" class="btn-primary full" disabled><span id="translate-all-text">Verificando pestaña…</span></button><div id="page-progress" class="page-progress"><div class="progress-bar"><div id="progress-fill" class="progress-fill" style="width: 0%"></div></div><div class="progress-text"><span id="progress-count">—</span><span id="progress-status">Verificando…</span></div></div><div class="page-tips"><p>💡 Atajo: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd></p></div></div></section>
+
+<section id="tab-settings" class="tab-panel">
+<div class="settings-section"><h3>🌐 Idiomas</h3><div class="setting"><label>Idioma destino</label><select id="s-target-lang"></select></div><div class="setting"><label>Idioma origen</label><select id="s-source-lang"></select></div></div>
+<div class="settings-section"><h3>🎨 Renderizado</h3><div class="setting"><label>Fuente</label><select id="s-font"><option value="comic">Comic Shanns</option><option value="anime_ace">Anime Ace</option><option value="anime_ace_3">Anime Ace 3</option><option value="msyh">Microsoft YaHei (CJK)</option><option value="msgothic">MS Gothic (CJK)</option><option value="arial">Arial Unicode</option></select></div><div class="setting"><label>Renderer</label><select id="s-renderer"></select></div></div>
+<div class="settings-section"><h3>⚙️ Pipeline</h3>
+  <div class="setting"><label>Traductor</label><select id="s-translator"></select></div>
+
+  <!-- MiMo / Xiaomi section -->
+  <div id="mimo-section" class="mimo-section hidden">
+    <div class="setting"><label>🔑 MiMo Token Plan</label><input type="password" id="s-mimo-token" placeholder="tp-xxxxx" /></div>
+    <div class="setting">
+      <label>🤖 Modelo MiMo</label>
+      <div class="model-select-row">
+        <select id="s-mimo-model"><option value="">— ingresá primero el token (tp-…) —</option></select>
+        <button id="mimo-refresh" class="btn-icon" title="Cargar modelos">↻</button>
+      </div>
+    </div>
+    <div class="mimo-info" id="mimo-info">
+      <p>Token Plan (<code>tp-xxxxx</code>) · <a href="https://mimo.mi.com/docs/en-US/tokenplan/Token%20Plan/subscription" target="_blank" style="color:#d946ef">Suscripción ↗</a></p>
+    </div>
+  </div>
+
+  <!-- Ollama section -->
+  <div id="ollama-section" class="mimo-section hidden">
+    <div class="setting">
+      <label>🤖 Modelo Ollama</label>
+      <div class="model-select-row">
+        <select id="s-ollama-model"><option value="">Cargando modelos…</option></select>
+        <button id="ollama-refresh" class="btn-icon" title="Recargar modelos">↻</button>
+      </div>
+    </div>
+    <div class="mimo-info" id="ollama-info">
+      <p>Conectando a Ollama local…</p>
+    </div>
+  </div>
+
+  <!-- Groq section -->
+  <div id="groq-section" class="mimo-section hidden">
+    <div class="setting"><label>🔑 Groq API Key</label><input type="password" id="s-groq-key" placeholder="gsk_…" /></div>
+    <div class="setting">
+      <label>🤖 Modelo Groq</label>
+      <div class="model-select-row">
+        <select id="s-groq-model"><option value="">— seleccioná primero la key —</option></select>
+        <button id="groq-refresh" class="btn-icon" title="Cargar modelos">↻</button>
+      </div>
+    </div>
+    <div class="mimo-info">
+      <p>Ingresá tu API Key de <a href="https://console.groq.com/keys" target="_blank" style="color:#d946ef">console.groq.com ↗</a></p>
+      <p>Modelos compatibles con traducción de texto (LLM).</p>
+    </div>
+  </div>
+
+  <details class="advanced"><summary>Opciones avanzadas</summary><div class="setting"><label>Detector</label><select id="s-detector"></select></div><div class="setting"><label>OCR</label><select id="s-ocr"></select></div><div class="setting"><label>Inpainter</label><select id="s-inpainter"></select></div></details>
+</div>
+<div class="settings-section"><h3>🔌 Conexión</h3><div class="setting"><label>API base</label><input type="url" id="s-api" placeholder="http://localhost:3000" /></div></div>
+<button id="save-settings" class="btn-primary full">💾 Guardar ajustes</button>
+</section>
+</main>
+<footer><a href="http://localhost:3000" target="_blank">Abrir demo web ↗</a><span>v1.12.0</span></footer>
+<script src="popup.js"></script></body></html>

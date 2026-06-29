@@ -1,0 +1,1292 @@
+
+Downloading models into /app/models/detection
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/comictextdetector.pt"
+comictextdetector.pt.part:   1%|▏         | 0.98M/76.2M [00:00<00:02, 28.0MiB/s]
+comictextdetector.pt.part:   3%|▎         | 1.95M/76.2M [00:00<00:02, 26.6MiB/s]
+comictextdetector.pt.part:   4%|▍         | 2.93M/76.2M [00:00<00:02, 26.3MiB/s]
+comictextdetector.pt.part:   5%|▌         | 3.91M/76.2M [00:00<00:02, 26.3MiB/s]
+comictextdetector.pt.part:   6%|▋         | 4.88M/76.2M [00:00<00:02, 26.3MiB/s]
+comictextdetector.pt.part:   8%|▊         | 5.86M/76.2M [00:00<00:04, 17.8MiB/s]
+comictextdetector.pt.part:   9%|▉         | 6.84M/76.2M [00:00<00:04, 17.8MiB/s]
+comictextdetector.pt.part:  10%|█         | 7.81M/76.2M [00:00<00:03, 19.9MiB/s]
+comictextdetector.pt.part:  12%|█▏        | 8.79M/76.2M [00:00<00:03, 19.9MiB/s]
+comictextdetector.pt.part:  13%|█▎        | 9.77M/76.2M [00:00<00:03, 18.4MiB/s]
+comictextdetector.pt.part:  14%|█▍        | 10.7M/76.2M [00:00<00:03, 18.4MiB/s]
+comictextdetector.pt.part:  15%|█▌        | 11.7M/76.2M [00:00<00:04, 14.4MiB/s]
+comictextdetector.pt.part:  17%|█▋        | 12.7M/76.2M [00:00<00:05, 12.7MiB/s]
+comictextdetector.pt.part:  18%|█▊        | 13.7M/76.2M [00:00<00:05, 12.7MiB/s]
+comictextdetector.pt.part:  19%|█▉        | 14.6M/76.2M [00:01<00:05, 12.0MiB/s]
+comictextdetector.pt.part:  20%|██        | 15.6M/76.2M [00:01<00:05, 11.4MiB/s]
+comictextdetector.pt.part:  22%|██▏       | 16.6M/76.2M [00:01<00:05, 11.4MiB/s]
+comictextdetector.pt.part:  23%|██▎       | 17.6M/76.2M [00:01<00:05, 11.4MiB/s]
+comictextdetector.pt.part:  24%|██▍       | 18.6M/76.2M [00:01<00:03, 15.2MiB/s]
+comictextdetector.pt.part:  26%|██▌       | 19.5M/76.2M [00:01<00:03, 15.2MiB/s]
+comictextdetector.pt.part:  27%|██▋       | 20.5M/76.2M [00:01<00:03, 17.3MiB/s]
+comictextdetector.pt.part:  28%|██▊       | 21.5M/76.2M [00:01<00:03, 17.3MiB/s]
+comictextdetector.pt.part:  29%|██▉       | 22.5M/76.2M [00:01<00:03, 18.2MiB/s]
+comictextdetector.pt.part:  31%|███       | 23.4M/76.2M [00:01<00:03, 18.2MiB/s]
+comictextdetector.pt.part:  32%|███▏      | 24.4M/76.2M [00:01<00:02, 19.2MiB/s]
+comictextdetector.pt.part:  33%|███▎      | 25.4M/76.2M [00:01<00:02, 19.2MiB/s]
+comictextdetector.pt.part:  35%|███▍      | 26.4M/76.2M [00:01<00:02, 19.4MiB/s]
+comictextdetector.pt.part:  36%|███▌      | 27.3M/76.2M [00:01<00:02, 19.4MiB/s]
+comictextdetector.pt.part:  37%|███▋      | 28.3M/76.2M [00:01<00:02, 20.8MiB/s]
+comictextdetector.pt.part:  38%|███▊      | 29.3M/76.2M [00:01<00:02, 20.8MiB/s]
+comictextdetector.pt.part:  40%|███▉      | 30.3M/76.2M [00:01<00:02, 20.8MiB/s]
+comictextdetector.pt.part:  41%|████      | 31.2M/76.2M [00:01<00:02, 20.5MiB/s]
+comictextdetector.pt.part:  42%|████▏     | 32.2M/76.2M [00:01<00:02, 20.5MiB/s]
+comictextdetector.pt.part:  44%|████▎     | 33.2M/76.2M [00:01<00:02, 21.0MiB/s]
+comictextdetector.pt.part:  45%|████▍     | 34.2M/76.2M [00:02<00:02, 21.0MiB/s]
+comictextdetector.pt.part:  46%|████▌     | 35.2M/76.2M [00:02<00:02, 21.0MiB/s]
+comictextdetector.pt.part:  47%|████▋     | 36.1M/76.2M [00:02<00:01, 21.6MiB/s]
+comictextdetector.pt.part:  49%|████▊     | 37.1M/76.2M [00:02<00:01, 21.6MiB/s]
+comictextdetector.pt.part:  50%|████▉     | 38.1M/76.2M [00:02<00:01, 21.6MiB/s]
+comictextdetector.pt.part:  51%|█████     | 39.1M/76.2M [00:02<00:01, 21.6MiB/s]
+comictextdetector.pt.part:  53%|█████▎    | 40.0M/76.2M [00:02<00:01, 21.9MiB/s]
+comictextdetector.pt.part:  54%|█████▍    | 41.0M/76.2M [00:02<00:01, 21.9MiB/s]
+comictextdetector.pt.part:  55%|█████▌    | 42.0M/76.2M [00:02<00:02, 16.2MiB/s]
+comictextdetector.pt.part:  56%|█████▋    | 43.0M/76.2M [00:02<00:02, 16.2MiB/s]
+comictextdetector.pt.part:  58%|█████▊    | 43.9M/76.2M [00:02<00:02, 16.8MiB/s]
+comictextdetector.pt.part:  59%|█████▉    | 44.9M/76.2M [00:02<00:01, 16.8MiB/s]
+comictextdetector.pt.part:  60%|██████    | 45.9M/76.2M [00:02<00:01, 16.8MiB/s]
+comictextdetector.pt.part:  61%|██████▏   | 46.9M/76.2M [00:02<00:01, 19.9MiB/s]
+comictextdetector.pt.part:  63%|██████▎   | 47.9M/76.2M [00:02<00:01, 19.9MiB/s]
+comictextdetector.pt.part:  64%|██████▍   | 48.8M/76.2M [00:02<00:01, 21.0MiB/s]
+comictextdetector.pt.part:  65%|██████▌   | 49.8M/76.2M [00:02<00:01, 21.0MiB/s]
+comictextdetector.pt.part:  67%|██████▋   | 50.8M/76.2M [00:02<00:01, 21.5MiB/s]
+comictextdetector.pt.part:  68%|██████▊   | 51.8M/76.2M [00:02<00:01, 21.5MiB/s]
+comictextdetector.pt.part:  69%|██████▉   | 52.7M/76.2M [00:03<00:01, 21.5MiB/s]
+comictextdetector.pt.part:  70%|███████   | 53.7M/76.2M [00:03<00:01, 21.5MiB/s]
+comictextdetector.pt.part:  72%|███████▏  | 54.7M/76.2M [00:03<00:01, 21.5MiB/s]
+comictextdetector.pt.part:  73%|███████▎  | 55.7M/76.2M [00:03<00:00, 23.3MiB/s]
+comictextdetector.pt.part:  74%|███████▍  | 56.6M/76.2M [00:03<00:00, 23.3MiB/s]
+comictextdetector.pt.part:  76%|███████▌  | 57.6M/76.2M [00:03<00:00, 23.3MiB/s]
+comictextdetector.pt.part:  77%|███████▋  | 58.6M/76.2M [00:03<00:00, 24.4MiB/s]
+comictextdetector.pt.part:  78%|███████▊  | 59.6M/76.2M [00:03<00:00, 24.4MiB/s]
+comictextdetector.pt.part:  79%|███████▉  | 60.5M/76.2M [00:03<00:00, 24.4MiB/s]
+comictextdetector.pt.part:  81%|████████  | 61.5M/76.2M [00:03<00:00, 25.5MiB/s]
+comictextdetector.pt.part:  82%|████████▏ | 62.5M/76.2M [00:03<00:00, 25.5MiB/s]
+comictextdetector.pt.part:  83%|████████▎ | 63.5M/76.2M [00:03<00:00, 23.5MiB/s]
+comictextdetector.pt.part:  85%|████████▍ | 64.5M/76.2M [00:03<00:00, 23.5MiB/s]
+comictextdetector.pt.part:  86%|████████▌ | 65.4M/76.2M [00:03<00:00, 23.5MiB/s]
+comictextdetector.pt.part:  87%|████████▋ | 66.4M/76.2M [00:03<00:00, 23.0MiB/s]
+comictextdetector.pt.part:  88%|████████▊ | 67.4M/76.2M [00:03<00:00, 23.0MiB/s]
+comictextdetector.pt.part:  90%|████████▉ | 68.4M/76.2M [00:03<00:00, 22.7MiB/s]
+comictextdetector.pt.part:  91%|█████████ | 69.3M/76.2M [00:03<00:00, 22.7MiB/s]
+comictextdetector.pt.part:  92%|█████████▏| 70.3M/76.2M [00:03<00:00, 22.4MiB/s]
+comictextdetector.pt.part:  93%|█████████▎| 71.3M/76.2M [00:03<00:00, 22.4MiB/s]
+comictextdetector.pt.part:  95%|█████████▍| 72.3M/76.2M [00:03<00:00, 22.0MiB/s]
+comictextdetector.pt.part:  96%|█████████▌| 73.2M/76.2M [00:03<00:00, 22.0MiB/s]
+comictextdetector.pt.part:  97%|█████████▋| 74.2M/76.2M [00:03<00:00, 22.0MiB/s]
+comictextdetector.pt.part:  99%|█████████▊| 75.2M/76.2M [00:03<00:00, 24.1MiB/s]
+comictextdetector.pt.part: 100%|█████████▉| 76.2M/76.2M [00:04<00:00, 24.1MiB/s]
+ -- Verifying: "/app/models/detection/./comictextdetector.pt.part"
+ -- Verifying: OK!
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/comictextdetector.pt.onnx"
+comictextdetector.pt.onnx.part:   1%|          | 0.98M/90.3M [00:00<00:04, 19.6MiB/s]
+comictextdetector.pt.onnx.part:   2%|▏         | 1.95M/90.3M [00:00<00:04, 18.8MiB/s]
+comictextdetector.pt.onnx.part:   3%|▎         | 2.93M/90.3M [00:00<00:04, 18.8MiB/s]
+comictextdetector.pt.onnx.part:   4%|▍         | 3.91M/90.3M [00:00<00:05, 17.7MiB/s]
+comictextdetector.pt.onnx.part:   5%|▌         | 4.88M/90.3M [00:00<00:05, 17.7MiB/s]
+comictextdetector.pt.onnx.part:   6%|▋         | 5.86M/90.3M [00:00<00:05, 17.2MiB/s]
+comictextdetector.pt.onnx.part:   8%|▊         | 6.84M/90.3M [00:00<00:05, 17.2MiB/s]
+comictextdetector.pt.onnx.part:   9%|▊         | 7.81M/90.3M [00:00<00:05, 17.0MiB/s]
+comictextdetector.pt.onnx.part:  10%|▉         | 8.79M/90.3M [00:00<00:05, 17.0MiB/s]
+comictextdetector.pt.onnx.part:  11%|█         | 9.77M/90.3M [00:00<00:04, 18.6MiB/s]
+comictextdetector.pt.onnx.part:  12%|█▏        | 10.7M/90.3M [00:00<00:04, 18.6MiB/s]
+comictextdetector.pt.onnx.part:  13%|█▎        | 11.7M/90.3M [00:00<00:06, 12.4MiB/s]
+comictextdetector.pt.onnx.part:  14%|█▍        | 12.7M/90.3M [00:00<00:06, 12.4MiB/s]
+comictextdetector.pt.onnx.part:  15%|█▌        | 13.7M/90.3M [00:00<00:05, 14.5MiB/s]
+comictextdetector.pt.onnx.part:  16%|█▌        | 14.6M/90.3M [00:00<00:05, 14.5MiB/s]
+comictextdetector.pt.onnx.part:  17%|█▋        | 15.6M/90.3M [00:00<00:04, 17.1MiB/s]
+comictextdetector.pt.onnx.part:  18%|█▊        | 16.6M/90.3M [00:01<00:04, 17.1MiB/s]
+comictextdetector.pt.onnx.part:  19%|█▉        | 17.6M/90.3M [00:01<00:04, 18.3MiB/s]
+comictextdetector.pt.onnx.part:  21%|██        | 18.6M/90.3M [00:01<00:04, 18.3MiB/s]
+comictextdetector.pt.onnx.part:  22%|██▏       | 19.5M/90.3M [00:01<00:03, 18.8MiB/s]
+comictextdetector.pt.onnx.part:  23%|██▎       | 20.5M/90.3M [00:01<00:03, 18.8MiB/s]
+comictextdetector.pt.onnx.part:  24%|██▍       | 21.5M/90.3M [00:01<00:04, 15.4MiB/s]
+comictextdetector.pt.onnx.part:  25%|██▍       | 22.5M/90.3M [00:01<00:04, 15.4MiB/s]
+comictextdetector.pt.onnx.part:  26%|██▌       | 23.4M/90.3M [00:01<00:04, 15.4MiB/s]
+comictextdetector.pt.onnx.part:  27%|██▋       | 24.4M/90.3M [00:01<00:03, 19.2MiB/s]
+comictextdetector.pt.onnx.part:  28%|██▊       | 25.4M/90.3M [00:01<00:03, 19.2MiB/s]
+comictextdetector.pt.onnx.part:  29%|██▉       | 26.4M/90.3M [00:01<00:03, 19.2MiB/s]
+comictextdetector.pt.onnx.part:  30%|███       | 27.3M/90.3M [00:01<00:03, 20.9MiB/s]
+comictextdetector.pt.onnx.part:  31%|███▏      | 28.3M/90.3M [00:01<00:03, 20.9MiB/s]
+comictextdetector.pt.onnx.part:  32%|███▏      | 29.3M/90.3M [00:01<00:03, 20.9MiB/s]
+comictextdetector.pt.onnx.part:  34%|███▎      | 30.3M/90.3M [00:01<00:02, 22.7MiB/s]
+comictextdetector.pt.onnx.part:  35%|███▍      | 31.2M/90.3M [00:01<00:02, 22.7MiB/s]
+comictextdetector.pt.onnx.part:  36%|███▌      | 32.2M/90.3M [00:01<00:03, 19.0MiB/s]
+comictextdetector.pt.onnx.part:  37%|███▋      | 33.2M/90.3M [00:01<00:03, 19.0MiB/s]
+comictextdetector.pt.onnx.part:  38%|███▊      | 34.2M/90.3M [00:01<00:02, 20.6MiB/s]
+comictextdetector.pt.onnx.part:  39%|███▉      | 35.2M/90.3M [00:02<00:02, 20.6MiB/s]
+comictextdetector.pt.onnx.part:  40%|████      | 36.1M/90.3M [00:02<00:02, 20.6MiB/s]
+comictextdetector.pt.onnx.part:  41%|████      | 37.1M/90.3M [00:02<00:02, 21.3MiB/s]
+comictextdetector.pt.onnx.part:  42%|████▏     | 38.1M/90.3M [00:02<00:02, 21.3MiB/s]
+comictextdetector.pt.onnx.part:  43%|████▎     | 39.1M/90.3M [00:02<00:02, 21.3MiB/s]
+comictextdetector.pt.onnx.part:  44%|████▍     | 40.0M/90.3M [00:02<00:02, 24.5MiB/s]
+comictextdetector.pt.onnx.part:  45%|████▌     | 41.0M/90.3M [00:02<00:02, 24.5MiB/s]
+comictextdetector.pt.onnx.part:  47%|████▋     | 42.0M/90.3M [00:02<00:02, 19.8MiB/s]
+comictextdetector.pt.onnx.part:  48%|████▊     | 43.0M/90.3M [00:02<00:02, 19.8MiB/s]
+comictextdetector.pt.onnx.part:  49%|████▊     | 43.9M/90.3M [00:02<00:02, 19.8MiB/s]
+comictextdetector.pt.onnx.part:  50%|████▉     | 44.9M/90.3M [00:02<00:02, 18.6MiB/s]
+comictextdetector.pt.onnx.part:  51%|█████     | 45.9M/90.3M [00:02<00:02, 18.6MiB/s]
+comictextdetector.pt.onnx.part:  52%|█████▏    | 46.9M/90.3M [00:02<00:02, 20.0MiB/s]
+comictextdetector.pt.onnx.part:  53%|█████▎    | 47.9M/90.3M [00:02<00:02, 20.0MiB/s]
+comictextdetector.pt.onnx.part:  54%|█████▍    | 48.8M/90.3M [00:02<00:02, 16.4MiB/s]
+comictextdetector.pt.onnx.part:  55%|█████▌    | 49.8M/90.3M [00:02<00:02, 16.4MiB/s]
+comictextdetector.pt.onnx.part:  56%|█████▌    | 50.8M/90.3M [00:03<00:02, 14.3MiB/s]
+comictextdetector.pt.onnx.part:  57%|█████▋    | 51.8M/90.3M [00:03<00:03, 13.0MiB/s]
+comictextdetector.pt.onnx.part:  58%|█████▊    | 52.7M/90.3M [00:03<00:03, 13.0MiB/s]
+comictextdetector.pt.onnx.part:  59%|█████▉    | 53.7M/90.3M [00:03<00:03, 12.3MiB/s]
+comictextdetector.pt.onnx.part:  61%|██████    | 54.7M/90.3M [00:03<00:03, 11.6MiB/s]
+comictextdetector.pt.onnx.part:  62%|██████▏   | 55.7M/90.3M [00:03<00:03, 11.6MiB/s]
+comictextdetector.pt.onnx.part:  63%|██████▎   | 56.6M/90.3M [00:03<00:02, 14.5MiB/s]
+comictextdetector.pt.onnx.part:  64%|██████▍   | 57.6M/90.3M [00:03<00:02, 14.5MiB/s]
+comictextdetector.pt.onnx.part:  65%|██████▍   | 58.6M/90.3M [00:03<00:02, 14.5MiB/s]
+comictextdetector.pt.onnx.part:  66%|██████▌   | 59.6M/90.3M [00:03<00:01, 16.8MiB/s]
+comictextdetector.pt.onnx.part:  67%|██████▋   | 60.5M/90.3M [00:03<00:01, 16.8MiB/s]
+comictextdetector.pt.onnx.part:  68%|██████▊   | 61.5M/90.3M [00:03<00:01, 19.1MiB/s]
+comictextdetector.pt.onnx.part:  69%|██████▉   | 62.5M/90.3M [00:03<00:01, 19.1MiB/s]
+comictextdetector.pt.onnx.part:  70%|███████   | 63.5M/90.3M [00:03<00:01, 19.1MiB/s]
+comictextdetector.pt.onnx.part:  71%|███████▏  | 64.5M/90.3M [00:03<00:01, 20.8MiB/s]
+comictextdetector.pt.onnx.part:  72%|███████▏  | 65.4M/90.3M [00:03<00:01, 20.8MiB/s]
+comictextdetector.pt.onnx.part:  74%|███████▎  | 66.4M/90.3M [00:05<00:06, 3.61MiB/s]
+comictextdetector.pt.onnx.part:  75%|███████▍  | 67.4M/90.3M [00:05<00:06, 3.61MiB/s]
+comictextdetector.pt.onnx.part:  76%|███████▌  | 68.4M/90.3M [00:05<00:06, 3.61MiB/s]
+comictextdetector.pt.onnx.part:  77%|███████▋  | 69.3M/90.3M [00:05<00:06, 3.61MiB/s]
+comictextdetector.pt.onnx.part:  78%|███████▊  | 70.3M/90.3M [00:05<00:03, 5.72MiB/s]
+comictextdetector.pt.onnx.part:  79%|███████▉  | 71.3M/90.3M [00:05<00:03, 5.72MiB/s]
+comictextdetector.pt.onnx.part:  80%|████████  | 72.3M/90.3M [00:05<00:03, 5.72MiB/s]
+comictextdetector.pt.onnx.part:  81%|████████  | 73.2M/90.3M [00:05<00:02, 8.25MiB/s]
+comictextdetector.pt.onnx.part:  82%|████████▏ | 74.2M/90.3M [00:05<00:02, 8.25MiB/s]
+comictextdetector.pt.onnx.part:  83%|████████▎ | 75.2M/90.3M [00:05<00:01, 8.25MiB/s]
+comictextdetector.pt.onnx.part:  84%|████████▍ | 76.2M/90.3M [00:05<00:01, 10.9MiB/s]
+comictextdetector.pt.onnx.part:  85%|████████▌ | 77.1M/90.3M [00:05<00:01, 10.9MiB/s]
+comictextdetector.pt.onnx.part:  87%|████████▋ | 78.1M/90.3M [00:06<00:01, 10.9MiB/s]
+comictextdetector.pt.onnx.part:  88%|████████▊ | 79.1M/90.3M [00:06<00:00, 13.0MiB/s]
+comictextdetector.pt.onnx.part:  89%|████████▊ | 80.1M/90.3M [00:06<00:00, 13.0MiB/s]
+comictextdetector.pt.onnx.part:  90%|████████▉ | 81.1M/90.3M [00:06<00:00, 13.0MiB/s]
+comictextdetector.pt.onnx.part:  91%|█████████ | 82.0M/90.3M [00:06<00:00, 14.7MiB/s]
+comictextdetector.pt.onnx.part:  92%|█████████▏| 83.0M/90.3M [00:06<00:00, 14.7MiB/s]
+comictextdetector.pt.onnx.part:  93%|█████████▎| 84.0M/90.3M [00:06<00:00, 16.3MiB/s]
+comictextdetector.pt.onnx.part:  94%|█████████▍| 85.0M/90.3M [00:06<00:00, 16.3MiB/s]
+comictextdetector.pt.onnx.part:  95%|█████████▌| 85.9M/90.3M [00:06<00:00, 16.3MiB/s]
+comictextdetector.pt.onnx.part:  96%|█████████▋| 86.9M/90.3M [00:06<00:00, 18.4MiB/s]
+comictextdetector.pt.onnx.part:  97%|█████████▋| 87.9M/90.3M [00:06<00:00, 18.4MiB/s]
+comictextdetector.pt.onnx.part:  98%|█████████▊| 88.9M/90.3M [00:06<00:00, 18.7MiB/s]
+comictextdetector.pt.onnx.part: 100%|█████████▉| 89.8M/90.3M [00:06<00:00, 18.7MiB/s]
+ -- Verifying: "/app/models/detection/./comictextdetector.pt.onnx.part"
+ -- Verifying: OK!
+
+Downloading models into /app/models/ocr
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/ocr_ar_48px.ckpt"
+ocr_ar_48px.ckpt.part:   1%|          | 0.98M/195M [00:00<00:10, 18.8MiB/s]
+ocr_ar_48px.ckpt.part:   1%|          | 1.95M/195M [00:00<00:09, 20.8MiB/s]
+ocr_ar_48px.ckpt.part:   2%|▏         | 2.93M/195M [00:00<00:09, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:   2%|▏         | 3.91M/195M [00:00<00:09, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:   3%|▎         | 4.88M/195M [00:00<00:08, 24.4MiB/s]
+ocr_ar_48px.ckpt.part:   3%|▎         | 5.86M/195M [00:00<00:08, 24.4MiB/s]
+ocr_ar_48px.ckpt.part:   4%|▎         | 6.84M/195M [00:00<00:08, 24.4MiB/s]
+ocr_ar_48px.ckpt.part:   4%|▍         | 7.81M/195M [00:00<00:08, 23.2MiB/s]
+ocr_ar_48px.ckpt.part:   5%|▍         | 8.79M/195M [00:00<00:08, 23.2MiB/s]
+ocr_ar_48px.ckpt.part:   5%|▌         | 9.77M/195M [00:00<00:07, 24.7MiB/s]
+ocr_ar_48px.ckpt.part:   6%|▌         | 10.7M/195M [00:00<00:07, 24.7MiB/s]
+ocr_ar_48px.ckpt.part:   6%|▌         | 11.7M/195M [00:00<00:07, 24.7MiB/s]
+ocr_ar_48px.ckpt.part:   7%|▋         | 12.7M/195M [00:00<00:09, 20.7MiB/s]
+ocr_ar_48px.ckpt.part:   7%|▋         | 13.7M/195M [00:00<00:09, 20.7MiB/s]
+ocr_ar_48px.ckpt.part:   8%|▊         | 14.6M/195M [00:00<00:09, 20.0MiB/s]
+ocr_ar_48px.ckpt.part:   8%|▊         | 15.6M/195M [00:00<00:09, 20.0MiB/s]
+ocr_ar_48px.ckpt.part:   9%|▊         | 16.6M/195M [00:00<00:09, 20.3MiB/s]
+ocr_ar_48px.ckpt.part:   9%|▉         | 17.6M/195M [00:00<00:09, 20.3MiB/s]
+ocr_ar_48px.ckpt.part:  10%|▉         | 18.6M/195M [00:00<00:08, 21.9MiB/s]
+ocr_ar_48px.ckpt.part:  10%|█         | 19.5M/195M [00:00<00:08, 21.9MiB/s]
+ocr_ar_48px.ckpt.part:  11%|█         | 20.5M/195M [00:00<00:08, 21.9MiB/s]
+ocr_ar_48px.ckpt.part:  11%|█         | 21.5M/195M [00:01<00:07, 23.5MiB/s]
+ocr_ar_48px.ckpt.part:  12%|█▏        | 22.5M/195M [00:01<00:07, 23.5MiB/s]
+ocr_ar_48px.ckpt.part:  12%|█▏        | 23.4M/195M [00:01<00:07, 23.5MiB/s]
+ocr_ar_48px.ckpt.part:  13%|█▎        | 24.4M/195M [00:01<00:06, 25.6MiB/s]
+ocr_ar_48px.ckpt.part:  13%|█▎        | 25.4M/195M [00:01<00:06, 25.6MiB/s]
+ocr_ar_48px.ckpt.part:  14%|█▎        | 26.4M/195M [00:01<00:06, 25.6MiB/s]
+ocr_ar_48px.ckpt.part:  14%|█▍        | 27.3M/195M [00:01<00:06, 26.6MiB/s]
+ocr_ar_48px.ckpt.part:  15%|█▍        | 28.3M/195M [00:01<00:06, 26.6MiB/s]
+ocr_ar_48px.ckpt.part:  15%|█▌        | 29.3M/195M [00:01<00:06, 26.2MiB/s]
+ocr_ar_48px.ckpt.part:  16%|█▌        | 30.3M/195M [00:01<00:06, 26.2MiB/s]
+ocr_ar_48px.ckpt.part:  16%|█▌        | 31.2M/195M [00:01<00:06, 26.2MiB/s]
+ocr_ar_48px.ckpt.part:  17%|█▋        | 32.2M/195M [00:01<00:07, 23.2MiB/s]
+ocr_ar_48px.ckpt.part:  17%|█▋        | 33.2M/195M [00:01<00:07, 23.2MiB/s]
+ocr_ar_48px.ckpt.part:  18%|█▊        | 34.2M/195M [00:01<00:10, 16.8MiB/s]
+ocr_ar_48px.ckpt.part:  18%|█▊        | 35.2M/195M [00:01<00:09, 16.8MiB/s]
+ocr_ar_48px.ckpt.part:  19%|█▊        | 36.1M/195M [00:01<00:11, 14.4MiB/s]
+ocr_ar_48px.ckpt.part:  19%|█▉        | 37.1M/195M [00:01<00:11, 14.4MiB/s]
+ocr_ar_48px.ckpt.part:  20%|█▉        | 38.1M/195M [00:02<00:12, 13.1MiB/s]
+ocr_ar_48px.ckpt.part:  20%|██        | 39.1M/195M [00:02<00:12, 13.4MiB/s]
+ocr_ar_48px.ckpt.part:  21%|██        | 40.0M/195M [00:02<00:12, 13.4MiB/s]
+ocr_ar_48px.ckpt.part:  21%|██        | 41.0M/195M [00:02<00:12, 13.4MiB/s]
+ocr_ar_48px.ckpt.part:  22%|██▏       | 42.0M/195M [00:02<00:09, 16.8MiB/s]
+ocr_ar_48px.ckpt.part:  22%|██▏       | 43.0M/195M [00:02<00:09, 16.8MiB/s]
+ocr_ar_48px.ckpt.part:  23%|██▎       | 43.9M/195M [00:02<00:08, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  23%|██▎       | 44.9M/195M [00:02<00:08, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  24%|██▎       | 45.9M/195M [00:02<00:08, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  24%|██▍       | 46.9M/195M [00:02<00:07, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:  25%|██▍       | 47.9M/195M [00:02<00:07, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:  25%|██▌       | 48.8M/195M [00:02<00:07, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:  26%|██▌       | 49.8M/195M [00:02<00:06, 22.3MiB/s]
+ocr_ar_48px.ckpt.part:  26%|██▌       | 50.8M/195M [00:02<00:06, 22.3MiB/s]
+ocr_ar_48px.ckpt.part:  27%|██▋       | 51.8M/195M [00:02<00:08, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  27%|██▋       | 52.7M/195M [00:02<00:08, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  28%|██▊       | 53.7M/195M [00:02<00:07, 19.4MiB/s]
+ocr_ar_48px.ckpt.part:  28%|██▊       | 54.7M/195M [00:02<00:07, 19.4MiB/s]
+ocr_ar_48px.ckpt.part:  29%|██▊       | 55.7M/195M [00:02<00:07, 19.4MiB/s]
+ocr_ar_48px.ckpt.part:  29%|██▉       | 56.6M/195M [00:02<00:06, 20.9MiB/s]
+ocr_ar_48px.ckpt.part:  30%|██▉       | 57.6M/195M [00:03<00:06, 20.9MiB/s]
+ocr_ar_48px.ckpt.part:  30%|███       | 58.6M/195M [00:03<00:06, 21.7MiB/s]
+ocr_ar_48px.ckpt.part:  31%|███       | 59.6M/195M [00:03<00:06, 21.7MiB/s]
+ocr_ar_48px.ckpt.part:  31%|███       | 60.5M/195M [00:03<00:06, 20.9MiB/s]
+ocr_ar_48px.ckpt.part:  32%|███▏      | 61.5M/195M [00:03<00:06, 20.9MiB/s]
+ocr_ar_48px.ckpt.part:  32%|███▏      | 62.5M/195M [00:03<00:06, 20.9MiB/s]
+ocr_ar_48px.ckpt.part:  33%|███▎      | 63.5M/195M [00:03<00:06, 19.8MiB/s]
+ocr_ar_48px.ckpt.part:  33%|███▎      | 64.5M/195M [00:03<00:07, 18.7MiB/s]
+ocr_ar_48px.ckpt.part:  34%|███▎      | 65.4M/195M [00:03<00:07, 18.7MiB/s]
+ocr_ar_48px.ckpt.part:  34%|███▍      | 66.4M/195M [00:03<00:08, 15.0MiB/s]
+ocr_ar_48px.ckpt.part:  35%|███▍      | 67.4M/195M [00:03<00:08, 15.0MiB/s]
+ocr_ar_48px.ckpt.part:  35%|███▌      | 68.4M/195M [00:03<00:09, 13.3MiB/s]
+ocr_ar_48px.ckpt.part:  36%|███▌      | 69.3M/195M [00:03<00:10, 12.2MiB/s]
+ocr_ar_48px.ckpt.part:  36%|███▌      | 70.3M/195M [00:04<00:10, 12.2MiB/s]
+ocr_ar_48px.ckpt.part:  37%|███▋      | 71.3M/195M [00:04<00:11, 11.5MiB/s]
+ocr_ar_48px.ckpt.part:  37%|███▋      | 72.3M/195M [00:04<00:11, 11.5MiB/s]
+ocr_ar_48px.ckpt.part:  38%|███▊      | 73.2M/195M [00:04<00:11, 11.5MiB/s]
+ocr_ar_48px.ckpt.part:  38%|███▊      | 74.2M/195M [00:04<00:08, 14.7MiB/s]
+ocr_ar_48px.ckpt.part:  39%|███▊      | 75.2M/195M [00:04<00:08, 14.7MiB/s]
+ocr_ar_48px.ckpt.part:  39%|███▉      | 76.2M/195M [00:04<00:07, 15.9MiB/s]
+ocr_ar_48px.ckpt.part:  40%|███▉      | 77.1M/195M [00:04<00:07, 15.9MiB/s]
+ocr_ar_48px.ckpt.part:  40%|████      | 78.1M/195M [00:04<00:07, 15.9MiB/s]
+ocr_ar_48px.ckpt.part:  41%|████      | 79.1M/195M [00:04<00:06, 18.6MiB/s]
+ocr_ar_48px.ckpt.part:  41%|████      | 80.1M/195M [00:04<00:06, 18.6MiB/s]
+ocr_ar_48px.ckpt.part:  42%|████▏     | 81.1M/195M [00:04<00:06, 18.2MiB/s]
+ocr_ar_48px.ckpt.part:  42%|████▏     | 82.0M/195M [00:04<00:06, 18.2MiB/s]
+ocr_ar_48px.ckpt.part:  43%|████▎     | 83.0M/195M [00:04<00:05, 20.3MiB/s]
+ocr_ar_48px.ckpt.part:  43%|████▎     | 84.0M/195M [00:04<00:05, 20.3MiB/s]
+ocr_ar_48px.ckpt.part:  44%|████▎     | 85.0M/195M [00:04<00:05, 20.3MiB/s]
+ocr_ar_48px.ckpt.part:  44%|████▍     | 85.9M/195M [00:04<00:05, 22.4MiB/s]
+ocr_ar_48px.ckpt.part:  45%|████▍     | 86.9M/195M [00:04<00:05, 22.4MiB/s]
+ocr_ar_48px.ckpt.part:  45%|████▌     | 87.9M/195M [00:04<00:05, 22.4MiB/s]
+ocr_ar_48px.ckpt.part:  46%|████▌     | 88.9M/195M [00:04<00:04, 24.3MiB/s]
+ocr_ar_48px.ckpt.part:  46%|████▌     | 89.8M/195M [00:04<00:04, 24.3MiB/s]
+ocr_ar_48px.ckpt.part:  47%|████▋     | 90.8M/195M [00:04<00:04, 24.4MiB/s]
+ocr_ar_48px.ckpt.part:  47%|████▋     | 91.8M/195M [00:05<00:04, 24.4MiB/s]
+ocr_ar_48px.ckpt.part:  48%|████▊     | 92.8M/195M [00:05<00:04, 24.2MiB/s]
+ocr_ar_48px.ckpt.part:  48%|████▊     | 93.8M/195M [00:05<00:04, 24.2MiB/s]
+ocr_ar_48px.ckpt.part:  49%|████▊     | 94.7M/195M [00:05<00:04, 24.2MiB/s]
+ocr_ar_48px.ckpt.part:  49%|████▉     | 95.7M/195M [00:05<00:04, 24.1MiB/s]
+ocr_ar_48px.ckpt.part:  50%|████▉     | 96.7M/195M [00:05<00:04, 24.1MiB/s]
+ocr_ar_48px.ckpt.part:  50%|█████     | 97.7M/195M [00:05<00:04, 24.5MiB/s]
+ocr_ar_48px.ckpt.part:  51%|█████     | 98.6M/195M [00:05<00:04, 24.5MiB/s]
+ocr_ar_48px.ckpt.part:  51%|█████     | 99.6M/195M [00:05<00:04, 24.5MiB/s]
+ocr_ar_48px.ckpt.part:  52%|█████▏    | 101M/195M [00:05<00:04, 23.6MiB/s]
+ocr_ar_48px.ckpt.part:  52%|█████▏    | 102M/195M [00:05<00:04, 23.6MiB/s]
+ocr_ar_48px.ckpt.part:  53%|█████▎    | 103M/195M [00:05<00:06, 14.0MiB/s]
+ocr_ar_48px.ckpt.part:  53%|█████▎    | 104M/195M [00:05<00:06, 14.0MiB/s]
+ocr_ar_48px.ckpt.part:  54%|█████▎    | 104M/195M [00:05<00:06, 14.8MiB/s]
+ocr_ar_48px.ckpt.part:  54%|█████▍    | 105M/195M [00:05<00:06, 14.8MiB/s]
+ocr_ar_48px.ckpt.part:  55%|█████▍    | 106M/195M [00:05<00:05, 16.6MiB/s]
+ocr_ar_48px.ckpt.part:  55%|█████▌    | 107M/195M [00:05<00:05, 16.6MiB/s]
+ocr_ar_48px.ckpt.part:  56%|█████▌    | 108M/195M [00:06<00:05, 16.6MiB/s]
+ocr_ar_48px.ckpt.part:  56%|█████▌    | 109M/195M [00:06<00:04, 18.9MiB/s]
+ocr_ar_48px.ckpt.part:  57%|█████▋    | 110M/195M [00:06<00:04, 18.9MiB/s]
+ocr_ar_48px.ckpt.part:  57%|█████▋    | 111M/195M [00:06<00:04, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  58%|█████▊    | 112M/195M [00:06<00:04, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  58%|█████▊    | 113M/195M [00:06<00:04, 19.8MiB/s]
+ocr_ar_48px.ckpt.part:  59%|█████▊    | 114M/195M [00:06<00:04, 19.8MiB/s]
+ocr_ar_48px.ckpt.part:  59%|█████▉    | 115M/195M [00:06<00:04, 20.2MiB/s]
+ocr_ar_48px.ckpt.part:  60%|█████▉    | 116M/195M [00:06<00:04, 20.2MiB/s]
+ocr_ar_48px.ckpt.part:  60%|██████    | 117M/195M [00:06<00:04, 20.2MiB/s]
+ocr_ar_48px.ckpt.part:  61%|██████    | 118M/195M [00:06<00:03, 22.5MiB/s]
+ocr_ar_48px.ckpt.part:  61%|██████    | 119M/195M [00:06<00:03, 22.5MiB/s]
+ocr_ar_48px.ckpt.part:  62%|██████▏   | 120M/195M [00:06<00:03, 22.2MiB/s]
+ocr_ar_48px.ckpt.part:  62%|██████▏   | 121M/195M [00:06<00:03, 22.2MiB/s]
+ocr_ar_48px.ckpt.part:  63%|██████▎   | 122M/195M [00:06<00:03, 22.2MiB/s]
+ocr_ar_48px.ckpt.part:  63%|██████▎   | 123M/195M [00:06<00:05, 14.5MiB/s]
+ocr_ar_48px.ckpt.part:  64%|██████▎   | 124M/195M [00:06<00:05, 14.5MiB/s]
+ocr_ar_48px.ckpt.part:  64%|██████▍   | 125M/195M [00:06<00:04, 16.9MiB/s]
+ocr_ar_48px.ckpt.part:  65%|██████▍   | 126M/195M [00:07<00:04, 16.9MiB/s]
+ocr_ar_48px.ckpt.part:  65%|██████▌   | 127M/195M [00:07<00:03, 18.0MiB/s]
+ocr_ar_48px.ckpt.part:  66%|██████▌   | 128M/195M [00:07<00:03, 18.0MiB/s]
+ocr_ar_48px.ckpt.part:  66%|██████▌   | 129M/195M [00:07<00:03, 19.3MiB/s]
+ocr_ar_48px.ckpt.part:  67%|██████▋   | 130M/195M [00:07<00:03, 19.3MiB/s]
+ocr_ar_48px.ckpt.part:  67%|██████▋   | 131M/195M [00:07<00:03, 19.3MiB/s]
+ocr_ar_48px.ckpt.part:  68%|██████▊   | 132M/195M [00:07<00:04, 15.9MiB/s]
+ocr_ar_48px.ckpt.part:  68%|██████▊   | 133M/195M [00:07<00:04, 15.4MiB/s]
+ocr_ar_48px.ckpt.part:  69%|██████▊   | 134M/195M [00:07<00:04, 15.4MiB/s]
+ocr_ar_48px.ckpt.part:  69%|██████▉   | 135M/195M [00:07<00:04, 15.4MiB/s]
+ocr_ar_48px.ckpt.part:  70%|██████▉   | 136M/195M [00:07<00:03, 16.5MiB/s]
+ocr_ar_48px.ckpt.part:  70%|███████   | 137M/195M [00:07<00:03, 16.5MiB/s]
+ocr_ar_48px.ckpt.part:  71%|███████   | 138M/195M [00:07<00:03, 17.8MiB/s]
+ocr_ar_48px.ckpt.part:  71%|███████   | 139M/195M [00:07<00:03, 17.8MiB/s]
+ocr_ar_48px.ckpt.part:  72%|███████▏  | 140M/195M [00:07<00:03, 19.1MiB/s]
+ocr_ar_48px.ckpt.part:  72%|███████▏  | 141M/195M [00:07<00:02, 19.1MiB/s]
+ocr_ar_48px.ckpt.part:  73%|███████▎  | 142M/195M [00:08<00:03, 15.6MiB/s]
+ocr_ar_48px.ckpt.part:  73%|███████▎  | 143M/195M [00:08<00:03, 15.6MiB/s]
+ocr_ar_48px.ckpt.part:  74%|███████▎  | 144M/195M [00:08<00:03, 17.1MiB/s]
+ocr_ar_48px.ckpt.part:  74%|███████▍  | 145M/195M [00:08<00:03, 17.1MiB/s]
+ocr_ar_48px.ckpt.part:  75%|███████▍  | 146M/195M [00:08<00:02, 18.8MiB/s]
+ocr_ar_48px.ckpt.part:  75%|███████▌  | 146M/195M [00:08<00:02, 18.8MiB/s]
+ocr_ar_48px.ckpt.part:  76%|███████▌  | 147M/195M [00:08<00:02, 18.8MiB/s]
+ocr_ar_48px.ckpt.part:  76%|███████▌  | 148M/195M [00:08<00:02, 19.7MiB/s]
+ocr_ar_48px.ckpt.part:  77%|███████▋  | 149M/195M [00:08<00:02, 19.7MiB/s]
+ocr_ar_48px.ckpt.part:  77%|███████▋  | 150M/195M [00:08<00:02, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:  78%|███████▊  | 151M/195M [00:08<00:02, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:  78%|███████▊  | 152M/195M [00:08<00:02, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  79%|███████▊  | 153M/195M [00:08<00:02, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  79%|███████▉  | 154M/195M [00:08<00:02, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  80%|███████▉  | 155M/195M [00:08<00:02, 19.8MiB/s]
+ocr_ar_48px.ckpt.part:  80%|████████  | 156M/195M [00:08<00:02, 19.8MiB/s]
+ocr_ar_48px.ckpt.part:  81%|████████  | 157M/195M [00:08<00:02, 16.7MiB/s]
+ocr_ar_48px.ckpt.part:  81%|████████  | 158M/195M [00:09<00:02, 14.2MiB/s]
+ocr_ar_48px.ckpt.part:  82%|████████▏ | 159M/195M [00:09<00:02, 14.2MiB/s]
+ocr_ar_48px.ckpt.part:  82%|████████▏ | 160M/195M [00:09<00:02, 13.3MiB/s]
+ocr_ar_48px.ckpt.part:  83%|████████▎ | 161M/195M [00:09<00:02, 13.3MiB/s]
+ocr_ar_48px.ckpt.part:  83%|████████▎ | 162M/195M [00:09<00:02, 13.3MiB/s]
+ocr_ar_48px.ckpt.part:  84%|████████▎ | 163M/195M [00:09<00:01, 18.0MiB/s]
+ocr_ar_48px.ckpt.part:  84%|████████▍ | 164M/195M [00:09<00:01, 18.0MiB/s]
+ocr_ar_48px.ckpt.part:  85%|████████▍ | 165M/195M [00:09<00:01, 19.4MiB/s]
+ocr_ar_48px.ckpt.part:  85%|████████▌ | 166M/195M [00:09<00:01, 19.4MiB/s]
+ocr_ar_48px.ckpt.part:  86%|████████▌ | 167M/195M [00:09<00:01, 19.4MiB/s]
+ocr_ar_48px.ckpt.part:  86%|████████▌ | 168M/195M [00:09<00:01, 20.0MiB/s]
+ocr_ar_48px.ckpt.part:  87%|████████▋ | 169M/195M [00:09<00:01, 20.0MiB/s]
+ocr_ar_48px.ckpt.part:  87%|████████▋ | 170M/195M [00:09<00:01, 20.8MiB/s]
+ocr_ar_48px.ckpt.part:  88%|████████▊ | 171M/195M [00:09<00:01, 20.8MiB/s]
+ocr_ar_48px.ckpt.part:  88%|████████▊ | 172M/195M [00:09<00:01, 20.7MiB/s]
+ocr_ar_48px.ckpt.part:  89%|████████▊ | 173M/195M [00:09<00:01, 20.7MiB/s]
+ocr_ar_48px.ckpt.part:  89%|████████▉ | 174M/195M [00:09<00:01, 20.7MiB/s]
+ocr_ar_48px.ckpt.part:  90%|████████▉ | 175M/195M [00:09<00:00, 22.4MiB/s]
+ocr_ar_48px.ckpt.part:  90%|█████████ | 176M/195M [00:09<00:00, 22.4MiB/s]
+ocr_ar_48px.ckpt.part:  91%|█████████ | 177M/195M [00:09<00:00, 23.3MiB/s]
+ocr_ar_48px.ckpt.part:  91%|█████████ | 178M/195M [00:09<00:00, 23.3MiB/s]
+ocr_ar_48px.ckpt.part:  92%|█████████▏| 179M/195M [00:09<00:00, 21.8MiB/s]
+ocr_ar_48px.ckpt.part:  92%|█████████▏| 180M/195M [00:10<00:00, 21.8MiB/s]
+ocr_ar_48px.ckpt.part:  93%|█████████▎| 181M/195M [00:10<00:00, 21.8MiB/s]
+ocr_ar_48px.ckpt.part:  93%|█████████▎| 182M/195M [00:10<00:00, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  94%|█████████▎| 183M/195M [00:10<00:00, 18.4MiB/s]
+ocr_ar_48px.ckpt.part:  94%|█████████▍| 184M/195M [00:10<00:00, 19.2MiB/s]
+ocr_ar_48px.ckpt.part:  95%|█████████▍| 185M/195M [00:10<00:00, 19.2MiB/s]
+ocr_ar_48px.ckpt.part:  95%|█████████▌| 186M/195M [00:10<00:00, 21.2MiB/s]
+ocr_ar_48px.ckpt.part:  96%|█████████▌| 187M/195M [00:10<00:00, 21.2MiB/s]
+ocr_ar_48px.ckpt.part:  96%|█████████▌| 188M/195M [00:10<00:00, 21.2MiB/s]
+ocr_ar_48px.ckpt.part:  97%|█████████▋| 188M/195M [00:10<00:00, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:  97%|█████████▋| 189M/195M [00:10<00:00, 20.6MiB/s]
+ocr_ar_48px.ckpt.part:  98%|█████████▊| 190M/195M [00:10<00:00, 20.9MiB/s]
+ocr_ar_48px.ckpt.part:  98%|█████████▊| 191M/195M [00:10<00:00, 20.9MiB/s]
+ocr_ar_48px.ckpt.part:  99%|█████████▊| 192M/195M [00:10<00:00, 15.1MiB/s]
+ocr_ar_48px.ckpt.part:  99%|█████████▉| 193M/195M [00:10<00:00, 15.1MiB/s]
+ocr_ar_48px.ckpt.part: 100%|█████████▉| 194M/195M [00:10<00:00, 16.9MiB/s]
+ -- Verifying: "/app/models/ocr/./ocr_ar_48px.ckpt.part"
+ -- Verifying: OK!
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/alphabet-all-v7.txt"
+ -- Verifying: "/app/models/ocr/./alphabet-all-v7.txt.part"
+ -- Verifying: OK!
+
+Downloading models into /app/models/inpainting
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/inpainting_lama_mpe.ckpt"
+inpainting_lama_mpe.ckpt.part:   1%|          | 0.98M/104M [00:00<00:07, 15.4MiB/s]
+inpainting_lama_mpe.ckpt.part:   2%|▏         | 1.95M/104M [00:00<00:06, 16.5MiB/s]
+inpainting_lama_mpe.ckpt.part:   3%|▎         | 2.93M/104M [00:00<00:06, 16.5MiB/s]
+inpainting_lama_mpe.ckpt.part:   4%|▍         | 3.91M/104M [00:00<00:10, 10.4MiB/s]
+inpainting_lama_mpe.ckpt.part:   5%|▍         | 4.88M/104M [00:00<00:09, 10.4MiB/s]
+inpainting_lama_mpe.ckpt.part:   6%|▌         | 5.86M/104M [00:00<00:07, 14.4MiB/s]
+inpainting_lama_mpe.ckpt.part:   7%|▋         | 6.84M/104M [00:00<00:06, 14.6MiB/s]
+inpainting_lama_mpe.ckpt.part:   8%|▊         | 7.81M/104M [00:00<00:06, 14.6MiB/s]
+inpainting_lama_mpe.ckpt.part:   8%|▊         | 8.79M/104M [00:00<00:06, 14.6MiB/s]
+inpainting_lama_mpe.ckpt.part:   9%|▉         | 9.77M/104M [00:00<00:05, 17.1MiB/s]
+inpainting_lama_mpe.ckpt.part:  10%|█         | 10.7M/104M [00:00<00:06, 14.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  11%|█▏        | 11.7M/104M [00:00<00:06, 14.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  12%|█▏        | 12.7M/104M [00:01<00:08, 11.4MiB/s]
+inpainting_lama_mpe.ckpt.part:  13%|█▎        | 13.7M/104M [00:01<00:09, 10.4MiB/s]
+inpainting_lama_mpe.ckpt.part:  14%|█▍        | 14.6M/104M [00:01<00:09, 9.73MiB/s]
+inpainting_lama_mpe.ckpt.part:  15%|█▌        | 15.6M/104M [00:01<00:09, 9.36MiB/s]
+inpainting_lama_mpe.ckpt.part:  16%|█▌        | 16.6M/104M [00:01<00:09, 9.38MiB/s]
+inpainting_lama_mpe.ckpt.part:  17%|█▋        | 17.6M/104M [00:01<00:10, 8.99MiB/s]
+inpainting_lama_mpe.ckpt.part:  18%|█▊        | 18.6M/104M [00:02<00:17, 5.08MiB/s]
+inpainting_lama_mpe.ckpt.part:  19%|█▉        | 19.5M/104M [00:02<00:18, 4.75MiB/s]
+inpainting_lama_mpe.ckpt.part:  20%|█▉        | 20.5M/104M [00:02<00:18, 4.75MiB/s]
+inpainting_lama_mpe.ckpt.part:  21%|██        | 21.5M/104M [00:02<00:18, 4.75MiB/s]
+inpainting_lama_mpe.ckpt.part:  22%|██▏       | 22.5M/104M [00:02<00:17, 4.75MiB/s]
+inpainting_lama_mpe.ckpt.part:  23%|██▎       | 23.4M/104M [00:02<00:08, 9.88MiB/s]
+inpainting_lama_mpe.ckpt.part:  24%|██▎       | 24.4M/104M [00:02<00:08, 10.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  25%|██▍       | 25.4M/104M [00:02<00:09, 8.84MiB/s]
+inpainting_lama_mpe.ckpt.part:  25%|██▌       | 26.4M/104M [00:02<00:09, 8.84MiB/s]
+inpainting_lama_mpe.ckpt.part:  26%|██▋       | 27.3M/104M [00:02<00:09, 8.84MiB/s]
+inpainting_lama_mpe.ckpt.part:  27%|██▋       | 28.3M/104M [00:02<00:06, 12.1MiB/s]
+inpainting_lama_mpe.ckpt.part:  28%|██▊       | 29.3M/104M [00:02<00:06, 12.1MiB/s]
+inpainting_lama_mpe.ckpt.part:  29%|██▉       | 30.3M/104M [00:02<00:05, 15.4MiB/s]
+inpainting_lama_mpe.ckpt.part:  30%|███       | 31.2M/104M [00:03<00:04, 15.4MiB/s]
+inpainting_lama_mpe.ckpt.part:  31%|███       | 32.2M/104M [00:03<00:04, 15.4MiB/s]
+inpainting_lama_mpe.ckpt.part:  32%|███▏      | 33.2M/104M [00:03<00:04, 17.9MiB/s]
+inpainting_lama_mpe.ckpt.part:  33%|███▎      | 34.2M/104M [00:03<00:04, 17.9MiB/s]
+inpainting_lama_mpe.ckpt.part:  34%|███▍      | 35.2M/104M [00:03<00:04, 17.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  35%|███▍      | 36.1M/104M [00:03<00:03, 17.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  36%|███▌      | 37.1M/104M [00:03<00:04, 17.0MiB/s]
+inpainting_lama_mpe.ckpt.part:  37%|███▋      | 38.1M/104M [00:03<00:04, 17.0MiB/s]
+inpainting_lama_mpe.ckpt.part:  38%|███▊      | 39.1M/104M [00:03<00:03, 18.7MiB/s]
+inpainting_lama_mpe.ckpt.part:  39%|███▊      | 40.0M/104M [00:03<00:03, 18.7MiB/s]
+inpainting_lama_mpe.ckpt.part:  40%|███▉      | 41.0M/104M [00:03<00:05, 12.9MiB/s]
+inpainting_lama_mpe.ckpt.part:  41%|████      | 42.0M/104M [00:03<00:04, 12.9MiB/s]
+inpainting_lama_mpe.ckpt.part:  41%|████▏     | 43.0M/104M [00:03<00:04, 15.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  42%|████▏     | 43.9M/104M [00:03<00:04, 15.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  43%|████▎     | 44.9M/104M [00:03<00:03, 15.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  44%|████▍     | 45.9M/104M [00:03<00:03, 18.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  45%|████▌     | 46.9M/104M [00:03<00:03, 18.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  46%|████▌     | 47.9M/104M [00:03<00:03, 18.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  47%|████▋     | 48.8M/104M [00:04<00:02, 20.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  48%|████▊     | 49.8M/104M [00:04<00:02, 20.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  49%|████▉     | 50.8M/104M [00:04<00:02, 22.1MiB/s]
+inpainting_lama_mpe.ckpt.part:  50%|████▉     | 51.8M/104M [00:04<00:02, 22.1MiB/s]
+inpainting_lama_mpe.ckpt.part:  51%|█████     | 52.7M/104M [00:04<00:02, 22.1MiB/s]
+inpainting_lama_mpe.ckpt.part:  52%|█████▏    | 53.7M/104M [00:04<00:02, 23.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  53%|█████▎    | 54.7M/104M [00:04<00:02, 23.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  54%|█████▍    | 55.7M/104M [00:04<00:02, 23.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  55%|█████▍    | 56.6M/104M [00:04<00:02, 24.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  56%|█████▌    | 57.6M/104M [00:04<00:01, 24.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  57%|█████▋    | 58.6M/104M [00:04<00:02, 22.9MiB/s]
+inpainting_lama_mpe.ckpt.part:  58%|█████▊    | 59.6M/104M [00:04<00:02, 22.9MiB/s]
+inpainting_lama_mpe.ckpt.part:  58%|█████▊    | 60.5M/104M [00:04<00:02, 17.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  59%|█████▉    | 61.5M/104M [00:04<00:02, 17.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  60%|██████    | 62.5M/104M [00:04<00:02, 17.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  61%|██████▏   | 63.5M/104M [00:04<00:02, 19.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  62%|██████▏   | 64.5M/104M [00:04<00:02, 19.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  63%|██████▎   | 65.4M/104M [00:04<00:02, 19.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  64%|██████▍   | 66.4M/104M [00:04<00:01, 21.0MiB/s]
+inpainting_lama_mpe.ckpt.part:  65%|██████▌   | 67.4M/104M [00:04<00:01, 21.0MiB/s]
+inpainting_lama_mpe.ckpt.part:  66%|██████▌   | 68.4M/104M [00:04<00:01, 22.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  67%|██████▋   | 69.3M/104M [00:05<00:01, 22.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  68%|██████▊   | 70.3M/104M [00:05<00:01, 22.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  69%|██████▉   | 71.3M/104M [00:05<00:01, 22.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  70%|██████▉   | 72.3M/104M [00:05<00:01, 22.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  71%|███████   | 73.2M/104M [00:05<00:01, 22.4MiB/s]
+inpainting_lama_mpe.ckpt.part:  72%|███████▏  | 74.2M/104M [00:05<00:01, 22.4MiB/s]
+inpainting_lama_mpe.ckpt.part:  73%|███████▎  | 75.2M/104M [00:05<00:01, 23.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  74%|███████▎  | 76.2M/104M [00:05<00:01, 23.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  75%|███████▍  | 77.1M/104M [00:05<00:01, 23.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  75%|███████▌  | 78.1M/104M [00:05<00:01, 23.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  76%|███████▋  | 79.1M/104M [00:05<00:01, 23.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  77%|███████▋  | 80.1M/104M [00:05<00:01, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  78%|███████▊  | 81.1M/104M [00:05<00:00, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  79%|███████▉  | 82.0M/104M [00:05<00:00, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  80%|████████  | 83.0M/104M [00:05<00:00, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  81%|████████  | 84.0M/104M [00:05<00:00, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  82%|████████▏ | 85.0M/104M [00:05<00:00, 24.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  83%|████████▎ | 85.9M/104M [00:05<00:00, 24.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  84%|████████▍ | 86.9M/104M [00:05<00:00, 24.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  85%|████████▍ | 87.9M/104M [00:05<00:00, 24.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  86%|████████▌ | 88.9M/104M [00:05<00:00, 24.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  87%|████████▋ | 89.8M/104M [00:05<00:00, 24.5MiB/s]
+inpainting_lama_mpe.ckpt.part:  88%|████████▊ | 90.8M/104M [00:05<00:00, 26.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  89%|████████▊ | 91.8M/104M [00:05<00:00, 26.2MiB/s]
+inpainting_lama_mpe.ckpt.part:  90%|████████▉ | 92.8M/104M [00:06<00:00, 25.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  91%|█████████ | 93.8M/104M [00:06<00:00, 25.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  91%|█████████▏| 94.7M/104M [00:06<00:00, 25.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  92%|█████████▏| 95.7M/104M [00:06<00:00, 24.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  93%|█████████▎| 96.7M/104M [00:06<00:00, 24.3MiB/s]
+inpainting_lama_mpe.ckpt.part:  94%|█████████▍| 97.7M/104M [00:06<00:00, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  95%|█████████▌| 98.6M/104M [00:06<00:00, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part:  96%|█████████▌| 99.6M/104M [00:06<00:00, 23.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  97%|█████████▋| 101M/104M [00:06<00:00, 23.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  98%|█████████▊| 102M/104M [00:06<00:00, 23.6MiB/s]
+inpainting_lama_mpe.ckpt.part:  99%|█████████▉| 103M/104M [00:06<00:00, 23.8MiB/s]
+inpainting_lama_mpe.ckpt.part: 100%|█████████▉| 104M/104M [00:06<00:00, 23.8MiB/s]
+ -- Verifying: "/app/models/inpainting/./inpainting_lama_mpe.ckpt.part"
+ -- Verifying: OK!
+
+Downloading models into /app/models/translators/m2m_100
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/m2m100_418m_ct2.zip"
+m2m100_418m_ct2.zip:   0%|          | 0.98M/438M [00:00<00:25, 18.2MiB/s]
+m2m100_418m_ct2.zip:   0%|          | 1.95M/438M [00:00<00:18, 24.1MiB/s]
+m2m100_418m_ct2.zip:   1%|          | 2.93M/438M [00:00<00:17, 26.0MiB/s]
+m2m100_418m_ct2.zip:   1%|          | 3.91M/438M [00:00<00:17, 26.0MiB/s]
+m2m100_418m_ct2.zip:   1%|          | 4.88M/438M [00:00<00:17, 26.0MiB/s]
+m2m100_418m_ct2.zip:   1%|▏         | 5.86M/438M [00:00<00:23, 19.2MiB/s]
+m2m100_418m_ct2.zip:   2%|▏         | 6.84M/438M [00:00<00:23, 19.2MiB/s]
+m2m100_418m_ct2.zip:   2%|▏         | 7.81M/438M [00:00<00:21, 21.1MiB/s]
+m2m100_418m_ct2.zip:   2%|▏         | 8.79M/438M [00:00<00:21, 21.1MiB/s]
+m2m100_418m_ct2.zip:   2%|▏         | 9.77M/438M [00:00<00:20, 21.5MiB/s]
+m2m100_418m_ct2.zip:   2%|▏         | 10.7M/438M [00:00<00:20, 21.5MiB/s]
+m2m100_418m_ct2.zip:   3%|▎         | 11.7M/438M [00:00<00:27, 16.2MiB/s]
+m2m100_418m_ct2.zip:   3%|▎         | 12.7M/438M [00:00<00:27, 16.2MiB/s]
+m2m100_418m_ct2.zip:   3%|▎         | 13.7M/438M [00:00<00:27, 16.2MiB/s]
+m2m100_418m_ct2.zip:   3%|▎         | 14.6M/438M [00:00<00:24, 18.3MiB/s]
+m2m100_418m_ct2.zip:   4%|▎         | 15.6M/438M [00:00<00:24, 18.3MiB/s]
+m2m100_418m_ct2.zip:   4%|▍         | 16.6M/438M [00:00<00:23, 18.9MiB/s]
+m2m100_418m_ct2.zip:   4%|▍         | 17.6M/438M [00:00<00:23, 18.9MiB/s]
+m2m100_418m_ct2.zip:   4%|▍         | 18.6M/438M [00:00<00:22, 19.4MiB/s]
+m2m100_418m_ct2.zip:   4%|▍         | 19.5M/438M [00:01<00:22, 19.4MiB/s]
+m2m100_418m_ct2.zip:   5%|▍         | 20.5M/438M [00:01<00:21, 20.4MiB/s]
+m2m100_418m_ct2.zip:   5%|▍         | 21.5M/438M [00:01<00:21, 20.4MiB/s]
+m2m100_418m_ct2.zip:   5%|▌         | 22.5M/438M [00:01<00:25, 16.9MiB/s]
+m2m100_418m_ct2.zip:   5%|▌         | 23.4M/438M [00:01<00:25, 16.9MiB/s]
+m2m100_418m_ct2.zip:   6%|▌         | 24.4M/438M [00:01<00:25, 16.9MiB/s]
+m2m100_418m_ct2.zip:   6%|▌         | 25.4M/438M [00:01<00:21, 20.6MiB/s]
+m2m100_418m_ct2.zip:   6%|▌         | 26.4M/438M [00:01<00:20, 20.6MiB/s]
+m2m100_418m_ct2.zip:   6%|▌         | 27.3M/438M [00:01<00:20, 20.6MiB/s]
+m2m100_418m_ct2.zip:   6%|▋         | 28.3M/438M [00:01<00:19, 22.4MiB/s]
+m2m100_418m_ct2.zip:   7%|▋         | 29.3M/438M [00:01<00:19, 22.4MiB/s]
+m2m100_418m_ct2.zip:   7%|▋         | 30.3M/438M [00:01<00:19, 21.8MiB/s]
+m2m100_418m_ct2.zip:   7%|▋         | 31.2M/438M [00:01<00:19, 21.8MiB/s]
+m2m100_418m_ct2.zip:   7%|▋         | 32.2M/438M [00:01<00:20, 20.9MiB/s]
+m2m100_418m_ct2.zip:   8%|▊         | 33.2M/438M [00:01<00:20, 20.9MiB/s]
+m2m100_418m_ct2.zip:   8%|▊         | 34.2M/438M [00:01<00:20, 20.9MiB/s]
+m2m100_418m_ct2.zip:   8%|▊         | 35.2M/438M [00:01<00:20, 20.9MiB/s]
+m2m100_418m_ct2.zip:   8%|▊         | 36.1M/438M [00:01<00:20, 20.9MiB/s]
+m2m100_418m_ct2.zip:   8%|▊         | 37.1M/438M [00:01<00:18, 23.1MiB/s]
+m2m100_418m_ct2.zip:   9%|▊         | 38.1M/438M [00:01<00:18, 23.1MiB/s]
+m2m100_418m_ct2.zip:   9%|▉         | 39.1M/438M [00:01<00:18, 23.1MiB/s]
+m2m100_418m_ct2.zip:   9%|▉         | 40.0M/438M [00:02<00:16, 25.3MiB/s]
+m2m100_418m_ct2.zip:   9%|▉         | 41.0M/438M [00:02<00:16, 25.3MiB/s]
+m2m100_418m_ct2.zip:  10%|▉         | 42.0M/438M [00:02<00:16, 25.3MiB/s]
+m2m100_418m_ct2.zip:  10%|▉         | 43.0M/438M [00:02<00:18, 22.7MiB/s]
+m2m100_418m_ct2.zip:  10%|█         | 43.9M/438M [00:02<00:18, 22.7MiB/s]
+m2m100_418m_ct2.zip:  10%|█         | 44.9M/438M [00:02<00:17, 23.2MiB/s]
+m2m100_418m_ct2.zip:  10%|█         | 45.9M/438M [00:02<00:17, 23.2MiB/s]
+m2m100_418m_ct2.zip:  11%|█         | 46.9M/438M [00:02<00:17, 23.2MiB/s]
+m2m100_418m_ct2.zip:  11%|█         | 47.9M/438M [00:02<00:17, 23.1MiB/s]
+m2m100_418m_ct2.zip:  11%|█         | 48.8M/438M [00:02<00:17, 23.1MiB/s]
+m2m100_418m_ct2.zip:  11%|█▏        | 49.8M/438M [00:02<00:17, 23.4MiB/s]
+m2m100_418m_ct2.zip:  12%|█▏        | 50.8M/438M [00:02<00:17, 23.4MiB/s]
+m2m100_418m_ct2.zip:  12%|█▏        | 51.8M/438M [00:02<00:17, 23.5MiB/s]
+m2m100_418m_ct2.zip:  12%|█▏        | 52.7M/438M [00:02<00:17, 23.5MiB/s]
+m2m100_418m_ct2.zip:  12%|█▏        | 53.7M/438M [00:02<00:17, 23.5MiB/s]
+m2m100_418m_ct2.zip:  12%|█▏        | 54.7M/438M [00:02<00:16, 24.2MiB/s]
+m2m100_418m_ct2.zip:  13%|█▎        | 55.7M/438M [00:02<00:16, 24.2MiB/s]
+m2m100_418m_ct2.zip:  13%|█▎        | 56.6M/438M [00:02<00:16, 24.5MiB/s]
+m2m100_418m_ct2.zip:  13%|█▎        | 57.6M/438M [00:02<00:16, 24.5MiB/s]
+m2m100_418m_ct2.zip:  13%|█▎        | 58.6M/438M [00:02<00:16, 24.5MiB/s]
+m2m100_418m_ct2.zip:  14%|█▎        | 59.6M/438M [00:02<00:16, 24.1MiB/s]
+m2m100_418m_ct2.zip:  14%|█▍        | 60.5M/438M [00:02<00:16, 24.1MiB/s]
+m2m100_418m_ct2.zip:  14%|█▍        | 61.5M/438M [00:02<00:17, 22.7MiB/s]
+m2m100_418m_ct2.zip:  14%|█▍        | 62.5M/438M [00:03<00:17, 22.7MiB/s]
+m2m100_418m_ct2.zip:  14%|█▍        | 63.5M/438M [00:03<00:17, 22.7MiB/s]
+m2m100_418m_ct2.zip:  15%|█▍        | 64.5M/438M [00:03<00:16, 23.9MiB/s]
+m2m100_418m_ct2.zip:  15%|█▍        | 65.4M/438M [00:03<00:16, 23.9MiB/s]
+m2m100_418m_ct2.zip:  15%|█▌        | 66.4M/438M [00:03<00:16, 23.6MiB/s]
+m2m100_418m_ct2.zip:  15%|█▌        | 67.4M/438M [00:03<00:16, 23.6MiB/s]
+m2m100_418m_ct2.zip:  16%|█▌        | 68.4M/438M [00:03<00:16, 23.6MiB/s]
+m2m100_418m_ct2.zip:  16%|█▌        | 69.3M/438M [00:03<00:15, 24.9MiB/s]
+m2m100_418m_ct2.zip:  16%|█▌        | 70.3M/438M [00:03<00:15, 24.9MiB/s]
+m2m100_418m_ct2.zip:  16%|█▋        | 71.3M/438M [00:03<00:19, 19.6MiB/s]
+m2m100_418m_ct2.zip:  16%|█▋        | 72.3M/438M [00:03<00:19, 19.6MiB/s]
+m2m100_418m_ct2.zip:  17%|█▋        | 73.2M/438M [00:03<00:19, 19.6MiB/s]
+m2m100_418m_ct2.zip:  17%|█▋        | 74.2M/438M [00:03<00:17, 21.3MiB/s]
+m2m100_418m_ct2.zip:  17%|█▋        | 75.2M/438M [00:03<00:17, 21.3MiB/s]
+m2m100_418m_ct2.zip:  17%|█▋        | 76.2M/438M [00:03<00:17, 21.8MiB/s]
+m2m100_418m_ct2.zip:  18%|█▊        | 77.1M/438M [00:03<00:17, 21.8MiB/s]
+m2m100_418m_ct2.zip:  18%|█▊        | 78.1M/438M [00:03<00:17, 21.8MiB/s]
+m2m100_418m_ct2.zip:  18%|█▊        | 79.1M/438M [00:03<00:16, 22.4MiB/s]
+m2m100_418m_ct2.zip:  18%|█▊        | 80.1M/438M [00:03<00:16, 22.4MiB/s]
+m2m100_418m_ct2.zip:  19%|█▊        | 81.1M/438M [00:05<01:36, 3.88MiB/s]
+m2m100_418m_ct2.zip:  19%|█▊        | 82.0M/438M [00:05<01:20, 4.65MiB/s]
+m2m100_418m_ct2.zip:  19%|█▉        | 83.0M/438M [00:05<01:20, 4.65MiB/s]
+m2m100_418m_ct2.zip:  19%|█▉        | 84.0M/438M [00:05<01:06, 5.57MiB/s]
+m2m100_418m_ct2.zip:  19%|█▉        | 85.0M/438M [00:05<01:06, 5.57MiB/s]
+m2m100_418m_ct2.zip:  20%|█▉        | 85.9M/438M [00:05<00:50, 7.38MiB/s]
+m2m100_418m_ct2.zip:  20%|█▉        | 86.9M/438M [00:06<00:49, 7.38MiB/s]
+m2m100_418m_ct2.zip:  20%|██        | 87.9M/438M [00:06<01:10, 5.24MiB/s]
+m2m100_418m_ct2.zip:  20%|██        | 88.9M/438M [00:07<01:22, 4.44MiB/s]
+m2m100_418m_ct2.zip:  21%|██        | 89.8M/438M [00:07<01:31, 3.98MiB/s]
+m2m100_418m_ct2.zip:  21%|██        | 90.8M/438M [00:07<01:38, 3.68MiB/s]
+m2m100_418m_ct2.zip:  21%|██        | 91.8M/438M [00:07<01:38, 3.68MiB/s]
+m2m100_418m_ct2.zip:  21%|██        | 92.8M/438M [00:07<01:02, 5.82MiB/s]
+m2m100_418m_ct2.zip:  21%|██▏       | 93.8M/438M [00:07<01:02, 5.82MiB/s]
+m2m100_418m_ct2.zip:  22%|██▏       | 94.7M/438M [00:07<01:01, 5.82MiB/s]
+m2m100_418m_ct2.zip:  22%|██▏       | 95.7M/438M [00:07<00:45, 7.81MiB/s]
+m2m100_418m_ct2.zip:  22%|██▏       | 96.7M/438M [00:07<00:45, 7.81MiB/s]
+m2m100_418m_ct2.zip:  22%|██▏       | 97.7M/438M [00:08<00:35, 10.0MiB/s]
+m2m100_418m_ct2.zip:  23%|██▎       | 98.6M/438M [00:08<00:35, 10.0MiB/s]
+m2m100_418m_ct2.zip:  23%|██▎       | 99.6M/438M [00:08<00:29, 12.1MiB/s]
+m2m100_418m_ct2.zip:  23%|██▎       | 101M/438M [00:08<00:29, 12.1MiB/s]
+m2m100_418m_ct2.zip:  23%|██▎       | 102M/438M [00:08<00:23, 15.3MiB/s]
+m2m100_418m_ct2.zip:  23%|██▎       | 103M/438M [00:08<00:23, 15.3MiB/s]
+m2m100_418m_ct2.zip:  24%|██▎       | 104M/438M [00:08<00:22, 15.3MiB/s]
+m2m100_418m_ct2.zip:  24%|██▍       | 104M/438M [00:08<00:18, 18.6MiB/s]
+m2m100_418m_ct2.zip:  24%|██▍       | 105M/438M [00:08<00:18, 18.6MiB/s]
+m2m100_418m_ct2.zip:  24%|██▍       | 106M/438M [00:08<00:18, 18.6MiB/s]
+m2m100_418m_ct2.zip:  25%|██▍       | 107M/438M [00:08<00:16, 20.6MiB/s]
+m2m100_418m_ct2.zip:  25%|██▍       | 108M/438M [00:08<00:16, 20.6MiB/s]
+m2m100_418m_ct2.zip:  25%|██▍       | 109M/438M [00:08<00:16, 20.8MiB/s]
+m2m100_418m_ct2.zip:  25%|██▌       | 110M/438M [00:08<00:16, 20.8MiB/s]
+m2m100_418m_ct2.zip:  25%|██▌       | 111M/438M [00:09<00:16, 20.8MiB/s]
+m2m100_418m_ct2.zip:  26%|██▌       | 112M/438M [00:09<00:36, 9.25MiB/s]
+m2m100_418m_ct2.zip:  26%|██▌       | 113M/438M [00:09<00:34, 9.74MiB/s]
+m2m100_418m_ct2.zip:  26%|██▌       | 114M/438M [00:09<00:34, 9.74MiB/s]
+m2m100_418m_ct2.zip:  26%|██▋       | 115M/438M [00:09<00:30, 11.3MiB/s]
+m2m100_418m_ct2.zip:  27%|██▋       | 116M/438M [00:09<00:29, 11.3MiB/s]
+m2m100_418m_ct2.zip:  27%|██▋       | 117M/438M [00:09<00:29, 11.3MiB/s]
+m2m100_418m_ct2.zip:  27%|██▋       | 118M/438M [00:09<00:25, 13.4MiB/s]
+m2m100_418m_ct2.zip:  27%|██▋       | 119M/438M [00:09<00:24, 13.4MiB/s]
+m2m100_418m_ct2.zip:  27%|██▋       | 120M/438M [00:09<00:21, 15.7MiB/s]
+m2m100_418m_ct2.zip:  28%|██▊       | 121M/438M [00:09<00:21, 15.7MiB/s]
+m2m100_418m_ct2.zip:  28%|██▊       | 122M/438M [00:09<00:26, 12.3MiB/s]
+m2m100_418m_ct2.zip:  28%|██▊       | 123M/438M [00:09<00:26, 12.3MiB/s]
+m2m100_418m_ct2.zip:  28%|██▊       | 124M/438M [00:09<00:25, 12.9MiB/s]
+m2m100_418m_ct2.zip:  29%|██▊       | 125M/438M [00:10<00:25, 12.9MiB/s]
+m2m100_418m_ct2.zip:  29%|██▉       | 126M/438M [00:10<00:22, 14.4MiB/s]
+m2m100_418m_ct2.zip:  29%|██▉       | 127M/438M [00:10<00:22, 14.4MiB/s]
+m2m100_418m_ct2.zip:  29%|██▉       | 128M/438M [00:10<00:19, 16.3MiB/s]
+m2m100_418m_ct2.zip:  29%|██▉       | 129M/438M [00:10<00:19, 16.3MiB/s]
+m2m100_418m_ct2.zip:  30%|██▉       | 130M/438M [00:10<00:17, 18.4MiB/s]
+m2m100_418m_ct2.zip:  30%|██▉       | 131M/438M [00:10<00:17, 18.4MiB/s]
+m2m100_418m_ct2.zip:  30%|███       | 132M/438M [00:10<00:22, 14.4MiB/s]
+m2m100_418m_ct2.zip:  30%|███       | 133M/438M [00:10<00:22, 14.4MiB/s]
+m2m100_418m_ct2.zip:  31%|███       | 134M/438M [00:10<00:22, 14.3MiB/s]
+m2m100_418m_ct2.zip:  31%|███       | 135M/438M [00:10<00:22, 14.3MiB/s]
+m2m100_418m_ct2.zip:  31%|███       | 136M/438M [00:10<00:19, 15.9MiB/s]
+m2m100_418m_ct2.zip:  31%|███       | 137M/438M [00:10<00:19, 15.9MiB/s]
+m2m100_418m_ct2.zip:  31%|███▏      | 138M/438M [00:10<00:19, 15.9MiB/s]
+m2m100_418m_ct2.zip:  32%|███▏      | 139M/438M [00:10<00:17, 18.3MiB/s]
+m2m100_418m_ct2.zip:  32%|███▏      | 140M/438M [00:10<00:17, 18.3MiB/s]
+m2m100_418m_ct2.zip:  32%|███▏      | 141M/438M [00:10<00:16, 19.4MiB/s]
+m2m100_418m_ct2.zip:  32%|███▏      | 142M/438M [00:10<00:16, 19.4MiB/s]
+m2m100_418m_ct2.zip:  33%|███▎      | 143M/438M [00:10<00:14, 20.9MiB/s]
+m2m100_418m_ct2.zip:  33%|███▎      | 144M/438M [00:11<00:14, 20.9MiB/s]
+m2m100_418m_ct2.zip:  33%|███▎      | 145M/438M [00:11<00:14, 21.4MiB/s]
+m2m100_418m_ct2.zip:  33%|███▎      | 146M/438M [00:11<00:14, 21.4MiB/s]
+m2m100_418m_ct2.zip:  33%|███▎      | 146M/438M [00:11<00:14, 21.4MiB/s]
+m2m100_418m_ct2.zip:  34%|███▎      | 147M/438M [00:11<00:14, 21.7MiB/s]
+m2m100_418m_ct2.zip:  34%|███▍      | 148M/438M [00:11<00:14, 21.7MiB/s]
+m2m100_418m_ct2.zip:  34%|███▍      | 149M/438M [00:11<00:13, 22.2MiB/s]
+m2m100_418m_ct2.zip:  34%|███▍      | 150M/438M [00:11<00:13, 22.2MiB/s]
+m2m100_418m_ct2.zip:  35%|███▍      | 151M/438M [00:11<00:13, 22.4MiB/s]
+m2m100_418m_ct2.zip:  35%|███▍      | 152M/438M [00:11<00:13, 22.4MiB/s]
+m2m100_418m_ct2.zip:  35%|███▍      | 153M/438M [00:11<00:13, 21.4MiB/s]
+m2m100_418m_ct2.zip:  35%|███▌      | 154M/438M [00:11<00:13, 21.4MiB/s]
+m2m100_418m_ct2.zip:  35%|███▌      | 155M/438M [00:11<00:13, 21.4MiB/s]
+m2m100_418m_ct2.zip:  36%|███▌      | 156M/438M [00:11<00:13, 22.5MiB/s]
+m2m100_418m_ct2.zip:  36%|███▌      | 157M/438M [00:11<00:13, 22.5MiB/s]
+m2m100_418m_ct2.zip:  36%|███▌      | 158M/438M [00:11<00:12, 22.7MiB/s]
+m2m100_418m_ct2.zip:  36%|███▋      | 159M/438M [00:11<00:12, 22.7MiB/s]
+m2m100_418m_ct2.zip:  37%|███▋      | 160M/438M [00:11<00:12, 22.7MiB/s]
+m2m100_418m_ct2.zip:  37%|███▋      | 161M/438M [00:11<00:12, 22.7MiB/s]
+m2m100_418m_ct2.zip:  37%|███▋      | 162M/438M [00:11<00:12, 22.7MiB/s]
+m2m100_418m_ct2.zip:  37%|███▋      | 163M/438M [00:11<00:12, 23.6MiB/s]
+m2m100_418m_ct2.zip:  37%|███▋      | 164M/438M [00:11<00:12, 23.6MiB/s]
+m2m100_418m_ct2.zip:  38%|███▊      | 165M/438M [00:11<00:12, 23.3MiB/s]
+m2m100_418m_ct2.zip:  38%|███▊      | 166M/438M [00:12<00:12, 23.3MiB/s]
+m2m100_418m_ct2.zip:  38%|███▊      | 167M/438M [00:12<00:12, 23.3MiB/s]
+m2m100_418m_ct2.zip:  38%|███▊      | 168M/438M [00:12<00:11, 23.9MiB/s]
+m2m100_418m_ct2.zip:  39%|███▊      | 169M/438M [00:12<00:11, 23.9MiB/s]
+m2m100_418m_ct2.zip:  39%|███▉      | 170M/438M [00:12<00:11, 24.1MiB/s]
+m2m100_418m_ct2.zip:  39%|███▉      | 171M/438M [00:12<00:11, 24.1MiB/s]
+m2m100_418m_ct2.zip:  39%|███▉      | 172M/438M [00:12<00:13, 20.4MiB/s]
+m2m100_418m_ct2.zip:  39%|███▉      | 173M/438M [00:12<00:13, 20.4MiB/s]
+m2m100_418m_ct2.zip:  40%|███▉      | 174M/438M [00:12<00:13, 20.4MiB/s]
+m2m100_418m_ct2.zip:  40%|███▉      | 175M/438M [00:12<00:14, 19.5MiB/s]
+m2m100_418m_ct2.zip:  40%|████      | 176M/438M [00:12<00:14, 19.5MiB/s]
+m2m100_418m_ct2.zip:  40%|████      | 177M/438M [00:12<00:13, 20.5MiB/s]
+m2m100_418m_ct2.zip:  41%|████      | 178M/438M [00:12<00:13, 20.5MiB/s]
+m2m100_418m_ct2.zip:  41%|████      | 179M/438M [00:12<00:12, 21.0MiB/s]
+m2m100_418m_ct2.zip:  41%|████      | 180M/438M [00:12<00:12, 21.0MiB/s]
+m2m100_418m_ct2.zip:  41%|████      | 181M/438M [00:12<00:12, 21.0MiB/s]
+m2m100_418m_ct2.zip:  41%|████▏     | 182M/438M [00:12<00:12, 22.2MiB/s]
+m2m100_418m_ct2.zip:  42%|████▏     | 183M/438M [00:12<00:12, 22.2MiB/s]
+m2m100_418m_ct2.zip:  42%|████▏     | 184M/438M [00:12<00:11, 22.4MiB/s]
+m2m100_418m_ct2.zip:  42%|████▏     | 185M/438M [00:12<00:11, 22.4MiB/s]
+m2m100_418m_ct2.zip:  42%|████▏     | 186M/438M [00:12<00:11, 23.1MiB/s]
+m2m100_418m_ct2.zip:  43%|████▎     | 187M/438M [00:13<00:11, 23.1MiB/s]
+m2m100_418m_ct2.zip:  43%|████▎     | 188M/438M [00:13<00:12, 20.2MiB/s]
+m2m100_418m_ct2.zip:  43%|████▎     | 188M/438M [00:13<00:12, 20.2MiB/s]
+m2m100_418m_ct2.zip:  43%|████▎     | 189M/438M [00:13<00:12, 20.5MiB/s]
+m2m100_418m_ct2.zip:  43%|████▎     | 190M/438M [00:13<00:12, 20.5MiB/s]
+m2m100_418m_ct2.zip:  44%|████▎     | 191M/438M [00:13<00:12, 20.5MiB/s]
+m2m100_418m_ct2.zip:  44%|████▍     | 192M/438M [00:13<00:21, 12.2MiB/s]
+m2m100_418m_ct2.zip:  44%|████▍     | 193M/438M [00:13<00:21, 12.2MiB/s]
+m2m100_418m_ct2.zip:  44%|████▍     | 194M/438M [00:13<00:17, 14.4MiB/s]
+m2m100_418m_ct2.zip:  45%|████▍     | 195M/438M [00:13<00:17, 14.4MiB/s]
+m2m100_418m_ct2.zip:  45%|████▍     | 196M/438M [00:13<00:16, 15.8MiB/s]
+m2m100_418m_ct2.zip:  45%|████▌     | 197M/438M [00:13<00:16, 15.8MiB/s]
+m2m100_418m_ct2.zip:  45%|████▌     | 198M/438M [00:15<00:14, 16.8MiB/s]
+m2m100_418m_ct2.zip:  45%|████▌     | 199M/438M [00:15<00:14, 16.8MiB/s]
+m2m100_418m_ct2.zip:  46%|████▌     | 200M/438M [00:15<01:18, 3.19MiB/s]
+m2m100_418m_ct2.zip:  46%|████▌     | 201M/438M [00:15<01:17, 3.19MiB/s]
+m2m100_418m_ct2.zip:  46%|████▌     | 202M/438M [00:15<01:17, 3.19MiB/s]
+m2m100_418m_ct2.zip:  46%|████▋     | 203M/438M [00:15<00:52, 4.68MiB/s]
+m2m100_418m_ct2.zip:  47%|████▋     | 204M/438M [00:15<00:52, 4.68MiB/s]
+m2m100_418m_ct2.zip:  47%|████▋     | 205M/438M [00:16<00:41, 5.95MiB/s]
+m2m100_418m_ct2.zip:  47%|████▋     | 206M/438M [00:16<00:40, 5.95MiB/s]
+m2m100_418m_ct2.zip:  47%|████▋     | 207M/438M [00:16<00:31, 7.66MiB/s]
+m2m100_418m_ct2.zip:  47%|████▋     | 208M/438M [00:16<00:31, 7.66MiB/s]
+m2m100_418m_ct2.zip:  48%|████▊     | 209M/438M [00:16<00:24, 9.91MiB/s]
+m2m100_418m_ct2.zip:  48%|████▊     | 210M/438M [00:16<00:24, 9.91MiB/s]
+m2m100_418m_ct2.zip:  48%|████▊     | 211M/438M [00:16<00:24, 9.91MiB/s]
+m2m100_418m_ct2.zip:  48%|████▊     | 212M/438M [00:16<00:19, 12.3MiB/s]
+m2m100_418m_ct2.zip:  49%|████▊     | 213M/438M [00:16<00:19, 12.3MiB/s]
+m2m100_418m_ct2.zip:  49%|████▉     | 214M/438M [00:16<00:16, 14.3MiB/s]
+m2m100_418m_ct2.zip:  49%|████▉     | 215M/438M [00:16<00:16, 14.3MiB/s]
+m2m100_418m_ct2.zip:  49%|████▉     | 216M/438M [00:16<00:14, 16.4MiB/s]
+m2m100_418m_ct2.zip:  49%|████▉     | 217M/438M [00:16<00:14, 16.4MiB/s]
+m2m100_418m_ct2.zip:  50%|████▉     | 218M/438M [00:16<00:14, 16.4MiB/s]
+m2m100_418m_ct2.zip:  50%|████▉     | 219M/438M [00:16<00:12, 19.1MiB/s]
+m2m100_418m_ct2.zip:  50%|█████     | 220M/438M [00:16<00:11, 19.1MiB/s]
+m2m100_418m_ct2.zip:  50%|█████     | 221M/438M [00:16<00:11, 19.1MiB/s]
+m2m100_418m_ct2.zip:  51%|█████     | 222M/438M [00:16<00:14, 15.8MiB/s]
+m2m100_418m_ct2.zip:  51%|█████     | 223M/438M [00:16<00:14, 15.8MiB/s]
+m2m100_418m_ct2.zip:  51%|█████     | 224M/438M [00:16<00:13, 16.7MiB/s]
+m2m100_418m_ct2.zip:  51%|█████▏    | 225M/438M [00:16<00:13, 16.7MiB/s]
+m2m100_418m_ct2.zip:  51%|█████▏    | 226M/438M [00:17<00:11, 19.1MiB/s]
+m2m100_418m_ct2.zip:  52%|█████▏    | 227M/438M [00:17<00:11, 19.1MiB/s]
+m2m100_418m_ct2.zip:  52%|█████▏    | 228M/438M [00:17<00:11, 19.1MiB/s]
+m2m100_418m_ct2.zip:  52%|█████▏    | 229M/438M [00:17<00:10, 20.1MiB/s]
+m2m100_418m_ct2.zip:  52%|█████▏    | 229M/438M [00:17<00:10, 20.1MiB/s]
+m2m100_418m_ct2.zip:  53%|█████▎    | 230M/438M [00:17<00:11, 19.5MiB/s]
+m2m100_418m_ct2.zip:  53%|█████▎    | 231M/438M [00:17<00:11, 19.5MiB/s]
+m2m100_418m_ct2.zip:  53%|█████▎    | 232M/438M [00:17<00:11, 19.5MiB/s]
+m2m100_418m_ct2.zip:  53%|█████▎    | 233M/438M [00:17<00:11, 19.5MiB/s]
+m2m100_418m_ct2.zip:  54%|█████▎    | 234M/438M [00:17<00:10, 21.0MiB/s]
+m2m100_418m_ct2.zip:  54%|█████▎    | 235M/438M [00:17<00:10, 21.0MiB/s]
+m2m100_418m_ct2.zip:  54%|█████▍    | 236M/438M [00:17<00:10, 21.0MiB/s]
+m2m100_418m_ct2.zip:  54%|█████▍    | 237M/438M [00:17<00:09, 22.1MiB/s]
+m2m100_418m_ct2.zip:  54%|█████▍    | 238M/438M [00:17<00:09, 22.1MiB/s]
+m2m100_418m_ct2.zip:  55%|█████▍    | 239M/438M [00:17<00:09, 22.1MiB/s]
+m2m100_418m_ct2.zip:  55%|█████▍    | 240M/438M [00:17<00:08, 23.9MiB/s]
+m2m100_418m_ct2.zip:  55%|█████▌    | 241M/438M [00:17<00:08, 23.9MiB/s]
+m2m100_418m_ct2.zip:  55%|█████▌    | 242M/438M [00:17<00:09, 21.1MiB/s]
+m2m100_418m_ct2.zip:  56%|█████▌    | 243M/438M [00:17<00:09, 21.1MiB/s]
+m2m100_418m_ct2.zip:  56%|█████▌    | 244M/438M [00:17<00:10, 20.2MiB/s]
+m2m100_418m_ct2.zip:  56%|█████▌    | 245M/438M [00:17<00:10, 20.2MiB/s]
+m2m100_418m_ct2.zip:  56%|█████▌    | 246M/438M [00:17<00:09, 20.2MiB/s]
+m2m100_418m_ct2.zip:  56%|█████▋    | 247M/438M [00:18<00:08, 23.0MiB/s]
+m2m100_418m_ct2.zip:  57%|█████▋    | 248M/438M [00:18<00:08, 23.0MiB/s]
+m2m100_418m_ct2.zip:  57%|█████▋    | 249M/438M [00:18<00:08, 23.4MiB/s]
+m2m100_418m_ct2.zip:  57%|█████▋    | 250M/438M [00:18<00:08, 23.4MiB/s]
+m2m100_418m_ct2.zip:  57%|█████▋    | 251M/438M [00:18<00:08, 23.4MiB/s]
+m2m100_418m_ct2.zip:  58%|█████▊    | 252M/438M [00:18<00:10, 19.0MiB/s]
+m2m100_418m_ct2.zip:  58%|█████▊    | 253M/438M [00:18<00:10, 19.0MiB/s]
+m2m100_418m_ct2.zip:  58%|█████▊    | 254M/438M [00:18<00:10, 19.3MiB/s]
+m2m100_418m_ct2.zip:  58%|█████▊    | 255M/438M [00:18<00:09, 19.3MiB/s]
+m2m100_418m_ct2.zip:  58%|█████▊    | 256M/438M [00:18<00:09, 20.5MiB/s]
+m2m100_418m_ct2.zip:  59%|█████▊    | 257M/438M [00:18<00:09, 20.5MiB/s]
+m2m100_418m_ct2.zip:  59%|█████▉    | 258M/438M [00:18<00:09, 20.4MiB/s]
+m2m100_418m_ct2.zip:  59%|█████▉    | 259M/438M [00:18<00:09, 20.4MiB/s]
+m2m100_418m_ct2.zip:  59%|█████▉    | 260M/438M [00:18<00:09, 20.4MiB/s]
+m2m100_418m_ct2.zip:  60%|█████▉    | 261M/438M [00:18<00:09, 20.4MiB/s]
+m2m100_418m_ct2.zip:  60%|█████▉    | 262M/438M [00:18<00:09, 20.4MiB/s]
+m2m100_418m_ct2.zip:  60%|█████▉    | 263M/438M [00:18<00:08, 21.4MiB/s]
+m2m100_418m_ct2.zip:  60%|██████    | 264M/438M [00:18<00:08, 21.4MiB/s]
+m2m100_418m_ct2.zip:  60%|██████    | 265M/438M [00:18<00:08, 22.3MiB/s]
+m2m100_418m_ct2.zip:  61%|██████    | 266M/438M [00:18<00:08, 22.3MiB/s]
+m2m100_418m_ct2.zip:  61%|██████    | 267M/438M [00:19<00:08, 22.3MiB/s]
+m2m100_418m_ct2.zip:  61%|██████    | 268M/438M [00:19<00:08, 22.3MiB/s]
+m2m100_418m_ct2.zip:  61%|██████▏   | 269M/438M [00:19<00:07, 22.3MiB/s]
+m2m100_418m_ct2.zip:  62%|██████▏   | 270M/438M [00:19<00:07, 24.5MiB/s]
+m2m100_418m_ct2.zip:  62%|██████▏   | 271M/438M [00:19<00:07, 24.5MiB/s]
+m2m100_418m_ct2.zip:  62%|██████▏   | 271M/438M [00:19<00:07, 24.5MiB/s]
+m2m100_418m_ct2.zip:  62%|██████▏   | 272M/438M [00:19<00:07, 22.4MiB/s]
+m2m100_418m_ct2.zip:  62%|██████▏   | 273M/438M [00:19<00:07, 22.4MiB/s]
+m2m100_418m_ct2.zip:  63%|██████▎   | 274M/438M [00:19<00:07, 22.1MiB/s]
+m2m100_418m_ct2.zip:  63%|██████▎   | 275M/438M [00:19<00:07, 22.1MiB/s]
+m2m100_418m_ct2.zip:  63%|██████▎   | 276M/438M [00:19<00:08, 21.1MiB/s]
+m2m100_418m_ct2.zip:  63%|██████▎   | 277M/438M [00:19<00:07, 21.1MiB/s]
+m2m100_418m_ct2.zip:  64%|██████▎   | 278M/438M [00:21<00:45, 3.66MiB/s]
+m2m100_418m_ct2.zip:  64%|██████▍   | 279M/438M [00:21<00:45, 3.66MiB/s]
+m2m100_418m_ct2.zip:  64%|██████▍   | 280M/438M [00:21<00:33, 4.88MiB/s]
+m2m100_418m_ct2.zip:  64%|██████▍   | 281M/438M [00:21<00:33, 4.88MiB/s]
+m2m100_418m_ct2.zip:  64%|██████▍   | 282M/438M [00:21<00:33, 4.88MiB/s]
+m2m100_418m_ct2.zip:  65%|██████▍   | 283M/438M [00:21<00:25, 6.26MiB/s]
+m2m100_418m_ct2.zip:  65%|██████▍   | 284M/438M [00:21<00:25, 6.26MiB/s]
+m2m100_418m_ct2.zip:  65%|██████▌   | 285M/438M [00:21<00:19, 8.35MiB/s]
+m2m100_418m_ct2.zip:  65%|██████▌   | 286M/438M [00:21<00:19, 8.35MiB/s]
+m2m100_418m_ct2.zip:  66%|██████▌   | 287M/438M [00:21<00:18, 8.35MiB/s]
+m2m100_418m_ct2.zip:  66%|██████▌   | 288M/438M [00:21<00:14, 11.0MiB/s]
+m2m100_418m_ct2.zip:  66%|██████▌   | 289M/438M [00:21<00:14, 11.0MiB/s]
+m2m100_418m_ct2.zip:  66%|██████▌   | 290M/438M [00:21<00:12, 12.4MiB/s]
+m2m100_418m_ct2.zip:  66%|██████▋   | 291M/438M [00:21<00:12, 12.4MiB/s]
+m2m100_418m_ct2.zip:  67%|██████▋   | 292M/438M [00:21<00:12, 12.4MiB/s]
+m2m100_418m_ct2.zip:  67%|██████▋   | 293M/438M [00:22<00:10, 13.9MiB/s]
+m2m100_418m_ct2.zip:  67%|██████▋   | 294M/438M [00:22<00:10, 13.9MiB/s]
+m2m100_418m_ct2.zip:  67%|██████▋   | 295M/438M [00:22<00:09, 16.0MiB/s]
+m2m100_418m_ct2.zip:  68%|██████▊   | 296M/438M [00:22<00:09, 16.0MiB/s]
+m2m100_418m_ct2.zip:  68%|██████▊   | 297M/438M [00:22<00:08, 18.0MiB/s]
+m2m100_418m_ct2.zip:  68%|██████▊   | 298M/438M [00:22<00:08, 18.0MiB/s]
+m2m100_418m_ct2.zip:  68%|██████▊   | 299M/438M [00:22<00:08, 18.0MiB/s]
+m2m100_418m_ct2.zip:  68%|██████▊   | 300M/438M [00:22<00:07, 18.5MiB/s]
+m2m100_418m_ct2.zip:  69%|██████▊   | 301M/438M [00:22<00:07, 18.5MiB/s]
+m2m100_418m_ct2.zip:  69%|██████▉   | 302M/438M [00:22<00:07, 20.1MiB/s]
+m2m100_418m_ct2.zip:  69%|██████▉   | 303M/438M [00:22<00:07, 20.1MiB/s]
+m2m100_418m_ct2.zip:  69%|██████▉   | 304M/438M [00:22<00:07, 20.1MiB/s]
+m2m100_418m_ct2.zip:  70%|██████▉   | 305M/438M [00:22<00:06, 22.0MiB/s]
+m2m100_418m_ct2.zip:  70%|██████▉   | 306M/438M [00:22<00:06, 22.0MiB/s]
+m2m100_418m_ct2.zip:  70%|██████▉   | 307M/438M [00:22<00:06, 21.6MiB/s]
+m2m100_418m_ct2.zip:  70%|███████   | 308M/438M [00:22<00:06, 21.6MiB/s]
+m2m100_418m_ct2.zip:  70%|███████   | 309M/438M [00:22<00:06, 22.0MiB/s]
+m2m100_418m_ct2.zip:  71%|███████   | 310M/438M [00:22<00:06, 22.0MiB/s]
+m2m100_418m_ct2.zip:  71%|███████   | 311M/438M [00:22<00:06, 22.0MiB/s]
+m2m100_418m_ct2.zip:  71%|███████   | 312M/438M [00:23<00:08, 15.8MiB/s]
+m2m100_418m_ct2.zip:  71%|███████▏  | 312M/438M [00:23<00:08, 15.8MiB/s]
+m2m100_418m_ct2.zip:  72%|███████▏  | 313M/438M [00:23<00:10, 12.9MiB/s]
+m2m100_418m_ct2.zip:  72%|███████▏  | 314M/438M [00:23<00:10, 12.9MiB/s]
+m2m100_418m_ct2.zip:  72%|███████▏  | 315M/438M [00:23<00:08, 14.9MiB/s]
+m2m100_418m_ct2.zip:  72%|███████▏  | 316M/438M [00:23<00:08, 14.9MiB/s]
+m2m100_418m_ct2.zip:  72%|███████▏  | 317M/438M [00:23<00:07, 16.2MiB/s]
+m2m100_418m_ct2.zip:  73%|███████▎  | 318M/438M [00:23<00:07, 16.2MiB/s]
+m2m100_418m_ct2.zip:  73%|███████▎  | 319M/438M [00:23<00:07, 17.4MiB/s]
+m2m100_418m_ct2.zip:  73%|███████▎  | 320M/438M [00:23<00:07, 17.4MiB/s]
+m2m100_418m_ct2.zip:  73%|███████▎  | 321M/438M [00:23<00:08, 14.2MiB/s]
+m2m100_418m_ct2.zip:  74%|███████▎  | 322M/438M [00:23<00:08, 14.2MiB/s]
+m2m100_418m_ct2.zip:  74%|███████▍  | 323M/438M [00:23<00:08, 14.2MiB/s]
+m2m100_418m_ct2.zip:  74%|███████▍  | 324M/438M [00:23<00:06, 17.2MiB/s]
+m2m100_418m_ct2.zip:  74%|███████▍  | 325M/438M [00:23<00:06, 17.2MiB/s]
+m2m100_418m_ct2.zip:  74%|███████▍  | 326M/438M [00:23<00:06, 19.2MiB/s]
+m2m100_418m_ct2.zip:  75%|███████▍  | 327M/438M [00:23<00:06, 19.2MiB/s]
+m2m100_418m_ct2.zip:  75%|███████▍  | 328M/438M [00:23<00:05, 20.5MiB/s]
+m2m100_418m_ct2.zip:  75%|███████▌  | 329M/438M [00:24<00:05, 20.5MiB/s]
+m2m100_418m_ct2.zip:  75%|███████▌  | 330M/438M [00:24<00:05, 20.5MiB/s]
+m2m100_418m_ct2.zip:  76%|███████▌  | 331M/438M [00:24<00:07, 16.0MiB/s]
+m2m100_418m_ct2.zip:  76%|███████▌  | 332M/438M [00:24<00:06, 16.0MiB/s]
+m2m100_418m_ct2.zip:  76%|███████▌  | 333M/438M [00:24<00:06, 17.9MiB/s]
+m2m100_418m_ct2.zip:  76%|███████▌  | 334M/438M [00:24<00:06, 17.9MiB/s]
+m2m100_418m_ct2.zip:  76%|███████▋  | 335M/438M [00:24<00:05, 19.1MiB/s]
+m2m100_418m_ct2.zip:  77%|███████▋  | 336M/438M [00:24<00:05, 19.1MiB/s]
+m2m100_418m_ct2.zip:  77%|███████▋  | 337M/438M [00:24<00:05, 19.1MiB/s]
+m2m100_418m_ct2.zip:  77%|███████▋  | 338M/438M [00:24<00:04, 21.5MiB/s]
+m2m100_418m_ct2.zip:  77%|███████▋  | 339M/438M [00:24<00:04, 21.5MiB/s]
+m2m100_418m_ct2.zip:  78%|███████▊  | 340M/438M [00:24<00:04, 21.5MiB/s]
+m2m100_418m_ct2.zip:  78%|███████▊  | 341M/438M [00:24<00:05, 19.7MiB/s]
+m2m100_418m_ct2.zip:  78%|███████▊  | 342M/438M [00:24<00:05, 19.7MiB/s]
+m2m100_418m_ct2.zip:  78%|███████▊  | 343M/438M [00:24<00:05, 19.5MiB/s]
+m2m100_418m_ct2.zip:  78%|███████▊  | 344M/438M [00:24<00:05, 19.5MiB/s]
+m2m100_418m_ct2.zip:  79%|███████▊  | 345M/438M [00:24<00:05, 19.4MiB/s]
+m2m100_418m_ct2.zip:  79%|███████▉  | 346M/438M [00:24<00:05, 19.4MiB/s]
+m2m100_418m_ct2.zip:  79%|███████▉  | 347M/438M [00:25<00:05, 19.0MiB/s]
+m2m100_418m_ct2.zip:  79%|███████▉  | 348M/438M [00:25<00:04, 19.0MiB/s]
+m2m100_418m_ct2.zip:  80%|███████▉  | 349M/438M [00:26<00:28, 3.24MiB/s]
+m2m100_418m_ct2.zip:  80%|███████▉  | 350M/438M [00:27<00:28, 3.24MiB/s]
+m2m100_418m_ct2.zip:  80%|████████  | 351M/438M [00:27<00:28, 3.24MiB/s]
+m2m100_418m_ct2.zip:  80%|████████  | 352M/438M [00:27<00:18, 4.82MiB/s]
+m2m100_418m_ct2.zip:  80%|████████  | 353M/438M [00:27<00:18, 4.82MiB/s]
+m2m100_418m_ct2.zip:  81%|████████  | 354M/438M [00:27<00:13, 6.38MiB/s]
+m2m100_418m_ct2.zip:  81%|████████  | 354M/438M [00:27<00:13, 6.38MiB/s]
+m2m100_418m_ct2.zip:  81%|████████  | 355M/438M [00:27<00:13, 6.38MiB/s]
+m2m100_418m_ct2.zip:  81%|████████▏ | 356M/438M [00:27<00:09, 8.64MiB/s]
+m2m100_418m_ct2.zip:  82%|████████▏ | 357M/438M [00:27<00:09, 8.64MiB/s]
+m2m100_418m_ct2.zip:  82%|████████▏ | 358M/438M [00:27<00:07, 11.2MiB/s]
+m2m100_418m_ct2.zip:  82%|████████▏ | 359M/438M [00:27<00:07, 11.2MiB/s]
+m2m100_418m_ct2.zip:  82%|████████▏ | 360M/438M [00:27<00:07, 11.2MiB/s]
+m2m100_418m_ct2.zip:  82%|████████▏ | 361M/438M [00:27<00:05, 13.5MiB/s]
+m2m100_418m_ct2.zip:  83%|████████▎ | 362M/438M [00:27<00:05, 13.5MiB/s]
+m2m100_418m_ct2.zip:  83%|████████▎ | 363M/438M [00:27<00:05, 15.1MiB/s]
+m2m100_418m_ct2.zip:  83%|████████▎ | 364M/438M [00:27<00:05, 15.1MiB/s]
+m2m100_418m_ct2.zip:  83%|████████▎ | 365M/438M [00:27<00:05, 15.1MiB/s]
+m2m100_418m_ct2.zip:  84%|████████▎ | 366M/438M [00:27<00:04, 17.0MiB/s]
+m2m100_418m_ct2.zip:  84%|████████▍ | 367M/438M [00:27<00:04, 17.0MiB/s]
+m2m100_418m_ct2.zip:  84%|████████▍ | 368M/438M [00:27<00:04, 17.0MiB/s]
+m2m100_418m_ct2.zip:  84%|████████▍ | 369M/438M [00:27<00:03, 19.6MiB/s]
+m2m100_418m_ct2.zip:  84%|████████▍ | 370M/438M [00:27<00:03, 19.6MiB/s]
+m2m100_418m_ct2.zip:  85%|████████▍ | 371M/438M [00:27<00:03, 20.2MiB/s]
+m2m100_418m_ct2.zip:  85%|████████▍ | 372M/438M [00:27<00:03, 20.2MiB/s]
+m2m100_418m_ct2.zip:  85%|████████▌ | 373M/438M [00:27<00:03, 20.2MiB/s]
+m2m100_418m_ct2.zip:  85%|████████▌ | 374M/438M [00:28<00:03, 21.0MiB/s]
+m2m100_418m_ct2.zip:  86%|████████▌ | 375M/438M [00:28<00:03, 21.0MiB/s]
+m2m100_418m_ct2.zip:  86%|████████▌ | 376M/438M [00:28<00:02, 21.7MiB/s]
+m2m100_418m_ct2.zip:  86%|████████▌ | 377M/438M [00:28<00:02, 21.7MiB/s]
+m2m100_418m_ct2.zip:  86%|████████▋ | 378M/438M [00:28<00:02, 21.9MiB/s]
+m2m100_418m_ct2.zip:  86%|████████▋ | 379M/438M [00:28<00:02, 21.9MiB/s]
+m2m100_418m_ct2.zip:  87%|████████▋ | 380M/438M [00:28<00:02, 21.9MiB/s]
+m2m100_418m_ct2.zip:  87%|████████▋ | 381M/438M [00:28<00:02, 23.2MiB/s]
+m2m100_418m_ct2.zip:  87%|████████▋ | 382M/438M [00:28<00:02, 23.2MiB/s]
+m2m100_418m_ct2.zip:  87%|████████▋ | 383M/438M [00:28<00:02, 24.4MiB/s]
+m2m100_418m_ct2.zip:  88%|████████▊ | 384M/438M [00:28<00:02, 24.4MiB/s]
+m2m100_418m_ct2.zip:  88%|████████▊ | 385M/438M [00:28<00:02, 24.4MiB/s]
+m2m100_418m_ct2.zip:  88%|████████▊ | 386M/438M [00:28<00:02, 24.9MiB/s]
+m2m100_418m_ct2.zip:  88%|████████▊ | 387M/438M [00:28<00:02, 24.9MiB/s]
+m2m100_418m_ct2.zip:  88%|████████▊ | 388M/438M [00:28<00:02, 24.9MiB/s]
+m2m100_418m_ct2.zip:  89%|████████▊ | 389M/438M [00:28<00:02, 24.1MiB/s]
+m2m100_418m_ct2.zip:  89%|████████▉ | 390M/438M [00:28<00:02, 24.1MiB/s]
+m2m100_418m_ct2.zip:  89%|████████▉ | 391M/438M [00:28<00:02, 18.2MiB/s]
+m2m100_418m_ct2.zip:  89%|████████▉ | 392M/438M [00:28<00:02, 18.2MiB/s]
+m2m100_418m_ct2.zip:  90%|████████▉ | 393M/438M [00:28<00:02, 18.5MiB/s]
+m2m100_418m_ct2.zip:  90%|████████▉ | 394M/438M [00:28<00:02, 18.5MiB/s]
+m2m100_418m_ct2.zip:  90%|█████████ | 395M/438M [00:29<00:02, 18.9MiB/s]
+m2m100_418m_ct2.zip:  90%|█████████ | 396M/438M [00:29<00:02, 18.9MiB/s]
+m2m100_418m_ct2.zip:  91%|█████████ | 396M/438M [00:29<00:02, 19.9MiB/s]
+m2m100_418m_ct2.zip:  91%|█████████ | 397M/438M [00:29<00:02, 19.9MiB/s]
+m2m100_418m_ct2.zip:  91%|█████████ | 398M/438M [00:29<00:02, 20.1MiB/s]
+m2m100_418m_ct2.zip:  91%|█████████ | 399M/438M [00:29<00:02, 20.1MiB/s]
+m2m100_418m_ct2.zip:  91%|█████████▏| 400M/438M [00:29<00:02, 14.6MiB/s]
+m2m100_418m_ct2.zip:  92%|█████████▏| 401M/438M [00:29<00:02, 14.6MiB/s]
+m2m100_418m_ct2.zip:  92%|█████████▏| 402M/438M [00:29<00:02, 14.6MiB/s]
+m2m100_418m_ct2.zip:  92%|█████████▏| 403M/438M [00:29<00:02, 16.8MiB/s]
+m2m100_418m_ct2.zip:  92%|█████████▏| 404M/438M [00:29<00:02, 16.8MiB/s]
+m2m100_418m_ct2.zip:  93%|█████████▎| 405M/438M [00:29<00:01, 18.3MiB/s]
+m2m100_418m_ct2.zip:  93%|█████████▎| 406M/438M [00:29<00:01, 18.3MiB/s]
+m2m100_418m_ct2.zip:  93%|█████████▎| 407M/438M [00:29<00:01, 18.3MiB/s]
+m2m100_418m_ct2.zip:  93%|█████████▎| 408M/438M [00:29<00:01, 20.4MiB/s]
+m2m100_418m_ct2.zip:  93%|█████████▎| 409M/438M [00:29<00:01, 20.4MiB/s]
+m2m100_418m_ct2.zip:  94%|█████████▎| 410M/438M [00:29<00:01, 20.9MiB/s]
+m2m100_418m_ct2.zip:  94%|█████████▍| 411M/438M [00:29<00:01, 20.9MiB/s]
+m2m100_418m_ct2.zip:  94%|█████████▍| 412M/438M [00:30<00:01, 20.3MiB/s]
+m2m100_418m_ct2.zip:  94%|█████████▍| 413M/438M [00:30<00:01, 20.3MiB/s]
+m2m100_418m_ct2.zip:  95%|█████████▍| 414M/438M [00:30<00:01, 20.5MiB/s]
+m2m100_418m_ct2.zip:  95%|█████████▍| 415M/438M [00:30<00:01, 20.5MiB/s]
+m2m100_418m_ct2.zip:  95%|█████████▍| 416M/438M [00:30<00:01, 20.7MiB/s]
+m2m100_418m_ct2.zip:  95%|█████████▌| 417M/438M [00:30<00:01, 20.7MiB/s]
+m2m100_418m_ct2.zip:  95%|█████████▌| 418M/438M [00:30<00:00, 21.4MiB/s]
+m2m100_418m_ct2.zip:  96%|█████████▌| 419M/438M [00:30<00:00, 21.4MiB/s]
+m2m100_418m_ct2.zip:  96%|█████████▌| 420M/438M [00:30<00:00, 21.4MiB/s]
+m2m100_418m_ct2.zip:  96%|█████████▌| 421M/438M [00:31<00:01, 13.9MiB/s]
+m2m100_418m_ct2.zip:  96%|█████████▋| 422M/438M [00:31<00:02, 7.11MiB/s]
+m2m100_418m_ct2.zip:  97%|█████████▋| 423M/438M [00:31<00:02, 7.11MiB/s]
+m2m100_418m_ct2.zip:  97%|█████████▋| 424M/438M [00:31<00:01, 7.68MiB/s]
+m2m100_418m_ct2.zip:  97%|█████████▋| 425M/438M [00:31<00:01, 9.26MiB/s]
+m2m100_418m_ct2.zip:  97%|█████████▋| 426M/438M [00:31<00:01, 9.26MiB/s]
+m2m100_418m_ct2.zip:  97%|█████████▋| 427M/438M [00:31<00:01, 9.26MiB/s]
+m2m100_418m_ct2.zip:  98%|█████████▊| 428M/438M [00:31<00:00, 11.7MiB/s]
+m2m100_418m_ct2.zip:  98%|█████████▊| 429M/438M [00:31<00:00, 11.7MiB/s]
+m2m100_418m_ct2.zip:  98%|█████████▊| 430M/438M [00:31<00:00, 13.7MiB/s]
+m2m100_418m_ct2.zip:  98%|█████████▊| 431M/438M [00:31<00:00, 13.7MiB/s]
+m2m100_418m_ct2.zip:  99%|█████████▊| 432M/438M [00:31<00:00, 14.0MiB/s]
+m2m100_418m_ct2.zip:  99%|█████████▉| 433M/438M [00:31<00:00, 13.6MiB/s]
+m2m100_418m_ct2.zip:  99%|█████████▉| 434M/438M [00:31<00:00, 13.6MiB/s]
+m2m100_418m_ct2.zip:  99%|█████████▉| 435M/438M [00:31<00:00, 15.6MiB/s]
+m2m100_418m_ct2.zip:  99%|█████████▉| 436M/438M [00:32<00:00, 15.6MiB/s]
+m2m100_418m_ct2.zip: 100%|█████████▉| 437M/438M [00:32<00:00, 15.6MiB/s]
+m2m100_418m_ct2.zip: 100%|█████████▉| 438M/438M [00:32<00:00, 17.3MiB/s]
+ -- Verifying: "/tmp/manga-image-translator/m2m100translator/models/m2m100_418m_ct2.zip"
+ -- Verifying: OK!
+ -- Extracting files
+[manga-translator.ModelMangaOCR] prob: 0.9999629259109498 第 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 第 => El cuarto
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999642968177797 見た目より fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9988157749176027 素早いじゃん？ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995958209037782 ふうん fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ふうん => Sí, sí
+[manga-translator.M2M100Translator] 1: 見た目より素早いじゃん？ => ¿Es más rápido que el aspecto?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999724626541139 すんごい fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.981384038925171 回復力．．． fg: (4, 3, 3) bg: (4, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9995625019073487 まぢ！？ fg: (6, 7, 5) bg: (6, 7, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9388848543167114 おおッ fg: (7, 8, 4) bg: (7, 8, 4)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: おおッ => ¡Oh oh!
+[manga-translator.M2M100Translator] 1: まぢ！？ => ¿Esto es cierto?!
+[manga-translator.M2M100Translator] 2: すんごい回復力．．． => Una gran recuperación...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9892578125 危ない．．．！ fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9683436751365663 一旦撤退ー！ fg: (1, 2, 2) bg: (1, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9988087415695192 何だ．．．？ fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998807311058046 わかんないけど fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9969462752342225 やばそう！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 何だ．．．？ => ¿Qué es...?
+[manga-translator.M2M100Translator] 1: わかんないけどやばそう！ => No sé, pero lo haré.
+[manga-translator.M2M100Translator] 2: 一旦撤退ー！ => ¡Una vez que se retira!
+[manga-translator.M2M100Translator] 3: 危ない．．．！ => ¡El peligro...!
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9991345405578614 イメージか．． fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999894142150879 ありがと fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9958218932151796 シリカ！ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9994364380836488 あーしが fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7999433875083923 注意を引く！ fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ありがとシリカ！ => ¡Gracias Silica!
+[manga-translator.M2M100Translator] 1: あーしが注意を引く！ => ¡Él atrae la atención!
+[manga-translator.M2M100Translator] 2: イメージか．． => La imagen o...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9997052550315858 私の得意な fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9422963261604309 魔法．．．．．！！ fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.7872804403305054 一つだけある fg: (4, 1, 2) bg: (4, 1, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998221993446351 そうだ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998574256896974 私のイメージ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9969376921653749 しやすい．．． fg: (2, 4, 1) bg: (45, 45, 42)
+[manga-translator.ModelMangaOCR] prob: 0.9387103319168091 魔法．． fg: (10, 12, 10) bg: (230, 227, 223)
+[manga-translator.ModelMangaOCR] prob: 0.9998106956481935 難しいですよ fg: (6, 7, 4) bg: (6, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9470630288124084 剣と魔法の fg: (7, 6, 3) bg: (7, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9985634088516236 融合なんて．．． fg: (6, 6, 4) bg: (6, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9981978535652162 爆発って fg: (12, 11, 8) bg: (12, 11, 8)
+[manga-translator.ModelMangaOCR] prob: 0.9842711687088014 イメージじゃすくてさ fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 爆発って => Es una explosión
+[manga-translator.M2M100Translator] 1: 難しいですよ剣と魔法の融合なんて．．． => Es difícil combinar espada y magia.
+[manga-translator.M2M100Translator] 2: イメージじゃすくてさ => La imagen es fácil.
+[manga-translator.M2M100Translator] 3: 魔法．． => La magia...
+[manga-translator.M2M100Translator] 4: 私のイメージしやすい．．． => Mi imaginación es fácil...
+[manga-translator.M2M100Translator] 5: そうだ => Sí sí.
+[manga-translator.M2M100Translator] 6: 一つだけある => Sólo hay una
+[manga-translator.M2M100Translator] 7: 私の得意な魔法．．．．．！！ => ¡Mi maravilla mágica!!
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.8493358492851257 風になる！ fg: (5, 2, 1) bg: (5, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999930262565614 剣に fg: (4, 1, 1) bg: (4, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9982824325561525 魔力を fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990180730819703 纏わせて．．． fg: (0, 1, 1) bg: (40, 42, 41)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 剣に魔力を纏わせて．．． => Deje a la espada una magia...
+[manga-translator.M2M100Translator] 1: 風になる！ => ¡Será el viento!
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9503377676010132 ユイ．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.600888729095459 やった．．．！ fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: やった．．．！ => ¡Yo lo hice...!
+[manga-translator.M2M100Translator] 1: ユイ．．． => Yue...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.999181091785431 あーしが fg: (3, 6, 1) bg: (3, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999579191207886 相手だ fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999620914459229 ネズム fg: (3, 2, 2) bg: (3, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7198086380958558 〜もうッ fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9888513684272766 バカユイー！ fg: (1, 1, 2) bg: (1, 1, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993900656700135 私は．． fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9605439305305482 魔力使いすぎて：・ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9988446235656739 もう．．．動けない fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9988734722137452 こいつ fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999687671661378 まだ fg: (5, 7, 3) bg: (5, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9980898499488832 動けるのか！ fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 私は．． => Yo soy...
+[manga-translator.M2M100Translator] 1: 魔力使いすぎて：・もう．．．動けない => El mago es demasiado mágico para que... ya no puede moverse.
+[manga-translator.M2M100Translator] 2: 〜もうッバカユイー！ => ¡Ahora es muy bonito!
+[manga-translator.M2M100Translator] 3: こいつまだ動けるのか！ => ¡Esto todavía puede moverse!
+[manga-translator.M2M100Translator] 4: あーしが相手だネズム => Yo soy el oponente, rato.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9978705644607545 しまった．．． fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: しまった．．． => Se ha ido...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999855756759645 こんなモンで fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.998855233192444 熊を倒せるとは fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998047947883607 思えんがのう fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999629855155945 雑でも fg: (7, 5, 3) bg: (7, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999849796295167 こうやって振って fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999931573867798 音が鳴ればいいから fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999094605445863 けんど、 fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999823570251466 とにかく沢山 fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996524453163148 あった方が fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996017813682557 いいんだ fg: (2, 5, 0) bg: (2, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9630104303359986 原作尾野付ねじ、漫画ようめ蔵 fg: (237, 236, 236) bg: (237, 236, 236)
+[manga-translator.ModelMangaOCR] prob: 0.8442060351371765 いや、わざわざいませんでしょうか。 fg: (232, 230, 233) bg: (232, 230, 233)
+[manga-translator.ModelMangaOCR] prob: 0.7639086842536926 今までやってみると思っていたのではないのですが、 fg: (246, 245, 246) bg: (246, 245, 246)
+[manga-translator.ModelMangaOCR] prob: 0.961911976337433 の勇者が fg: (250, 249, 249) bg: (250, 249, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9081956744194031 魅力値、 fg: (248, 245, 244) bg: (248, 245, 244)
+[manga-translator.ModelMangaOCR] prob: 0.9979944825172425 美少女モンスターには fg: (225, 228, 229) bg: (225, 228, 229)
+[manga-translator.ModelMangaOCR] prob: 0.9998788237571717 モテモテだった件 fg: (244, 241, 240) bg: (244, 241, 240)
+[manga-translator.ModelMangaOCR] prob: 0.8026766180992126 Ｃｈａｒｍ fg: (31, 32, 32) bg: (31, 32, 32)
+[manga-translator.ModelMangaOCR] prob: 0.9936171174049379 第１ fg: (211, 216, 216) bg: (211, 216, 216)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 第１ => El 1o
+[manga-translator.M2M100Translator] 1: Ｃｈａｒｍ => Charme Charm
+[manga-translator.M2M100Translator] 2: の勇者が魅力値、美少女モンスターにはモテモテだった件 => El valor de los valientes es el atractivo, y las hermosas niñas monstruosas son cosas que eran modestas.
+[manga-translator.M2M100Translator] 3: 今までやってみると思っていたのではないのですが、いや、わざわざいませんでしょうか。 => No he pensado en intentarlo antes, pero no hay que hacerlo.
+[manga-translator.M2M100Translator] 4: 原作尾野付ねじ、漫画ようめ蔵 => 原作尾野付<unk>、漫画ようめ蔵
+[manga-translator.M2M100Translator] 5: とにかく沢山あった方がいいんだ => En cualquier caso, es mejor que haya mucho.
+[manga-translator.M2M100Translator] 6: けんど、 => Y por lo tanto,
+[manga-translator.M2M100Translator] 7: 雑でもこうやって振って音が鳴ればいいから => Por lo tanto, es así que se mueve y suena el sonido.
+[manga-translator.M2M100Translator] 8: こんなモンで熊を倒せるとは思えんがのう => No creo que pueda derrotar a un oso con este monstruo.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9197729825973511 熊か村に fg: (1, 4, 2) bg: (1, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999401569366455 入ってきたのが fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999593496322633 分かりさえすれば fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997943043708801 なんとか．．． fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992755055427552 オーク達が fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999819993972778 来てくれるまで fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.998769760131836 生き残るのが fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9948101043701173 目的だからな fg: (5, 2, 1) bg: (5, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996912479400636 ケンカ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993144273757936 売ってんのか？ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999605417251587 ゴブリンは fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992471933364869 こういう小細工が fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998579621315004 得意じゃのう fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9861432909965516 おおう fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999605417251587 成る程 fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999953866004944 カラカラ fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999644160270691 鳴った所で fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999890923500061 なんかが fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999685287475587 引っ掛かったが fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9674408435821533 わかんたろ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999867081642151 こうやって fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999322295188904 紐で括って fg: (4, 4, 3) bg: (4, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999510645866395 村を囲うように fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996103644371034 設置しとけば fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: こうやって紐で括って村を囲うように設置しとけば => De esta manera, se debe conectar con un hilo para instalarlo alrededor del pueblo.
+[manga-translator.M2M100Translator] 1: カラカラ鳴った所でなんかが引っ掛かったがわかんたろ => Algo se atrapó en el barranco, pero no lo sabes.
+[manga-translator.M2M100Translator] 2: おおう成る程 => A lo largo de los tiempos se hace
+[manga-translator.M2M100Translator] 3: オーク達が来てくれるまで生き残るのが目的だからな => El objetivo es sobrevivir hasta que vienen los orcos.
+[manga-translator.M2M100Translator] 4: 熊か村に入ってきたのが分かりさえすればなんとか．．． => Si solo sabes que hay un oso o una aldea...
+[manga-translator.M2M100Translator] 5: ゴブリンはこういう小細工が得意じゃのう => Gobrín es capaz de hacer tales pequeños trabajadores.
+[manga-translator.M2M100Translator] 6: ケンカ売ってんのか？ => ¿Vende una disputa?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.574408769607544 ．．． fg: (26, 23, 24) bg: (26, 23, 24)
+[manga-translator.ModelMangaOCR] prob: 0.9567482471466064 あー fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.935389518737793 よし！ fg: (6, 6, 1) bg: (6, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999681115150452 もういっちょ fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992489814758302 行くぞ！ fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9250873327255249 あ．．． fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996349811553956 ボ．．．ボクも fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999933242797853 沢山作ったから fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994636774063111 褒めてよう fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9964277148246766 頑張るであります！ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998471140861512 ご苦労様 fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999971628189087 村の北は fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997665882110597 ほぼ鳴子 fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9987993836402894 設置済みです！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999656081199647 村を囲うには fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.99997615814209 まだまだ fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999146461486818 足りないから fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999917149543762 頑張ってね fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9993626475334169 フトシ殿！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: フトシ殿！ => ¡El Señor Futsal!
+[manga-translator.M2M100Translator] 1: 村の北はほぼ鳴子設置済みです！ => El norte de la aldea está casi instalado!
+[manga-translator.M2M100Translator] 2: ご苦労様 => Muchas gracias Señor.
+[manga-translator.M2M100Translator] 3: 村を囲うにはまだまだ足りないから頑張ってね => No hay suficiente para rodear el pueblo, así que tengan un esfuerzo.
+[manga-translator.M2M100Translator] 4: 頑張るであります！ => ¡Estamos trabajando duro!
+[manga-translator.M2M100Translator] 5: よし！もういっちょ行くぞ！ => ¡Oh, ya vamos un poco!
+[manga-translator.M2M100Translator] 6: ボ．．．ボクも沢山作ったから褒めてよう => Yo también he hecho muchas cosas, así que lo hago.
+[manga-translator.M2M100Translator] 7: あ．．． => Oh... oh
+[manga-translator.M2M100Translator] 8: あー => Ah, oh
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999091029167176 だから、 fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997389912605287 こいつらは．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999923706054689 なんか fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9989225268363954 まずかったか？ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996515512466432 なんじゃ？ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9991673231124879 ん？ fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9721927642822267 え．．．！？ fg: (6, 8, 3) bg: (6, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.8056511878967285 なんですってっ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992459416389466 熊が来たら fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99962055683136 分かるがのぉ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9966970086097718 まぁ、 fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990718960762025 わしら鼻が fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999383687973024 利くから fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9638246297836305 えへへ♥ fg: (6, 8, 6) bg: (6, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9981169104576112 頑張ってるねー fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998311400413514 が、 fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: が、頑張ってるねー => Pero no se esfuerza.
+[manga-translator.M2M100Translator] 1: えへへ♥ => Voy a ir ♥
+[manga-translator.M2M100Translator] 2: まぁ、わしら鼻が利くから => Sí, porque nuestro nariz es bueno.
+[manga-translator.M2M100Translator] 3: 熊が来たら分かるがのぉ => Cuando llegue el oso, lo sabrá.
+[manga-translator.M2M100Translator] 4: え．．．！？ => ¿Y...!?
+[manga-translator.M2M100Translator] 5: なんですってっ => ¿Qué es lo que dice?
+[manga-translator.M2M100Translator] 6: ん？ => ¿Y no?
+[manga-translator.M2M100Translator] 7: だから、こいつらは．．． => Por lo tanto, estos son...
+[manga-translator.M2M100Translator] 8: なんじゃ？ => ¿Y qué?
+[manga-translator.M2M100Translator] 9: なんかまずかったか？ => ¿Había algo mal?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.999993085861206 考える fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994916319847108 どうしたの？ fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992757439613343 なんか fg: (0, 3, 0) bg: (0, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999966025352478 これに fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999537467956543 引っ掛かったら fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999949336051941 ビックリして fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999921917915344 逃げていくと fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996613264083863 いいよね fg: (7, 6, 2) bg: (7, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997946023941041 熊は臆病だって fg: (1, 3, 3) bg: (1, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999845027923584 いうから fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998075962066652 無駄って fg: (3, 4, 3) bg: (3, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999989151954651 わけでも fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999824166297914 ないと思うけど fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999803304672241 無駄に fg: (2, 4, 3) bg: (2, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999924302101135 なっちゃったかな fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 無駄になっちゃったかな => ¿Acaso se ha perdido?
+[manga-translator.M2M100Translator] 1: 無駄ってわけでもないと思うけど => No creo que sea desperdicio, pero
+[manga-translator.M2M100Translator] 2: 熊は臆病だっていうから => El oso es una covardia.
+[manga-translator.M2M100Translator] 3: これに引っ掛かったらビックリして逃げていくといいよね => Si lo haces, te sorprenderás y huirías.
+[manga-translator.M2M100Translator] 4: どうしたの？ => ¿Qué te ha pasado?
+[manga-translator.M2M100Translator] 5: なんか => Algo que
+[manga-translator.M2M100Translator] 6: 考える => Pensar en
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9999914765357971 頼りに fg: (5, 3, 3) bg: (5, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999995768070221 してるから fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993485808372499 は？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995936751365663 わしが？ fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997432231903077 コボルトさん fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999547004699707 ついて行って fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999366998672486 あげて fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990211129188539 危ないわよ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999943971633911 独りじゃ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999864101409912 ちょっと fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.0 あ、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: あ、ちょっと => Oh, un poco
+[manga-translator.M2M100Translator] 1: 独りじゃ危ないわよ => Solo es peligroso.
+[manga-translator.M2M100Translator] 2: コボルトさんついて行ってあげて => El señor Cobalto, sigue a él.
+[manga-translator.M2M100Translator] 3: は？わしが？ => ¿Y a mí?
+[manga-translator.M2M100Translator] 4: 頼りにしてるから => Porque confiamos en ellos.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9991866350173951 いんや、 fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999719262123109 気のせいみたいじゃ fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993485808372499 ん？ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994518160820008 なんかあった？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9978333711624147 うーん．．． fg: (5, 4, 0) bg: (5, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9926922917366029 任された！！ fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 任された！！ => ¡Se ha puesto a cargo!!
+[manga-translator.M2M100Translator] 1: ん？なんかあった？ => ¿Había algo ocurrido?
+[manga-translator.M2M100Translator] 2: うーん．．． => Sí...
+[manga-translator.M2M100Translator] 3: いんや、気のせいみたいじゃ => No, parece que te preocupes.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.999924659729004 勇者のくせに fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999336004257202 ホコラ様もおるし fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992173910140992 大丈夫じゃろ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998221993446351 そんなに fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999287128448486 キリキリせんでも fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9990069866180421 ちぇ．．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999598860740662 ズルいなぁ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996265172958375 ホテプは．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994490742683412 優しいでしょ？ fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: ホテプは．．．優しいでしょ？ => El hotel es... amable, ¿no?
+[manga-translator.M2M100Translator] 1: ちぇ．．．ズルいなぁ => ¡Oh... es una maldición!
+[manga-translator.M2M100Translator] 2: そんなにキリキリせんでも => A pesar de no ser tan gritos
+[manga-translator.M2M100Translator] 3: 勇者のくせに => En el camino de los valientes
+[manga-translator.M2M100Translator] 4: ホコラ様もおるし大丈夫じゃろ => El señor Hocola también está mal y todo va bien.
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9324893951416016 えー．．． fg: (5, 7, 4) bg: (5, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308778 皆を fg: (8, 8, 5) bg: (8, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999282360076905 助けてあげて fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999834895133972 オレの事は fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999739527702333 いいから fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999452233314515 もしなんか fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999977171421051 あったらさ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998988509178163 フトシは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999440312385559 優しいなぁ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999495148658752 ふふふ fg: (4, 6, 5) bg: (4, 6, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999056458473207 こんな風に fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.998287320137024 熊とも話せたら fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999268651008606 いいのになぁ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9742436408996583 はぁ〜あ fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: はぁ〜あ => ¡Oh, oh!
+[manga-translator.M2M100Translator] 1: こんな風に熊とも話せたらいいのになぁ => Me gustaría poder hablar así con un oso.
+[manga-translator.M2M100Translator] 2: ふふふ => Es decir,
+[manga-translator.M2M100Translator] 3: フトシは優しいなぁ => Fossi es amable.
+[manga-translator.M2M100Translator] 4: もしなんかあったらさ => Si algo hubiera ocurrido
+[manga-translator.M2M100Translator] 5: オレの事はいいから => Porque es bueno para mí.
+[manga-translator.M2M100Translator] 6: 皆を助けてあげて => Ayúdanos a todos.
+[manga-translator.M2M100Translator] 7: えー．．． => Sí...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280
+[manga-translator.ModelMangaOCR] prob: 0.9994838237762452 や、やっぱり fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997419714927674 そうかな．．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999750256538392 そんなの fg: (4, 6, 1) bg: (4, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997444152832032 いつまでも fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997562170028688 続かねーって fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999255537986756 けどなぁ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9989590644836427 そんだけだろ？ fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308778 だから fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998284578323365 ホコラ様ってのが fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999421834945679 発してるなんかを fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999768733978273 感じて近づかない fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9988257884979249 熊は fg: (2, 4, 4) bg: (2, 4, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999890923500061 臆病なんだ fg: (3, 5, 3) bg: (3, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9998322725296022 さっきフトシが fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999658465385438 言ったろ fg: (3, 5, 0) bg: (3, 5, 0)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: さっきフトシが言ったろ => Hace poco que lo dijeron los chicos.
+[manga-translator.M2M100Translator] 1: 熊は臆病なんだ => El cabrón es feo.
+[manga-translator.M2M100Translator] 2: だからホコラ様ってのが発してるなんかを感じて近づかない => Por lo tanto, no se acerca a sentir que el señor Hocola está lanzando.
+[manga-translator.M2M100Translator] 3: そんだけだろ？ => Eso es lo único, ¿no?
+[manga-translator.M2M100Translator] 4: けどなぁ => Pero sí.
+[manga-translator.M2M100Translator] 5: そんなのいつまでも続かねーって => Y eso no durará para siempre.
+[manga-translator.M2M100Translator] 6: や、やっぱりそうかな．．． => Y, por supuesto que sí...
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 904x1280

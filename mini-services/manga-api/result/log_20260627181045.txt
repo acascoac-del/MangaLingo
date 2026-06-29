@@ -1,0 +1,241 @@
+[manga-translator.ModelMangaOCR] prob: 0.6810938119888306 家族はまだその手に、 fg: (108, 108, 105) bg: (2, 1, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9940235018730165 ウルア fg: (2, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8804125785827637 塩一本 fg: (0, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9787220954895021 １５話（前編 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999396204948426 原作 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.46463972330093384 漫画 fg: (4, 8, 6) bg: (4, 8, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9997302889823915 家事代行。 fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993928074836732 アルバイトを始めたら fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9741570949554444 学園一の美少女。 fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999307990074159 家族に気に入られ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999799132347108 ちゃいました。 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999651610851288 はいまた fg: (2, 4, 0) bg: (1, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999921917915344 それじゃあ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999895095825196 またね fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9583023190498353 コミックス最新２巻発売申 fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999637603759767 家事代行 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.979385018348694 学園一美少女 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9996929168701173 悪い印象ではない．．． fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997255206108094 と思うけど fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9571294784545898 彼氏ですッ！！ fg: (2, 3, 3) bg: (2, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.994426190853119 東條さんは俺のこと fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997794032096864 どう思ってんだろ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9521549940109253 なんだろうな fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9981588125228883 最高 fg: (1, 2, 2) bg: (1, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996992945671083 もし．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993162155151368 本当に東條さんが fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998908638954164 彼女だったら fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.950917661190033 あああ．．．ああ、ああそこで言えてるじゃないですか fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8835011124610901 だからこそ、そういうことはありませんでしたが、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.24099358916282657 ここであると思っているのですが、こちらの「お客様」みたい」 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998266100883485 これまでの fg: (246, 246, 245) bg: (246, 246, 245)
+[manga-translator.ModelMangaOCR] prob: 0.9992653131484986 あらすじ fg: (247, 246, 247) bg: (247, 246, 247)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 8 líneas en 1 llamada(s), 339 tokens
+[manga-translator.GroqTranslator] 0: これまでのあらすじ => Resumen hasta ahora
+[manga-translator.GroqTranslator] 1: あああ．．．ああ、ああそこで言えてるじゃないですかだからこそ、そういうことはありませんでしたが、ここであると思っているのですが、こちらの「お客様」みたい => Aaaa... ¡Es verdad lo que estás diciendo! Por eso, no había pasado nada hasta ahora, pero aquí parece que sí... como si fuera un "cliente" de acá
+[manga-translator.GroqTranslator] 2: 彼氏ですッ！！ => ¡Es mi novio!!
+[manga-translator.GroqTranslator] 3: もし．．．本当に東條さんが彼女だったら => Si... si en verdad la señorita Tōjō fuera su novia...
+[manga-translator.GroqTranslator] 4: 最高なんだろうな => Sería genial
+[manga-translator.GroqTranslator] 5: 東條さんは俺のこと => ¿Qué habrá pensado la señorita Tōjō de mí?
+[manga-translator.GroqTranslator] 6: どう思ってんだろ => Me pregunto qué habrá pensado de mí...
+[manga-translator.GroqTranslator] 7: 悪い印象ではない．．．と思うけど => No creo que tenga una mala impresión... supongo
+[manga-translator.ModelMangaOCR] prob: 0.9998901486396791 恋人のフリなら fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999598860740662 映画の間は繋ぐ必要 fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994975924491883 ないよな．．．？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998977184295655 東條さんは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9977781772613527 なんであんなことを．．． fg: (3, 0, 0) bg: (3, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997721314430238 離したくない fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996065497398378 から．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9921103715896608 手．．． fg: (0, 7, 1) bg: (0, 7, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993462562561036 ．．．でも fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999991238117218 友達としての fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999393224716188 好意って感じなのかな fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9986067414283754 少し天然なところも fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9573922753334045 あるみたいだし fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 11 líneas en 1 llamada(s), 351 tokens
+[manga-translator.GroqTranslator] 0: それじゃあまたね => ¡Hasta luego!
+[manga-translator.GroqTranslator] 1: コミックス最新２巻発売申 => ¡Estrena del último volumen 2 del cómic!
+[manga-translator.GroqTranslator] 2: はいまた => ¡Hasta luego, de nuevo!
+[manga-translator.GroqTranslator] 3: 家事代行 => Servicio de ayuda doméstica
+[manga-translator.GroqTranslator] 4: 学園一美少女 => La chica más hermosa de la escuela
+[manga-translator.GroqTranslator] 5: 家事代行。アルバイトを始めたら学園一の美少女。家族に気に入られちゃいました。 => Servicio de ayuda doméstica. Cuando empecé a trabajar como empleada temporal, me convertí en la chica más hermosa de la escuela. ¡Y la familia se enamoró de mí!
+[manga-translator.GroqTranslator] 6: 漫画 => Manga
+[manga-translator.GroqTranslator] 7: ウルア塩一本 => Ulua, una historia de amor
+[manga-translator.GroqTranslator] 8: 原作 => Historia original
+[manga-translator.GroqTranslator] 9: １５話前編 => Parte delantera del capítulo 15
+[manga-translator.GroqTranslator] 10: 家族はまだその手に、 => La familia todavía tiene en sus manos...
+[manga-translator.ModelMangaOCR] prob: 0.999731481075287 まさか．．．おさか fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999796152114868 だけど fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.963173270225525 ひょっとして fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983175992965699 俺のこと．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 2 líneas en 1 llamada(s), 146 tokens
+[manga-translator.GroqTranslator] 0: まさか．．．おさかだけどひょっとして => ¿No puede ser... O-saka, pero tal vez...
+[manga-translator.GroqTranslator] 1: 俺のこと．．． => ¿Te refieres a mí...?
+[manga-translator.ModelMangaOCR] prob: 0.7933217287063599 俺の家 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999333620071412 今日 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9587634205818177 Ａ５ランク牛の fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9970820546150209 すき焼き fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9689760208129883 なのです！！ fg: (0, 0, 1) bg: (0, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9968743324279786 夕飯が fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8260964751243591 その１００７東京都千代田区富士見２－１９ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998088479042054 電撃大王編集部まで fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999002814292909 そうそう fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999889731407167 実は伝えたい fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996648430824281 ことがあってよ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997615814208985 の意芽をお寄せください。 fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9989729523658754 それで？ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9458304047584534 どうしたんだ？ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999797940254211 俺から電話がきて fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990882873535157 嬉しいくせに♡ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999967634677887 おいおい fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999595284461975 冷てえな fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9630468487739564 ああ、おちんちんっ、ちゃんとまあ一瞬大丈夫か fg: (250, 248, 246) bg: (243, 240, 238)
+[manga-translator.ModelMangaOCR] prob: 0.9702848792076111 家族に気に入られちゃいました。 fg: (249, 246, 243) bg: (249, 246, 243)
+[manga-translator.ModelMangaOCR] prob: 0.9999849796295167 なんだ友哉か fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 6 líneas en 1 llamada(s), 265 tokens
+[manga-translator.GroqTranslator] 0: 少し天然なところもあるみたいだし => Parece que también tiene un lado un poco ingenuo
+[manga-translator.GroqTranslator] 1: 友達としての好意って感じなのかな => ¿Será que es solo afecto como amiga?
+[manga-translator.GroqTranslator] 2: ．．．でも => ...Pero
+[manga-translator.GroqTranslator] 3: 手．．．離したくないから．．． => mi mano... no puedo soltarla...
+[manga-translator.GroqTranslator] 4: 東條さんはなんであんなことを．．． => ¿Por qué la señorita Tōjō hizo algo así...?
+[manga-translator.GroqTranslator] 5: 恋人のフリなら映画の間は繋ぐ必要ないよな．．．？ => Si solo es fingir ser pareja, ¿no es necesario mantener la apariencia durante la película...?
+[manga-translator.ModelMangaOCR] prob: 0.9065788388252258 あの東儀さんと！？ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999670386314392 デート fg: (2, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997441172599794 したのか？ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9866608381271362 え？ fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9954698085784913 今日は東條さんと fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999897480010986 映画を観に行った fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9970836639404298 おおい！ fg: (0, 1, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983419775962831 ちょっと待てよ！？ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999701499938965 は？ fg: (6, 4, 2) bg: (6, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999772906303406 何かあったのかと fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999793827533722 思っただろ！ fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9854018092155458 てめぇッ！！ fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999539852142334 お前はどうせ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9158530235290527 今日も一日 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9770396947860719 参考書と睨めっこ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996187090873719 してたんだろ？ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993928074836732 まあそう fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999984622001648 僻むなって fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.946126401424408 いや〜お袋が fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999516606330873 デパートの景品で fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9100637435913086 当ててよ〜 fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 11 líneas en 1 llamada(s), 357 tokens
+[manga-translator.GroqTranslator] 0: いや〜お袋がデパートの景品で当ててよ〜 => ¡No manches! Mi madre ganó un premio en el departamento y me lo dio.
+[manga-translator.GroqTranslator] 1: てめぇッ！！ => ¡Tú!
+[manga-translator.GroqTranslator] 2: 何かあったのかと思っただろ！ => ¡Pensé que había pasado algo!
+[manga-translator.GroqTranslator] 3: まあそう僻むなって => Bueno, no te enfades.
+[manga-translator.GroqTranslator] 4: お前はどうせ今日も一日参考書と睨めっこしてたんだろ？ => Tú, como siempre, pasarás el día hojeando libros de texto, ¿verdad?
+[manga-translator.GroqTranslator] 5: 今日は東條さんと映画を観に行った => Hoy fui al cine con el señor Tōjō.
+[manga-translator.GroqTranslator] 6: は？ => ¿Eh?
+[manga-translator.GroqTranslator] 7: おおい！ちょっと待てよ！？ => ¡Espera un momento!
+[manga-translator.GroqTranslator] 8: え？ => ¿Qué pasa?
+[manga-translator.GroqTranslator] 9: デートしたのか？ => ¿Saliste con él?
+[manga-translator.GroqTranslator] 10: あの東儀さんと！？ => ¿Con ese señor Tōjō!?
+[manga-translator.ModelMangaOCR] prob: 0.9971731305122377 いや．．． fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9978964924812318 東條さんから fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999904632568359 だけど fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999850988388062 もったいないって fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9179407358169556 お前な．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999984085559845 その映画は fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995332956314088 ハルから誘ったのか？ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9375789761543274 つーかよ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999958872795105 そんなん fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.958156943321228 もったいないだろ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.99780011177063 お前！ fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9718149304389955 なんでだよ！ fg: (3, 1, 1) bg: (3, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999951124191284 なんで fg: (1, 4, 1) bg: (1, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999505281448364 そうなる fg: (1, 0, 0) bg: (1, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992765188217164 はぁ？ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999659657478333 もちろんその流れで fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.974575698375702 告白したんだろうなっ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 11 líneas en 1 llamada(s), 424 tokens
+[manga-translator.GroqTranslator] 0: なんだ友哉か => ¿Qué pasa, Tomoya?
+[manga-translator.GroqTranslator] 1: おいおい冷てえな => ¡Eh, eh, qué frío!
+[manga-translator.GroqTranslator] 2: 俺から電話がきて嬉しいくせに♡ => ¡Te alegró que te llamara, ¿verdad?♡
+[manga-translator.GroqTranslator] 3: ああ、おちんちんっ、ちゃんとまあ一瞬大丈夫か家族に気に入られちゃいました。 => Ah, c-chan, ¿estás bien? ¿Te gustó a la familia, al menos por un instante?
+[manga-translator.GroqTranslator] 4: それで？どうしたんだ？ => ¿Y entonces? ¿Qué pasó?
+[manga-translator.GroqTranslator] 5: そうそう実は伝えたいことがあってよ．．． => Sí, resulta que tengo algo que decirte...
+[manga-translator.GroqTranslator] 6: の意芽をお寄せください。 => Por favor, envíame...
+[manga-translator.GroqTranslator] 7: 今日 => Hoy
+[manga-translator.GroqTranslator] 8: 俺の家 => Mi casa
+[manga-translator.GroqTranslator] 9: 夕飯がＡ５ランク牛のすき焼きなのです！！ => ¡La cena es un sukiyaki de ternera de rango A5!!
+[manga-translator.GroqTranslator] 10: その１００７東京都千代田区富士見２－１９電撃大王編集部まで => A la dirección: 1007, Chiyoda-ku, Tokio, Fujimi 2-19, Departamento de Edición de Dengeki Daioh
+[manga-translator.ModelMangaOCR] prob: 0.9999861121177674 相手はあの fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997615814208985 学園のアイドル fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999885559082032 だぞ fg: (4, 6, 0) bg: (4, 6, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999826550483704 そんな訳 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999272227287294 ないだろ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999896287918092 好きって fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998235702514648 可能性も fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9984836578369142 あるんじゃね？ fg: (0, 0, 1) bg: (0, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999071955680848 東條さんが fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999939203262329 お前のこと fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999878406524658 それさ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 5 líneas en 1 llamada(s), 201 tokens
+[manga-translator.GroqTranslator] 0: それさ => Eso...
+[manga-translator.GroqTranslator] 1: 東條さんがお前のこと => ¿Tōjō-senpai habla de ti?
+[manga-translator.GroqTranslator] 2: 好きって可能性もあるんじゃね？ => ¿No podría ser que le gustas?
+[manga-translator.GroqTranslator] 3: そんな訳ないだろ => ¡Eso es imposible!
+[manga-translator.GroqTranslator] 4: 相手はあの学園のアイドルだぞ => ¡La otra persona es un ídolo de esa escuela, pues!
+[manga-translator.ModelMangaOCR] prob: 0.9999904632568359 俺のこと好きな fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9978229999542237 わけなんて．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9890332221984863 東條さんが fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998539686203004 ったく．．． fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998603463172914 ぜってぇ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998696446418762 お前には言わねえ fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995267987251283 じゃ！ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999195933341981 また東條さんと fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999597668647766 何か進展があったら fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992442727088929 報告よろ！ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999550580978395 まぁな fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999937415122986 そう言って fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999966561794281 俺に告白させたい fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9968094229698182 だけだろ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999821782112123 映画にまで fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999815821647644 誘われたのに fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8446347117424011 告白しないのは fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9985086917877198 逆に失礼じゃね？ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.960653066635132 だけどもし本当に fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9985026121139527 そうだったら fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983180165290834 そうか？ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 9 líneas en 1 llamada(s), 302 tokens
+[manga-translator.GroqTranslator] 0: もちろんその流れで告白したんだろうなっ => Por supuesto, en ese flujo confesaste, ¿verdad?
+[manga-translator.GroqTranslator] 1: はぁ？ => ¿Eh?
+[manga-translator.GroqTranslator] 2: なんでそうなる => ¿Cómo llegas a esa conclusión?
+[manga-translator.GroqTranslator] 3: なんでだよ！ => ¿Por qué?
+[manga-translator.GroqTranslator] 4: そんなんもったいないだろお前！ => ¡Eres un desperdicio, ¿sabes?!
+[manga-translator.GroqTranslator] 5: もったいないってお前な．．． => Un desperdicio, dices...
+[manga-translator.GroqTranslator] 6: つーかよ => Oye
+[manga-translator.GroqTranslator] 7: その映画はハルから誘ったのか？ => ¿Te invitó Haru a esa película?
+[manga-translator.GroqTranslator] 8: いや．．．東條さんからだけど => No... fue la señorita Tōjō quien me invitó
+[manga-translator.ModelMangaOCR] prob: 0.846476137638092 それ以上はもう一く、シャックアプロバイトが発売された fg: (79, 78, 77) bg: (79, 78, 77)
+[manga-translator.ModelMangaOCR] prob: 0.9998947381973268 なんか今日の夢に fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9365894198417664 東條さん出てきそう．．． fg: (4, 3, 3) bg: (4, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997474551200868 もう、頭から離れない．．． fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7159057259559632 はぁ〜〜〜 fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.GroqTranslator] Translating into Spanish
+[manga-translator.GroqTranslator] Groq batch: 4 líneas en 1 llamada(s), 221 tokens
+[manga-translator.GroqTranslator] 0: はぁ〜〜〜 => ¡Aaaaah...
+[manga-translator.GroqTranslator] 1: なんか今日の夢に東條さん出てきそう．．． => No sé, pero parece que el señor Tōjō salió en mi sueño de hoy...
+[manga-translator.GroqTranslator] 2: もう、頭から離れない．．． => ¡Uf, no puedo sacarlo de mi cabeza...!
+[manga-translator.GroqTranslator] 3: それ以上はもう一く、シャックアプロバイトが発売された => ¡Y justo cuando pensaba que ya había pasado, salió un nuevo Shaka Approbaito!
+[manga-translator.GroqTranslator] Groq batch: 9 líneas en 1 llamada(s), 353 tokens
+[manga-translator.GroqTranslator] 0: そうか？ => ¿Es así?
+[manga-translator.GroqTranslator] 1: だけどもし本当にそうだったら => Pero si realmente fuera así...
+[manga-translator.GroqTranslator] 2: 映画にまで誘われたのに告白しないのは逆に失礼じゃね？ => Me invitaron a una película y no confesarle mis sentimientos es casi una falta de respeto, ¿no?
+[manga-translator.GroqTranslator] 3: そう言って俺に告白させたいだけだろ => Sólo estás diciendo eso para que te confiese, ¿verdad?
+[manga-translator.GroqTranslator] 4: まぁな => Bueno, supongo...
+[manga-translator.GroqTranslator] 5: じゃ！また東條さんと何か進展があったら報告よろ！ => ¡Bueno! Si hay algún avance con la señorita Tōjō, te lo haré saber.
+[manga-translator.GroqTranslator] 6: ぜってぇお前には言わねえ => No te diré nada, ¡de ninguna manera!
+[manga-translator.GroqTranslator] 7: ったく．．． => ¡Maldita sea...!
+[manga-translator.GroqTranslator] 8: 東條さんが俺のこと好きなわけなんて．．． => La señorita Tōjō me gusta... ¡Eso es imposible!

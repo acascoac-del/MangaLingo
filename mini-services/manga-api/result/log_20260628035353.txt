@@ -1,0 +1,637 @@
+[manga-translator.ModelMangaOCR] prob: 0.9922326207160951 漫画：しばかめ fg: (249, 250, 248) bg: (249, 250, 248)
+[manga-translator.ModelMangaOCR] prob: 0.9022852182388306 ［［キャラクター版条：まるまい fg: (244, 243, 242) bg: (244, 243, 242)
+[manga-translator.ModelMangaOCR] prob: 0.8922014832496643 原作：ＩＶＺＯ fg: (243, 240, 237) bg: (243, 240, 237)
+[manga-translator.ModelMangaOCR] prob: 0.9998003244400026 かいこう fg: (230, 229, 227) bg: (230, 229, 227)
+[manga-translator.ModelMangaOCR] prob: 0.8866917490959167 第２０話、逆近 fg: (254, 253, 254) bg: (221, 220, 223)
+[manga-translator.ModelMangaOCR] prob: 0.9997693896293641 ここにいたのか fg: (3, 6, 1) bg: (3, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9984853863716127 少しでも fg: (200, 9, 89) bg: (200, 9, 89)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9088761806488037 ＲＡＲＤＯＴＯＮＥＯＳ fg: (23, 19, 7) bg: (23, 19, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9927167892456056 実家ですが、Ｗｅｂｄｅｄｉｔｉｏｎｔｏｎｇｅを fg: (11, 6, 0) bg: (11, 6, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9902414083480835 Ｗｉｎｄｏｗｓｉｄｉａｔｃｏｎｔｉｃａｔｅに fg: (16, 6, 0) bg: (16, 6, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9505609273910522 そんなことは出てくるのでしょうか。 fg: (14, 7, 0) bg: (14, 7, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9579722881317139 １ fg: (241, 232, 244) bg: (241, 232, 244)
+[manga-translator.ModelMangaOCR] prob: 0.9372233152389526 ち最強へ駆け上がる fg: (245, 238, 238) bg: (245, 238, 238)
+[manga-translator.ModelMangaOCR] prob: 0.9129113554954529 俺だけ見えるステージ fg: (249, 245, 242) bg: (249, 245, 242)
+[manga-translator.ModelMangaOCR] prob: 0.7190110683441163 のして私の fg: (130, 10, 37) bg: (130, 10, 37)
+[manga-translator.ModelMangaOCR] prob: 0.9997891783714296 しばかめ fg: (16, 8, 4) bg: (16, 8, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7612669467926025 原作ＫＡＺＵ fg: (71, 13, 35) bg: (71, 13, 35)
+[manga-translator.ModelMangaOCR] prob: 0.9833848476409913 キャラクター原案、まるのよい fg: (136, 21, 68) bg: (139, 31, 76)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9968510866165162 今：行きます．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992234706878663 わかりました．． fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.989075005054474 姫様がお呼びだ fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9976317286491395 ミラージュさん fg: (0, 3, 0) bg: (0, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999319911003113 ランスロット君 fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ランスロット君 => Lancelot-kun
+[manga-translator.MimoTokenPlanTranslator] 1: 姫様がお呼びだ => La princesa le llama
+[manga-translator.MimoTokenPlanTranslator] 2: ミラージュさん => Mirage-san
+[manga-translator.MimoTokenPlanTranslator] 3: わかりました．． => Entendido...
+[manga-translator.MimoTokenPlanTranslator] 4: 今：行きます．．． => Voy enseguida...
+[manga-translator.ModelMangaOCR] prob: 0.9999818205833435 姫様の隣は fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.997472643852234 俺よりミラージュさんの fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9984448552131654 方が．．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999912977218628 俺のような fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9028844237327576 咎人より fg: (0, 0, 2) bg: (0, 0, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996689558029176 もっと相応しい人は fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9990828037261964 たくさんいる．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998982548713685 姫様の隣にいて fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9991307854652406 いいのかと．． fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999861717224122 俺は fg: (6, 4, 4) bg: (6, 4, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9992926120758058 たまに思うんです．．． fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999160766601564 浮かない顔を fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983559846878053 しているけど．．． fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997966289520265 そんな．．． fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999303162097931 いえ．．． fg: (3, 7, 1) bg: (3, 7, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992152452468873 どうした？ fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 少しでも => Si es solo un poco
+[manga-translator.MimoTokenPlanTranslator] 1: 漫画：しばかめ［［キャラクター版条：まるまい => Manga: Shibakame [Versión de personaje: Marumai]
+[manga-translator.MimoTokenPlanTranslator] 2: 原作：ＩＶＺＯ => Historia original: IVZO
+[manga-translator.MimoTokenPlanTranslator] 3: ここにいたのか => ¿Así que estabas aquí?
+[manga-translator.MimoTokenPlanTranslator] 4: かいこう第２０話、逆近 => Capítulo 20: Aproximación inversa
+[manga-translator.MimoTokenPlanTranslator] 0: しばかめ => Shibakame
+[manga-translator.MimoTokenPlanTranslator] 1: 原作ＫＡＺＵキャラクター原案、まるのよい => Obra original de KAZU, diseño de personaje de Maruno Yoi
+[manga-translator.MimoTokenPlanTranslator] 2: のして私の => Para mí, personalmente
+[manga-translator.MimoTokenPlanTranslator] 3: 俺だけ見えるステージ => Un escenario que solo yo puedo ver
+[manga-translator.MimoTokenPlanTranslator] 4: ち最強へ駆け上がる => Correr hacia lo más fuerte
+[manga-translator.MimoTokenPlanTranslator] 5: そんなことは出てくるのでしょうか。 => ¿Saldrá algo así?
+[manga-translator.MimoTokenPlanTranslator] 6: 実家ですが、ＷｅｂｄｅｄｉｔｉｏｎｔｏｎｇｅをＷｉｎｄｏｗｓｉｄｉａｔｃｏｎｔｉｃａｔｅに => Es la casa familiar, pero la edición web en Windows...
+[manga-translator.MimoTokenPlanTranslator] 7: ＲＡＲＤＯＴＯＮＥＯＳ => RARDOTONEOS
+[manga-translator.ModelMangaOCR] prob: 0.999994456768036 そこに fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999606013298035 出来るか fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999717473983765 出来ないかは fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999873638153076 関係ないよ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999517798423768 だけど期待に fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999693632125856 応えたいなら fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998355507850648 全力で応えろ fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9985684752464296 俺は．．．！ fg: (4, 1, 0) bg: (4, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999641776084901 無理な期待は fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994454979896547 押しつけにしか fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999949038028717 ならないからね fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999856948852539 応えたくない期待なら fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.991403102874756 応えなければいいよ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999600112438202 ちが．．．っ！ fg: (5, 5, 0) bg: (5, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993799924850465 まぁ．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9972987174987794 え．．．？ fg: (1, 7, 2) bg: (1, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9858646988868714 あれだ．．． fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995321035385133 それと君は．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9909922480583192 乙女心というものを fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9961570501327516 学んだほうがいいよ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999552369117737 僕も君に fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998499155044557 期待しているんだから fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999780058860779 頑張って fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8936123847961426 期待に応えたいです．．．！ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9871912002563478 俺．．． fg: (31, 31, 28) bg: (31, 31, 28)
+[manga-translator.ModelMangaOCR] prob: 0.9999886751174927 そうだよ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996521472930909 ミラージュさん．．． fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: どうした？ => ¿Qué pasa?
+[manga-translator.MimoTokenPlanTranslator] 1: 浮かない顔をしているけど．．． => Tienes cara de preocupado...
+[manga-translator.MimoTokenPlanTranslator] 2: いえ．．． => No...
+[manga-translator.MimoTokenPlanTranslator] 3: そんな．．． => No es eso...
+[manga-translator.MimoTokenPlanTranslator] 4: たまに思うんです．．． => A veces pienso...
+[manga-translator.MimoTokenPlanTranslator] 5: 俺は => Si yo...
+[manga-translator.MimoTokenPlanTranslator] 6: 姫様の隣にいていいのかと．． => Merezco estar al lado de la princesa...
+[manga-translator.MimoTokenPlanTranslator] 7: 俺のような咎人よりもっと相応しい人はたくさんいる．． => Hay muchas personas más aptas que un pecador como yo...
+[manga-translator.MimoTokenPlanTranslator] 8: 姫様の隣は俺よりミラージュさんの方が．．． => Al lado de la princesa, Mirage-san sería mejor que yo...
+[manga-translator.ModelMangaOCR] prob: 0.9763216376304628 これより fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998691678047181 騎士の試練 fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998776316642762 クリア fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999684095382692 天地灰 fg: (7, 5, 2) bg: (7, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7760720252990723 まだ誰かの fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.6241583228111267 記憶．．． fg: (74, 71, 69) bg: (182, 182, 172)
+[manga-translator.ModelMangaOCR] prob: 0.9993133544921876 今のは．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: まぁ．．． => Bueno...
+[manga-translator.MimoTokenPlanTranslator] 1: 応えたくない期待なら => Si no quieres cumplir una expectativa
+[manga-translator.MimoTokenPlanTranslator] 2: 応えなければいいよ => no tienes que hacerlo
+[manga-translator.MimoTokenPlanTranslator] 3: 無理な期待は押しつけにしかならないからね => Porque las expectativas forzadas solo acaban siendo una imposición
+[manga-translator.MimoTokenPlanTranslator] 4: ちが．．．っ！ => ¡No es eso...!
+[manga-translator.MimoTokenPlanTranslator] 5: 俺は．．．！ => ¡Yo...!
+[manga-translator.MimoTokenPlanTranslator] 6: だけど期待に応えたいなら全力で応えろ => ¡Pero si quieres cumplirlas, hazlo con todas tus fuerzas!
+[manga-translator.MimoTokenPlanTranslator] 7: そこに出来るか出来ないかは関係ないよ => ¡No importa si puedes o no!
+[manga-translator.MimoTokenPlanTranslator] 0: ミラージュさん．．． => Mirage-san...
+[manga-translator.MimoTokenPlanTranslator] 1: 俺．．． => Yo...
+[manga-translator.MimoTokenPlanTranslator] 2: 頑張って期待に応えたいです．．．！ => ¡Haré lo mejor para cumplir con sus expectativas...!
+[manga-translator.MimoTokenPlanTranslator] 3: そうだよ => Así es.
+[manga-translator.MimoTokenPlanTranslator] 4: 僕も君に期待しているんだから => Yo también espero mucho de ti.
+[manga-translator.MimoTokenPlanTranslator] 5: それと君は．． => Y además, tú...
+[manga-translator.MimoTokenPlanTranslator] 6: あれだ．．． => Sabes...
+[manga-translator.MimoTokenPlanTranslator] 7: 乙女心というものを => Deberías aprender sobre
+[manga-translator.MimoTokenPlanTranslator] 8: 学んだほうがいいよ => el corazón de una doncella.
+[manga-translator.MimoTokenPlanTranslator] 9: え．．．？ => ¿Eh...?
+[manga-translator.ModelMangaOCR] prob: 0.7907424569129944 ！？ fg: (1, 4, 5) bg: (1, 4, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9996805787086488 授与いたします fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997336268424989 騎士の証を fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9942592382431031 あなたは．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: あなたは．．． => Tú eres．．．
+[manga-translator.ModelMangaOCR] prob: 0.999442756175995 俺の名前．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9992566108703614 天地灰様 fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999929070472717 そう呼ばれるのは fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995023012161256 何時ぶりかしら．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999844431877136 こうして fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999794960021974 お話するのは fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999446272850038 初めてですね fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997321963310243 ふふっ．．． fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9955644011497499 姫様．．．？ fg: (4, 6, 3) bg: (4, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997888803482057 ひめさま fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 騎士の証を => La insignia de caballero
+[manga-translator.MimoTokenPlanTranslator] 1: 授与いたします => la otorgo.
+[manga-translator.MimoTokenPlanTranslator] 0: 今のは．．． => Eso fue...
+[manga-translator.MimoTokenPlanTranslator] 1: まだ誰かの記憶．．． => Aún hay recuerdos de alguien...
+[manga-translator.MimoTokenPlanTranslator] 2: 天地灰 => Cielo y Tierra: Cenizas
+[manga-translator.MimoTokenPlanTranslator] 3: 騎士の試練 => Prueba del Caballero
+[manga-translator.MimoTokenPlanTranslator] 4: クリア => Completado
+[manga-translator.MimoTokenPlanTranslator] 5: これより => De ahora en adelante...
+[manga-translator.MimoTokenPlanTranslator] 0: ひめさま姫様．．．？ => Princesa... ¿Princesa?
+[manga-translator.MimoTokenPlanTranslator] 1: ふふっ．．． => Jeje...
+[manga-translator.MimoTokenPlanTranslator] 2: そう呼ばれるのは何時ぶりかしら．． => Hace cuánto tiempo no me llaman así...
+[manga-translator.MimoTokenPlanTranslator] 3: こうしてお話するのは初めてですね => Es la primera vez que hablamos así, ¿verdad?
+[manga-translator.MimoTokenPlanTranslator] 4: 天地灰様 => Tenchi Hai-sama
+[manga-translator.MimoTokenPlanTranslator] 5: 俺の名前．．． => Mi nombre...
+[manga-translator.ModelMangaOCR] prob: 0.4059401750564575 ところが fg: (0, 0, 1) bg: (0, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9280930161476135 漫画／ナベッコ fg: (242, 240, 241) bg: (126, 122, 127)
+[manga-translator.ModelMangaOCR] prob: 0.9997131228446962 コイツの隙を fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9950452446937562 引きずり出しで．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8884674310684204 美味撃力の銀行しかない fg: (249, 242, 241) bg: (249, 242, 241)
+[manga-translator.ModelMangaOCR] prob: 0.9995861649513246 僕自の武器は fg: (255, 253, 252) bg: (255, 253, 252)
+[manga-translator.ModelMangaOCR] prob: 0.9991692900657655 第１６６話 fg: (254, 253, 255) bg: (207, 206, 209)
+[manga-translator.ModelMangaOCR] prob: 0.811508297920227 自傷顛禍 fg: (3, 1, 5) bg: (3, 1, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9996616244316102 完全反射 fg: (15, 13, 12) bg: (15, 13, 12)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9926192164421083 十分に対応できる．．．〃 fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999775290489198 温いな fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999385952949524 来るのが fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996817111968995 わかっていれば fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9531655311584473 スピードのある fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9613510966300965 攻撃だが．． fg: (1, 3, 2) bg: (1, 3, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9994304180145265 下に注意を fg: (2, 6, 2) bg: (96, 96, 91)
+[manga-translator.ModelMangaOCR] prob: 0.9956408739089967 向けてからの fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.534767746925354 上が．．．ッ！！ fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 下に注意を向けてからの上が．．．ッ！！ => ¡¡La parte de arriba después de dirigir la atención hacia abajo...!!
+[manga-translator.ModelMangaOCR] prob: 0.881364107131958 押〰さえた！ fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: スピードのある攻撃だが．． => Velocidad en el ataque, pero...
+[manga-translator.MimoTokenPlanTranslator] 1: 来るのがわかっていれば => Si sabes que viene...
+[manga-translator.MimoTokenPlanTranslator] 2: 十分に対応できる．．．〃 => Puedes reaccionar a tiempo...
+[manga-translator.MimoTokenPlanTranslator] 3: 温いな => Suavecito.
+[manga-translator.ModelMangaOCR] prob: 0.9999917745590211 そのまま fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999669790267944 押さえとけ fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 第１６６話 => Capítulo 166
+[manga-translator.MimoTokenPlanTranslator] 1: 完全反射 => Reflejo Perfecto
+[manga-translator.MimoTokenPlanTranslator] 2: 僕自の武器は美味撃力の銀行しかない => Mi única arma es el banco de poder gourmet
+[manga-translator.MimoTokenPlanTranslator] 3: 自傷顛禍 => Calamidad autoinfligida
+[manga-translator.MimoTokenPlanTranslator] 4: 漫画／ナベッコ => Manga / Nabekko
+[manga-translator.MimoTokenPlanTranslator] 5: ところが => Sin embargo
+[manga-translator.MimoTokenPlanTranslator] 6: コイツの隙を引きずり出しで．．． => Sacar a la luz la debilidad de este tipo...
+[manga-translator.ModelMangaOCR] prob: 0.4700116813182831 後の先の先！！ fg: (20, 2, 1) bg: (20, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8637439608573914 反撃の反射！！ fg: (15, 16, 12) bg: (15, 16, 12)
+[manga-translator.ModelMangaOCR] prob: 0.9987782239913942 アタシが fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9519747495651245 狙うのは fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.851382851600647 来た！！ fg: (9, 7, 4) bg: (9, 7, 4)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 押〰さえた！ => ¡Logré contenerlo!
+[manga-translator.ModelMangaOCR] prob: 0.9999859929084778 見え透いた fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999780058860779 戦略だ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9627727866172792 あえ？ fg: (1, 4, 1) bg: (1, 4, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: そのまま押さえとけ => Sostén así
+[manga-translator.ModelMangaOCR] prob: 0.3752886056900025 ．．． fg: (146, 143, 138) bg: (146, 143, 138)
+[manga-translator.ModelMangaOCR] prob: 0.9984670877456666 ウぷ．．．ッ fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 来た！！ => ¡¡Llegó!!
+[manga-translator.MimoTokenPlanTranslator] 1: アタシが狙うのは => ¡¡Lo que yo persigo es!!
+[manga-translator.MimoTokenPlanTranslator] 2: 後の先の先！！ => ¡¡Es el "primero del después del después"!!
+[manga-translator.MimoTokenPlanTranslator] 3: 反撃の反射！！ => ¡¡Es el reflejo del contraataque!!
+[manga-translator.ModelMangaOCR] prob: 0.9234484434127808 う．．． fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8907148838043213 動けない？ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9991639256477357 正面からじゃ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.5937331318855286 届きもしない．．． fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.995131552219391 一生懸命 fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9781032204627992 考えたのに．．． fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9356681108474731 ぐぇっ！ fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ウぷ．．．ッ => Uf...¡!
+[manga-translator.ModelMangaOCR] prob: 0.9208632707595825 痛いッ！！ fg: (1, 5, 3) bg: (1, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999585747718812 覚悟は fg: (0, 1, 1) bg: (0, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996716380119325 いいか？ fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.39739006757736206 ．．． fg: (131, 130, 132) bg: (131, 130, 132)
+[manga-translator.ModelMangaOCR] prob: 0.8304992318153381 じぃ．．．！！ fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: あえ？ => ¿Eh?
+[manga-translator.MimoTokenPlanTranslator] 1: 見え透いた戦略だ => Esa es una estrategia muy obvia.
+[manga-translator.ModelMangaOCR] prob: 0.9999065995216371 蓄積するほど fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995239377021791 ミョルニル自身の fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9304096698760986 攻撃力は上がる．．．！！ fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998106360435487 雷撃弾を fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999312758445741 生むだけの fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999807476997375 モノではない fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999467968940735 ミョルニルに fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998785853385925 蓄積した fg: (4, 5, 3) bg: (4, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.8683710694313049 〝雷光〟は fg: (4, 2, 2) bg: (4, 2, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ぐぇっ！ => ¡Argh!
+[manga-translator.MimoTokenPlanTranslator] 1: う．．．動けない？ => Uh... ¿No puedo moverme?
+[manga-translator.MimoTokenPlanTranslator] 2: 一生懸命考えたのに．．． => Me lo pensé a fondo y todo...
+[manga-translator.MimoTokenPlanTranslator] 3: 正面からじゃ届きもしない．．． => Directamente no llegaría...
+[manga-translator.ModelMangaOCR] prob: 0.966783106327057 魔族ッ！！ fg: (2, 3, 2) bg: (2, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998539686203004 クソ fg: (0, 4, 2) bg: (0, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999952316284181 リンの痛みを fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.993167817592621 知れッ！ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: じぃ．．．！！ => Ghh...!!
+[manga-translator.MimoTokenPlanTranslator] 1: 覚悟はいいか？ => ¿Estás preparado?
+[manga-translator.MimoTokenPlanTranslator] 2: 痛いッ！！ => ¡¡Duele!!
+[manga-translator.ModelMangaOCR] prob: 0.7546937465667725 次回は、フランドコーヒールに記載され、 fg: (223, 223, 221) bg: (240, 242, 238)
+[manga-translator.ModelMangaOCR] prob: 0.7944296598434448 ０．０９．６００ｍｉｎｄｉｅは fg: (134, 132, 132) bg: (134, 132, 132)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: リンの痛みを知れッ！ => ¡¡Conoce el dolor de Rin!!
+[manga-translator.MimoTokenPlanTranslator] 1: クソ => ¡Mierda!
+[manga-translator.MimoTokenPlanTranslator] 2: 魔族ッ！！ => ¡¡Raza demoníaca!!
+[manga-translator.MimoTokenPlanTranslator] 0: ミョルニルに蓄積した雷光〟は => La "rayo acumulado en Mjolnir"...
+[manga-translator.MimoTokenPlanTranslator] 1: 雷撃弾を生むだけのモノではない => No es solo algo que produce balas de trueno.
+[manga-translator.MimoTokenPlanTranslator] 2: 蓄積するほどミョルニル自身の攻撃力は上がる．．．！！ => Cuanto más se acumula, mayor es el poder de ataque de Mjolnir mismo...!!
+[manga-translator.MimoTokenPlanTranslator] 0: ０．０９．６００ｍｉｎｄｉｅは => Respecto a 0. 09. 600 mindie,
+[manga-translator.MimoTokenPlanTranslator] 1: 次回は、フランドコーヒールに記載され、 => La próxima vez, será registrado en Furando Kōhīr,
+[manga-translator.ModelMangaOCR] prob: 0.9853581190109254 マモの仕返 fg: (23, 10, 2) bg: (23, 10, 2)
+[manga-translator.ModelMangaOCR] prob: 0.6267819404602051 第７１項は fg: (18, 9, 3) bg: (18, 9, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999984860420227 部下に作業をさせておいて fg: (8, 6, 1) bg: (8, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999876379966736 自分は湯浴みとは fg: (9, 5, 2) bg: (9, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999285936355592 良いご身分だな。タマモ fg: (8, 6, 1) bg: (8, 7, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999890327453614 ここを参考に fg: (9, 5, 0) bg: (9, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999796748161317 温浴業を始めるのも fg: (13, 9, 4) bg: (13, 9, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999611973762512 いいかもしれんな fg: (12, 7, 2) bg: (12, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7142376899719239 大好評発売中！ fg: (250, 248, 251) bg: (250, 248, 251)
+[manga-translator.ModelMangaOCR] prob: 0.9950780272483827 おまけ漫画も、 fg: (247, 245, 244) bg: (247, 245, 244)
+[manga-translator.ModelMangaOCR] prob: 0.4420683979988098 どうほんだい fg: (7, 4, 0) bg: (7, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999641776084901 このジェットバス fg: (11, 6, 1) bg: (11, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999765753746034 というのは fg: (16, 10, 4) bg: (16, 10, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7876033782958984 最高じゃの～～ fg: (12, 7, 2) bg: (12, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7308787107467652 ？モはネ fg: (10, 6, 2) bg: (10, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.7978870272636414 泉を満 fg: (13, 11, 6) bg: (13, 11, 6)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9472351670265198 ｃｏｍｌｃａ fg: (247, 245, 246) bg: (247, 245, 246)
+[manga-translator.ModelMangaOCR] prob: 0.998335897922516 ＭＡＧＡＺＩＮＥ fg: (247, 245, 243) bg: (247, 245, 243)
+[manga-translator.ModelMangaOCR] prob: 0.9931169152259828 ＳＨＯＮＥＮ fg: (249, 244, 244) bg: (249, 244, 244)
+[manga-translator.ModelMangaOCR] prob: 0.5870162844657898 ．． fg: (128, 161, 205) bg: (128, 161, 205)
+[manga-translator.ModelMangaOCR] prob: 0.995473623275757 漫画 fg: (58, 45, 36) bg: (58, 45, 36)
+[manga-translator.ModelMangaOCR] prob: 0.9284260869026184 原作 fg: (36, 40, 46) bg: (36, 40, 46)
+[manga-translator.ModelMangaOCR] prob: 0.9073488712310791 キャラクター原案 fg: (33, 39, 37) bg: (33, 39, 37)
+[manga-translator.ModelMangaOCR] prob: 0.9998320341110231 ダイチ fg: (26, 22, 4) bg: (26, 22, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7691321372985841 トクラフト fg: (15, 14, 4) bg: (15, 14, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9435575604438782 動製作してい fg: (249, 244, 158) bg: (249, 244, 158)
+[manga-translator.ModelMangaOCR] prob: 0.9846124053001405 楽々領地開拓 fg: (231, 233, 239) bg: (231, 233, 239)
+[manga-translator.ModelMangaOCR] prob: 0.7558498978614807 暴張 fg: (251, 252, 250) bg: (251, 252, 250)
+[manga-translator.ModelMangaOCR] prob: 0.9497257471084595 最強クラフトスキルで始める、 fg: (213, 220, 232) bg: (213, 220, 232)
+[manga-translator.ModelMangaOCR] prob: 0.8166893124580383 正しいを fg: (249, 245, 248) bg: (249, 245, 248)
+[manga-translator.ModelMangaOCR] prob: 0.5832226872444153 最強の相続です。 fg: (233, 221, 39) bg: (173, 183, 89)
+[manga-translator.ModelMangaOCR] prob: 0.9968520998954774 追了された転生正面 fg: (251, 247, 200) bg: (251, 247, 200)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999802708625795 姉上が fg: (7, 8, 5) bg: (7, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9999936819076539 頑張ったのだ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999892115592958 我には番すら fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9985998868942262 おらん fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999669194221498 あの子たちは fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999875426292419 我の子ではない fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998986124992372 困難の連続で fg: (2, 5, 2) bg: (2, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9986618161201478 あっただろう fg: (4, 4, 0) bg: (4, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999842643737793 まさか新たな神獣が fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999634027481079 生まれているとは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999822974205017 夢にも思わなかったぞ fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999970316886902 獣人を守るために fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999901056289673 独りで商会を立ち上げて fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996036291122438 ここまで大きくした： fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9956352710723878 お主こそ．．． fg: (6, 7, 3) bg: (6, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9977900981903077 ．．．．．． fg: (2, 13, 7) bg: (2, 13, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9999781250953675 大したものだな fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999839663505554 それに商会長という fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999397397041322 立場もあるからな fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999933242797853 わらわが fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999571442604066 非力なことくらい fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9995850920677186 知っておろう？ fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ？モはネ泉を満 => ¿Tamamo llenando el baño?
+[manga-translator.MimoTokenPlanTranslator] 1: どうほんだい => ¿Qué sucede?
+[manga-translator.MimoTokenPlanTranslator] 2: このジェットバスというのは最高じゃの～～ => ¡Este jacuzzi es lo mejor que hay!
+[manga-translator.MimoTokenPlanTranslator] 3: 大好評発売中！おまけ漫画も、 => ¡A la venta con gran éxito! ¡Incluye cómic de regalo!
+[manga-translator.MimoTokenPlanTranslator] 4: ここを参考に温浴業を始めるのもいいかもしれんな => Quizá debería empezar un negocio de baños termales usando esto como referencia
+[manga-translator.MimoTokenPlanTranslator] 5: 部下に作業をさせておいて自分は湯浴みとは良いご身分だな。タマモ => Dejar que tus subordinados hagan el trabajo mientras tú te bañas... vaya vida privilegiada, Tamamo
+[manga-translator.MimoTokenPlanTranslator] 6: マモの仕返 => ¡La venganza de Tamamo!
+[manga-translator.MimoTokenPlanTranslator] 7: 第７１項は => El artículo 71...
+[manga-translator.ModelMangaOCR] prob: 0.9988532066345216 じゃがお主も fg: (1, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995973706245423 頑張ったのだろう？ fg: (1, 1, 0) bg: (1, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998761415481568 お主がおらんかったら fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999972403049469 神獣の子供がこんな過酷な fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999760985374451 環境で生きておられる fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999904036521913 わけがない fg: (5, 6, 1) bg: (5, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9991753101348878 そうか．．． fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999296069145204 今もまだ fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996911883354188 生きておるのか？ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998621344566345 神獣は子を fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.99997478723526 成しにくいのに fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999302029609681 凄いなあやつは fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999981462955475 そうか fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996721148490907 セレネアの．．． fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 最強クラフトスキルで始める、 => Comenzar con la habilidad de creación definitiva,
+[manga-translator.MimoTokenPlanTranslator] 1: 楽々領地開拓 => Desarrollo de territorio sin esfuerzo
+[manga-translator.MimoTokenPlanTranslator] 2: 正しいを => Lo correcto
+[manga-translator.MimoTokenPlanTranslator] 3: 暴張 => Insistir en exceso
+[manga-translator.MimoTokenPlanTranslator] 4: 追了された転生正面 => Transmigrado perseguido (正面 es ambiguo aquí)
+[manga-translator.MimoTokenPlanTranslator] 5: トクラフト => Creación
+[manga-translator.MimoTokenPlanTranslator] 6: 動製作してい => Realizando con movimiento
+[manga-translator.MimoTokenPlanTranslator] 7: 最強の相続です。 => Es la herencia definitiva.
+[manga-translator.MimoTokenPlanTranslator] 8: ダイチ => Daichi
+[manga-translator.MimoTokenPlanTranslator] 9: ．．漫画原作キャラクター原案 => ...Personaje original del manga y diseño original
+[manga-translator.MimoTokenPlanTranslator] 10: ＳＨＯＮＥＮ ＭＡＧＡＺＩＮＥ ｃｏｍｌｃａ => SHOUNEN MANGA comlc (Nombre de publicación corregido)
+[manga-translator.MimoTokenPlanTranslator] 0: わらわが非力なことくらい知っておろう？ => Debes saber que esta humilde servidora es débil...
+[manga-translator.MimoTokenPlanTranslator] 1: それに商会長という立場もあるからな => Además, también ocupo el puesto de líder del gremio.
+[manga-translator.MimoTokenPlanTranslator] 2: ．．．．．．大したものだな => ......Hm, impresionante.
+[manga-translator.MimoTokenPlanTranslator] 3: 獣人を守るために独りで商会を立ち上げてここまで大きくした： => Levanté el gremio sola para proteger a los hombres bestia y lo hice crecer hasta este punto.
+[manga-translator.MimoTokenPlanTranslator] 4: 困難の連続であっただろう => Habrá sido una sucesión de dificultades.
+[manga-translator.MimoTokenPlanTranslator] 5: お主こそ．．． => Y tú...
+[manga-translator.MimoTokenPlanTranslator] 6: まさか新たな神獣が生まれているとは夢にも思わなかったぞ => Jamás en mis sueños habría imaginado que un nuevo bestia divina hubiera nacido.
+[manga-translator.MimoTokenPlanTranslator] 7: あの子たちは我の子ではない => Esos niños no son míos.
+[manga-translator.MimoTokenPlanTranslator] 8: 姉上が => Mi hermana mayor...
+[manga-translator.MimoTokenPlanTranslator] 9: 頑張ったのだ我には番すらおらん => Se esforzó mucho, ya que yo ni siquiera tenía pareja.
+[manga-translator.ModelMangaOCR] prob: 0.9999954700469972 手が勝手に fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9988977313041688 ピクピクして fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9962202310562135 変な形に！？ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9983913302421571 なっ！？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9994583129882814 ルーナ！？ fg: (8, 8, 3) bg: (8, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999942183494569 何じゃ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9873726963996888 この湯舟は！？ fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.999992311000824 そこは fg: (7, 8, 2) bg: (7, 8, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999557137489319 電気風呂だ fg: (6, 5, 3) bg: (6, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997834563255311 今わらわは fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9979209899902345 感電しとるのか！？ fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.2993576228618622 さてわらわは fg: (2, 2, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999711513519288 別の湯船に fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999191761016846 浸かろうかの fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.4669729173183441 まさかお主に fg: (4, 4, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999428987503053 励まされる日が fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998269081115724 来るとはな．．． fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999719262123109 大したものじゃ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999903440475465 それは fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9991782903671266 よかったです！ fg: (5, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998996257781984 新感覚 fg: (7, 8, 5) bg: (7, 8, 5)
+[manga-translator.ModelMangaOCR] prob: 0.9992563724517823 じゃった．．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996665120124818 テオドルフ fg: (3, 4, 0) bg: (3, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999838471412659 よければこの建物の fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999929070472717 設計図を見せて fg: (6, 5, 2) bg: (6, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9980184435844422 もらえんか？ fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.8809416890144348 温まったの〜 fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999722838401794 タマモさん fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9987084269523622 この村自慢のお風呂 fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9995245933532716 どうでしたか？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: そうかセレネアの．．． => Entonces, sobre Selenea...
+[manga-translator.MimoTokenPlanTranslator] 1: 神獣は子を成しにくいのに凄いなあやつは => Es increíble, siendo que a las bestias divinas les cuesta criar, ¿no?
+[manga-translator.MimoTokenPlanTranslator] 2: 今もまだ生きておるのか？ => ¿Vive aún ahora?
+[manga-translator.MimoTokenPlanTranslator] 3: そうか．．． => Ya veo...
+[manga-translator.MimoTokenPlanTranslator] 4: じゃがお主も頑張ったのだろう？ => Pero tú también te esforzaste mucho, ¿verdad?
+[manga-translator.MimoTokenPlanTranslator] 5: お主がおらんかったら神獣の子供がこんな過酷な環境で生きておられるわけがない => Si no hubieras estado tú, los hijos de la bestia divina nunca habrían podido sobrevivir en un entorno tan severo.
+[manga-translator.ModelMangaOCR] prob: 0.999938428401947 はい fg: (6, 5, 0) bg: (6, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9963362812995912 是非！ fg: (6, 8, 3) bg: (6, 8, 3)
+[manga-translator.ModelMangaOCR] prob: 0.993061661720276 おお fg: (5, 7, 4) bg: (5, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.99998939037323 ありがたく fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998981952667237 頂こう fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992768764495851 いいな我も fg: (4, 5, 1) bg: (5, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998953938484193 食べようかの fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999873459339142 それと今レイラが fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999218583106995 焼き菓子を作って fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999890327453614 くれてるんですけど fg: (5, 6, 3) bg: (5, 6, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997799396514894 皆で食べませんか？ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999984860420227 もちろん fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9975529909133912 謝礼は払おう fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999475479125977 色をつけてな fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999816417694093 感謝するぞ fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999614357948304 ありがとう fg: (2, 4, 1) bg: (2, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993878602981568 ございます！ fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9987424015998841 はい！ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998123049736024 もちろん fg: (10, 7, 3) bg: (10, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9996712207794191 いいですよ！ fg: (6, 6, 1) bg: (6, 6, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9983513355255128 ベスティア商会のためなら、 fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999258518218995 いくらでも協力すると fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999873638153076 言いましたから fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9986504912376405 ちょっと待て！ fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999769330024719 そんな簡単に教えて fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9992539286613465 よいのか？ fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 温まったの〜 => ¡Me calenté~
+[manga-translator.MimoTokenPlanTranslator] 1: タマモさんこの村自慢のお風呂どうでしたか？ => Tamamo-san, ¿qué le pareció el baño del que se enorgullece este pueblo?
+[manga-translator.MimoTokenPlanTranslator] 2: 新感覚じゃった．．． => Fue una nueva sensación...
+[manga-translator.MimoTokenPlanTranslator] 3: それはよかったです！ => ¡Me alegro mucho!
+[manga-translator.MimoTokenPlanTranslator] 4: テオドルフよければこの建物の設計図を見せてもらえんか？ => Teodorw, si no es mucha molestia, ¿podría mostrarme los planos de este edificio?
+[manga-translator.ModelMangaOCR] prob: 0.2247713804244995 それでも、 fg: (126, 134, 148) bg: (126, 134, 148)
+[manga-translator.ModelMangaOCR] prob: 0.9933832287788392 それでも、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9988088607788087 いえ．．． fg: (4, 6, 2) bg: (4, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998912215232849 いつもこうやって fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999655485153199 からかってくるん fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999898076057434 ですよ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993653893470765 ははっ fg: (4, 3, 0) bg: (4, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999664425849915 間違えて fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9663718938827515 デオドルフを fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.99990713596344 食ってしまった fg: (6, 5, 1) bg: (6, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999775886535645 ちょっと fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997803568840028 ルーナさん fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994410276412965 何を．．．！？ fg: (6, 6, 2) bg: (6, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998929500579835 ルーナよ fg: (7, 7, 3) bg: (7, 7, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999592304229736 本当にこやつのこと fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999741315841675 好いているようじゃの fg: (4, 3, 1) bg: (4, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 大したものじゃ => No es gran cosa...
+[manga-translator.MimoTokenPlanTranslator] 1: まさかお主に励まされる日が来るとはな．．． => Jamás pensé que llegaría el día en que tú me animarías...
+[manga-translator.MimoTokenPlanTranslator] 2: さてわらわは別の湯船に浸かろうかの => Bueno, yo me sumergiré en otra bañera.
+[manga-translator.MimoTokenPlanTranslator] 3: なっ！？ルーナ！？何じゃこの湯舟は！？ => ¡¿Qué!? ¡¿Luna!? ¡¿Qué es esta bañera!?
+[manga-translator.MimoTokenPlanTranslator] 4: 手が勝手にピクピクして変な形に！？ => ¡¿Mis manos se están moviendo solas y temblando en formas extrañas!?!
+[manga-translator.MimoTokenPlanTranslator] 5: そこは電気風呂だ => Ese es un baño eléctrico.
+[manga-translator.MimoTokenPlanTranslator] 6: 今わらわは感電しとるのか！？ => ¡¿Entonces ahora me estoy electrocutando!?!
+[manga-translator.ModelMangaOCR] prob: 0.9999479651451112 テオドルフには fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999898672103883 その英雄の fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.955422580242157 おもかげ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9997150897979737 面影がある fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999929666519165 そんなに僕に fg: (5, 7, 2) bg: (5, 7, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997552633285524 似てるんですか？ fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9982819557189943 ルーナさー fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998984336853028 ルーナは数千年前 fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999940812587738 ある英雄に懐いておってな fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998521804809571 よく後ろをついて回って fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999918937683105 いたのじゃ fg: (1, 4, 1) bg: (1, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.5299787521362305 へえ～～～ fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999659061431885 英雄ですか fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999861717224122 わらわには fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993452429771424 お見通しじゃぞ fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999504089355469 あやつに対しても fg: (2, 5, 1) bg: (2, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999942183494569 そうじゃったからな fg: (1, 3, 0) bg: (1, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9850335121154786 あやつ．．．？ fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999764561653138 そうやって fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998375177383424 本音を誤魔化して fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996473193168641 おるのだろう？ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998708963394166 いいや fg: (2, 6, 0) bg: (2, 6, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999872446060181 違うな fg: (6, 6, 3) bg: (6, 6, 3)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: はい！もちろんいいですよ！ => ¡Sí! ¡Por supuesto que está bien!
+[manga-translator.MimoTokenPlanTranslator] 1: ちょっと待て！そんな簡単に教えてよいのか？ => ¡Espera un momento! ¿Tan fácilmente podemos dar esa información?
+[manga-translator.MimoTokenPlanTranslator] 2: ベスティア商会のためなら、いくらでも協力すると言いましたから => Dije que cooperaría lo que hiciera falta por la Compañía Bestia.
+[manga-translator.MimoTokenPlanTranslator] 3: 感謝するぞ => Te lo agradezco.
+[manga-translator.MimoTokenPlanTranslator] 4: もちろん謝礼は払おう色をつけてな => Por supuesto, la recompensa será bien remunerada.
+[manga-translator.MimoTokenPlanTranslator] 5: ありがとうございます！ => ¡Muchas gracias!
+[manga-translator.MimoTokenPlanTranslator] 6: それと今レイラが焼き菓子を作ってくれてるんですけど皆で食べませんか？ => Por cierto, Reila está preparando dulces horneados ahora mismo, ¿qué les parece si los comemos todos juntos?
+[manga-translator.MimoTokenPlanTranslator] 7: おおありがたく頂こう => Oh, con mucho gusto aceptaremos.
+[manga-translator.MimoTokenPlanTranslator] 8: いいな我も食べようかの => Qué bien, ¿por qué no comer yo también?
+[manga-translator.MimoTokenPlanTranslator] 9: はい是非！ => ¡Sí, por favor, vengan!
+[manga-translator.MimoTokenPlanTranslator] 0: ちょっとルーナさん何を．．．！？ => ¡¡¡Qué haces, Luna-san...?!!!
+[manga-translator.MimoTokenPlanTranslator] 1: ははっ間違えてデオドルフを食ってしまった => ¡Ja, ja! Me equivoqué y me comí el desodorante.
+[manga-translator.MimoTokenPlanTranslator] 2: ルーナよ本当にこやつのこと好いているようじゃの => Luna, de verdad parece que te gusta este chico.
+[manga-translator.MimoTokenPlanTranslator] 3: いえ．．．いつもこうやってからかってくるんですよ => No... siempre se pone a molestarme así.
+[manga-translator.MimoTokenPlanTranslator] 4: それでも、それでも、 => Aun así, aun así...
+[manga-translator.ModelMangaOCR] prob: 0.9987452030181886 えっ．．．！？ fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: いいや違うな => No, en absoluto
+[manga-translator.MimoTokenPlanTranslator] 1: そうやって本音を誤魔化しておるのだろう？ => ¿Estás ocultando tus verdaderos sentimientos así?
+[manga-translator.MimoTokenPlanTranslator] 2: あやつに対してもそうじゃったからな => Con él también era así, ¿verdad?
+[manga-translator.MimoTokenPlanTranslator] 3: わらわにはお見通しじゃぞ => Yo lo veo todo, ¿sabes?
+[manga-translator.MimoTokenPlanTranslator] 4: あやつ．．．？ => Él...?
+[manga-translator.MimoTokenPlanTranslator] 5: ルーナは数千年前ある英雄に懐いておってなよく後ろをついて回っていたのじゃ => Luna le tenía mucho cariño a un héroe de hace miles de años, solía seguirlo a todas partes
+[manga-translator.MimoTokenPlanTranslator] 6: テオドルフにはその英雄のおもかげ面影がある => En Teodolfo hay una semblanza de ese héroe
+[manga-translator.MimoTokenPlanTranslator] 7: へえ～～～英雄ですか => Vaya～～ un héroe, ¿eh?
+[manga-translator.MimoTokenPlanTranslator] 8: そんなに僕に似てるんですか？ルーナさー => ¿Me parezco tanto a él? Luna-san
+[manga-translator.ModelMangaOCR] prob: 0.46690049767494207 ．．． fg: (8, 11, 6) bg: (8, 11, 6)
+[manga-translator.ModelMangaOCR] prob: 0.995077133178711 それでも、 fg: (0, 0, 0) bg: (0, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9993144273757936 ええいっ！！ fg: (0, 2, 1) bg: (0, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9996772408485414 その．．． fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9646538496017457 えっとー fg: (1, 2, 1) bg: (1, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999974370002747 決して fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999433159828186 お主とあやつを fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999939799308778 重ねて見ていた fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9985184073448182 わけでは．．．！！ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999919354915619 ち：違うんだ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9969201087951661 テオドルフ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.ModelMangaOCR] prob: 0.9999595880508423 ルーナさんの fg: (0, 3, 0) bg: (0, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999251365661621 あんな顔 fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9979610443115235 初めて見た．．． fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998335242271424 ふふっ fg: (7, 10, 7) bg: (7, 10, 7)
+[manga-translator.ModelMangaOCR] prob: 0.9998881220817566 急須の仕返しは fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998800158500672 これくらいに fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999377727508546 しといてやろう fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.8505138754844666 速っ！！ fg: (120, 119, 121) bg: (202, 197, 192)
+[manga-translator.ModelMangaOCR] prob: 0.9977617263793946 ルーナさん！？ fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: えっ．．．！？ => ¡¿Qué...!?
+[manga-translator.ModelMangaOCR] prob: 0.9997559189796449 やれやれ．． fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998403787612916 しょうがない．．． fg: (1, 3, 1) bg: (1, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9993981122970582 ふむ．． fg: (5, 5, 4) bg: (5, 5, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9998052716255189 少しからかい fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994904994964601 過ぎたか．．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999938011169435 今じゃ世界樹の fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999437332153321 一番上から降りてきて fg: (3, 2, 1) bg: (3, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999513626098634 もらえない状態です fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999874830245973 話しかけたら fg: (2, 4, 0) bg: (2, 4, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999797940254211 逃げられて fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9999875426292419 どうして fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999450445175172 僕を避けるん fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9995525479316713 ですかね．．．？ fg: (3, 3, 1) bg: (3, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9987561106681825 あぁ．．． fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9994925856590272 それが．．． fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999163746833801 そうえば fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999842047691346 あれから fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993322491645814 ルーナと fg: (5, 4, 2) bg: (5, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999672293663025 どうじゃっ！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999516606330873 早速温浴業を fg: (3, 3, 3) bg: (3, 3, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9965317845344545 始めてみるとする fg: (1, 2, 2) bg: (1, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997112751007081 数日後 fg: (2, 4, 3) bg: (2, 4, 3)
+[manga-translator.ModelMangaOCR] prob: 0.999994456768036 できたら fg: (4, 5, 0) bg: (4, 5, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998081326484681 ぜひ入らせて fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9893400669097902 ください！ fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999898672103883 そろそろ fg: (5, 3, 0) bg: (5, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999607205390931 発たせてもらおう fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999912977218628 世話になったな fg: (3, 2, 0) bg: (3, 2, 0)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ルーナさん！？ => ¡¡Señorita Luna!?!
+[manga-translator.MimoTokenPlanTranslator] 1: 速っ！！ => ¡¡Qué rápido!!
+[manga-translator.MimoTokenPlanTranslator] 2: ふふっ急須の仕返しはこれくらいにしといてやろう => Jejeje, por la venganza de la tetera, con esto es suficiente.
+[manga-translator.MimoTokenPlanTranslator] 3: ルーナさんのあんな顔初めて見た．．． => Es la primera vez que veo ese tipo de cara en la señorita Luna...
+[manga-translator.ModelMangaOCR] prob: 0.8714388012886047 それにー fg: (3, 3, 0) bg: (3, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996786117553712 価狐の加護を fg: (7, 7, 4) bg: (7, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9173986911773682 くれてやる fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999975323677063 迷惑をかけた fg: (5, 5, 3) bg: (5, 5, 3)
+[manga-translator.ModelMangaOCR] prob: 0.9997723102569581 詫びじゃ fg: (7, 6, 4) bg: (7, 6, 4)
+[manga-translator.ModelMangaOCR] prob: 0.7226674556732179 ．． fg: (6, 9, 6) bg: (6, 9, 6)
+[manga-translator.ModelMangaOCR] prob: 0.9991658926010133 タマモさん！？ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9996591210365297 何を！？ fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.5837986469268799 んっ．．． fg: (149, 152, 146) bg: (149, 152, 146)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: んっ．．． => Mm...
+[manga-translator.MimoTokenPlanTranslator] 1: タマモさん！？何を！？ => ¡¿Tamamo-san?! ¡¿Qué haces?!
+[manga-translator.MimoTokenPlanTranslator] 2: 迷惑をかけた詫びじゃ => Es una disculpa por las molestias causadas
+[manga-translator.MimoTokenPlanTranslator] 3: 価狐の加護をくれてやる => Te concederé la protección de zorro
+[manga-translator.MimoTokenPlanTranslator] 4: それにー => Y además...
+[manga-translator.ModelMangaOCR] prob: 0.9999746084213258 じゃあな fg: (3, 5, 2) bg: (3, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9997610449790956 テオドルフ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9998577237129213 また会う日を fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999528527259827 楽しみにしているぞ fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999943971633911 これを見せれば fg: (4, 5, 1) bg: (4, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.999844789505005 あの岡栄も少しは素直に fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998542070388795 なるじゃろうて fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: 数日後 => Algunos días después
+[manga-translator.MimoTokenPlanTranslator] 1: そろそろ発たせてもらおう世話になったな => Me pondré en camino, gracias por todo
+[manga-translator.MimoTokenPlanTranslator] 2: 早速温浴業を始めてみるとする => Veamos si empezamos con el negocio del baño termal de inmediato
+[manga-translator.MimoTokenPlanTranslator] 3: できたらぜひ入らせてください！ => Si se puede, ¡por favor déjeme entrar!
+[manga-translator.MimoTokenPlanTranslator] 4: そうえばあれからルーナとどうじゃっ！ => Por cierto, ¿qué pasó con Luna después de aquello?
+[manga-translator.MimoTokenPlanTranslator] 5: あぁ．．．それが．．． => Ah... bueno...
+[manga-translator.MimoTokenPlanTranslator] 6: 話しかけたら逃げられて => Cuando intenté hablar con ella, huyó
+[manga-translator.MimoTokenPlanTranslator] 7: 今じゃ世界樹の一番上から降りてきてもらえない状態です => Ahora mismo no quiere bajar de la copa del Árbol Mundial
+[manga-translator.MimoTokenPlanTranslator] 8: どうして僕を避けるんですかね．．．？ => Me pregunto por qué me evita...
+[manga-translator.MimoTokenPlanTranslator] 9: ふむ．．少しからかい過ぎたか．．． => Hmm... Quizás la molesté demasiado...
+[manga-translator.MimoTokenPlanTranslator] 10: やれやれ．．しょうがない．．． => Vaya... Habrá que resignarse...
+[manga-translator.ModelMangaOCR] prob: 0.9991791844367982 ふぅ．．． fg: (3, 4, 2) bg: (3, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.8499704003334045 癒される～～～ fg: (3, 4, 4) bg: (3, 4, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999688267707826 貸し切り fg: (3, 3, 2) bg: (3, 3, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9993983507156373 露天風呂だ！！ fg: (4, 4, 2) bg: (4, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999541640281678 皆が寝静まった頃に fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999950528144836 仕事が終わった fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9155333638191223 僕はー fg: (8, 7, 4) bg: (8, 7, 4)
+[manga-translator.ModelMangaOCR] prob: 0.9999842643737793 タマモさんが fg: (3, 5, 1) bg: (3, 5, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999452233314515 帰った日の深夜 fg: (4, 4, 1) bg: (4, 4, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: ち：違うんだテオドルフ => Chi: ¡No es eso, Teodorff!
+[manga-translator.MimoTokenPlanTranslator] 1: 決してお主とあやつを重ねて見ていたわけでは．．．！！ => ¡¡No es que estuviera comparándote a ti con ese...!!
+[manga-translator.MimoTokenPlanTranslator] 2: その．．．えっとー => Bueno... ehh...
+[manga-translator.MimoTokenPlanTranslator] 3: ええいっ！！ => ¡Ugh!!
+[manga-translator.MimoTokenPlanTranslator] 4: それでも、 => Aun así,
+[manga-translator.ModelMangaOCR] prob: 0.9903550148010254 一ナがテオに本音を伝えて．．． fg: (1, 1, 1) bg: (1, 1, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9986228942871095 ここ男湯．．． fg: (2, 2, 1) bg: (2, 2, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9999865293502809 少し話を fg: (5, 4, 1) bg: (5, 4, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9997565746307374 したい．．． fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9718213677406312 えっ！？ fg: (2, 4, 2) bg: (2, 4, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9992173314094545 ルーナさん！？ fg: (2, 1, 0) bg: (2, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996780753135682 どうしてここに！？ fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9983288049697877 やはりあのまま fg: (4, 5, 2) bg: (4, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999842047691346 逃げていては fg: (5, 6, 2) bg: (5, 6, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999763309955597 よくないと思ってな．． fg: (3, 4, 1) bg: (3, 4, 1)
+[manga-translator.MimoTokenPlanTranslator] Translating into Spanish
+[manga-translator.MimoTokenPlanTranslator] 0: えっ！？ルーナさん！？どうしてここに！？ => ¡¿Eh?! ¡¿Luna-san?! ¡¿Qué haces aquí?!
+[manga-translator.MimoTokenPlanTranslator] 1: ここ男湯．．． => Este es el baño de hombres...
+[manga-translator.MimoTokenPlanTranslator] 2: 一ナがテオに本音を伝えて．．． => Quiero decirle a Teo lo que realmente siento...
+[manga-translator.MimoTokenPlanTranslator] 3: やはりあのまま逃げていてはよくないと思ってな．． => Pensé que no estaría bien seguir huyendo así...
+[manga-translator.MimoTokenPlanTranslator] 4: 少し話をしたい．．． => Quiero hablar un poco...
+[manga-translator.MimoTokenPlanTranslator] 0: これを見せればあの岡栄も少しは素直になるじゃろうて => Si les muestro esto, Okaei se pondrá un poco más honesta, ¿verdad?
+[manga-translator.MimoTokenPlanTranslator] 1: じゃあなテオドルフ => Nos vemos, Teodorufu
+[manga-translator.MimoTokenPlanTranslator] 2: また会う日を楽しみにしているぞ => Espero con ansias el día en que volvamos a encontrarnos
+[manga-translator.MimoTokenPlanTranslator] 0: タマモさんが帰った日の深夜 => La madrugada del día que se fue Tamamo-san
+[manga-translator.MimoTokenPlanTranslator] 1: 皆が寝静まった頃に仕事が終わった僕はー => Cuando todos ya estaban dormidos, yo terminé mi trabajo...
+[manga-translator.MimoTokenPlanTranslator] 2: 貸し切り露天風呂だ！！ => ¡Un baño termal al aire libre solo para mí!!
+[manga-translator.MimoTokenPlanTranslator] 3: ふぅ．．．癒される～～～ => Ahhh... Qué relajante...

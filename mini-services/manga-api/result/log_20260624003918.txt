@@ -1,0 +1,16 @@
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.6908974051475524 １０００ fg: (15, 80, 158) bg: (237, 250, 249)
+[manga-translator.ModelMangaOCR] prob: 0.9981729388237001 それでも、いいでしょうか。 fg: (138, 134, 85) bg: (142, 135, 83)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: １０００それでも、いいでしょうか。 => 1000 ¿Y si no?
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 768x216
+[manga-translator.ComicTextDetector] Adding border
+[manga-translator.ModelMangaOCR] prob: 0.515230119228363 ．．． fg: (93, 50, 17) bg: (93, 50, 17)
+[manga-translator.ModelMangaOCR] prob: 0.3437681794166565 ．．． fg: (101, 42, 56) bg: (101, 42, 56)
+[manga-translator.ModelMangaOCR] prob: 0.9993451237678529 生徒たった fg: (153, 124, 113) bg: (153, 124, 113)
+[manga-translator.ModelMangaOCR] prob: 0.7960004210472106 民物の fg: (88, 68, 52) bg: (88, 68, 52)
+[manga-translator.ModelMangaOCR] prob: 0.791120171546936 牙に fg: (98, 57, 27) bg: (98, 57, 27)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 民物の牙に => En los dientes de la gente
+[manga-translator.M2M100Translator] 1: 生徒たった => Sólo los estudiantes
+[manga-translator.LamaMPEInpainter] Inpainting resolution: 288x400

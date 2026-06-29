@@ -1,0 +1,118 @@
+
+Downloading models into D:\chevi\manga-translator-project\mini-services\manga-api\models\detection
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/comictextdetector.pt"
+ -- Verifying: "D:\chevi\manga-translator-project\mini-services\manga-api\models\detection\.\comictextdetector.pt.part"
+ -- Verifying: OK!
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/comictextdetector.pt.onnx"
+ -- Verifying: "D:\chevi\manga-translator-project\mini-services\manga-api\models\detection\.\comictextdetector.pt.onnx.part"
+ -- Verifying: OK!
+
+Downloading models into D:\chevi\manga-translator-project\mini-services\manga-api\models\ocr
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/ocr_ar_48px.ckpt"
+ -- Verifying: "D:\chevi\manga-translator-project\mini-services\manga-api\models\ocr\.\ocr_ar_48px.ckpt.part"
+ -- Verifying: OK!
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/alphabet-all-v7.txt"
+ -- Verifying: "D:\chevi\manga-translator-project\mini-services\manga-api\models\ocr\.\alphabet-all-v7.txt.part"
+ -- Verifying: OK!
+
+Downloading models into D:\chevi\manga-translator-project\mini-services\manga-api\models\inpainting
+
+ -- Downloading: "https://huggingface.co/dreMaz/AnimeMangaInpainting/resolve/main/lama_large_512px.ckpt"
+ -- Verifying: "D:\chevi\manga-translator-project\mini-services\manga-api\models\inpainting\.\lama_large_512px.ckpt.part"
+ -- Verifying: OK!
+
+Downloading models into D:\chevi\manga-translator-project\mini-services\manga-api\models\translators\m2m_100
+
+ -- Downloading: "https://github.com/zyddnys/manga-image-translator/releases/download/beta-0.3/m2m100_418m_ct2.zip"
+ -- Verifying: "C:\Users\chevi\AppData\Local\Temp\manga-image-translator\m2m100translator\models\m2m100_418m_ct2.zip"
+ -- Verifying: OK!
+ -- Extracting files
+[manga-translator.ModelMangaOCR] prob: 0.9994185566902161 なんだ．．．？ fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9975851774215698 わっ fg: (2, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998463988304138 くすぐったいよ fg: (2, 5, 2) bg: (2, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998800754547119 アレク fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999825358390808 柔らかいのが fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999789595603943 重くて fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999758780002594 あったかくて fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999819397926331 体の上に fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996343851089478 なんか．．． fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994204044342041 ん．．． fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999896287918091 起きてよ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9950768947601318 ねえっ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999769926071167 タンクレット fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9982315301895142 小国の田舎村 fg: (8, 7, 9) bg: (8, 7, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9989166855812073 アレク！ fg: (0, 3, 1) bg: (0, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9986412525177002 ．．．レク fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 小国の田舎村 => Un pueblo rural de un pequeño país
+[manga-translator.M2M100Translator] 1: タンクレット => El tanque
+[manga-translator.M2M100Translator] 2: ．．．レク => ...leque
+[manga-translator.M2M100Translator] 3: アレク！ => ¡Alex!
+[manga-translator.M2M100Translator] 4: 起きてよねえっ => Levántate, sí.
+[manga-translator.M2M100Translator] 5: ん．．． => No...
+[manga-translator.M2M100Translator] 6: なんだ．．．？ => ¿Qué...?
+[manga-translator.M2M100Translator] 7: 体の上になんか．．． => Algo sobre el cuerpo...
+[manga-translator.M2M100Translator] 8: 重くてあったかくて => Lo que era pesado
+[manga-translator.M2M100Translator] 9: わっくすぐったいよアレク => Muy bonito, Alejandro
+[manga-translator.M2M100Translator] 10: 柔らかいのが => Que sea suave.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9994185566902161 なんだ．．．？ fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9975851774215698 わっ fg: (2, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998463988304138 くすぐったいよ fg: (2, 5, 2) bg: (2, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998800754547119 アレク fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999825358390808 柔らかいのが fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999789595603943 重くて fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999758780002594 あったかくて fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999819397926331 体の上に fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996343851089478 なんか．．． fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994204044342041 ん．．． fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999896287918091 起きてよ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9950768947601318 ねえっ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999769926071167 タンクレット fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9982315301895142 小国の田舎村 fg: (8, 7, 9) bg: (8, 7, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9989166855812073 アレク！ fg: (0, 3, 1) bg: (0, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9986412525177002 ．．．レク fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 小国の田舎村 => Un pueblo rural de un pequeño país
+[manga-translator.M2M100Translator] 1: タンクレット => El tanque
+[manga-translator.M2M100Translator] 2: ．．．レク => ...leque
+[manga-translator.M2M100Translator] 3: アレク！ => ¡Alex!
+[manga-translator.M2M100Translator] 4: 起きてよねえっ => Levántate, sí.
+[manga-translator.M2M100Translator] 5: ん．．． => No...
+[manga-translator.M2M100Translator] 6: なんだ．．．？ => ¿Qué...?
+[manga-translator.M2M100Translator] 7: 体の上になんか．．． => Algo sobre el cuerpo...
+[manga-translator.M2M100Translator] 8: 重くてあったかくて => Lo que era pesado
+[manga-translator.M2M100Translator] 9: わっくすぐったいよアレク => Muy bonito, Alejandro
+[manga-translator.M2M100Translator] 10: 柔らかいのが => Que sea suave.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600
+[manga-translator.ModelMangaOCR] prob: 0.9994185566902161 なんだ．．．？ fg: (1, 0, 1) bg: (1, 0, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9975851774215698 わっ fg: (2, 0, 0) bg: (2, 0, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9998463988304138 くすぐったいよ fg: (2, 5, 2) bg: (2, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9998800754547119 アレク fg: (1, 2, 0) bg: (1, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999825358390808 柔らかいのが fg: (0, 2, 0) bg: (0, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999789595603943 重くて fg: (2, 2, 2) bg: (2, 2, 2)
+[manga-translator.ModelMangaOCR] prob: 0.999758780002594 あったかくて fg: (2, 3, 0) bg: (2, 3, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999819397926331 体の上に fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9996343851089478 なんか．．． fg: (2, 2, 0) bg: (2, 2, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9994204044342041 ん．．． fg: (5, 5, 2) bg: (5, 5, 2)
+[manga-translator.ModelMangaOCR] prob: 0.9999896287918091 起きてよ fg: (2, 3, 1) bg: (2, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9950768947601318 ねえっ fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9999769926071167 タンクレット fg: (0, 1, 0) bg: (0, 1, 0)
+[manga-translator.ModelMangaOCR] prob: 0.9982315301895142 小国の田舎村 fg: (8, 7, 9) bg: (8, 7, 9)
+[manga-translator.ModelMangaOCR] prob: 0.9989166855812073 アレク！ fg: (0, 3, 1) bg: (0, 3, 1)
+[manga-translator.ModelMangaOCR] prob: 0.9986412525177002 ．．．レク fg: (3, 6, 2) bg: (3, 6, 2)
+[manga-translator.M2M100Translator] Translating into Spanish
+[manga-translator.M2M100Translator] 0: 小国の田舎村 => Un pueblo rural de un pequeño país
+[manga-translator.M2M100Translator] 1: タンクレット => El tanque
+[manga-translator.M2M100Translator] 2: ．．．レク => ...leque
+[manga-translator.M2M100Translator] 3: アレク！ => ¡Alex!
+[manga-translator.M2M100Translator] 4: 起きてよねえっ => Levántate, sí.
+[manga-translator.M2M100Translator] 5: ん．．． => No...
+[manga-translator.M2M100Translator] 6: なんだ．．．？ => ¿Qué...?
+[manga-translator.M2M100Translator] 7: 体の上になんか．．． => Algo sobre el cuerpo...
+[manga-translator.M2M100Translator] 8: 重くてあったかくて => Lo que era pesado
+[manga-translator.M2M100Translator] 9: わっくすぐったいよアレク => Muy bonito, Alejandro
+[manga-translator.M2M100Translator] 10: 柔らかいのが => Que sea suave.
+[manga-translator.LamaLargeInpainter] Inpainting resolution: 1128x1600

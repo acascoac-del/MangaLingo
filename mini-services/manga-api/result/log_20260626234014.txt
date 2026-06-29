@@ -1,0 +1,4 @@
+[manga-translator.ModelMangaOCR] prob: 0.9999421834945679 学校に行こう fg: (22, 22, 21) bg: (22, 22, 21)
+[manga-translator.ModelMangaOCR] prob: 0.9992157220840455 おはよう！ fg: (19, 19, 20) bg: (19, 19, 20)
+[manga-translator.ModelMangaOCR] prob: 0.9999838471412659 今日はいい天気だね fg: (18, 20, 19) bg: (18, 20, 19)
+[manga-translator.GroqTranslator] Translating into Spanish

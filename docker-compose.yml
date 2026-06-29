@@ -1,0 +1,87 @@
+# MangaLingo — docker-compose completo (backend + frontend)
+#
+# Uso:
+#   cd D:\chevi\manga-translator-project
+#   docker compose up --build
+#
+# Esto levanta:
+#   - Backend Python con GPU en http://localhost:8000
+#   - Frontend Next.js en http://localhost:3000
+#
+# La extensión Chrome apunta a http://localhost:3000/api/translate
+# que hace de proxy al backend.
+
+services:
+  manga-api:
+    build:
+      context: ./mini-services/manga-api
+      dockerfile: Dockerfile
+    container_name: mangalingo-api
+    ports:
+      - "8000:8000"
+    volumes:
+      # Montar código para desarrollo (cambios sin rebuild)
+      - ./mini-services/manga-api:/app
+      # Cache de modelos persistente
+      - model-cache:/app/models
+      - hf-cache:/root/.cache/huggingface
+    environment:
+      - GROQ_API_KEY=gsk_slF...
+      - MIMO_TOKEN_PLAN_API_KEY=tp-xxxxx
+      - PIPELINE_CONCURRENCY=8
+      - MODELS_TTL=600
+      - GROQ_MODEL=llama-3.3-70b-versatile
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+      - PYTHONUNBUFFERED=1
+      - HF_HOME=/app/models/hf-cache
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    networks:
+      - mangalingo-net
+
+  manga-frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    container_name: mangalingo-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      manga-api:
+        condition: service_healthy
+    environment:
+      - NODE_ENV=production
+      - BACKEND_URL=http://manga-api:8000
+      - NEXT_TELEMETRY_DISABLED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - mangalingo-net
+
+volumes:
+  model-cache:
+    driver: local
+  hf-cache:
+    driver: local
+
+networks:
+  mangalingo-net:
+    driver: bridge
