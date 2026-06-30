@@ -3,61 +3,71 @@ import sys
 import traceback
 from huggingface_hub import hf_hub_download
 
+# Render pasará este token de forma automática
 HF_TOKEN = os.getenv("HF_TOKEN", None)
 MODELS_DIR = os.path.join("mini-services", "manga-api", "models")
 
-# Repositorios públicos de la comunidad que contienen estos pesos exactos:
+# Apuntamos DIRECTAMENTE a tu repositorio donde ya subiste todo con 'hf sync'
 models_to_download = [
     {
-        "repo_id": "gndctrl/comic-text-detector",  # Repo público real para comictextdetector
-        "filename": "comictextdetector.pt",
-        "subfolder": "detection"
+        "repo_id": "acsaco/MangaLingo", 
+        "filename": "mini-services/manga-api/models/detection/comictextdetector.pt",
+        "subfolder": "detection",
+        "local_name": "comictextdetector.pt"
     },
     {
-        "repo_id": "gndctrl/comic-text-detector",
-        "filename": "comictextdetector.pt.onnx",
-        "subfolder": "detection"
+        "repo_id": "acsaco/MangaLingo",
+        "filename": "mini-services/manga-api/models/detection/comictextdetector.pt.onnx",
+        "subfolder": "detection",
+        "local_name": "comictextdetector.pt.onnx"
     },
     {
-        "repo_id": "Lykon/LaMa-Inpainting",         # Repo público real para LaMa
-        "filename": "lama_large_512px.ckpt",
-        "subfolder": "inpainting"
+        "repo_id": "acsaco/MangaLingo",
+        "filename": "mini-services/manga-api/models/inpainting/lama_large_512px.ckpt",
+        "subfolder": "inpainting",
+        "local_name": "lama_large_512px.ckpt"
     },
     {
-        "repo_id": "facebook/m2m100_418m",         # Repo oficial de Facebook
-        "filename": "pytorch_model.bin",            # OJO: El archivo oficial se llama pytorch_model.bin, no model.bin
-        "subfolder": "translators/m2m_100/m2m100_418m"
+        "repo_id": "acsaco/MangaLingo",
+        "filename": "mini-services/manga-api/models/inpainting/inpainting_lama_mpe.ckpt",
+        "subfolder": "inpainting",
+        "local_name": "inpainting_lama_mpe.ckpt"
+    },
+    {
+        "repo_id": "acsaco/MangaLingo",
+        "filename": "mini-services/manga-api/models/translators/m2m_100/m2m100_418m/model.bin",
+        "subfolder": "translators/m2m_100/m2m100_418m",
+        "local_name": "model.bin"
     }
 ]
 
-print("Iniciando descarga de modelos desde Hugging Face Hub...", flush=True)
+print("Iniciando descarga de modelos desde tu repositorio de Hugging Face...", flush=True)
 
 for model in models_to_download:
     target_dir = os.path.join(MODELS_DIR, model["subfolder"])
     os.makedirs(target_dir, exist_ok=True)
     
-    # Si en tu código local esperas que se llame 'model.bin', lo renombramos localmente
-    local_filename = "model.bin" if model["filename"] == "pytorch_model.bin" else model["filename"]
-    target_path = os.path.join(target_dir, local_filename)
+    target_path = os.path.join(target_dir, model["local_name"])
     
     if not os.path.exists(target_path):
-        print(f"Descargando {model['filename']} desde {model['repo_id']}...", flush=True)
+        print(f"Descargando {model['local_name']} desde {model['repo_id']}...", flush=True)
         try:
             downloaded_path = hf_hub_download(
                 repo_id=model["repo_id"],
                 filename=model["filename"],
+                repo_type="dataset",  # Los buckets se manejan como datasets en el SDK
                 token=HF_TOKEN
             )
             os.replace(downloaded_path, target_path)
-            print(f"-> {local_filename} guardado con éxito.", flush=True)
+            print(f"-> {model['local_name']} guardado correctamente.", flush=True)
         except Exception as e:
             print("\n" + "="*50, flush=True)
-            print(f"[ERROR CRÍTICO] Falló al descargar: {model['filename']}", flush=True)
-            print(f"Detalle del error: {e}", flush=True)
+            print(f"[ERROR CRÍTICO] Falló la descarga de: {model['local_name']}", flush=True)
+            print(f"Detalle: {e}", flush=True)
             traceback.print_exc()
             print("="*50 + "\n", flush=True)
             sys.exit(1)
     else:
-        print(f"{local_filename} ya existe en el directorio local.", flush=True)
+        print(f"{model['local_name']} ya existe localmente.", flush=True)
 
-print("¡Todos los modelos fueron procesados!", flush=True)
+print("¡Todos los modelos clonados con éxito!", flush=True)
