@@ -57,17 +57,32 @@ RUN pip install deepl openai==1.63.0 groq google-genai || true
 RUN pip install python-dotenv loguru rich psutil packaging colorama
 
 COPY . .
+
+# CAMBIAR EL DIRECTORIO DE TRABAJO A LA CARPETA DE LA API
+# Esto hace que Docker se pare físicamente dentro de manga-api
+WORKDIR /app/mini-services/manga-api
+
+# Ahora sí, ejecutar el parche de imports opcionales en su carpeta nativa
 RUN python3 patch_optional_imports.py
 
-RUN mkdir -p /app/mini-services/manga-api/models /app/fonts
+# Crear estructura de directorios internos para modelos y fuentes
+RUN mkdir -p models /app/fonts
+
+# Configurar variables de entorno para la caché de HuggingFace
 ENV HF_HOME=/app/mini-services/manga-api/models/hf-cache
 ENV TRANSFORMERS_CACHE=/app/mini-services/manga-api/models/hf-cache
 
-# Descarga automática de modelos durante el build
+# VOLVER A LA RAÍZ DE /app PARA EJECUTAR EL SCRIPT DE DESCARGA DE MODELOS
+WORKDIR /app
 RUN python3 download_models.py
 
-# Exponer el puerto por defecto de Render (10000)
+# Exponer el puerto por defecto de Render
 EXPOSE 10000
 
-# Comando por defecto adaptado para escuchar de forma dinámica
+# Health check adaptado al puerto 10000 y a la ruta interna de ejecución
+HEALTHCHECK --interval=30s --timeout=10s --retries=3 \
+    CMD curl -f http://localhost:10000/health || exit 1
+
+# Comando por defecto apuntando correctamente al módulo main.py dentro de su directorio
+WORKDIR /app/mini-services/manga-api
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "10000"]
