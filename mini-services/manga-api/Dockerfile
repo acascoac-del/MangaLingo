@@ -3,7 +3,7 @@
 # Por defecto se compilará con CUDA (para tu PC). 
 # Render sobreescribirá esto a "cpu" automáticamente.
 # ========================================================
-ARG TARGET_ENV=cuda
+ARG TARGET_ENV=cpu
 
 # --------------------------------------------------------
 # CONDICIONAL DE IMAGEN BASE
@@ -50,7 +50,8 @@ RUN pip install manga-ocr
 RUN pip install opencv-python-headless pillow scikit-image scipy shapely pyclipper freetype-py ImageHash
 RUN pip install kornia einops timm open_clip_torch onnxruntime omegaconf
 RUN pip install py3langid==0.2.2 langdetect "langcodes[data]" python-bidi arabic-reshaper regex editdistance pyhyphen
-RUN pip install requests httpx==0.27.2 aiohttp aioshutil aiofiles websockets
+# Capa 7: Idiomas / text utils
+RUN pip install py3langid==0.2.2 langdetect "langcodes[data]" python-bidi arabic-reshaper regex editdistance pyhyphen googletrans==3.1.0a0
 RUN pip install "numpy==1.26.4" pandas networkx
 RUN pip install fastapi uvicorn python-multipart starlette marshmallow
 RUN pip install deepl openai==1.63.0 groq google-genai || true
