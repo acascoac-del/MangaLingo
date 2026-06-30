@@ -1,12 +1,18 @@
 import os
+import sys
 from huggingface_hub import hf_hub_download
+
+# Leer el token de las variables de entorno de Render
+HF_TOKEN = os.getenv("HF_TOKEN", None)
 
 # Definir las rutas donde tu API espera encontrar los modelos
 MODELS_DIR = os.path.join("mini-services", "manga-api", "models")
 
+# NOTA: Asegúrate de que los repo_id y filenames coincidan EXACTAMENTE 
+# con repositorios reales y existentes en el Hugging Face Hub.
 models_to_download = [
     {
-        "repo_id": "mantis-vl/comictextdetector", # Cambiar por el repo real correspondiente
+        "repo_id": "mantis-vl/comictextdetector", 
         "filename": "comictextdetector.pt",
         "subfolder": "detection"
     },
@@ -41,13 +47,21 @@ for model in models_to_download:
     target_path = os.path.join(target_dir, model["filename"])
     
     if not os.path.exists(target_path):
-        print(f"Descargando {model['filename']}...")
-        downloaded_path = hf_hub_download(
-            repo_id=model["repo_id"],
-            filename=model["filename"]
-        )
-        # Mover el archivo descargado a la estructura que espera tu API
-        os.replace(downloaded_path, target_path)
+        print(f"Descargando {model['filename']} desde {model['repo_id']}...")
+        try:
+            # Añadimos el token para evitar errores de restricción (401 / 403)
+            downloaded_path = hf_hub_download(
+                repo_id=model["repo_id"],
+                filename=model["filename"],
+                token=HF_TOKEN
+            )
+            # Mover el archivo descargado a la estructura que espera tu API
+            os.replace(downloaded_path, target_path)
+            print(f"-> {model['filename']} guardado con éxito.")
+        except Exception as e:
+            print(f"\n[ERROR CRÍTICO] Falló la descarga de {model['filename']}: {e}")
+            print("Verifica que el repo_id y el nombre del archivo sean correctos públicos/privados.")
+            sys.exit(1) # Forzar la salida con error para avisar a Docker
     else:
         print(f"{model['filename']} ya existe en el directorio local.")
 
