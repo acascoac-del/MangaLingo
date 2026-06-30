@@ -31,7 +31,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN python3 -m pip install --upgrade pip setuptools wheel
 
 WORKDIR /app
-COPY requirements.txt .
+COPY mini-services/manga-api/requirements.txt .
 
 # --------------------------------------------------------
 # INSTALACIÓN INTELIGENTE DE PYTORCH
