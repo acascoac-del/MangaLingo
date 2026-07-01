@@ -33,7 +33,8 @@
   ],
   "host_permissions": [
     "http://*/*",
-    "https://*/*"
+    "https://*/*",
+    "https://mangalingo.onrender.com/*"
   ],
   "web_accessible_resources": [
     {
